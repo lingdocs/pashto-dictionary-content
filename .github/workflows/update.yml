@@ -1,0 +1,28 @@
+name: check for updated dictionary
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: sergeysova/jq-action@v2
+        id: published-release
+      - uses: actions/checkout@v4
+      - name: commit dictionary content if updated
+        run: |
+          DICTIONARY_INFO_URL="https://storage.googleapis.com/lingdocs/dictionary-info.json"
+          PUBLISHED=`curl $DICTIONARY_INFO_URL | jq .release`
+          IN_REPO=`cat dictionary-info.json | jq .release`
+          if [ $IN_REPO = $PUBLISHED ]; then
+            echo "dictionary is up to date"
+          else
+            echo "will commit new dictionary"
+            curl -L "https://docs.google.com/spreadsheets/d/${{ secrets.GOOGLE_SPREADSHEET_ID }}/export?gid=51288491&format=tsv" > dictionary.tsv
+            curl $DICTIONARY_INFO_URL > dictionary-info.json
+          fi
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: update dictionary content
