@@ -893,7 +893,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823678	کاهل	kaahíl	lazy, sluggish, stagnant	3	adj.																													
 1527822915	کالبر	kaalbár	bearing fruit every other year	4	adj.																													
 1527813486	کامل	kaamíl	absolute, complete, mature	3	adj.																													1
-1527811846	کامیاب	kaamyaab	successful	4	adj.																													
+1527811846	کامیاب	kaamyáab	successful	4	adj.																													
 1527818736	کاني	kaanée	dexterous, deft, skilled, skilful	1	adj.																													
 1527818737	کاني	kaanée	mineral, mining	1	adj.																													
 1527812398	کار آمد	kaar aamad	useful, suitable, necessary	2	adj.																													
@@ -4446,7 +4446,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820715	جارباسنه	jaarbaasúna	vomit, vomiting, puke, puking	4	n. f.																													
 1527818319	جارو	jaaróo	broom	4	n. f.																													1
 1527816570	جاسوسي	jaasoosee	spying, intelligence, espionage	4	n. f.																													
-1527820703	جایزه	jaayizá	award, prize, reward	4	n. f.																													
+1527820703	جایزه	jaayizá	award, prize, reward; assesment, analysis, look-over, survey	4	n. f.																													
+1702843632782	جایزه اخیستل	jaayizá akheestul	to analyse, look over, assess, survey	4	v. dyn. comp. trans.	1527820703																												1
 1527821648	جاذبه	jaazibá	attraction, pulling, gravity, attractiveness, charm	4	n. f.																													
 1527814393	جبیره	jabeera	bandage, splint (Arabic)	3	n. f.																													
 1630938686530	جبهه	jabhá	front (also as in battle/military)	4	n. f.																													
@@ -4545,7 +4546,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816568	کاکۍ	kaakúy	beetle, scarab	2	n. f.																													
 1527814743	کالیزه	kaaléeza	anniversary, birthday; calendar	4	n. f.																													
 1527813363	کامچه	kaamacha	little finger, pinkie	3	n. f.																													
-1527811744	کامره	kaamra	camera	4	n. f.																													
+1527811744	کامره	kaamrá	camera	4	n. f.																													
 1527811855	کامیابي	kaamyaabee	success, acheivement, victory	4	n. f.																													
 1576889461346	کان کېندنه	kaan kenduna	mining	3	n. f.																													
 1527818873	کانه	kaaná	misfortune, tragedy, calamity, trouble	1	n. f.																													
@@ -7789,6 +7790,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586598350124	عیسیٰ	eesaa	Jesus, Isa	4	n. m.																													
 1527817776	ایصال ثواب	eesaal-i-sawaab	doing or passing on good deeds (ثواب) for the dead	3	n. m.																													
 1527819035	عیسویت	eesawiyat	Christianity, Christendom	4	n. m.																													
+1702845385774	عیسوي	eesawée	Christian	4	n. m. anim. unisex / adj.																													
 1594813993142	ایتلاف	eetiláaf	coalition, bloc, alliance (ائتلاف)	4	n. m.	1594814015427																												
 1527814883	فال	faal	fortune telling, divination	4	n. m.																													
 1527813776	فعالیت	faaliyat	activity	4	n. m.																													
@@ -8486,7 +8488,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1585241147122	جادو	jaadoo	magic, spell, witchcraft	4	n. m.																													
 1579313323182	جادوګر	jaadoogar	magician, charmer, sorcerer	4	n. m.																													
 1584888555862	جاګنی	jaagunáy	stag, bull (of certain horned animals); leader of a herd	2	n. m.																													
-1527812701	جاج	jaaj	understanding, thought, survey	4	n. m.																													
+1527812701	جاج	jaaj	understanding, thought, survey, analysis	4	n. m.																													
+1702843708157	جاج اخیستل	jaaj akheestúl	to survey, look over, analyse	4	v. dyn. comp. trans.	1527812701																												1
 1527814503	جاکت	jaakat	jacket	4	n. m.																													
 1527814981	جاکت	jaakat	jacket	4	n. m.																													
 1527817251	جال	jaal	net, screen	4	n. m.																													
@@ -8721,7 +8724,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1578015160090	کمان	kamáan	bow (archery); arch, vault, dome	3	n. m.																													
 1566652848760	کمر	kamár	cliff, cragg; waist	3	n. m.																													
 1527812211	کمربند	kamarband	belt, sash, cummerbund; border or line in a conflict/war	3	n. m.																													
-1527812745	کمبود	kambood	lack, deficiency	3	n. m.																													
+1527812745	کمبود	kambóod	lack, deficiency	3	n. m.																													
 1527821551	کمین	kaméen	ambush	4	n. m.																													
 1527815718	کمیس	kamees	shirt, undershirt, slip, kameez	3	n. m.																													
 1527816880	کمی	kamáy	shortage, lack, deficiency	3	n. m.																													1
@@ -11043,7 +11046,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817015	تحول	tahawwUl	change, evolution, transformation	4	n. m.									تحولات	tahawwulaat																			
 1527811677	تهداب	tahdaab	foundation, basis	4	n. m.																													
 1527819179	تهدید	tahdéed	threat, menace	4	n. m.																													
-1527814761	تحلیل	tahleel	analysis	4	n. m.																													
+1527814761	تحلیل	tahléel	analysis	4	n. m.																													
+1702843752240	تحلیل کول	tahléel kawul	to analyze	4	v. dyn. comp. trans.	1527814761																												1
 1527811653	تحمیل	tahmeel	imposition, burdening, exaction	4	n. m.																													
 1527819754	تحقیق	tahqéeq	research, investigation, examination, inquisition	4	n. m.																													
 1650961564407	تحقیر	tahqéer	humiliation, insult	4	n. m.																													
@@ -11485,6 +11489,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820649	الو	Uloo	kindling wood (dead brush etc.)	2	n. m.																													
 1527816743	امېد	Umed	hope, expectation	4	n. m.																													
 1527815388	امید	Uméed	hope, expectation	4	n. m.																													1
+1702845671426	امید لرل	Uméed larul	to hope	4	v. dyn. comp. trans.	1527815388	hope																											
 1568120871809	امت	Ummát	"ummah" in Islam, religious community, flock or followers of a prophet	4	n. m.																													
 1568120999883	امتي	Ummatee	someone who belongs to a "ummah", a religious community of the flock or followers of a prophet (امت)	4	n. m.																													
 1527820786	عموم	Umóom	entire nation, whole population	3	n. m.																													
@@ -15546,3 +15551,39 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702813012275	حیران کن	hayraan kUn	amazing, startling, shocking		adj.																													1
 1702813095963	آمین	aaméen	amen																															1
 1702813661890	امین	améen	amen																															1
+1702832802491	صحتیاب	sihhatyáab	healthy, recovered		adj.																													
+1702843384162	امریکنی	amreekanáy	American (person)		n. m. anim. unisex																													1
+1702843412631	په منځ کې	pu mandz ke	amidst, among, between		loc. adv.																													1
+1702843460749	په مېنځ کې	pu mendz ke	amidst, among, between		loc. adv.																													
+1702843481310	د ... په منځ کې	du ... pu mandz ke	amidst, among, between		loc. adv.																													
+1702843491410	د ... په مېنځ کې	du ... pu mendz ke	amidst, among, between		loc. adv.																													
+1702843509935	په کې	pu ke	therein, in it		adv.																													1
+1702843822007	بې حکمرانه	be hUkumráana	anarchy, without ruler		adj. / adv.																													1
+1702843935257	حکمران	hUkumráan	ruler, dominant		n. m. anim. unisex / adj.																													
+1702844016499	پلار نیکه	plaar neekú	ancestors, forefathers		n. m. pl.																													1
+1702844048811	ابا و اجداد	abaa-U-ajdáad	ancestors, forefathers		n. m. pl.																													1
+1702844073174	نصب نامه	nasab naamá	ancestry		n. f.																													1
+1702844112255	شجره نصب	shajará nasáb	ancestry		n. f.																													1
+1702844151559	د وینې کمی	du weene kamáy	anemia		n. m.																													1
+1702844195911	د رګ پړسوب	du rag puRsób	aneurysm		n. m.																													
+1702844265236	د وجود د اندامونو مطالعه	du wajóod du andaamoona mUtaaliya	anatomy		n. f.																												TRUE	1
+1702845755824	غضب ناک	ghazab náak	angry, threatening		adj.																													
+1702844389297	غاښ چیچن	ghaax cheechun	angry, threatening		adj.																													
+1702844435141	پړکی	pRúkay, puRkáy	ankle		n. m.																													1
+1702844503927	ګېټی	géTay	ankle		n. m.																													1
+1702844515436	ګیټۍ	geeTúy	ankle		n. f.																													
+1702844546222	پانزیب	paanzáyb	anklet		n. m.																													1
+1702844675862	سنګیلۍ	sangeelúy	anklet		n. f.																													1
+1702844859228	هر شی	har shay	everything																															
+1702844862728	هر څیز	har tseez	everything																															
+1702844985737	کلیات	kuliyáat	anthology		n. m.																													
+1702845438394	سالانه	saalaaná	yearly		adj.																													
+1702845511683	نامعلومه	naama'loomá, naamaalóoma	unknown, anonymous, unidentified		adj.																													
+1702845555303	بې پتې	be páte	anonymous, unknown, unidentified		adj.																													
+1702845593917	ګمنام	gUmnáam	anonymous, unknown, unidentified		adj.																													
+1702846041714	کال په کال	kaal pu kaal	yearly		adv.																													
+1702846059173	هر کال	har kaal	every year, yearly		adv.																													
+1702846091615	بل یو	bul yo	another		adj. doub.																													
+1702846213966	په هر صورت کې	pu har soorát ke	anyhow, regardless, in any case																															
+1702846253434	په هر حال کې	pu har haal ke	anyhow, regardless, in any case																															
+1702846298297	هر څو	har tso	anything																															
