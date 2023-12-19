@@ -1,8 +1,8 @@
 {
 	"title": "LingDocs Pashto Dictionary",
 	"license": "Copyright © 2023 lingdocs.com All Rights Reserved - Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - https://creativecommons.org/licenses/by-nc-sa/4.0/",
-	"url": "https://storage.googleapis.com/lingdocs/dictionary",
-	"infoUrl": "https://storage.googleapis.com/lingdocs/dictionary-info",
-	"release": 1702845770751,
-	"numberOfEntries": 15582
+	"url": "https://storage.lingdocs.com/dictionary/dictionary",
+	"infoUrl": "https://storage.lingdocs.com/dictionary/dictionary-info",
+	"release": 1702928973375,
+	"numberOfEntries": 15627
 }
