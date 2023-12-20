@@ -2630,13 +2630,17 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818003	ضرور	zaróor	obligatory, necessary; definitely, surely	4	adj. / adv.																													
 1527815456	زیات	zyaat	really, lots, tons, maximum, more; much, more, many, excess, most	4	adj. / adv.																													1
 1527814254	بس	bus, bas	enough, adequate, suficcient; enough, sufficient, OK, all right, that’ll do, filler word	4	adj. / interj.								TRUE																					1
-1594909066356	خوا و شا	khwaa-U-shaa	around, in the area	4	adj. / loc. adv.																													1
-1702927284023	خواوشا	khwaa`oo`sháa	around, in the area	4	adj. / loc. adv.																													
+1594909066356	خوا و شا	khwáa-U-shaa	around, in the area	4	adj. / loc. adv.																													1
+1702927284023	خواوشا	khwáa`oo`shaa	around, in the area	4	adj. / loc. adv.																													1
 1527819438	لېرې	lere	far, distant, removed	3	adj. / loc. adv.																													
 1527814605	لرې	lúre	far, distant	4	adj. / loc. adv.																													1
 1527814911	نږدې	naGde	near, close to, almost	4	adj. / loc. adv.																													
 1527814708	نژدې	nijzde, najzde	close, near, soon, almost	4	adj. / loc. adv.																													
+1702972031957	نژدې کېدل	nijzde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1527814708	approach																											
 1527821253	نزدې	nizdé, nazdé	near, close (نژدې)	4	adj. / loc. adv.																													1
+1702972090132	نزدې کېدل	nizde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1527821253	approach																											1
+1702971971790	نېزدې	nezdé	near, close (نژدې)	4	adj. / loc. adv.																													1
+1702972103118	نېزدې کېدل	nezde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1702971971790	approach																											1
 1527812375	واپس	waapus	back (as in return)	4	loc. adv.																													
 1579824262965	یو ځای	yo dzaay	together, in one place; at the same time	4	adj. / loc. adv.								TRUE																					1
 1527817302	یوځای	yodzaay	together, in one place	4	adj. / loc. adv.																													
@@ -3054,7 +3058,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820198	مطلقاً	mUtlaqán	completely, totally, absolutely	3	adv.																													
 1527822241	ناببره	naabUbúra	sudden, suddenly, unexpected, unexpectedly, unforeseen (ناڅاپه)	2	adv.																													
 1527823589	ناداره	naadaará	poorly, miserably, thinly, sparsely	3	adv.																													
-1584549648579	ناګهانه	naagahaana	suddenly, at once, all of a sudden	3	adv.																													
+1584549648579	ناګهانه	naagaháana	suddenly, at once, all of a sudden	3	adv.																													
 1584689085630	نامستقیماً	naamUstaqeeman	indirectly	3	adv.																													
 1527813711	ناڅاپه	naatsáapa	sudden, suddenly, unexpected, unexpectedly, unforeseen	4	adv.																													1
 1527814710	نژدې پر نژدې	najzde par najzde	soon, very soon, shortly	3	adv.																													
@@ -5024,8 +5028,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822423	معموري	ma'moorée	prosperity, well-being, fullness	4	n. f.																													
 1575642947741	معنیٰ	ma'naa	meaning, significance	4	n. f.																													
 1622720402465	معرکه	ma'riká	battlefield, battle, arena, meeting	2	n. f.																													
-1527812123	معافي	m'aafée	forgiveness, pardon	4	n. f.																													1
-1702928191744	معافي غوښتل	m'aafée ghwUxtúl	to apologize, ask forgiveness	4	v. dyn. comp. trans.	1527812123	apologize																											
+1527812123	معافي	maafée	forgiveness, pardon	4	n. f.																													1
+1702928191744	معافي غوښتل	m'aafée ghwUxtúl	to apologize, ask forgiveness	4	v. dyn. comp. trans.	1527812123	apologize																											1
 1527812153	مال خانه	maal khaana	warehouse	3	n. f.																													
 1527814488	مالداري	maaldaaree	cattle-breeding, husbandry, farming; wealth, riches	4	n. f.																													
 1527818555	مالیده	maaleedá	rich flat cake sprinkled with sugar	3	n. f.																													
@@ -5503,7 +5507,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813850	نمړۍ	nmaRúy	piece of food	3	n. f.																													
 1527816252	نمسۍ	nmasúy	granddaughter	4	n. f.																													
 1527815072	نوبت خانه	nobat khaana	guardroom	2	n. f.																													
-1527812103	نوکري	nokarée	duty, job	3	n. f.																													1
+1527812103	نوکري	nokarée	job, duty	3	n. f.																													1
+1702971567767	نوکري کول	nokarée kawul	to work, to do a job	3	v. dyn. comp. trans.	1527812103																												1
+1702971571798	نوکري ورکول	nokarée warkawul	to employ, hire, appoint, give a job	3	v. dyn. comp. trans.	1527812103																												1
 1578012457828	نوکاره	nookáara	scratching, claw, talon	4	n. f.																													
 1527813703	نوم لیکنه	noom leekuna	registration, writing one's name	3	n. f.																													
 1527818288	نومیالي	noomyaalee	fame, repute	4	n. f.																													
@@ -7210,7 +7216,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823341	بال	baal	ball (in sports)	4	n. m.																													1
 1527822602	بالاپوښ	baalaapóx	topcoat, overcoat	4	n. m.																													
 1527812056	بالڼ	baalaN	fuel, dung brick, dung pattie; a kind of roast (meat)	3	n. m.																													
-1527823328	بالر	baalár	bowler (in cricket)	4	n. m. anim. unisex																													1
+1527823328	بالر	báalar	bowler (in cricket)	4	n. m. anim. unisex																													1
 1527823329	بالېنګ	baaleng	bowling (in cricket)	4	n. m.																													
 1527816277	بالښت	baalíxt	pillow	4	n. m.																													1
 1527816278	بالښتک	baalixtak	small pillow, cushion, packing, separator	4	n. m.																													
@@ -7554,7 +7560,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819606	چرت	chUrt	reflection, thought, contemplation, worrying	4	n. m.																													
 1527814652	چوک	chUwak	staff for measuring the water level in an irrigation well	2	n. m.																													
 1527821786	دعوت	da'wát	invitation, religious invitation proslytizing; party, banquet	4	n. m.																													
-1527814330	داد	daad	the act of giving a gift, grant; cry, wail, scream, clamour	3	n. m.																													
+1527814330	داد	daad	the act of giving a gift, grant, appreciation; cry, wail, scream, clamour	3	n. m.																													
 1527814331	ډاډ	DaaD	assurance, comfort, calming	4	n. m.																													1
 1623860194759	ډاګ	Daag	desert, wasteland, arid plain	4	n. m.																													
 1527814204	داغ	daagh	stain, scar, spot, brand	4	n. m.																													1
@@ -8176,6 +8182,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819444	هند	hand	measure, size	2	n. m.																													
 1586634232305	هنس	hans	swan, goose	4	n. m.																													
 1527812050	حق	haq	right, share, claim; something one deserves; a sin done against someone	4	n. m.									حقوق	hUqóoq																			
+1702966819828	حق غوښتل	haq ghwUxtul	to appeal, to seek one's rights	4	v. dyn. comp. trans.	1527812050	appeal																											1
 1610541150518	حقانیت	haqaaniyat, haqaanyat	truthfullness, honesty, legitimacy, rightfulness	4	n. m.																													
 1527812663	حقیقت	haqeeqát	truth, fact, reality	4	n. m.									حقایق	haqáayq																			1
 1527811468	هر	har	cheat, swindler, traitor	2	n. m.																													
@@ -9902,7 +9909,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814028	نمر	nmar	sun	4	n. m.																													
 1527815634	نمر	nmar	sun	4	n. m.																													
 1527815071	نوبت	nobat	turn, watch	4	n. m.																													
-1527812104	نوکر	nokár	servant, worker	4	n. m.																													1
+1527812104	نوکر	nokár	servant, worker	4	n. m. anim. unisex																													1
 1590052416042	نولی	noláy	marmot, mongoose, weasel	4	n. m.																													
 1527811489	نوم	nom	navel, bellybutton	4	n. m.				نامه	naamu	نم	nam																						
 1527818956	نوږی	nooGáy	sneeze, sneezing	2	n. m.																													
@@ -12739,6 +12746,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812002	برخه اخستل	barkha akhustul	to take part in, to participate, to join in	4	v. dyn. comp. trans.	1527812001	participate																											
 1527814357	ګډون کول	guDoon kawul	to participate, join, be involved, to adulturate	4	v. dyn. comp. trans.	1527814782	participate																											1
 1586452103064	توجه کول	tawajÚ kawul	to pay attention to, to consider	4	v. dyn. comp. trans.	1527817885	pay attention,pays attention,paying attention,payed attention,payed attention																											
+1702967720720	توجه ورکول	tawajÚ warkawul	to pay attention to, to consider	4	v. dyn. comp. trans.	1527817885	pay attention,pays attention,paying attention,payed attention,payed attention																											1
 1527823707	نیالګی کېنول	niyaalgay kenawul	to plant a sapling, young tree	4	v. dyn. comp. trans.	1527823577	plant	a sapling																										
 1527814855	شپېلۍ وهل	shpeluy wahul	to play the flute, fife, reed, to whistle	4	v. dyn. comp. trans.	1527814852	play																											
 1527813212	زاري کول	zaaree kawul	to plea, plead, ask, request, beg	4	v. dyn. comp. trans.	1527815437	plead,pleads,pleading,pleaded,pleaded																											
@@ -14441,7 +14449,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814747	تریخول	treekhawul	to make bitter, to spoil	4	v. stat. comp. trans.	1527815366																												
 1527813133	څرګندول	tsărgundawúl	to make clear, reveal, disclose, make apparent	4	v. stat. comp. trans.	1527815370	make	clear																										1
 1702926947144	څرګنده کول	tsargunda kawúl	to make clear, reveal, disclose, make apparent	4	v. stat. comp. trans.	1527815370	make	clear																										
-1702927037282	څرګنده کېدل	tsărgunda kedúl	to be made clear, revealed, disclosed, made apparent	4	v. stat. comp. intrans.	1527815370	become	clear																										
+1702927037282	څرګنده کېدل	tsărgunda kedúl	to be made clear, revealed, disclosed, made apparent	4	v. stat. comp. intrans.	1527815370	become	clear																										1
 1605353596476	څیرول	tseerawúl	to tear, split, crack, cause to burst, explode	4	v. stat. comp. trans.	1527818450																												
 1527822849	ټکا کول	TUkaa kawul	to grow (with grass etc.)	4	v. stat. comp. trans.	1577566234929																												
 1577550977637	تلول	tulawul	to immortalize, perpetuate	2	v. stat. comp. trans.	1527821531																												
@@ -14581,7 +14589,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811605	ازمویل	azmoyul	to attempt, try; to experiment, test	4	v. trans.		try																							true				
 1527816127	اړول	aRawul	to turn over, flip over; convert, change; to move over to, establish oneself in a new spot; divert, turn away, hijack	4	v. trans.		turn	over																										
 1527813568	کارول	kaarawul	to use, utilize	3	v. trans.		use																											
-1527812627	غوښتل	ghwUxtúl, ghwuxtúl, ghoxtúl	to want, to request	4	v. trans.		want											غواړ	ghwaaR															1
+1527812627	غوښتل	ghwuxtúl, ghwUxtúl, ghoxtúl	to want, to request	4	v. trans.		want											غواړ	ghwaaR															1
 1527816801	وینځل	weendzul	to wash	4	v. trans.		wash																											
 1527811397	اغوستل	aghostúl	to wear, to put on (clothes)	4	v. trans.		wear,wears,wearing,wore,worn											اغوند	aghond															1
 1527812436	آورېدل	aawredul	to listen, hear	4	v. trans.													آور	aawr															
@@ -15602,7 +15610,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702845593917	ګمنام	gUmnáam	anonymous, unknown, unidentified		adj.																													1
 1702846041714	کال په کال	kaal pu kaal	yearly		adv.																													1
 1702846059173	هر کال	har kaal	every year, yearly		adv.																													1
-1702917740974	په هر کال کې	pu har kaal ke	every year, yearly		adv.																													
+1702917740974	په هر کال کې	pu har kaal ke	every year, yearly		adv.																													1
 1702846091615	بل یو	bul yo	another		adj. doub.																													1
 1702846213966	په هر صورت کې	pu har soorát ke	anyhow, regardless, in any case																															1
 1702846253434	په هر حال کې	pu har haal ke	anyhow, regardless, in any case																															
@@ -15618,11 +15626,29 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702924997181	سره د دې	sara du de	along with, regardless																															1
 1702927413128	سره له دې	sara la de	along with, regardless																															
 1702926442758	مردانه قوت	mardaana qUwwát	aphrodesiac, male sexual performance		n. m.																													1
-1702925476029	ډاټ	DaaT	arch		n. m.																													
+1702925476029	ډاټ	DaaT	arch		n. m.																													1
 1702925887495	خورمانۍ	khormaanúy	apricot		n. f.																													1
 1702925976032	کماندات	kamaandáat	archer		n. m. anim. unisex																													1
 1702926143345	درخواست	darkhwáast	request, appeal		n. m.																													1
 1702926178803	درخواست ورکول	darkhwáast warkawul	to appeal, make a request		v. dyn. comp. trans.	1702926143345																												1
-1702926546805	دین نه اوښتل	deen na awUxtul	to leave one's religion, to apostatize		v. dyn. comp. trans.	1702926143345																												1
+1702926546805	دین نه اوښتل	deen na awuxtul	to leave one's religion, to apostatize																															1
 1702928481667	پرته	práta	without, besides																															
-1702928514924	پرته له دې	prata la de	besides, although, regardless, without																															
+1702928514924	پرته له دې	prata la de	besides, although, regardless, without																															1
+1702966609835	شجرنامه	shajarnaamá	ancestry		n. f.																													1
+1702966747419	نقشه جوړوونکی	naqsha joRawóonkay	architect, map-maker		n. m. anim. unisex																													1
+1702966865892	اپیل	apéel	apeal		n. m. anim. unisex																													
+1702966878525	اپيل کول	apéel kawul	to appeal		v. dry. comp. trans.	1702966865892	appeal																											1
+1702967002899	پینډیسایډ	paynDeesáayD	appendicitis		n. m.																													1
+1702967421958	سېو	sew	apple		n. m.																													1
+1702967525919	درخواست کوونکی	darkhwaast kawóonkay	applicant, appellant		n. m. anim. unisex																													1
+1702967562264	سایل	saayúl	applicant, appellant		n. m. anim. unisex																													1
+1702967601178	شاباشی	shaabaasháy	appreciation, congratulations, commendation		n. m.																													1
+1702967630642	شاباشی ورکول	shaabaasháy warkawul	to appreciate, say well-done		v. dry. comp. trans.	1702967601178																												1
+1702967800174	دریابي	daryaabée	aquatic, pelagic		adj.																													1
+1702971429772	لاس پړکول	laas pRukawúl	to clap, applaud																															1
+1702971475432	پړکه	pRúka	clap, blink		n. f.																													1
+1702971684520	برتي	bartée	useless, worthless		adj.																													
+1702971702996	برتي	bartée	appointment, registration (as in police, army, etc.), employment, recruitment		n. f.																													
+1702971835671	برتي کول	bartee kawúl	to employ, hire, register, recruit		v. stat. comp. trans.	1702971702996	employ																											1
+1702971906978	په کار لګول	pu kaar lugawul	to employ, hire																															1
+1702971916988	په کار لګېدل	pu kaar lugedul	to be employed, hired																															
