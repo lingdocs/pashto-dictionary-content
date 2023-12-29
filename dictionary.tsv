@@ -236,7 +236,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812960	بښاوو	baxaawoo	generous, magnanimous	3	adj.																													
 1527823350	بې عیب	be 'ayb	perfect, without blemish or shame, irreproachable	4	adj.																													
 1527823351	بې عیبه	be 'ayba	perfect, without blemish or shame, irreproachable	4	adj.																													
-1527816316	بې ادب	be adab	disrespectful, uncouth, ill-bred	4	adj.																													
+1527816316	بې ادب	be adab	disrespectful, uncouth, ill-bred, ill-mannered	4	adj.																													
 1527816151	بې اندازې	be andaaze	extreme, excessive, extraordinary	4	adj.																													
 1618947503103	بې انډواله	be anDwáala	imbalanced	4	adj.																													
 1527815063	بې ارامه	be araama	uneasy, disquieted, disturbed, anxious, nervous	4	adj.																													
@@ -1061,7 +1061,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823005	خماري	khUmaaree	charming (eyes)	4	adj.																													
 1527812799	خپه	khupa	sad, upset, angry	3	adj.																													
 1527816161	خړ	khuR	grey, brown, dark; (fig.) vague, uncertain, embarrassed, confused	4	adj.																													
-1527812803	خراب	khuráab	bad, wrong, broken	4	adj.																													1
+1527812803	خراب	khuráab, kharáab	bad, wrong, broken	4	adj.																													1
 1527815988	خړوب	khuRob	well watered, irrigated	4	adj.																													
 1527814247	خړپړ	khuRpuR	completely gray, dusty, dirty, soiled, cloudy, confused, complicated, tense	4	adj.																													
 1594128308150	خسا	khUsáa, khsáa	foul-smelling, horrible-smelling	4	adj.																													
@@ -1769,7 +1769,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1672206323644	پاموړ	paamwáR	noticable, significant, worth of attention		adj.																													
 1586203874421	پاروونکی	paarawóonkay	provocative, inciting, instigating	4	adj.																													
 1527820821	پاسنی	paasunáy	upper, above, mountain, aforementioned	4	adj.																													
-1527813126	پاته	paata	remaining	4	adj.																													
+1527813126	پاته	páata	remaining, backward	4	adj.																													
+1703747700517	پاتې	páate	remaining, backward	4	adj.																													1
 1527818753	پایدار	paaydáar	steady, stable, strong, firm	3	adj.																													1
 1527819409	پایمال	paaymaal	crushed, destroyed, trampled, suppressed	3	adj.																													
 1586551512591	پاز دودی	paaz doday	progressive, liberal, pro-reform	4	adj.																													
@@ -3261,6 +3262,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812952	غلامانه	ghUlaamaana	slave-like, slavish, servant-like, servile	4	adv. / adv.																													
 1527817080	بالکل	bilkUl	totally, absolutely, entirely, wholly; that’s right, yep	4	adv. / interj.																													
 1527815420	وروسته	wroosta	later, after, behind	4	adv. / loc. adv.																													
+1703747595362	وروسته کېدل	wroosta kedúl	to go back	3	v. stat. comp. intrans.	1527815420																												1
 1527822214	پیاده	piyaada	by foot, on foot, walking; pedestrian, infantry	4	adv. / n. f.																													
 1610443940798	اخیر	akhéer	finally, end	4	adv. / n. m.																													1
 1527821995	اخر	akhúr, akhír	finally, end	4	adv. / n. m.																													
@@ -3678,7 +3680,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813622	بزمي	bazmee	lyric (of poetry)	4	n. f.																													
 1527821041	بې عزتي	be 'izatée	humiliation, disgrace, dishonour	4	n. f.																													1
 1527822823	بې عدالتي	be adaalatee	injustice	3	n. f.																													
-1527822909	بې ادبي	be adubée, be adbée	rudeness, impoliteness, poor upbrining, disrespect	4	n. f.																													1
+1527822909	بې ادبي	be adabée, be adbée	rudeness, impoliteness, poor upbrining, disrespect	4	n. f.																													1
 1610541047518	بې چارګي	be chaaragee, be chaarigee	helplessness	4	n. f.																													
 1527814062	بې دیني	be deenee	atheism, godlessness	4	n. f.																													
 1527814089	بې فکري	be fikree	lightheartedness, lack of concern; neglect, inattentiveness, disregard	4	n. f.																													
@@ -3754,7 +3756,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823152	بوغه	boogha	intoxication/buzz from smoking hashish/pot or strong tobacco	2	n. f.																													
 1527822775	بوغاره	boogháara	crying, whining, wailing, scream, bleating	4	n. f.																													
 1527819808	بوجه	booja	stopper, plug, gap	2	n. f.																													
-1527816287	بوجۍ	boojúy	bag, purse	4	n. f.																													
+1527816287	بوجۍ	bojúy	bag, purse	4	n. f.																													1
 1527822648	بوکره	bookra	veil, burka (برقعه)	3	n. f.																													
 1527816356	بوره	boora	a woman whose son died	4	n. f.																													
 1527818538	بوره	boora	granulated sugar, sawdust, fillings	4	n. f.																													
@@ -4702,7 +4704,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821284	کینه	keena	malice, spite, vindictiveness	4	n. f.																													
 1527812816	کیسه	keesá	story, tale, history; washcloth, glove used for rubbing in baths	4	n. f.																													1
 1576374375326	کېږدۍ	keGdúy	tent, nomad's tent	4	n. f.																													
-1527812756	کېله	kela	banana	3	n. f.																													
+1527812756	کېله	kelá	banana	3	n. f.																													1
 1585736669456	خاکه	khaaka	sketch, rough outline, drawing; coal dust; broken rice	3	n. f.																													
 1577407874450	خاکساري	khaaksaaree	obedience, gentleness, meekness, humility	3	n. f.																													
 1527816428	خاله	khaala	maternal aunt	3	n. f.																													
@@ -5567,7 +5569,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821753	اورۍ	orúy	gums (of teeth), cuticle (of nails)	4	n. f.																													
 1527819050	اوسپنه	óspuna	iron (metal)	4	n. f.																													
 1582334723936	اوونۍ	ownúy, owunúy	week	4	n. f.																													
-1527815905	پابندي	paabandee	limitation, ban; taking control, doing well (ie. in moods etc.); linking, connection	4	n. f.																													
+1527815905	پابندي	paabandee	limitation, ban; taking control, doing well (ie. in moods etc.); linking, connection	4	n. f.																													1
 1527819495	پاچاهي	paachaahee	kingship, kingdom, rule, throne, authority	3	n. f.																													
 1527812336	پاچایي	paachaayee	kingdom, monarchy, sultanate	4	n. f.																													
 1527812332	پاچهي	paachahee	kingdom, monarchy, sultanate, reign	0	n. f.																													
@@ -5711,7 +5713,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819116	پولیو	polyo	Polio	4	n. f.																													
 1527822545	پوچکه	poocháka	freshly-set melon-fruit	4	n. f.																													
 1527818941	پوکاڼه	pookaaNa	bubble, bladder, balloon	4	n. f.																													
-1594196602116	پوکڼۍ	pookaNúy	baloon, bladder, bubble	4	n. f.																													
+1594196602116	پوکڼۍ	pookaNúy	baloon, bladder, bubble	4	n. f.																													1
 1527814057	پوله	póola	border, boundary, limit; boundary fence/line in a field	4	n. f.																													1
 1527823184	پولۍ	poolúy	bump, ulcer, sore, corn, callus, sparkles	3	n. f.																													1
 1527817047	پونه	poona	light rain, light sprinkle, spraying spit from the mouth	4	n. f.																													
@@ -6084,7 +6086,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813744	شړونتیا	shaRoontyaa	exile, banishment	1	n. f.																													
 1527821090	شتایه	shatáaya	prostitute, impudent woman	1	n. f.																													
 1527821089	شتاهه	shattáaha	prostitute, impudent woman	1	n. f.																													
-1527820063	شتۍ	shatúy	knee, point (arrow, sword)	3	n. f.																													
+1527820063	شتۍ	shatúy	knee, point (arrow, sword); badminton	3	n. f.																													1
 1527812991	شېبه	sheba	instant, second, twinkling	4	n. f.																													
 1588162422920	شیمه	sheema	power, vigour, energy	4	n. f.																													
 1527813352	شین غټه	sheen ghaTa	index finger	1	n. f.																													
@@ -7274,7 +7276,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812968	بد نیت	bad niyat	evil intention, bad intention	4	n. m.																													
 1527821023	بډال	baDaal	haze, mist, twilight; wine, alcoholic drink, anything intoxicating	4	n. m.																													
 1527812478	بدل	badál	exchange, return, reward, recompense, revenge; song	4	n. m.																													
-1703678034408	بدل اخیستل	badál akheestúl	to take revenge	4	v. dyn. comp. trans.	1527812478																												1
+1703678034408	بدل اخیستل	badal akheestúl	to take revenge	4	v. dyn. comp. trans.	1527812478																												1
 1527811698	بدن	badán	body; trunk	4	n. m.																													1
 1527822612	بډبول توب	baDbol tób	truthfulness, righteousness	1	n. m.																													
 1527814664	بدلون	badlóon	change, changing, transformation, alteration	4	n. m.																													1
@@ -7326,7 +7328,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814713	بندیز	bandéez	blockade, ban, sanction	3	n. m.																													1
 1527820355	بندوالی	bandwáalay	captivity, arrest, internment; jamming; stoppage; traffic	3	n. m.																													
 1527820790	بنګله دېش	bangla désh	Bangladesh	4	n. m.																													
-1594904072731	بنګړی	bangRáy	bracelet	4	n. m.																													
+1594904072731	بنګړی	bangRáy	bangle, bracelet	4	n. m.																													1
 1594903886993	بنجاره	banjaará	haberdasher, someone who sells/trades little goods	4	n. m.																													
 1527823393	برائت	baraa'át	acquittal, release, purity, innocence	4	n. m.																													
 1527822426	برابرښت	baraabarúxt	equality, evenness	4	n. m.																													
@@ -11646,6 +11648,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819459	وزیرستان	wazeeristaan	Waziristan	4	n. m.																													
 1527814580	وضعیت	waziyat	situation, condition	4	n. m.																													
 1527811690	وزن	wázun	weight, gravity; measure, rhythm	4	n. m.																													
+1703750607489	وزن کول	wazun kawúl	to weight		v. stat. comp. trans.	1527811690	weigh, weighs, weighing, weighed																											1
+1703750609578	وزن کېدل	wazun kedúl	to be weighed		v. stat. comp. intrans.	1527811690	be	weighed																										
 1527817386	ویر	weer	grief, sorrow, mourning, lamenting, lament	4	n. m.																													1
 1584692336016	ویروس	weeróos	virus	4	n. m.																													
 1620767102908	ویټامین	weeTaameen	vitamin	4	n. m.																													
@@ -13232,6 +13236,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821409	دوزانو کښېنستل	doozaanoo kxenastul	to kneel, to go down on one’s knees	3	v. intrans.																													
 1527822600	دربېدل	drabedúl	to thunder, crash, rumble, clash, clank	4	v. intrans.																													
 1527820983	دربل	drabúl	to fall with a crash, to collapse, cave in	3	v. intrans.																													
+1703751240097	درزول	drazawúl	to bang, pound, beat, blast, thum	3	v. trans.																													1
 1622374220571	درزېدل	drazedúl	to pound, beat (a heart etc.), crackle, crack, creak; to worry, torment oneself, to eat one's heart out	4	v. intrans.																													
 1527822904	درومل	droomúl	to set of, start; to go, leave; to follow someone or something	2	v. intrans.																	درومېده	droomedu											
 1527818952	درچل	druchúl	to sneeze	2	v. intrans.																	درچېده	druchedu											
@@ -15739,3 +15744,36 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703678014489	ناظرین	naazréen	attendees, viewers		n. m. pl.																													1
 1703677313950	اوسط	awsát	average		n. m.																													1
 1703677560255	اعزاز	izáaz	honor, distinction, honorific title		n. m.																													1
+1703747291152	نا اشنا	naa ashnáa	unfamiliar, stranger, awkward		n. m. anim. unisex / adj.																													1
+1703751110644	نا عادته	naa aadáta	unaccustomed, awkward		adj.																													1
+1703747428915	لونډ	lawánD	unmarried, single, widower		n. m. anim. unisex																													1
+1703747491409	لونډه	lawánDa	female unmarried, single, widow		n. f. anim.																													
+1703747562857	شاته تلل	shaata tlul	to go back																															1
+1703747805756	پس مانده	pas máanda	backward, undeveloped		adj.																													1
+1703747855486	بې ادبه	be adába	disrespectful, uncouth, ill-bred, bad-mannered		adj.																													1
+1703747969438	ګستاخه	gUstáakha	insolent, disrespectful, bad-mannered		adj.																													1
+1703748129814	خراب خویه	kharaab khóoya	bad-mannered		adj.																													1
+1703749627253	بد خویه	bad khóoya	bad-mannered		adj.																													1
+1703748353791	شاپر	shaapúr	bag		n. m.																													1
+1703748380022	ګوتۍ	gootúy	bag		n. f.																													1
+1703748447952	اسباب	asbáab	baggage, things, stuff		n. m. pl.																													1
+1703748496831	باجوړ	baajawáR	Bajaur		n. m.																													1
+1703748553178	بیکري	baykrée	bakery		n. f.																													1
+1703748574576	بالکوني	baalkonée	balcony		n. f.																													1
+1703748601422	پنډوس	panDóos, panDós	ball		n. m.																													1
+1703748643432	غونډسکه	ghwunDúska	ball		n. f.																													1
+1703748677655	نظمي کیسه	nazmee keesá	ballad		n. f.																													1
+1703748732583	غباره	ghUbaará	balloon		n. f.																													1
+1703748811103	بېنډ	benD	band (group)		n. m.																													1
+1703749368810	دیوالیه	deewaaliyá	bankrupt		n. f.																													1
+1703749417182	بینر	baynár	banner		n. m.																													1
+1703749477109	په شا کېدل	pu shaa kedúl	to go back																															1
+1703749502425	بد سلوکه	bad sulóoka	bad-mannered, poorly behaving		adj.																													1
+1703749531587	بېډمنټن	beDmunTan	badminton		n. m.																													1
+1703749815835	ډبول	Dubawúl	to beat, bang		v. trans.		beat, beats, beating, beat, beaten																											1
+1703749954217	بینکر	baynkúr	banker		n. m. anim. unisex																													1
+1703750100285	څټوکۍ	tsuTóokuy	bangs																															1
+1703750726679	ټس	Tus	bang		n. m.																													1
+1703750735150	ټوخ ټوخ	Tokh Tokh	bang		n. m.																													1
+1703751268302	درز	draz	bang, blast, thump, boom		n. m.																													1
+1703751330429	ګړزول	gRúzawúl	to bang		v. trans.																													1
