@@ -994,7 +994,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821612	خجل	khajíl	embarrassed, shamed, shy, inhibited	4	adj.																													
 1527817059	خجونکی	khajóonkay	skittish, fast; rebounding; with a waddling gait	2	adj.																													
 1610800413603	خلائي	khalaa`ee	space, astronautical	4	adj.																													
-1594814090783	خلیجي	khaleejee	gulf	4	adj.																													
+1594814090783	خلیجي	khaleejée	gulf	4	adj.																													
 1527822932	خلاقه	khallaaqá	creative	2	adj.																													
 1527822196	خمیر	khameer	fermented, leavened (dough)	4	adj.																													
 1577899089150	خمسور	khamsor	spontaneous, sociable	2	adj.																													
@@ -3673,6 +3673,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816264	بیع	bay	deed of purchase, document of sale	3	n. f.																													
 1527819152	بیعانه	bay'aaná	deposit, advance	4	n. f.																													
 1527813413	بیه	báya	price, cost	4	n. f.																													1
+1703836115688	بیه کول	baya kawul	to bargain																															1
+1703836085806	بیعه	báya	price, cost	4	n. f.																													
+1703836119982	بیعه کول	baya kawul	to bargain																															1
 1527817520	بیانیه	bayaaniya	statement	3	n. f.																													
 1527821295	بینه	bayina	irrefutable proof	2	n. f.																													
 1527823617	بزه	bazá	crime, offense, sin, guilt, fault	1	n. f.																													
@@ -6314,7 +6317,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816492	تلاکۍ	talaakúy	divorced wife	4	n. f.																													
 1527821246	تلاشي	talaashee	searching, search, exploration, investigation	4	n. f.																													
 1527819993	طلب ګاري	talab gaarée	marriage brokerage, proposing a man as a husband	3	n. f.																													
-1527822972	ټلۍ	Talúy	ring, bell, ringing, alarm	4	n. f.																													
+1527822972	ټلۍ	Talúy, Tulúy	ring, bell, doorbell, ringing, alarm	4	n. f.																													
 1527818298	ټلواله	Talwaalá	alliance, league, marriage, wedding ring	3	n. f.																													
 1527818297	ټلوالي	Talwaalée	alliance, league, marriage, wedding ring	3	n. f.																													
 1527817285	تلوسه	talwasa	longing, craving, yearning, desire	4	n. f.																													
@@ -7264,6 +7267,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815665	باطن	baatin	inside, inner (matters of the heart, the inside, as opposed to outward appearances)	4	n. m.																													
 1527820432	باتور	baatóor	falcon, hawk	4	n. m.																													
 1527811994	باور	baawár	belief, faith, trust, assurance, confidence, opinion, conviction; believing, trusting, assured, confident	4	n. m.																													1
+1703880687070	باور کول	baawár kawul	to belive, trust (په ...)	4	v. dyn. comp. trans.	1527811994	believe																											
 1527811995	باور لیک	baawar leek	recommendation letter	4	n. m.																													
 1588785956288	بایسکل	baaysakul	bicycle, bike	4	n. m.																													
 1610444405032	باز	baaz	a kind of hawk	4	n. m.																													1
@@ -8057,7 +8061,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816341	غرور	ghUróor, ghuróor	pride, conceit	4	n. m.																													1
 1527815898	غرت	ghurt	fart (slang)	2	n. m.																													
 1527817627	غشی	ghúshay	arrow	4	n. m.																													1
-1527811365	غسل	ghÚsul	ablution, bath, religious bath	3	n. m.																													1
+1527811365	غسل	ghÚsul	full ablution, bath, religious bath	3	n. m.																													1
+1703837020907	غسل کول	ghÚsul kawul	to bathe, to do full ablution	3	v. dyn. comp. trans.	1527811365																												1
 1588076384071	غز	ghUz	walnut	4	n. m.											غزان	ghUzaan																	
 1584883196828	غضروف	ghUzróof	cartiladge, gristle	3	n. m.																													
 1527821104	غوږوالی	ghwaGwaaláy	earring	2	n. m.																													
@@ -8422,7 +8427,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1671708248262	انحراف	inhiráaf	deviation, abberation		n. m.									انحرافات	inhiraafáat																			
 1527816726	انحصار	inhisaar	monopoly, siege, quota	4	n. m.																													
 1610618336107	انعطاف	initáaf	flexibility	2	n. m.																													
-1527820307	انجیل	injéel	Injil, New Testament (in Islam, book given to Jesus), Good News	4	n. m.																													
+1527820307	انجیل	injéel	Injil, New Testament (in Islam, book given to Isa), Good News	4	n. m.																													
 1527814767	انجماد	injimaad	thickening, congealing, freezing, hardening	4	n. m.																													
 1588787527818	انجن	injín	motor, engine	4	n. m.																													
 1527814295	انجنیر	injuneer	engineer	4	n. m. anim. unisex																													
@@ -8957,6 +8962,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814421	خیدک	khaydak	yogurt, curdled soured milk	3	n. m.																													
 1527817919	خیدک	khaydak	yoghurt, curdled sour milk, cheese in molds	3	n. m.																													
 1527812774	خیر	khayr	goodness, blessing, charity, alm	4	n. m.									اخیار	akhyáar																			
+1703857370959	خیر غوښتل	khayr ghwUxtul	to beg, to ask for alms; to wish well	4	v. dyn. comp. trans.	1527812774	beg, begs, begging, begged																											1
 1527812775	خیریت	khayriyat	state of wellness, everything being ok	4	n. m.																													
 1527812412	خېز	khez	jumping, leaping, bob up and down	4	n. m.																													
 1527812776	خدمت	khidmat	service, serving, helping	4	n. m.									خدمات	khidmáat																			
@@ -10729,6 +10735,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821117	شرق	sharq	the east, orient	3	n. m.																													
 1527820519	شرقي طول	sharqee tool	longitude	2	n. m.																													
 1527817893	شرط	shart	condition, term, precondition (for an agreement etc.)	4	n. m.									شرایط	sharaaeet																			1
+1703881032653	شرط لګول	shart lugawul	to bet	4	v. dyn. comp. trans.	1527817893	bet,bets,betting,bet																											
 1527814595	شرم	sharum	shame, disgrace, dishonor	4	n. m.																													
 1630939691952	شطرنج	shatránj	chess	4	n. m.																													
 1527818193	شوکت	shawkat, shaukat	splendor, greatness, power, magnificence	4	n. m.																													
@@ -11737,6 +11744,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814773	یخی	yakhay	cold, frost, ice	4	n. m.																													
 1594813056075	یمن	yăman	Yemen	2	n. m.																													
 1527811997	یقین	yaqéen	belief, faith, trust, assurance, confidence	4	n. m.																													1
+1703880741978	یقین کول	yaqéen kawul	to belive, trust	4	v. dyn. comp. trans.	1527811997	believe																											
 1703658501041	یقین ورکول	yaqéen warkawul	to assure, give confidance, give assurance	3	v. dyn. comp. trans.	1527811997	assure																											1
 1527811656	یرغل	yarghal	attack, offensive	4	n. m.																													
 1527812372	یروشلم	yarooshalam	Jerusalem	2	n. m.																													
@@ -12028,6 +12036,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820269	د زړه ضربان	du zRu zarbaan	heartbeat / heartbeats	4	n. m. / n. m. pl.																													
 1527812343	خلق	khalq	people, nation, populace; creature, created	4	n. m. / n. m. pl.																													
 1527816295	خیرات	khayráat	charity, giving, alms; things pleasing to God	4	n. m. / n. m. pl.																													1
+1703857442774	خیرات غوښتل	khayráat ghwUxtúl	to beg, ask for alms	4	v. dyn. comp. trans.	1527816295	beg,begs,begging,begged																											1
 1527812344	خلق	khUlq	disposition, temperament, character, breeding	4	n. m. / n. m. pl.									اخلاق	akhlaaq																			
 1611065878070	پشم	pashúm	wool	4	n. m. / n. m. pl.																													
 1527815440	زر	zar	gold, silver, cash, coins, money	4	n. m. / n. m. pl.																													
@@ -12382,7 +12391,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821012	فضله	fazala, fazla, fUzla ??	feces, defecation, poop, poo, excrement, stool	4	n. m. pl.																													
 1527821013	فضلات	fazaláat	feces, defecation, poop, poo, excrement, stool	4	n. m. pl.																													
 1527819578	فولاد	foláad	steel	4	n. m. pl.																													
-1591873762948	ګبین	gabeen	honey	4	n. m. pl.																													
+1591873762948	ګبین	gabéen	honey	4	n. m. pl.																													
 1527821011	ګنګي	gangee	feces, defecation, poop, poo, excrement, stool	3	n. m. pl.																													
 1527817330	غنم	ghanúm	wheat	4	n. m. pl.																													1
 1586618611994	غبرګولي	ghbargolee	twins	2	n. m. pl.																													
@@ -13248,7 +13257,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1578012717651	اېسېدل	esedúl	to seem, to appear, present itself as	3	v. intrans.																							true						
 1527821841	اېشېدل	eshedúl	to boil, ferment (passive); to be excited, aroused	4	v. intrans.																													
 1578013112214	غمېدل	ghamedúl	to be burdened, hampered, worried; to overeat; to be difficult or unpleasant	3	v. intrans.																													
-1527821126	غپېدل	ghapedúl	to bark, yap, yelp	4	v. intrans.																													
+1527821126	غپېدل	ghupedúl	to bark (dog), yap, yelp	4	v. intrans.																													
+1703836216223	غپول	ghupawúl	to make bark (dog)	3	v. trans.																													
+1703836179613	غپ	ghup	bark (dog)	4	n. m.																													1
 1527820308	غړېدل	ghaRedúl	to whirl, turn, revolve; to open; to weaken, to grow weak	4	v. intrans.																													
 1527820934	غومېدل	ghoomedúl	to laugh at, mock, threaten	2	v. intrans.																													
 1610444305289	غورېدل	ghooredúl	to thunder; to grumble, talk nonsense	4	v. intrans.																													
@@ -15538,7 +15549,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702627402865	سر ته رسول	sar ta rasawúl	to finish, complete, achieve																															1
 1702627449166	لاس ته کول	laas ta kawúl	to achieve, gain																															1
 1702627486945	تر سره کول	tar sara kawúl	to achieve, complete, finish																															1
-1702627613190	یقیني	yaqeenée	certain, sure, guarenteed		adj.																													
+1702627613190	یقیني	yaqeenée	certain, sure, guarenteed		adj.																													1
 1702627639427	یقیني کول	yaqeenee kawúl	to make certain, to make sure		v. stat. comp. trans.	1702627613190	make	certain																										1
 1702627644315	یقیني کېدل	yaqeenee kedúl	to become certain, to become sure		v. stat. comp. intrans.	1702627613190	become	certain																										
 1702627902970	ځوانکی	dzwaanúkay	young one, young lad/lady (diminutive of ځوان)		n. m. anim. unisex																													
@@ -15776,4 +15787,70 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703750726679	ټس	Tus	bang		n. m.																													1
 1703750735150	ټوخ ټوخ	Tokh Tokh	bang		n. m.																													1
 1703751268302	درز	draz	bang, blast, thump, boom		n. m.																													1
-1703751330429	ګړزول	gRúzawúl	to bang		v. trans.																													1
+1703751330429	ګړزول	gRazawúl	to bang		v. trans.																													1
+1703835726431	بپتسمه	baptismá	baptism		n. f.																													
+1703835745095	بپتسمه ورکول	baptisma warkawul	to baptize		v. dyn. comp. trans.	1703835726431	baptize																											
+1703835882163	کنټه دار	kanTa dáar	barbed		adj.																													1
+1703835931074	ښپې ابلي	xpe ablee	barefoot		adv.																													1
+1703835976239	بربنډې پښې	barbunDe pxe	barefoot, barefeet		n. f. pl. / adv.																													1
+1703836255572	د ونې پوستکی	du wune postúkay	bark (tree)		n. m.																													1
+1703836350136	اوربشی	orbúshay	barley (usually plural)		n. m.																													
+1703836357627	اوربشي	orbúshee	barley		n. m. pl.																													1
+1703836409579	ډرم	Drum	drum, barrel		n. m.																													1
+1703836555046	تهخانه	tahkhaaná	basement, cellar		n. f.																													1
+1703838681224	په بنیادي طور باندې	pu bUnyaadee tor baande	basically		adv.																													1
+1703836747424	پتاو	pitáaw	sunshine		n. m.																													
+1703836789531	پیتاو	peetáaw	sunshine		n. m.																													
+1703836809591	پیتاو ته کېناستل	peetáaw ta kenaastúl	to bask, sit in the sun																															
+1703840056763	شکرۍ	shkarúy	basket		n. f.																													1
+1703836908958	باسکېټ	baaskéT	basket		n. m.																													1
+1703836921719	حرامي	haraamée	bastard, illegitamite child		n. m. anim. unisex																													1
+1703837083950	بات روم	baat róom	bathroom, washroom		n. m.																													1
+1703837118764	لیټرین	layTréen	bathroom, washroom, latrine		n. m.																													1
+1703837177747	چینیانړۍ	cheenyaanRúy	bathroom, washroom		n. f.																													1
+1703837306093	بیټري	bayTrée	battery		n. f.																													1
+1703837326959	په چیغو ژړل	pu cheegho jzaRúl	to bawl, weep																															1
+1703837367233	خلیج	khaléej	gulf		n. m.																													1
+1703837412161	قبل المسیح	qabl Ulmaséeh	B.C.																														TRUE	1
+1703837500182	برداشت	bardáasht	endurance, tolerance; understanding, idea		n. m.																													
+1703837551752	برداشت کول	bardáasht kawul	to bear, endure		v. dyn. comp. trans.	1703837500182	bear, bears, bearing, bore, born																											1
+1703837613723	د برداشت قابل	du bardáasht qaabíl	bearable, endurable		adj.																													1
+1703838757520	د زغملو قابل	du zghumulo qaabíl	bearable, endurable		adj.																													1
+1703837743286	صوفي	soofée	Sufi, mystic		n. m. anim. unisex / adj.																													1
+1703837772692	شېخ	shekh	Sheikh		n. m. anim. unisex																													1
+1703837888795	څاروي رنځپوه	tsarwee randzpóh	vetrenarian		n. m. anim. unisex																												TRUE	
+1703837925732	څاروي رنځپوهنه	tsarwee randzpohúna	veterinary medicine		n. f.																												TRUE	
+1703838016036	څاروي	tsarwée	livestock, cattle (sing. څاروی)		n. m. pl.																												TRUE	1
+1703838246065	په دې وجه	pu dé waja	for this reason, because		adv.																													1
+1703838221842	ځکه چې	dzúka che	because																															1
+1703838264946	له دې وجهې	le de waje	for this reason, because		adv.																												TRUE	1
+1703838322586	ډول	Dol, Daul	decoration, adornment		n. m.																													
+1703838368400	ډولناک	Dolnáak, Daulnáak	fashionable, adorned, beautiful		adj.																													1
+1703856727298	پالنګ	paalúng	bet, cot		n. m.																													1
+1703856758717	د کټ ښپه	du kaT xpa	beadpost		n. f.																													1
+1703856848918	مچۍ	muchúy	bee		n. f.																													
+1703856872813	د شاتو مچۍ	du sháato muchúy	honey bee		n. f.																													1
+1703857039157	منګوړ	mungóR	bed bug, tick 		n. m.																													
+1703857141458	ګونګټ	goongúT	beetle (dung)		n. m.																													1
+1703857255737	چکوتره	chukotra	grapefruit		n. f.																													
+1703857552262	ګونډی	goonDáy	a partially threshed sheaf of wheat		n. m.																													
+1703857594625	سوال ګونډی	swaal goonDáy	beggar		n. m. anim. unisex																													1
+1703857615052	خیرمار	khayrmáar	beggar		n. m. anim. unisex																													1
+1703857649943	خیراتي	khayraatée	beggar		n. m. anim. unisex																													1
+1703857681378	بسم الله کول	bism illah kawul	to begin (by saying "in the name of God" in Arabic)																														TRUE	1
+1703857853253	بسم الله	bism illah	Arabic "in the name of God"																														TRUE	
+1703857947342	نا تجربه کار	naa tajraba kaar	inexperienced, beginner		adj. / n. m. anim. unisex																													1
+1703876075723	ادغام	idghaam	merging, merging two identical letters into one		n. m.																													
+1703876358544	نرښځی	nurxudzay	transgender woman, she-male		n. m. anim. unisex																													
+1703880523150	ادغامول	idghaamawúl	to merge		v. stat. comp. trans.	1703876075723	merge																											
+1703880526698	ادغامېدل	idghaamedúl	to merge		v. stat. comp. intrans.	1703876075723	merge																											
+1703880980431	بهترین	bahtaréen	best, great		adj.																													
+1703881123078	چغلي	chUghlee	snitch, telling, informing, betraying, tattletaling		n. f.																													
+1703881214400	چغلي کول	chUghlee kawul	to snitch, tattletale, betray, inform		v. dyn. comp. trans.	1703881123078	snitch																											
+1703881263896	شیطاني	shaytaanée	naughtiness, wrongdoing, betrayal, bad acting		n. f.																													
+1703881437335	شیطاني کول	shaytaanée kawul	to be naughty, to betray, to do wrong, to slander		v. dyn. comp. trans.	1703881263896	betray																											
+1703881474964	چغل	chUghl	a kind of sieve		n. m.																													
+1703881556860	چغل مار	chUghl máar	slanderer, betrayer		n. m. anim. unisex																													
+1703881619681	چغل خور	chUghl khór	slanderer, betrayer		n. m. anim. unisex				خغل خواره	chUghl khwaarú	چغل خور	chUghl khwar																					TRUE	
+1703881685790	چغل ډت	chUghl Dut	slanderer, betrayer		n. m. anim. unisex																													
+1703881717706	فایده ناک	faayda náak	beneficial, useful		adj.																													
