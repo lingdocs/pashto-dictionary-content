@@ -3648,6 +3648,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811566	برفي	barfee	A kind of ice cream that comes in little bars, popsicles	4	n. f.																													
 1527812001	برخه	barkha	poriton, part, share	4	n. f.																													
 1527821688	برمه	barmá	auger (for drilling)	4	n. f.																													1
+1705179194985	برمه کول	barma kawúl	to auger, drill		v. stat. comp. trans.	1527821688	drill																											1
+1705179198004	برمه کېدل	barma kedúl	to be augered, drilled		v. stat. comp. intrans.	1527821688	be	drilled																										
 1527821689	برمه کاري	barma kaaree	drilling	4	n. f.																													
 1579907648537	برمه کاري	barma kaaree	drilling	4	n. f.																													
 1527816994	برنامه	barnaama	program	4	n. f.																													
@@ -4938,6 +4940,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821862	کښېکښنه	kxekxúna	pressing, crushing, squeezing, rubbing, massage	2	n. f.																													
 1527811379	لاچي	laachée	cardamon, cardamom	4	n. f.																													1
 1527822991	لافه	laafa	boasting, bragging (لاپه) (usually plural لافې - لاپې	4	n. f.																													
+1705161492195	لافې کول	láafe kawul	to boast, to brag		v. dyn. comp. trans.	1527822991	boast																											1
 1585836889082	لاحقه	laahiqá	suffix, ending (grammer)	2	n. f.									لواحق	lawaahiq																			
 1527812847	لالو	laalo	lullaby	2	n. f.																													
 1591804045450	لالهاندي	laaluhaandee	dismay, distress	4	n. f.																													
@@ -6879,7 +6882,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1617442832012	ډکې میتیازې	Duke meetyáaze	poop, poo, stool, fecal matter	4	n. f. pl.																													
 1617443150213	ډکې مچیازې	Duke michyaaze, Duke muchyaaze	poop, poo, stool, fecal matter	4	n. f. pl.																													
 1617442880963	ډکې متیازې	Duke mityaaze, Duke mutyaaze	poop, poo, stool, fecal matter	4	n. f. pl.																													
-1527820458	ډزې	Duze	gunshots, firing	4	n. f. pl.																													
+1527820458	ډزې	Duze	gunshots, firing (pl. of ډز)	4	n. f. pl.																													
 1527813840	ایرې	eere	ashes	4	n. f. pl.	1527813839																												
 1527817366	غلبلې	ghalbale	cry of grief, lament, mourning, sorrow	2	n. f. pl.																													
 1527817669	غلاوي	ghláawee	plural of غلا, robbery, theft	4	n. f. pl.																													
@@ -7430,7 +7433,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1582316017189	بوم	boom	local, native	3	n. m.																													
 1527821906	بورس	boors	brush, duster, scrub, paintbrush	4	n. m.																													
 1624039195280	بورس	boors	scholarship	4	n. m.																													
-1578013781877	بوتل	bootál	bottle	4	n. m.																													
+1578013781877	بوتل	bootál	bottle	4	n. m.																													1
 1527817159	بوټی	bóoTay	plant	4	n. m.																													
 1527821917	بورجل	borjál	dwelling place, abode	3	n. m.																													
 1585400357083	بوش	bosh	bamboo	3	n. m.																													
@@ -7703,7 +7706,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1617990318540	دوران	dawráan, dauráan, doráan	turning, cycle, rotation; time, period, age, epoch; circulation (economics)	4	n. m.																													1
 1527812589	ډول	Dawul	manner, form, type, fashion	3	n. m.																													
 1527813960	دښت	daxt	steppe, desert	3	n. m.																													
-1527812250	ډز	Duz, Daz	gunshot, firing; fart (slang)	4	n. m.																													1
+1527812250	ډز	Duz, Daz	gunshot, firing; explosion; fart (slang)	4	n. m.																													1
+1705160963560	ډزېدل	Duzedúl	to get shot up, blow up		v. stat. comp. intrans.	1527812250	get	shot up																										1
+1705160971813	ډزول	Duzawúl	to shoot up, blow up		v. stat. comp. trans.	1527812250	shoot, shoots, shooting, shot																											
 1527812243	ډزډز	DazDaz	exchange of shots, firing, skirmish	3	n. m.																													
 1527812245	ډزهار	Dazuhaar	shooting, firing	3	n. m.																													
 1527817619	دیدان	deedáan	seeing; meeting, randezvous	3	n. m.																													
@@ -7807,6 +7812,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815891	ډټ	DuT	fart (slang)	3	n. m.																													
 1527821792	ډز بند	Duz bánd	ceasefire (اوربند)	4	n. m.																													
 1527812593	ځان	dzaan	self	4	n. m.																													
+1705161432126	ځان ښودل	dzaan xodul	to boast, show off		v. dyn. comp. trans.	1527812593	show,shows,showing,showed,shown	off																										1
 1703677374217	ځان ساتل	dzaan saatúl	to avoid (له ... نه), keep away from, protect	4	v. dyn. comp. trans.	1527812593	avoid																											1
 1703677479248	ځان بچ کول	dzaan bach kawul	to avoid (له ... نه), keep away from, protect	4	v. dyn. comp. trans.	1527812593	avoid																											1
 1578190617140	ځاڼی	dzáaNay	crane (bird)	4	n. m.																													
@@ -8667,7 +8673,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577649910775	جور	jor	the quality of being well-cooked (rice)	3	n. m.																													
 1527811581	جوړېده	joRedu	production, manufacturing, structure	3	n. m.																													
 1527815544	جوړجاړی	joRjaaRay	agreement	4	n. m.																													
-1527811705	جوړښت	joRuxt	structure	4	n. m.																													
+1527811705	جوړښت	joRúxt	structure	4	n. m.																													1
 1527820068	جوش	josh	excitement, ardour, fervour, enthusiasm	3	n. m.																													1
 1586278822637	جوش و خروش	josh-U-kharósh	excitement, ardour, fervour, enthusiasm	4	n. m.																													
 1527811357	جبران	jUbraan	compensation for damages and losses	4	n. m.																													
@@ -10323,6 +10329,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1584886169431	قرنطین	qarantéen	quarentine	3	n. m.																													
 1527819541	قریب	qareeb	relative, family member, kin, kinsman	4	n. m.									اقارب, اقربا	aqaarib, aqrabaa																			
 1527817830	قرض	qarz	debt, loan	4	n. m.																													1
+1705179384234	قرض اخیستل	qarz akheestul	to borrow, take out a loan		v. dyn. comp. trans.	1527817830	borrow																											1
 1618947620282	قساوت	qasaawát	cruelty, barbarity, rudeness, harshness	2	n. m.																													
 1527821697	قسب	qasáb	red silk, small turban	1	n. m.																													
 1527817623	قسم	qasám	oath, vow, swearing	4	n. m.																													
@@ -10885,6 +10892,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577821317633	سور	soor	width, expansion	4	n. m.																													
 1527814835	صورت	soorát	form, shape; case, way	4	n. m.																													1
 1527812302	سوری	sooráy	hole, slit, opening	3	n. m.																													1
+1705179287677	سوری کول	sooray kawúl	to drill, punch a hole		v. stat. comp. trans.	1527812302	drill																											1
+1705179321887	سوری کېدل	sooray kedúl	to be drilled, have a hole punche open		v. stat. comp. intrans.	1527812302	be	drilled																										
 1589464956008	سوړی	sooRáy	hole, burrough, opening	4	n. m.																													
 1527813287	سوروالی	soorwaalay	redness; daybreak, dawn, glow	4	n. m.																													
 1527820546	سوسړ	soosáR	dolphin; petty-thief, pilferer	1	n. m.																													
@@ -11952,7 +11961,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817698	خرڅ	kharts	expense, expenditure, cost	2	n. m. / adj.																													
 1527811771	خېټو	kheTo	big-bellied, pot-bellied, gluttonous	4	n. m. / adj.																													
 1527822955	خوپ	khoop	fog, mist; gloomy	2	n. m. / adj.																													
-1577901610224	خوټ	khooT	boiling	3	n. m. / adj.																													
+1577901610224	خوټ	khoT	boiling	3	adj.																													
+1705161770863	خوټ کول	khoT kawúl	to boil, bring to a boil		v. stat. comp. trans.	1577901610224	boil																											1
+1705161782642	خوټ کېدل	khoT kedúl	to boil		v. stat. comp. intrans.	1577901610224	boil																											
 1527811770	خورنده	khoranda	big eater, glutton	2	n. m. / adj.																													
 1579015435488	کولپ	koolp	lock, bolt; locked	3	n. m. / adj.																													
 1610447535901	کوسه	kosá	a man who can't grow a beard, with a thin beard	4	n. m. / adj.																													
@@ -14227,7 +14238,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1614169687940	خیشتول	kheeshtawul	to make wet, soggy, soaked	4	v. stat. comp. trans.	1527817115																												
 1592303564226	خوږمنول	khooGmunawul	to torture, cause to suffer	4	v. stat. comp. trans.	1592303515292																												
 1527817110	خوشتول	khooshtawul	to moisten, make slightly wet or damp, to knead	4	v. stat. comp. trans.	1527817111																												
-1527820146	خوټول	khooTawúl	to bring to a boil, to make boil, to pour boiling water on	3	v. stat. comp. trans.	1577901610224																												
+1527820146	خوټول	khoTawúl	to bring to a boil, to make boil, to pour boiling water on	3	v. stat. comp. trans.	1577901610224																												
 1577824015625	خرپول	khrapawul	to beat up; to make crackle, crunch	4	v. stat. comp. trans.	1577823937547																												
 1566471466704	خرټول	khraTawul	to make fat, to fatten up	2	v. stat. comp. trans.	1566471461340																												
 1527812781	خلاص کول	khulaas kawul	to save, rescue, open, free	4	v. stat. comp. trans.	1527812777																												
@@ -14349,7 +14360,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579460293157	نهالول	nihaalawul	to plant a sapling, young tree	4	v. stat. comp. trans.	1527823574																												
 1588153154257	نیالول	niyaalawul	to plant a sapling, young tree	4	v. stat. comp. trans.	1527823575																												
 1527818953	نوږول	noGawúl	to clean, cleanse	2	v. stat. comp. trans.	1579463171333																												
-1527823034	اوچتول	oochatawúl	to lift, raise up, take on (په خپل ځان باندې اوچت کول - to take something on one’s self)	4	v. stat. comp. trans.	1527814198	lift	up																										1
+1527823034	اوچتول	oochatawúl	to lift, raise up, take on (په خپل ځان باندې اوچت کول - to take something on one’s self), to boost	4	v. stat. comp. trans.	1527814198	lift	up																										1
 1702812440971	اوچتېدل	oochatedúl	to be lifted, raised up, taken up	4	v. stat. comp. intrans.	1527814198	be	raised up																										
 1588853812527	اوږدول	ooGdawul	to make long, to drag out	4	v. stat. comp. trans.	1527816778																												
 1527819049	اوتو کول	ootoo kawul	to iron, press	4	v. stat. comp. trans.	1527819048																												
@@ -14364,7 +14375,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588858260719	پیکه کول	peeka kawul	to disorder, confuse, spoil, (fig.) poison	4	v. stat. comp. trans.	1588858235903																												
 1527813147	پلانول	plaanawul	to plan	4	v. stat. comp. trans.	1527813480																												
 1527816194	پلنول	plunawul	to widen, extend, to beat someone	4	v. stat. comp. trans.	1527815179																												
-1527820161	پوکول	pookawúl	to blow on, inflate, blow up, fan, kindle	4	v. stat. comp. trans.	1527822853																												
+1527820161	پوکول	pookawúl	to blow on, inflate, blow up, fan, kindle	4	v. stat. comp. trans.	1527822853																												1
 1651679623899	پوره کول	poora kawul	to fulfill, complete	4	v. stat. comp. trans.	1527814256																												1
 1652388305149	پورول	porawul	to loan, borrow	4	v. stat. comp. trans.	1527815185																												
 1584689360550	پوستول	postawul	to skin, peel, strip off	4	v. stat. comp. trans.	1527816685																												
@@ -15510,7 +15521,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1696381756712	کتنځی	katundzáy	observation area		n. m.																													
 1696567887847	ګواښنه	gwaaxúna	warning		n. f.																													
 1697716220181	پیدایشي	paydaayishee	by birth		adj.																													
-1697998384903	هوادار	hawaadáar	airy		adj.																													
+1697998384903	هوادار	hawaadáar	blustery, windy, airy		adj.																													
 1698474900159	بې ګټې	be gúTe	useluess, without benefit, profitless		adj.																													
 1698901311958	غریز	ghuréez	mountainous, mountain		adj.																													
 1698926559017	اوڅار	awtsáar	prominent, distinguished, evident, obvious		adj.																													
@@ -15915,3 +15926,28 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1704702067611	رنګ کاټ	rang káaT	bleach																															1
 1704702552356	ړوندوالی	Roondwáalay	blindness		n. m.																													1
 1704783226024	مبارز	mUbáariz	fighter, champion, combatant		n. m. anim. unisex / adj.																													
+1705160563569	پوڼاکه	pooNáaka	blister		n. f.																													1
+1705160769731	د وینې زور	du weene zor	blood pressure		n. m.																													1
+1705160835362	د وینې ډک	du weene Duk	bloody, full of blood		adj.																													1
+1705160866906	په وینه لت پت	pu weena lut put	bloody																															1
+1705160891203	ګل کلاوېدل	gUl kUlaawedul	to blossom																															
+1705162016139	هواداره	hawaadáara	blustery, windy, airy		adj.																													1
+1705161238520	ویخ	waykh	bottom		n. m.																													
+1705161271808	باس	baas	boss		n. m. anim. unisex																													1
+1705161360510	بورډ	borD	board		n. m.																													1
+1705161397779	اوچتې ویشتل	oochate weeshtul	to boast																															1
+1705161552006	سمندري جهاز	samandaree jaháaz	boat, ship		n. m.																													1
+1705161583514	باډي ګارډ	baaDee gaarD	bodyguard		n. m. anim. unisex																													1
+1705161614870	ټوپکمار	Topakmáar	bodyguard		n. m. anim. unisex																													1
+1705161850838	دلېر	dulér	bold		adj.																													1
+1705161889735	نرتوب	nurtób	manliness, courage, boldness		n. m.																													1
+1705161921907	بولټ	bolT	bolt		n. m.																													1
+1705161957775	کابله	kaabíla	bolt		n. f.																													1
+1705169336688	هډوکو والا	haDooko waalaa	bony		adj.																													1
+1705178862371	بک	bUk	booked		adj.																													
+1705178873043	بک کول	bUk kawúl	to book		v. stat. comp. trans.	1705178862371	book																											1
+1705178904751	بک کېدل	bUk kedúl	to be booked		v. stat. comp. intrans.	1705178862371	be	booked																										
+1705178953070	بابو	baabóo	bookkeeper		n. m. anim. unisex																													1
+1705178989541	برسر	bursár	bookkeeper		n. m. anim. unisex																													1
+1705179163417	باډر	baaDúr	border (country)		n. m.																													1
+1705179435564	مشروټي	mushrooTée, mushroTée	bossy		adj.																													1
