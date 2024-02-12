@@ -2508,7 +2508,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813378	زباني	zabaanee	oral, spoken	4	adj.																													
 1578618090895	زبردست	zabardást	remarkable, great, splendid, lofty, immense, powerful, authoritative, skillful	2	adj.																													
 1576366788398	زبون	zabóon	weak, feable, helpless	3	adj.																													
-1527819700	ذهین	zahéen	intelligent, having a good memory	4	adj.																													
+1527819700	ذهین	zahéen	intelligent, having a good memory	4	adj.																													1
 1527817579	زهیر	zahéer	emaciated, gaunt, worn out, exhausted, powerless, sad, distressed	4	adj.																													
 1527815900	زحمت کش	zahmat kash	hard-working, tough, industrious	4	adj.																													
 1527811256	زهرالود	zahraalood	poisonous, poisoned	4	adj.																													
@@ -5934,6 +5934,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812192	سادین	saadeen	plowed field, virgin soil	4	n. f.																													
 1586364268870	ساډۍ	saaDúy	a lazy and stupid woman	4	n. f.																													
 1527811300	ساه	saah	breath, breathing	3	n. f.																													1
+1707683847177	ساه اخیستل	saah akheestul	to breathe	4	v. dyn. comp. trans.	1527811300	breathe																											1
 1527821141	ساحه	saahá	space, area, field, arena, sphere, zone	3	n. f.																													
 1527816623	ساخه	saakha	calamity, disaster; doomsday, judgment day; deafening noise	1	n. f.																													
 1527818584	ساختماني	saakhatamaanee, sakhtmaanee	construction	2	n. f.																													
@@ -7341,7 +7342,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814713	بندیز	bandéez	blockade, ban, sanction	3	n. m.																													1
 1527820355	بندوالی	bandwáalay	captivity, arrest, internment; jamming; stoppage; traffic	3	n. m.																													
 1527820790	بنګله دېش	bangla désh	Bangladesh	4	n. m.																													
-1594904072731	بنګړی	bangRáy	bangle, bracelet	4	n. m.																													1
+1594904072731	بنګړی	bangRáy, bungRáy	bangle, bracelet	4	n. m.																													1
 1594903886993	بنجاره	banjaará	haberdasher, someone who sells/trades little goods	4	n. m.																													
 1527823393	برائت	baraa'át	acquittal, release, purity, innocence	4	n. m.																													
 1527822426	برابرښت	baraabarúxt	equality, evenness	4	n. m.																													
@@ -9430,7 +9431,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817790	مغفرت	maghfirat	pardon, forgiveness, absolution	4	n. m.																													
 1527821808	مغلوبیت	maghloobiyat	state of defeat, subjugation, depression	4	n. m.																													
 1527822649	مغشوشوالی	maghshooshwáalay	confusion	2	n. m.																													
-1527821592	مغز	maghz	brain, marrow, kennel, pith, pulp, interior, inside of a fruit (often plural)	4	n. m.				ماغزه	maaghzu	مغز	maghz																						
+1527821592	مغز	maghz	brain, marrow, kennel, pith, pulp, interior, inside of a fruit (often plural)	4	n. m.				ماغزه	maaghzu	مغز	maghz																						1
 1623688129216	مغزی	maghzáy	neck, nape; golden trim on shoes	4	n. m.																													
 1527814009	مهال	mahaal	time, season	4	n. m.																													
 1527815617	مهال	mahaal	time, season	4	n. m.																													
@@ -10461,7 +10462,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823123	رسالت	risaalát	prophetic mission, (the office of) prophecy in general	4	n. m.																													
 1586362697185	رشته دار	rishta daar	relative (person)	3	n. m.																													
 1527822310	رشته داری	rishta daaray	relative (person)	3	n. m.																													
-1527814554	رشوت	rishwát, rushwát	bribe, bribes, bribery, corruption	3	n. m.																													1
+1527814554	رشوت	rishwát, rushwát	bribe, bribes, bribery, corruption	4	n. m.																													1
+1707683945085	رشوت ورکول	rishwát warkawul	to bribe, to give a bribe	4	v. dyn. comp. trans.	1527814554	bribe																											1
+1707684774922	رشوت اخیستل	rishwát akheestul	to take a bribe	4	v. dyn. comp. trans.	1527814554	take	a bribe																										1
 1527813798	روایت	riwaayat	narritive, tradition, story	3	n. m.																													
 1527813750	ریاست	riyaasat	presidency, state	4	n. m.																													
 1527814745	ریاض	riyaaz	math, mathematics	3	n. m.																													
@@ -11798,7 +11801,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820252	ذکاوت	zakaawát	intelligence	3	n. m.																													
 1527811629	زخم	zákhum	wound, injury, cut, sore	4	n. m.																													1
 1527819830	زلمیتوب	zalmeetób	youth	4	n. m.																													1
-1527819732	زلمی	zalmáy	young, youth, young lad	3	n. m.																													1
+1527819732	زلمی	zalmáy	young, youth, young lad	3	n. m. anim. unisex																													1
 1527817945	زم	zam	hurt, wound, injury, stroke	2	n. m.																													
 1610798097892	ضمان	zamáan	guaranty, guarantee, bond, bail	4	n. m.																													
 1527814683	ضمانت	zamaanát	guaranty, guarantee, bond, bail	3	n. m.																													1
@@ -12224,7 +12227,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821523	مریی	mrayáy	slave, servant	3	n. m. anim. unisex																													
 1631017900394	معین	mU'een	deputy, vice commander, assistant, next in line	4	n. m. anim. unisex																													
 1678174260686	مولف	mUalíf	writer, author		n. m. anim. unisex																													
-1586526224308	مورخ	mUarrikh	historian, chronicler	3	n. m. anim. unisex									مورخین	mUarrikheen																			
+1586526224308	مورخ	mUarríkh	historian, chronicler	3	n. m. anim. unisex									مورخین	mUarrikheen																			
 1622355819855	مفتش	mUfattísh, mUfatísh	inspector, detective, auditor, supervisor	4	n. m. anim. unisex																													
 1527814524	محصل	mUhassil	student; tax collector	4	n. m. anim. unisex																													
 1586956562947	ملازم	mUlaazim	servant, waiter, clerk	3	n. m. anim. unisex																													
@@ -14565,7 +14568,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1609949356210	وریتول	wreetawul	to roast, grill, barbeque, burn	4	v. stat. comp. trans.	1609949334478																												
 1579721453876	وچول	wuchawúl	to cause to dry, dry out	4	v. stat. comp. trans.	1527815130																												1
 1527818756	ښادول	xaadawúl	to cheer, gladden, amuse, divert	4	v. stat. comp. trans.	1527818755																												
-1527811278	ښخول	xakhawul	to bury, entomb; to thrust into, pierce, plunge	4	v. stat. comp. trans.	1527818182																												
+1527811278	ښخول	xukhawul	to bury, entomb; to thrust into, pierce, plunge	4	v. stat. comp. trans.	1527818182																												
 1578520948834	ښکارول	xkaarawúl	to show, disclose, present, make clear, make obvious	4	v. stat. comp. trans.	1527812778																												
 1527814828	ښکلول	xkUlawul	to kiss	4	v. stat. comp. trans.	1527816827																												
 1583269485015	ښکته کول	xkuta kawul	to lower, to bring down	4	v. stat. comp. trans.	1527812780																												
@@ -15950,9 +15953,39 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1705178989541	برسر	bursár	bookkeeper		n. m. anim. unisex																													1
 1705179163417	باډر	baaDúr	border (country)		n. m.																													1
 1705179435564	مشروټي	mushrooTée, mushroTée	bossy		adj.																													1
-1705326857348	ډبی	Dabáy	stick for washing clothes		n. m.																													
+1705326857348	ډبی	Dabáy	stick for washing clothes		n. m.																													1
 1705626927218	ګارسون	gaarsón	waiter		n. m. anim. unisex																													
 1706070774112	منفي ګری	manfee garáy	pessimist		n. m. anim. unisex																													
 1706070810111	مثبت ګری	mUsbat garáy	optimist		n. m. anim. unisex																													
 1706229175265	لوبډلمشر	lobDalmúshar	team captain (sports)		n. m. anim. unisex																													
 1706259237696	ځواکمن	dzwaakmán	powerful, influential		adj.																													
+1706788522167	روزنځای	rozundzaay	training ground		n. m.																													
+1707682930293	ټپکه	Tapúka	bounce		n. f.																													1
+1707682969919	بانډري	baanDrée	boundry		n. f.																													1
+1707683010836	غنچک	ghUnchák	bud, boquet, bunch		n. m.																													1
+1707683014598	غنچه	ghÚnchá	bud, boquet, bunch		n. f.																													1
+1707683118030	لري کولمې	luree koolmé	bowels, intestines		n. f. pl.																													1
+1707683189944	باکسر	baaksár	boxer		n. m. anim. unisex																													1
+1707683316911	مازغه	maazghú	brains, marrow (plural of مزغ)		n. m. pl.																													
+1707683376356	ودرول	wudrawúl	stop, brake, stand up, park, resist, suspend, hinder, block		v. trans.		stop																											1
+1707683453146	پیتل	peetúl	brass, tin																															1
+1707683497309	نروالی	nurwáalay	bravery, manliness, courage, masculinity		n. m.																													1
+1707683552077	کلچه	kUlchá	bread		n. f.																													1
+1707683568872	روغنۍ	roghanúy	bread		n. f.																													1
+1707683617033	ډبل روټۍ	Dabul roTúy	bread (western style loaf)		n. f.																													1
+1707683682898	توش	toosh	bread		n. m.																													1
+1707683697363	ټوسټ	TosT	bread, tost		n. m.																													1
+1707683717552	پلنوالی	plunwáalay	breadth, thickness		n. m.																													1
+1707683750919	د ماتولو جوګه	du maatawulo jogá	breakable		adj.																													1
+1707683780789	تی ورکول	tay warkawúl	to breastfeed		v. dyn. comp. trans.	1527816836																												1
+1707683902230	بچي راوړل	buchee raawRúl	to birth																															1
+1707683999861	د خښتو بټۍ	du khuxto baTúy	brick kiln		n. f.																													1
+1707684065404	مستري	mistrée, misturée	mechanic, workman, master		n. m. anim. unisex																													1
+1707684125115	د واده زلمی	du waadu zalmáy	groom, bridegroom		n. m. anim. unisex																													1
+1707684206062	په مختصر طور باندې	pu mUkhtasir tor baande	briefly		adv.																													1
+1707684278296	لنډه دا چې ...	lunDa daa che ...	briefly, in essence, basically, the long and short of it is																															1
+1707684893189	بچوکی	buchóokay	braid		n. m.																													1
+1707685901662	کانسي	kaansee	bronze																															
+1707686024452	ډاکو	Daakóo	burglar, thief, bandit		n. m. anim. unisex																													
+1707686184669	بند ګوپي	bund gopée	cabbage		n. f.																													
+1707686224822	قصاب	qasáab	butcher		n. m. anim. unisex																													
