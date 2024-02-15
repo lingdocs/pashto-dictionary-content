@@ -872,7 +872,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577649371936	جوټ	jooT	sad, grim-faced, stern; rejected, spurned, futile, idle	3	adj.																													
 1527819136	جوټه	jooTa	fake, false, counterfeit	3	adj.																													
 1527812711	جوړ	joR	well, healthy, whole, made	4	adj.																													1
-1672943546000	جوړوونکی	joRawóonkay	constructive		adj.																													
+1672943546000	جوړوونکی	joRawóonkay	builder, maker; constructive	4	n. m. anim. unisex / adj.																													1
 1527816456	جدا	jUdáa	different, separate, special	4	adj.																													1
 1527822995	جفت	jUft	see جخت	4	adj.																													1
 1678174862168	جغرافیایي	jUghraafiyaayee	geographical		adj.																													
@@ -3147,7 +3147,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815195	په زوره	pu zóra	by force	4	adv.																													1
 1527814073	پکې	puke	therein	4	adv.																													
 1527819612	پخپل	pukhpul	one’s own (misspelling of په خپل - cf. پخپله)	4	adv.																													
-1527818237	پخپله	pukhpula	(doing something) himself, herself, myself, ourself etc., used to indicate actions that the subject does himself	4	adv.																													
+1527818237	پخپله	pukhpúla	(doing something) himself, herself, myself, ourself etc., used to indicate actions that the subject does himself	4	adv.																													1
 1527815198	پخوا	pukhwáa	formerly, before	4	adv.																													1
 1578014249199	پکښې	pukxe	therein	4	adv.																													
 1527818276	پرمهال	purmahaal	at the time of, during (د ... پر مهال)	4	adv.																													
@@ -7445,7 +7445,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1566647465726	برهمن	brahman	Brahmin (Hindu)	4	n. m.																													
 1527821692	برم	bram	glory, honour, magnificence, power, strength	4	n. m.																													
 1527820926	بړق	bRaq	loud laugh, guffaw	4	n. m.																													
-1527821904	برش	brash	brush, duster, scrub, paintbrush	4	n. m.																													1
+1527821904	برش	brush, brash	brush, duster, scrub, paintbrush	4	n. m.																													1
+1707917398412	برش کول	brush kawúl	to brush, polish	4	v. dyn./stat. comp. trans.	1527821904	brush																											1
+1707917487922	برش کېدل	brush kedúl	to be brushed, polished	4	v. stat. comp. intrans.	1527821904	be	brushed																										
 1527820899	برټ	braT	leech (literal and figurative), bloodsucking worm	2	n. m.																													
 1527812508	برید	breed	attack, assault; limit, start, boundary	4	n. m.																													1
 1594813337900	بریتانیا	breetaanyaa	Great Britian, the UK	4	n. m.																													
@@ -7473,7 +7475,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819266	برج	bUrj	tower	4	n. m.																													
 1527821903	برس	bUrs	brush, duster, scrub, paintbrush	4	n. m.																													
 1621205501572	بشقاب	bUshqáab	plate, dish	4	n. m.																													
-1527811796	بت	bUt	idol	4	n. m.																													
+1527811796	بت	bUt	idol, statue	4	n. m.											بتان	bUtáan																	1
 1527815897	بز	buz	fart (slang)	4	n. m.																													
 1591026258946	بز	buz	goat	4	n. m.																													
 1527820243	بیان	byaan	foal, young horse, colt	4	n. m.																													
@@ -12360,7 +12362,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1566473985250	مستبد	mUstabíd	despot, tyrant, dictator, despotic	3	n. m. anim. unisex / adj.									مستبدین	mUstabideen																			
 1527822065	متخصص	mUtakhasis	expert, specialist, proficient, authoritative	4	n. m. anim. unisex / adj.																													
 1527814234	نشه یي	nasha yée	addict, drug addict; drug, pertaining to drugs (adj.)	4	n. m. anim. unisex / adj.																													1
-1662724545525	پت پرست	pUt parast	idol-worshipper; idolater	4	n. m. anim. unisex / adj.																													
+1662724545525	پت پرست	pUt parást	idol-worshipper; idolater	4	n. m. anim. unisex / adj.																													
+1707919046832	بت پرست	bUt parást	idol-worshipper; idolater	4	n. m. anim. unisex / adj.																													
+1707919070947	بوت پرست	boot parást	idol-worshipper; idolater	4	n. m. anim. unisex / adj.																													
+1707919103141	بت پرستي	bUt parastee	idol-worshipping; idolatry	4	n. f.																													
+1707919105063	بوت پرستي	boot parastee	idol-worshipping; idolatry	4	n. f.																													
 1527815197	پښتون	puxtoon	Pashtun	4	n. m. anim. unisex / adj.				پښتانه	puxtaanu	پښتن	puxtan																						
 1610795367898	رشوت خور	rishwat khór	bribe-taker, corrupt	4	n. m. anim. unisex / adj.				رشوت خواره	rishwat khwaaru	رشوت خور	rishwat khwar																						
 1610795370498	رشوتخور	rishwatkhór	bribe-taker, corrupt	4	n. m. anim. unisex / adj.				رشوتخواره	rishwatkhwaaru	رشوتخور	rishwatkhwar																						
@@ -12490,7 +12496,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814695	نشه یي مواد	nasha yee mawaad	narcotic drugs	4	n. m. pl.																													
 1527816869	نشه یي توکي	nasha yee tokee	narcotics, drugs	4	n. m. pl.																													
 1610616180741	نسک	nask	lentils	4	n. m. pl.																													
-1527819769	نسوار	naswaar	naswar (a tobacco product)	4	n. m. pl.																													
+1527819769	نسوار	naswáar	naswar (a tobacco product)	4	n. m. pl.																													1
 1527820323	نصوار	naswáar	naswar (a tobacco product)	4	n. m. pl.																													1
 1527817390	نیکونه	neekoona	grandfathers, forefathers (plural of نيکه)	4	n. m. pl.																													
 1527817391	نیکه ګان	neeku gaan	grandfathers, forefathers (plural of نيکه)	4	n. m. pl.																													
@@ -13160,7 +13166,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586962284085	لته وهل	lata wahul	to kick	3	v. dyn. comp. trans. sing. or plur.	1586962273533																												
 1527812889	ملنډې وهل	malunDe wahul	to make fun of, mock, ridicule	4	v. dyn. comp. trans. sing. or plur.	1527812888																												
 1527823371	ټونګې وهل	Toonge wahul	to peck (for birds, lit. to throw beak)	4	v. dyn. comp. trans. sing. or plur.	1527823140																												
-1527819253	شروع کول	shUróo' kawul	to start, to begin	4	v. dyn./stat. comp.	1527819252	start																											1
+1527819253	شروع کول	shUróo' kawul	to start, to begin	4	v. dyn./stat. comp. trans.	1527819252	start																											1
 1527812566	دوکه کول	doka kawul	to deceive, to cheat	4	v. dyn./stat. comp. trans.	1527812565	deceive																											1
 1658796089458	استري کول	istree kawul	to iron (clothes etc.)	4	v. dyn./stat. comp. trans.	1658795458148	iron																											
 1609162463793	واده کول	waadu kawul	to marry, get married	4	v. dyn./stat. comp. trans.	1527815394	marry																											
@@ -14568,7 +14574,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1609949356210	وریتول	wreetawul	to roast, grill, barbeque, burn	4	v. stat. comp. trans.	1609949334478																												
 1579721453876	وچول	wuchawúl	to cause to dry, dry out	4	v. stat. comp. trans.	1527815130																												1
 1527818756	ښادول	xaadawúl	to cheer, gladden, amuse, divert	4	v. stat. comp. trans.	1527818755																												
-1527811278	ښخول	xukhawul	to bury, entomb; to thrust into, pierce, plunge	4	v. stat. comp. trans.	1527818182																												
+1527811278	ښخول	xukhawúl	to bury, entomb; to thrust into, pierce, plunge	4	v. stat. comp. trans.	1527818182																												1
 1578520948834	ښکارول	xkaarawúl	to show, disclose, present, make clear, make obvious	4	v. stat. comp. trans.	1527812778																												
 1527814828	ښکلول	xkUlawul	to kiss	4	v. stat. comp. trans.	1527816827																												
 1583269485015	ښکته کول	xkuta kawul	to lower, to bring down	4	v. stat. comp. trans.	1527812780																												
@@ -15985,7 +15991,29 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1707684206062	په مختصر طور باندې	pu mUkhtasir tor baande	briefly		adv.																													1
 1707684278296	لنډه دا چې ...	lunDa daa che ...	briefly, in essence, basically, the long and short of it is																															1
 1707684893189	بچوکی	buchóokay	braid		n. m.																													1
-1707685901662	کانسي	kaansee	bronze																															
-1707686024452	ډاکو	Daakóo	burglar, thief, bandit		n. m. anim. unisex																													
-1707686184669	بند ګوپي	bund gopée	cabbage		n. f.																													
-1707686224822	قصاب	qasáab	butcher		n. m. anim. unisex																													
+1707685901662	کانسي	kaansee	bronze																															1
+1707686024452	ډاکو	Daakóo	burglar, thief, bandit		n. m. anim. unisex																													1
+1707686184669	بند ګوپي	bund gopée	cabbage		n. f.																													1
+1707686224822	قصاب	qasáab	butcher		n. m. anim. unisex																													1
+1707906729118	ایتلافي	eetilaafee	coalition		adj.																													
+1707917105727	کړوکه	kRóoka	broody (hen)		adj.																													1
+1707917241152	نصواري	naswaarée	brown		adj.																													1
+1707917263135	نصواري	naswaarée	naswar user, someone who is addicted to naswar (tobacco)		n. m. anim. unisex																													1
+1707917300109	نسواري	naswaarée	brown		adj.																													1
+1707917302751	نسواري	naswaarée	naswar user, someone who is addicted to naswar (tobacco)		n. m. anim. unisex																													1
+1707917353392	د زخم داغ	du zakhum dáagh	bruise		n. m.																													1
+1707917535641	بې ترسه	be társa	brutal, uncompassionate, heartless		adj.																													1
+1707917713344	وړوکی طوطي	waRóokay totée	budgerigar		n. m. anim. unisex																													1
+1707918063646	مړدکۍ	muRdakúy	bullet		n. f.																													1
+1707918102642	جمپ	jamp, jump	bump, speedbump		n. m.																													1
+1707918131695	ښکته بره	xkuta bara	bumby, up and down		adj. / adv.																													1
+1707918174967	کندې کپرې	kúnde kapúre	bumpy		adj.																													1
+1707918415764	بنډل	bunDúl	bundle		n. m.																													1
+1707918663879	ګڼ بوټی	guN bóoTay	bush		n. m.																													1
+1707918702460	بوت	boot	idol, statue		n. m.											بوتان	bootáan																	1
+1707918949277	غرسکی	ghurskáy, ghruskáy	burp		n. m.																													1
+1707919207980	پرپرکی	purpurakáy	butterfly		n. m.																													1
+1707919295172	شوملې	shoomlé	ayran, buttermilk, sour milk		n. f. pl.																													1
+1707919575516	په بیه اخیستل	pu báya akheestúl	to buy, to purchase																															1
+1707919614150	په بیعه اخیستل	pu báya akheestúl	to buy, to purchase																															1
+1707920394563	نېر	ner	canal		n. m.																													
