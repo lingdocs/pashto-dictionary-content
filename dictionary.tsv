@@ -634,6 +634,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814563	غورځېدن	ghordzedan	throwing, falling	3	adj.																													
 1527817626	غرېوناک	ghrewnaak	disturbed, distressed, weeping	2	adj.																													
 1527811350	غلی	ghúlay	quiet, silent	4	adj.																													1
+1708001160227	غلی کول	ghulay kawúl	to quiet, calm down, make quiet, silence	4	v. stat. comp. trans.	1527811350	quiet																											
+1708001162736	غلی کېدل	ghulay kedúl	to get quiet, calm down, quiet down, be silenced, shut up	4	v. stat. comp. intrans.	1527811350	get	quiet																										
 1527822716	غنجه	ghunjá	harshly, roughly, in an unfeeling manner; hard, stiff, tough; severe, stern	2	adj.																													
 1584691820111	غړند	ghuRund	fading, withering; depressed, downcast; sluggish, lazy, dull	3	adj.																													
 1527823768	غصه ناک	ghUssa náak	angry, angered, rageful	4	adj.																													
@@ -984,7 +986,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811332	خالص	khaalis	pure, real, genuine, natural	4	adj.																													
 1617441286598	خالص	khaalis	net (as opposed to gross)	4	adj.																													
 1527812057	خام	khaam	raw, unripe, immature	4	adj.																													1
-1527814103	خاموش	khaamosh	silent	3	adj.																													1
+1527814103	خاموش	khaamósh	silent, quiet, still	3	adj.																													1
+1708001295582	خاموشه	khaamósh	silent, quiet, still	3	adj.																													
 1527817058	خامتا	khaamtaa	fast, greedy	2	adj.																													
 1527813144	خانه بدوش	khaana badosh	nomadic	4	adj.																													
 1527817570	خاطرپرېشان	khaatirpresháan	worried, upset, distressed	2	adj.																													
@@ -1287,7 +1290,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822581	مقصودي	maqsoodée	desirable, desired	3	adj.																													
 1527812974	مړنی	maRanáy	corageous, bold, brave; skillful, capable	4	adj.																													
 1527822066	مرور	marawár, marawúr, marawÚr	offended, treated badly, having a grudge (زما نه مروره ده - she’s offended / has a grudge against me)	4	adj.																													1
-1527823360	مرضي	marazee	sick, unwell, ill	4	adj.																													
+1527823360	مرضي	marazée	sick, unwell, ill	4	adj.																													
 1589883748532	مربوط	mărbóot	attached, connect, related, concerning something, depends on (په .... پورې مربوط - is connected to, depends on)	4	adj.																													
 1527818626	مرغۍ مرغۍ	marghúy marghúy	sleepy, drowsy	3	adj.																													
 1527811384	مرګونی	margóonay	deadly, lethal; morbid, death-filled, dying	4	adj.																													
@@ -1890,7 +1893,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820427	قمري	qamree	lunar	4	adj.																													
 1527823075	قناعت بخش	qanaa'at bakhsh, qanaat bakhsh	satisfactory, convincing (ie. of an answer)	3	adj.																													
 1527811560	قندي	qandee	sugar, sugary	4	adj.																													
-1527821432	قرار	qaráar	quiet, peaceful, established, constant, stable, agreed	3	adj.																													
+1527821432	قرار	qaráar	quiet, peaceful, calm, established, constant, stable, agreed	3	adj.																													
+1708000793375	قرارول	qaraarawúl	to calm, make peaceful, settle	3	v. stat. comp. trans.	1527821432	calm																											
+1708000796516	قرارېدل	qaraaredúl	to calm down, get quiet, settle	3	v. stat. comp. intrans.	1527821432	calm	down																										
 1527820935	قصدي	qasdée	intended, planned, forced	3	adj.																													
 1527814735	قطعي	qatee	decisive, categorical, conclusive	3	adj.																													
 1527813514	قوي	qawee	strong, mighty, powerful	3	adj.																													
@@ -5653,6 +5658,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1593690604453	پرنا	parnáa	the Parana River	2	n. f.																													
 1527816068	پرتله	partala	comparison	4	n. f.																													
 1527819817	پروا	parwáa	care, concern	4	n. f.																													1
+1708003764985	پروا کول	parwáa kawúl	to care, have concern	4	v. dyn. comp. trans.	1527819817	care																											1
 1527815161	پرواه	parwaah	care, concern	4	n. f.																													
 1527812986	پس خورده	pas khoorda	leftovers, remainder of the meal	4	n. f.																													
 1527819923	پشه	pasha	gnat, mosquito, spades (in cards)	3	n. f.																													
@@ -8306,8 +8312,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1584531059953	هراس	hiráas	fear, alarm, panic, fright	4	n. m.																													
 1527814836	حرص	hirs	greed, passionate desire, lust	4	n. m.																													1
 1527813893	حس	his	feeling, sensation, sense	4	n. m.									حواس	hawáas																			
-1527812686	حساب	hisáab	account, counting, math, reckoning, judgment	4	n. m.																													1
-1527813551	حساب کتاب	hisáab kitáab	reckoning, account, judgement	4	n. m.																													1
+1527812686	حساب	hisáab	account, counting, math, reckoning, calculation, judgment	4	n. m.																													1
+1708000225895	حساب کول	hisaab kawul	to account, count, reckon, calculate, judge	4	v. dyn./stat. comp. trans.	1527812686	judge																											1
+1527813551	حساب کتاب	hisáab kitáab	reckoning, account, calculation, judgement, counting, settling accounts	4	n. m.																													1
+1708000099568	حساب کتاب کول	hisáab kitáab kawúl	to count, reckon, account, calculate, judge	4	v. dyn. comp. trans.	1527813551	account																											1
 1527823182	هسار	hisaar	fencing, barrier, wall, inclosure (حصار)	4	n. m.																													
 1527823180	حصار	hisáar	fencing, barrier, wall, inclosure	3	n. m.																													
 1527820998	حزب	hizb	political group, political party	3	n. m.									احزاب	ahzáab																			
@@ -9047,7 +9055,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812815	خوندیتوب	khwundeetob	safety, security	4	n. m.																													
 1527820718	خوړ	khwuR	vomit, vomiting, puke, puking, the sound made when puking	3	n. m.																													
 1585402832491	خوشوی	khwushóy	cow, horse, or donkey dung (often plural)	2	n. m.				خوشایه	khwushaayu	خوشای	khwushaay																						
-1527817827	خیال	khyaal, khayáal	thought, fancy, opinion, idea	4	n. m.																													1
+1527817827	خیال	khyaal, khayáal	thought, fancy, opinion, idea, care	4	n. m.																													1
+1708003680880	خیال ساتل	khyaal saatúl	to care, look after, remember	4	v. dyn. comp. trans.	1527817827	care																											1
+1708003714794	خیال کول	khyaal kawúl	to care, look after, remember	4	v. dyn. comp. trans.	1527817827	care																											
 1527823336	کپتان	kiptaan	captain (in cricket) (usually کپټان)	4	n. m.																													
 1527823337	کپټان	kipTaan	captain (in cricket)	4	n. m.																													
 1527813201	کردار	kirdáar	conduct, character, behavior, deed, action, role	4	n. m.																													1
@@ -12403,7 +12413,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1576116224614	باڼه	baaNú	eyelash, eyelashes ??	4	n. m. pl.																													1
 1663684908144	بارود	baaróod	gunpowder, explosives	4	n. m. pl.																													1
 1527811545	باروت	baaroot	gunpowder, explosives	4	n. m. pl.																													
-1527820047	بنګ	bang	marijuana, hashish, hash, pot	4	n. m. pl.																													
+1527820047	بنګ	bang	marijuana, cannabis, hashish, hash, pot	4	n. m. pl.																													
 1527819809	برتن	bartan	cookery, utensils, plates etc. (from Urdu)	3	n. m. pl.																													
 1571607594886	بواسیر	bawaaséer	hemorrhoids	4	n. m. pl.																													
 1527814891	بولي	bawlee	urine	4	n. m. pl.																													
@@ -12411,7 +12421,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822129	برنج	birínj	rice	4	n. m. pl.																													
 1527820038	بوس	boos	straw, chaff, siftings, finely cut straw, bran	4	n. m. pl.																													
 1527819937	برېتونه	bretoona	moustache (from برېت)	4	n. m. pl.																													
-1527814237	چرس	chars	marijuana, pot, hash, hashish	4	n. m. pl.																													1
+1527814237	چرس	chars	marijuana, cannabis, pot, hash, hashish	4	n. m. pl.																													1
 1527818560	چیني	cheenée	sugar	4	n. m. pl.																													
 1527813281	چرګ سابه	churg saaba	spinach	2	n. m. pl.																													
 1527811380	دالچیني	daalcheenee	cinnamon	4	n. m. pl.																													
@@ -13669,7 +13679,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819311	هضمېدل	hazmedúl	to be digested; to be endured	4	v. stat. comp. intrans.	1527812024																												
 1527822804	هیسته کېدل	héesta kedul	to clear off, go away, pull away	4	v. stat. comp. intrans.	1527822803																												
 1588160290532	هېښېدل	hexedul	to be stunned, shocked, perplexed, amazed	4	v. stat. comp. intrans.	1527823162																												
-1527816849	حسابېدل	hisaabedul	to be calculated, settled, accounted for	4	v. stat. comp. intrans.	1527812686																												
+1527816849	حسابېدل	hisaabedul	to be calculated, settled, accounted for, considered, reckoned	4	v. stat. comp. intrans.	1527812686																												
 1527823181	حصارېدل	hisaaredul	to be fenced in, inclosed, surrounded by a barrier	3	v. stat. comp. intrans.	1527823180																												
 1585821305401	اعدامېدل	i'daamedul	to be sentenced/condemned to death	4	v. stat. comp. intrans.	1527812380																												
 1577231491953	اعلامېدل	i'laamedúl	to be announced, declared, communicated	3	v. stat. comp. intrans.	1527819106																												
@@ -13830,7 +13840,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813942	راستونېدل	raastoonedul	to return, come back (from a journey etc.), to resettle	3	v. stat. comp. intrans.	1527813943																												
 1578010137441	راویښېدل	raaweexedul	to be woken up, to become awake / alert / aware	4	v. stat. comp. intrans.	1578010091515																												
 1527814404	ربلېدل	rabledul	to be accepted, deemed worthy, approved, to deserve something	2	v. stat. comp. intrans.	1578191119801																												
-1527822477	ردېدل	rădedul	to be rejected	4	v. stat. comp. intrans.	1527815854																												
+1527822477	ردېدل	rădedul	to be rejected, denied, turned down, refused, contradicted	4	v. stat. comp. intrans.	1527815854	be	rejected																										
+1708003101313	رد کېدل	rad kedúl	to be rejected, denied, turned down, refused, contradicted	4	v. stat. comp. intrans.	1527815854	be	rejected																										
 1527822178	رهي کېدل	rahee kedul	to proceed, start out, move out	3	v. stat. comp. intrans.	1527822176																												
 1604508229105	رسمېدل	rasmedúl	to be drawn, painted	4	v. stat. comp. intrans.	1604508201979																												
 1586363234236	رسوا کېدل	riswaa kedul	to be disgraced, shamed	3	v. stat. comp. intrans.	1527814190																												
@@ -14172,8 +14183,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588160281121	هېښول	hexawul	to stun, shock, perplex, amaze	4	v. stat. comp. trans.	1527823162																												
 1588426001131	حیرانول	hayraanawúl	to amaze, astonish, shock, surprize	4	v. stat. comp. trans.	1527813718																												1
 1646237370153	حفظول	hifzawul	to memorize	4	v. stat. comp. trans.	1527819703																												
-1527816850	حسابول	hisaabawul	to calculate, reckon, compute	4	v. stat. comp. trans.	1527812686																												
-1577813786989	حصارول	hisaarawul	to fence in, inclose, surround by a barrier	3	v. stat. comp. trans.	1527823180																												
+1527816850	حسابول	hisaabawul	to calculate, reckon, compute, consider	4	v. stat. comp. trans.	1527812686																												
 1527820117	اعدامول	i'daamawul	to sentence/condemn to death	3	v. stat. comp. trans.	1527812380																												
 1527819105	اعلامول	i'laamawúl	to notify, announce, declare, communicate	4	v. stat. comp. trans.	1527819106																												
 1527820881	اعتراف کول	i'tiraaf kawul	to confess, admit, acknowledge	3	v. stat. comp. trans.	1527820880																												
@@ -14411,7 +14421,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813941	راستونول	raastoonawul	to return to us / me / here, to resettle	4	v. stat. comp. trans.	1527813943																												
 1578010133851	راویښول	raaweexawul	to wake up, to make awake / alert / aware	4	v. stat. comp. trans.	1578010091515																												
 1578191169054	ربلول	rablawul	to accept, consider worthy, approve	2	v. stat. comp. trans.	1578191119801																												
-1527815856	ردول	rădawul	to reject, to deny, to refuse	4	v. stat. comp. trans.	1527815854																												
+1527815856	ردول	rădawul	to reject, to deny, to refuse, contradict	4	v. stat. comp. trans.	1527815854	reject																											
+1708003054168	رد کول	rad kawul	to reject, to deny, to refuse, contradict	4	v. stat. comp. trans.	1527815854	reject																											1
 1527823080	رفع کول	rafa kawul	to get rid of, eliminate, do away with	3	v. stat. comp. trans.	1527811246																												
 1585474400168	رغول	raghawul	to make healthy, well, to cure, to build up; to sew, mend, repair; to pacify, conciliate	3	v. stat. comp. trans.	1527814277																												
 1527822177	رهي کول	rahee kawul	to dispatch, send	3	v. stat. comp. trans.	1527822176																												
@@ -15244,10 +15255,15 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1592559707850	پښکی	puxkay	blacksmith (پښ)	2																														
 1527817045	پیاخله	pyaakhla	sweating, making vegetable extract	3																														
 1527814689	قاچاق تېرول	qaachaaq terawul	to smuggle, to traffick	4																														
-1589884891910	قلار	qaláar	see قرار	4																														
+1589884891910	قلار	qaláar	quiet, peaceful, established, constant, stable, agreed	4																														
+1708000958630	قلارول	qalaarawúl	to calm, make peaceful, settle	4	1589884891910	calm																												
+1708000962026	قلارېدل	qalaaredúl	to calm down, get quiet, settle	4	1589884891910	calm	down																											
+1708000748865	قلاره	qaláara	quiet, peaceful, calm, established, constant, stable, agreed	4																														
+1708000965455	قلاره کول	qalaara kawúl	to calm, make peaceful, settle	4	1708000748865	calm																												
+1708000969212	قلاره کېدل	qalaara kedúl	to calm down, get quiet, settle	4	1708000748865	calm	down																											1
 1586678594972	قطع کول	qata kawul, qat kawul	to break, interrupt, discontinue	3																														
 1586362512021	را ایستل	raa eestúl	to bring out from, to take, take out extract	3																														
-1527817815	رابلل	raabalul	to call, invite, summon	3														رابول	raabol												2	3		
+1527817815	رابلل	raabalúl	to call, invite, summon	3														رابول	raabol												2	3		1
 1664092130046	رابرغه کول	raabárgha kawul	to respond, accompany, chime in	4																														
 1586362601659	راځړېدل	raadzaRedúl	to hang	3																														
 1527813693	راګیر	raageer	caught, stuck, tangled	4																														
@@ -16016,4 +16032,46 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1707919295172	شوملې	shoomlé	ayran, buttermilk, sour milk		n. f. pl.																													1
 1707919575516	په بیه اخیستل	pu báya akheestúl	to buy, to purchase																															1
 1707919614150	په بیعه اخیستل	pu báya akheestúl	to buy, to purchase																															1
-1707920394563	نېر	ner	canal		n. m.																													
+1707920394563	نېر	ner	canal		n. m.																													1
+1708000020265	کیک	kayk	cake		n. m.																													1
+1708000032736	کیبل	kaybúl	cable		n. m.																													1
+1708000366253	کالکولېټر	kaalkooleTúr	calculator		n. m.																													1
+1708000481741	ملاقاتي	mUlaaqaatée	caller		n. m. anim. unisex																													1
+1708002930647	خوش خطي	khoosh khatée	caligraphy		n. f.																													1
+1708001364498	په ارام	pu aráam	calmly, peacefully, unhurriedly		adv.																													1
+1708001387148	په مزه	pu mazá	calmly, unhurriedly, enjoyably		adv.																													1
+1708001509102	کېمره	kemrá	camera		n. f.																													1
+1708001545262	کافور	kaafóor	camphor		n. m.																													1
+1708001588355	نهر	náhur	river, canal, brook		n. m.																													1
+1708001811773	تلک	talak	trap		n. m.																													
+1708001814661	کریر	kreer	trap		n. m.																													
+1708001861335	کاربورېټر	kaarbooreTúr	carburetor		n. m.																													1
+1708001913427	ادم خور	adam khór	cannibal		n. m. anim. unisex				ادم خواره	adam khwaarú	ادم خور	adam khwar																						1
+1708001987086	شامیانه	shaamiyaaná	canopy		n. f.																													1
+1708002019169	ګرمه	garmá	cantaloupe		n. f.																													1
+1708002067912	بادبان	baadbáan	sail, canvas		n. m.																													
+1708002124180	باد بېړۍ	baad beRúy	sailboat		n. f.																													
+1708002286298	دارالخلافه	daarUlkhilaafá	capital		n. f.																												TRUE	1
+1708002280991	دار الخلافه	daar Ulkhilaafá	capital		n. f.																													1
+1708002383568	نیوک	neewák	invasion, occupasion, seizing		n. m.																													
+1708002428538	قبضه	qabzá	power, authority, seizing, foreclosure, capture, take-over, invasion, occupation	4	n. f.																													
+1708002520813	قبضه کول	qabza kawúl	to take over, seize, capture, invade, occupy, foreclose	4	v. stat. comp. trans.	1708002428538	take	over																										1
+1708002525783	قبضه کېدل	qabza kedúl	to be taken-over, seized, captured, invaded, occupied, foreclosed	4	v. stat. comp. intrans.	1708002428538	be	taken over																										
+1708002661360	کاروان سرای	kaarwaan saráay	caravansary		n. m.																													1
+1708002696357	کاربن	kaarbún	carbon		n. m.																													1
+1708002725958	کارډبورډ	kaarDbórD	cardboard		n. m.																													1
+1708003227254	مالوماتي	maaloomaatée	informative, informational		adj.																													
+1708003231980	معلوماتي	ma'aloomaatée	informative, informational		adj.																													1
+1708003284995	ډیوټ	DeewáT	lampstand		n. m.																													
+1708003347552	خوږې ګولۍ	khwuGe golúy	candy		n. f. pl.																													1
+1708003388128	ټافي	Taafée	taffy, candy		n. f.																													1
+1708003467126	ګړده	guRdá	cannabis, marijuana		n. f.																													1
+1708003557674	مسالې والا کاغذ	masaalé waalaa kaaghúz	carbon paper		n. m.																													1
+1708003801960	بې خیاله	be khyáala	unconcerned, uncaring, thoughtless		adj.																													1
+1708003844190	احتیاط کوونکی	ihtiyáat kawóonkay	careful		adj.																													1
+1708003939266	خیال کوونکی	khyaal kawóonkay	careful, caring, considerate		adj.																													1
+1708024142780	مرضتیا	maraztyáa	sickness, illness		n. f.																													
+1708027027376	مادي پرستي	maaddee parastée	materialism		n. f.																													
+1708027061496	خود پرستي	khood parastée	selfishness, egoism		n. f.																													
+1708027099888	خود پرست	khood parást	selfish, egotistical		n. m. anim. unisex / adj.																													
+1708027301649	بې اتفاقه	be itifáaqa	disunite, full of dischord and disunity		adj.																													
