@@ -1273,6 +1273,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1575642966457	معنیٰ دار	manaa daar	meaningful, significant	3	adj.																													
 1527815745	منندوی	manandooy	grateful, thankful, appreciative	4	adj.																													
 1527820414	منځنی	mandzunáy	middle, central	3	adj.																													
+1708116803109	مېنځنی	mendzunáy	middle, central	3	adj.																													1
 1527814334	منفي	manfée	negative	4	adj.																													
 1527818970	منفور	manfóor	hated, detested, despised	3	adj.																													
 1527813191	منګنی	mangunay	autumn-like, born in the fall	2	adj.																													
@@ -1497,7 +1498,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1666281659484	مستحب	mUstaháb	recommended (in Islamic law)	3	adj.																													
 1527819190	مستحق	mUstaháq, mUstahíq	deserving, worthy, having a right (to)	4	adj.																													
 1527815853	مستحکم	mUstahkam	strong, solid, firm, fortified	4	adj.																													
-1527816061	مستند	mUstanad	grounded, founded, documented, substantiated (Arabic)	3	adj.																													
+1527816061	مستند	mUstanád	grounded, founded, documented, certified, substantiated (Arabic)	3	adj.																													
+1708117308894	مستند کول	mUstanad kawúl	to certify, attest, document		v. stat. comp. trans.	1527816061	certified																											1
+1708117311739	مستند کېدل	mUstanad kedúl	to be certified, attested, documented		v. stat. comp. intrans.	1527816061	be	certified																										
+1708117367893	مستندول	mUstanadawúl	to certify, attest, document		v. stat. comp. trans.	1527816061	certified																											
+1708117364280	مستندېدل	mUstanadedúl	to be certified, attested, documented		v. stat. comp. intrans.	1527816061	be	certified																										
 1527820671	مستقل	mUstaqíl	independent, self-reliant	4	adj.																													1
 1527820672	مستقل مزاجه	mUstaqil mizáaja	self-reliant, independent (when talking about a person)	4	adj.																													
 1592915611692	مسترد	mUstarăd	rejected, turned down	4	adj.																													
@@ -2485,7 +2490,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1663958075432	ښوونیز	xowunéez, xowanéez	educational	4	adj.																													
 1527812796	ښه	xu	good	4	adj.																													
 1527820752	ښځینه	xudzéena	women’s, female, lady’s	4	adj.																													
-1527818182	ښخ	xukh	buried	4	adj.																													
+1527818182	ښخ	xukh	buried, entombed; stuck in, thrust into, plunged into	4	adj.																													
 1527819905	ښویند	xwayúnd, xwayúnd	slippery	4	adj.																													
 1527819906	ښویندار	xwayundáar, xwayundáar	slippery	4	adj.																													
 1527819904	ښوی	xwáy	smooth, slippery; fake, counterfeit, hypocritical, fraudulent; sneakily, stealthily	1	adj. / adv.																													
@@ -4807,8 +4812,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823519	خورلڼه	khorlaNa	girl's word for friend, fellow tribes-woman	4	n. f.																													
 1527823520	خورلنده	khorlanda	fellow tribes-woman	4	n. f.																													
 1527811908	خوش قسمتي	khosh qismatee	happiness, success, good luck	4	n. f.																													
-1527813477	خوشحالي	khosh`haalée	happiness, joy, rejoicing	4	n. f.																													1
-1527819521	خوشالي	khoshaalée	happiness (خوشحالي)	4	n. f.																													1
+1527813477	خوشحالي	khosh`haalée	happiness, joy, rejoicing, celebration	4	n. f.																													1
+1708116463320	خوشحالي کول	khosh`haalee kawúl, khoshaalee kawul	to celebrate, rejoice, be happy	4	v. dyn. comp. trans.	1527813477	celebrate																											1
+1527819521	خوشالي	khoshaalée	happiness, joy, rejoicing, celebration (خوشحالي)	4	n. f.																													1
 1588075160983	خوشامندي	khoshaamandee	flattery, sucking up to	4	n. f.																													
 1527817727	خپرونه	khparawuna	distribution, spreading; program (as in a TV or radio program)	4	n. f.																													
 1527819421	خپلواکي	khpulwaakee	independence, freedom, autonomy	4	n. f.																													
@@ -7433,7 +7439,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1582145082405	بوک	bok	hump (of a camel), protrusion, bulge	2	n. m.											بوکه	boka																	
 1527812506	بوخت	bokht	busy, occupied	4	n. m.																													
 1527820944	بود	bood	being, existence; exaction, proceeds, recovered/made (as in money from a sale), gain, attainment	3	n. m.																													
-1527820950	بود	bood	the point (fig. of something, some idea), though, idea; storehouse for hay (plastered in clay)	3	n. m.																													
+1527820950	بود	bood	the point (fig. of something, some idea), thought, idea; storehouse for hay (plastered in clay)	3	n. m.																													
 1678173765979	بودایزم	boodaa`eezum, boodaayizum	Buddhism		n. m.																													
 1527817537	بوغو	booghóo	trombone	3	n. m.																													
 1527823728	بوم	boom	owl	3	n. m.																													
@@ -7839,6 +7845,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1701527576223	ځناور	dzinaawár, dzanaawár	wild beast; animal	4	n. m. anim. unisex																													1
 1527813045	ځنډ	dzanD	delay, postponement, detention	4	n. m.																													
 1527817022	ځنځیر	dzandzéer	chain; handcuffs, shackles, bonds, ties	4	n. m.																													1
+1708117144689	ځنځیرول	dzandzeerawúl	to chain up		v. stat. comp. trans.	1527817022	chain	up																										1
+1708117148554	ځنځیرېدل	dzandzeeredúl	to be chained up		v. stat. comp. intrans.	1527817022	be	chained up																										
 1577408901204	ځنګون	dzangóon	knee	3	n. m.				ځنګانه	dzangaanú	ځنګن	dzangan				ځنګنونه	dzanganoona																	
 1527821835	ځنکدن	dzankadán	the last breaths before death, time approaching death	4	n. m.																													
 1527821836	ځنکندن	dzankandán	the last breaths before death, time approaching death	4	n. m.																													
@@ -7848,6 +7856,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823228	ځین	dzeen	saddle	4	n. m.																													
 1595256411418	ځیر	dzeer	a soft leather from Iran; peep	4	n. m.																													
 1592559752927	ځېل	dzel	stubbornness, obstinancy	4	n. m.																													
+1708056571546	ځېلګر	dzelgúr	stubborn, obstinate		adj.																													
+1708056456875	ځېل کول	dzel kawul	to be stubborn, obstinate	4	v. dyn. comp. trans.	1592559752927	be	stubborn																										
 1620766941369	ځمکنی توت	dzmukanay toot	strawberry	4	n. m.											ځمکني توتان	dzmukanee tootáan																	
 1527814464	ځمکوال	dzmukwaal	farmer	3	n. m.																													
 1527821031	ځوګل	dzoogúl	remains of grapes after pressing them for wine; oilcake; crab	2	n. m.																													
@@ -8132,7 +8142,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579016633975	ګوړ	gooR	rumbling (of cattle's stomach)	3	n. m.																													
 1527816701	ګوټ	gooT	corner; sip; shoe, boot	4	n. m.																													1
 1566474890608	ګوڅی	gootsáy	a kind of edible mushroom	2	n. m.																													
-1527820078	ګوزار	goozaar	hit, strike, attack, blow, swat	4	n. m.																													
+1527820078	ګوزار	goozáar	hit, strike, attack, blow, swat, throuw	4	n. m.																													
+1708115270028	ګوزارول	goozaarawúl	to cast, throw, strike, attack		v. stat. comp. trans.	1527820078	throw,throws,throwing,threw,thrown																											1
+1708115368072	ګوزار کول	goozáar kawul	to assault, strike, hit		v. dyn. comp. trans.	1527820078	assault																											
+1708115274455	ګوزارېدل	goozaaredúl	to be cast, thrown, struck, attacked		v. stat. comp. intrans.	1527820078	be	thrown																										
 1527819117	ګوزڼ	goozúN	paralysis, palsy, sickness with tremors, polio	4	n. m.																													
 1527819120	ګوزن	goozún	reindeer	2	n. m.																													
 1527819118	ګوزڼد	goozúNd	paralysis, palsy, sickness with tremors, polio	4	n. m.																													
@@ -9629,7 +9642,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813767	مېلمستځی	melmastdzáy	hotel, place for guests	2	n. m.																													
 1527813766	مېلمستون	melmastóon	hotel, place for guests	2	n. m.																													
 1527817658	مېلو	meloo	bear	4	n. m.																													
-1527811455	مېنځ	mendz	middle, center, among, between	4	n. m.																													
+1527811455	مېنځ	mendz	middle, center, among, between	4	n. m.																													1
 1527816475	مېرېنی ورور	merenay wror	stepbrother, half brother	4	n. m.																													
 1527812911	مېړه	meRu	husband, brave	4	n. m.																													
 1527819997	مېړښتوب	meRUxtób	marriage (with regard to a woman)	2	n. m.																													
@@ -10550,7 +10563,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821516	سباګون	sabaagóon	dawn, daybreak	2	n. m.																													
 1527813731	ثبات	sabaat, sUbaat	firmness, consistence, persistence	4	n. m.																													
 1527821515	سباوون	sabaawóon	dawn, daybreak	4	n. m.																													
-1527811549	سبب	sabab	reason, cause, base	4	n. m.									اسباب	asbaab																			
+1527811549	سبب	sabáb	reason, cause, base	4	n. m.									اسباب	asbaab																			1
 1527815308	سبق	sabáq	study, school, lesson (as in a lesson given in school, or a lesson learned through experience, hardship, and consequences)	4	n. m.																													1
 1527817326	سبت	sabat	Sabbath	2	n. m.																													
 1527814438	صبر	sabir	patience, longsuffering, strength of heart in the face of suffering or sadness	4	n. m.																													
@@ -14586,6 +14599,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579721453876	وچول	wuchawúl	to cause to dry, dry out	4	v. stat. comp. trans.	1527815130																												1
 1527818756	ښادول	xaadawúl	to cheer, gladden, amuse, divert	4	v. stat. comp. trans.	1527818755																												
 1527811278	ښخول	xukhawúl	to bury, entomb; to thrust into, pierce, plunge	4	v. stat. comp. trans.	1527818182																												1
+1708116234805	خښ	khux	buried, entombed; stuck in, thrust into, plunged into	4	adj.																													
+1708116238259	خښول	khuxawúl	to bury, entomb; to thrust into, pierce, plunge	4	v. stat. comp. trans.	1708116234805	bury																											
+1708116243468	خښېدل	khuxedúl	to be buried, entombed; thrust into, pierced, plunged into	4	v. stat. comp. intrans.	1708116234805	be	buried																										
 1578520948834	ښکارول	xkaarawúl	to show, disclose, present, make clear, make obvious	4	v. stat. comp. trans.	1527812778																												
 1527814828	ښکلول	xkUlawul	to kiss	4	v. stat. comp. trans.	1527816827																												
 1583269485015	ښکته کول	xkuta kawul	to lower, to bring down	4	v. stat. comp. trans.	1527812780																												
@@ -14951,7 +14967,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1624353148671	څرخول	tsarkhawul	to turn, rotate, spin, whirl around (causitive)	4	v. trans.																													
 1527813598	څڅول	tsatsawul	to drip, to pour out drop by drop	4	v. trans.																													
 1527819389	څټل	tsaTúl	to lick, to lap	4	v. trans.																	څاټه	tsaaTu											
-1527818445	څیرل	tseerul	to tear, split, crack, burst, explode	4	v. trans.																													
+1527818445	څیرل	tseerul	to tear, split, crack, carve, burst, explode	4	v. trans.																													1
 1527818162	څکول	tskawul	to make someone drink or give drink to someone, to make someone smoke	4	v. trans.																													
 1527820991	څخول	tskhawúl	to stuff, pack, fill, shove in, push, cram into, squeeze into; pull, haul, drag; break, split, crack (ie. nuts); to stick, plunge, pierce, peck, pick (ie. one’s nose)	4	v. trans.																													
 1527818163	څکل	tskul	to drink, smoke, absorb	4	v. trans.																													
@@ -15154,7 +15170,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1566477909892	کښېوتل	kxewatúl	to get into, to come out, find oneself in, to fall into, to burst into or penetrate	3																														
 1626940168316	له ... سره سره	la ... sara sara	though, although																															
 1527819454	له دې کبله	la de kabála	for this reason	3																														1
-1527811992	له کبله	la kabula	because of, on account of	3																														
+1527811992	له کبله	la kabúla	because of, on account of	3																														1
 1527816867	له منځه وړل	la măndza wRul	to eradicate, to remove, get rid of	4																														
 1527813548	له مخې	la mukhe	according to, on the basis of; from the front of; completely	3																														
 1527820176	له وجې	la waje	because, on account of	3																														
@@ -15284,7 +15300,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586362956994	رامنځ ته کېدل	raamandz ta kedul	to come to be, to come to pass, to come about	4																														
 1586362962358	رامېنځ ته کول	raamendz ta kawul	to bring about, to cause to pass, to bring together	4																														
 1586362985904	رامېنځ ته کېدل	raamendz ta kedul	to come to be, to come to pass, to come about	4																														
-1527817260	رانیول	raaneewul	to catch, to get, to hold	4														رانیس	raanees															
+1527817260	رانیول	raaneewul	to catch, to get, to hold	4														رانیس	raanees															1
 1527819512	رانغاړل	raanghaaRul	to wrap up, pack up, package, roll up, fold up	3																														
 1527815515	راپارول	raapaarawul	to incite, provoke, bring up	4																														
 1527817301	راپاڅېدل	raapaatsedul	to get up, to rise	3																								true	true		4	6		
@@ -16075,3 +16091,35 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708027061496	خود پرستي	khood parastée	selfishness, egoism		n. f.																													
 1708027099888	خود پرست	khood parást	selfish, egotistical		n. m. anim. unisex / adj.																													
 1708027301649	بې اتفاقه	be itifáaqa	disunite, full of dischord and disunity		adj.																													
+1708055923273	ځېلي	dzelee	stubborn, obstinate		adj.																													
+1708055989780	لج	laj	stubbornness, obstinancy		n. m.																													
+1708056363617	لچ	lach	opthalmia, eye infection		n. m.																													
+1708114598764	بې فکره	be fíkra	thoughtless, careless, unworried		adj.																													1
+1708114660892	بې احتیاطه	be ihtiyáata	careless, uncautioned		adj.																													1
+1708114740132	د جهاز بار	du jihaaz baar	cargo		n. m.																													1
+1708114775087	سپرکۍ	spirkúy	carroway		n. f.																													1
+1708114919523	برفکیس	brífkays	briefcase, container		n. m.																													1
+1708114940574	نغدي	nághdee	cash		adj.																													1
+1708114986911	نقدي	náqdee	cash		adj.																													
+1708115021825	خزانه چي	khazaana chée	cashier		n. m. anim. unisex																													1
+1708115064770	د مړي صندوق	du muRee sUndóoq	casket, coffin		n. m.																													1
+1708115163190	کیسټ	kaysáT	cassette		n. m.																													1
+1708115188932	ټیپ ریکارډ	Tayp reekáarD	tape recorder		n. m.																													1
+1708115454530	مرګ او ژوبله	marg aw jzóbla	casualty, dead/wounded																															1
+1708115485673	مرګ ژوبله	marg jzóbla	casualty, dead/wounded																															
+1708115520327	د سترګو پرده	du sturgo pardá	cataract		n. f.																													1
+1708115597300	رانیسل	raaneesúl	to catch		v. trans.	catch														راونیس	raa`óonees			راونیسل	raa`óoneesul						3	5		1
+1708115914256	پیشوګۍ	peeshogúy	catterpillar		n. f.																													1
+1708115959458	بلډوزر	bilDozúr	bulldozer, Caterpiller (machine)		n. m.																													1
+1708116036327	ګوپي	gopée	cauliflower		n. f.																													1
+1708116140339	هوښیارتیا	hoxyaartyáa, ooxyaartyáa	intelligence, smarts, caution		n. f.																													1
+1708116384528	خالي ځای	khaalee dzaay	cavity, empty space		n. m.																													1
+1708116404857	سي ډي	see Dee	CD		n. f.																													1
+1708116574721	مناول	munaawúl	to celebrate (from Urdu)		v. trans.	celebrate																												1
+1708116658047	تیهخانه	tayhkhaaná	cellar		n. f.																													1
+1708116671516	سیمټ	seemúT	cement		n. m.																													1
+1708116706543	قبرستان	qubristáan	graveyard, cemetary		n. m.																													1
+1708116748643	زنزه	zúnza	centipede		n. f.																													1
+1708116750463	زمزه	zúmza	centipede		n. f.																													1
+1708116860203	تقریب	taqréeb	ceremony, function		n. m.																													1
+1708116938665	سرټیفیکټ	surTeefeekúT	certificate		n. m.																													1
