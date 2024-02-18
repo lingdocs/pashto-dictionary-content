@@ -2053,7 +2053,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821297	سرکش	sărkásh	insubordinate, rebellious	3	adj.																													
 1664025779149	سرکښ	sărkáx	insubordinate, rebellious	4	adj.																													
 1662631080337	سرخرېیلی	sărkhre`yúlay	with a shaved head	4	adj.																													
-1527816596	سرکوب	sărkob	towering above, overseeing, dominating, overseen, supervisor, supervised	4	adj.																													
+1527816596	سرکوب	sărkób	towering above, overseeing, dominating, overseen, supervisor, supervised	4	adj.																													
 1527814900	سرلوړی	sărlwaRay	respectable, honorable	4	adj.																													
 1573767094577	سرلوړی	sărlwáRay, sărlóRay	respectable, honorable	3	adj.																													
 1527813729	سروتن	sarootan	identical, equal	2	adj.																													
@@ -4006,6 +4006,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1591711934718	دوبۍ	dobúy	washerwoman, someone who does the laundry, laundress	3	n. f.																													
 1527812564	ډوډۍ	DoDúy	bread, food, meal	3	n. f.																													1
 1527812565	دوکه	doká	deceit, cheating	3	n. f.																													1
+1708188980884	دوکه ورکول	doká warkawúl	to deceive, cheat, trick	3	v. dyn. comp. trans.	1527812565																												1
 1527820954	ډوله	Dolá	hole, pit, depression; ravine; rut, groove; dense	3	n. f.																													
 1610618020229	ډولچه	Dolchá	bucket, pail	4	n. f.																													
 1527820914	ډولۍ	Dolúy, Doolúy	palanquin, litter (carriage that the bride is carried in)	4	n. f.																													
@@ -4596,7 +4597,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821555	ژۍ	jzúy	edge, verge, side	3	n. f.																													
 1527813589	ژوند توګه	jzwand toga	lifestyle	2	n. f.																													
 1678361753429	ژوند بڼه	jzwund buNa	lifestyle		n. f.																													
-1527814082	ژوره	jzwura	depth; pit, hole, cavity	4	n. f.																													
+1527814082	ژوره	jzwura, jzuwúra	depth; pit, hole, cavity, chasm	4	n. f.																													1
 1527818863	ژیړه	jzyáRa	yellowness, jaundice; insult, disgrace, mockery	3	n. f.																													
 1527820428	کابینه	kaabeená	cabinet (politics)	4	n. f.																													1
 1580349119530	کابو	kaaboo	control, check	3	n. f.																													
@@ -5318,7 +5319,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818825	معامله	mU'aamala, maamilá, maamalá	transaction, dealing, business, issue	4	n. f.																													
 1619276910300	معاوضه	mU'aawizá	exchange, compensation, barter	4	n. f.																													
 1527820782	معاینه خانه	mU'aayaná khaana	outpatient clinic	4	n. f.																													
-1527820781	معاینه	mU'aayaná, maayana	examination (ie. medical examination etc.)	4	n. f.									معاینات	mU'aayanáat																			
+1527820781	معاینه	mU'aayaná, maayná	examination (ie. medical examination etc.)	4	n. f.									معاینات	mU'aayanáat																			
+1708189464427	معاینه کول	mU'aayana kawúl, maayna kawul	to examine	4	v. stat. comp. trans.	1527820781	examine																											1
 1579289097783	معرفي	mU'arrifee, marrifee	introduction, recommendation, acquaintance	3	n. f.																													
 1669827653209	معضله	mU'azalá	difficulty, problem, impasse		n. f.																													
 1527818259	معجزه	mU'jizá	miracle, wonder	4	n. f.									معاجزه	m'aajUza																			
@@ -6184,7 +6186,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815293	سیالي	siyaalee	competition, rivalry	3	n. f.																													
 1527814612	سکالو	skaalo	subject, matter, conversation, theme, talking; see ښکالو	1	n. f.																													
 1527819736	سکڼۍ	skaNúy	queen bee’s cell (in a beehive); handle (of a dish)	3	n. f.																													
-1672406384728	سکړوته	skaRwáta	coal (a single piece burning), ember		n. f.																													
+1672406384728	سکړوته	skaRwáta	hot coal, ember		n. f.																													
 1610794658533	سخۍ	skhúy	female calf, heifer	4	n. f.																													
 1588075239779	سکونډاره	skoonDaara	pinch; scratch, cut	4	n. f.																													
 1527820606	سمڅه	smútsa	cave, cavern		n. f.																													
@@ -6315,6 +6317,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813795	تفرېح	tafreh	entertainment, recreation, amusement	4	n. f.																													
 1610797742078	تفرقه	tafriqá	division, seperation	4	n. f.																													
 1527821813	ټګي	Tagée	deception, deceit, trick, trickery	4	n. f.																													1
+1708189220191	ټګي کول	Tagée kawul	to deceive, cheat, trick	4	v. dyn. comp. trans.	1527821813	deceive																											1
 1527821814	ټګي برګي	Tagee bragee	fraud, cheat, deception, swindling, trickery	4	n. f.																													
 1566471721828	تغذیه	taghziyá	nourishment, feeding, digestion	4	n. f.																													
 1527819450	تګلاره	taglaara	policy, guideline, course of action	4	n. f.																													
@@ -6407,7 +6410,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816418	ترنه انا	tarna anaa	great-grandmother	4	n. f.																													
 1527821179	تړنه	taRúna	binding, linking, reinforcement, connection, closing, covering	4	n. f.																													
 1527814316	ترقي	taruqqée	progress, development	4	n. f.																													1
-1527815337	تسلي	tasallee	consolation, comfort, satisfaction	4	n. f.																													
+1527815337	تسلي	tasallée	consolation, comfort, satisfaction, reassurance	4	n. f.																													
+1708189702665	تسله	tasallá	consolation, comfort, satisfaction, reassurance	3	n. f.																													
+1708189718575	تسلي ورکول	tasallée warkawúl	to comfort, console, reassure	4	v. dyn. comp. trans.	1527815337	comfort																											
+1708189722761	تسله ورکول	tasallá warkawúl	to comfort, console, reassure	3	v. dyn. comp. trans.	1708189702665	comfort																											1
 1622278360517	تصفیه	tasfiya	clarification, removal, purification, refinement	2	n. f.																													
 1527816794	تشریح	tashreeh	explanation, description, dissection, comment	4	n. f.																													
 1527814201	تسکره	taskara	chair, litter, stretcher	4	n. f.																													
@@ -7575,7 +7581,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821979	چیړ	cheeR	sticky substance, gum, pitch	3	n. m.																													
 1527816653	چیرک	cheerak	footpath, trail, pathway	1	n. m.																													
 1527818164	چیښن	cheexún	drink, drinking	2	n. m.																													
-1675435435367	چېنل	chenal	channel		n. m.																													
+1675435435367	چېنل	chenál	channel		n. m.																													1
 1527811354	چل چراغ	chil chiraagh	chandelier	2	n. m.																													
 1576597327529	چلتار	chiltáar	keiffiyeh, Arabic scarf/headdress	3	n. m.																													
 1527822005	چلم	chilúm	water pipe, sheesha, nargile	4	n. m.																													
@@ -7944,7 +7950,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811399	فوټبال	fooTbaal	football, soccer	4	n. m.																													
 1527820574	فورم	form	uniform (clothing)	2	n. m.																													
 1527814487	فریزر	freezur	refrigerator, fridge, freezer	2	n. m.																													
-1527811631	فریب	faráyb	deceit, deception, trick	3	n. m.																													1
+1527811631	فریب	faréeb	deceit, deception, trick	3	n. m.																													1
+1708189057572	فریب ورکول	faréeb warkawúl	to deceive, trick	3	v. dyn. comp. trans.	1527811631	deceive																											1
 1527816555	فحش	fUhsh	foul language, cursing, swearing, depravity ??	4	n. m.																													
 1527816790	فرصت	fUrsat	opportunity, occasion, chance	3	n. m.																													
 1527812610	فټبال	fuTbaal	football, soccer	4	n. m.																													
@@ -7977,7 +7984,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1575239666478	ګڼون	gaNóon	enumeration, counting, assumption, supposition; (online) account (حساب)	2	n. m.																													
 1527820789	ګڼوالی	gaNwaaláy	thickness, denseness, shadiness, populousness	4	n. m.																													
 1527819660	ګپ	gap	conversation, talk, talking; joking	4	n. m.																													
-1527819659	ګپ شپ	gap sháp, gup shúp	conversation, talking, chit-chat	4	n. m.																													1
+1527819659	ګپ شپ	gup shúp, gap sháp	conversation (informal), talking, chit-chat	4	n. m.																													1
+1708188865621	ګپ شپ لګول	gup shúp lugawúl	to chat, have informal conversation	4	v. dyn. comp. trans.	1527819659	chat																											1
 1527816200	ګړنګ	gaRang	sheer cliff, precipice, abyss, gulf	4	n. m.																													
 1527816787	ګرد	gard	dust, speck	4	n. m.																													
 1584530276400	ګردان	gardáan	inflection, conjugation, declension (grammar); rote learning, learning by heart, learning by repitition	4	n. m.																													
@@ -9905,6 +9913,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816673	نقص	nÚqs, naqs	shortcoming, defect, deficiency, damage, harm	3	n. m.									نواقص	nawaaqis																			1
 1527819340	نقش	naqsh	design, impression, engraving, print; role, part	3	n. m.																													
 1579459728708	نقل	náqul, naql	tale, fairy tale (نقل), narration; copying, copy; transfer, moving	3	n. m.																													1
+1708189300980	نقل کول	náqul kawul	to deceive, trick	3	v. dyn. comp. trans.	1579459728708	deceive																											1
 1527822399	نړ	naR	250 square meters, one quarter jirib	2	n. m.																													
 1527819181	نری رنځ	naray randz	tuberculosis, TB	4	n. m.																													
 1527816962	نرغون	narghoon	dialectical variant of لرغون, old times, ancient times, antiquity	2	n. m.																													
@@ -11822,7 +11831,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813243	زحمت	zahmat	effort, labor, difficulty, trouble	3	n. m.																													
 1527816966	ظهر	zahr	back, spine, reverse, help, support (Arabic)	2	n. m.																													
 1574783150201	زجر	zájur	oppression, crushing; torment, trouble, persecution, torture, vexation	4	n. m.																													
-1527817683	زکات	zakáat	zakat, alms, religious tax, manditory charitable contribution in Islam	4	n. m.																													
+1527817683	زکات	zakáat	zakat, alms, religious tax, manditory charitable contribution in Islam	4	n. m.																													1
+1708188174922	ذکات	zakáat	zakat, alms, religious tax, manditory charitable contribution in Islam	4	n. m.																													1
 1527820252	ذکاوت	zakaawát	intelligence	3	n. m.																													
 1527811629	زخم	zákhum	wound, injury, cut, sore	4	n. m.																													1
 1527819830	زلمیتوب	zalmeetób	youth	4	n. m.																													1
@@ -13190,7 +13200,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812889	ملنډې وهل	malunDe wahul	to make fun of, mock, ridicule	4	v. dyn. comp. trans. sing. or plur.	1527812888																												
 1527823371	ټونګې وهل	Toonge wahul	to peck (for birds, lit. to throw beak)	4	v. dyn. comp. trans. sing. or plur.	1527823140																												
 1527819253	شروع کول	shUróo' kawul	to start, to begin	4	v. dyn./stat. comp. trans.	1527819252	start																											1
-1527812566	دوکه کول	doka kawul	to deceive, to cheat	4	v. dyn./stat. comp. trans.	1527812565	deceive																											1
+1527812566	دوکه کول	doka kawul	to deceive, to cheat, to trick	4	v. dyn./stat. comp. trans.	1527812565	deceive																											1
 1658796089458	استري کول	istree kawul	to iron (clothes etc.)	4	v. dyn./stat. comp. trans.	1658795458148	iron																											
 1609162463793	واده کول	waadu kawul	to marry, get married	4	v. dyn./stat. comp. trans.	1527815394	marry																											
 1645607226688	پیل کول	payl kawul	to start, begin	4	v. dyn./stat. comp. trans.	1527815171																												1
@@ -15066,7 +15076,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812562	دی	day	is, masculine 3rd pers sing. pres. equative verb	4																														
 1527813131	دی	day	is, 3rd person equative present	4																														
 1527817412	دل جویي کول	dil joyee kawul	to console, comfort, charm, captivate	3																														
-1527817804	دوکه کېدل	doka kedul	to be deceived, misled, mistaken, to fall for something	4		1527812565																												
+1527817804	دوکه کېدل	doka kedul	to be deceived, misled, mistaken, tricked, to fall for something	4		1527812565																												
 1573684562090	دونه	dóna	this much, that much (دومره)	3																														
 1527813242	دو کول	doo kawul	to make an effort, apply oneself	2																														
 1527812569	دومره	doomra	this much, that much	4																														
@@ -16123,3 +16133,36 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708116750463	زمزه	zúmza	centipede		n. f.																													1
 1708116860203	تقریب	taqréeb	ceremony, function		n. m.																													1
 1708116938665	سرټیفیکټ	surTeefeekúT	certificate		n. m.																													1
+1708180464734	چونا	choonáa	chalk		n. f.																													1
+1708188443775	چلېنج	chálenj	challenge		n. m.																													
+1708188449334	چلېنج کول	chalenj kawúl	to challenge		v. stat. comp. trans.	1708188443775																												1
+1708180587616	چمپین	chámpyan	champion		n. m. anim. unisex																													1
+1708180637124	اول وتلی	awwal watúlay	champion, number one, top		n. m. anim. unisex / adj.																													1
+1708180681459	اول نمبر	awwal numbár	champion, number one, top		n. m. anim. unisex / adj.																													1
+1708180743115	چمپینتوب	champyantób	championship		n. m.				چمپینتابه	champyantaabú	چمپینتب	champyantab																						1
+1708180844229	تبدیلي	tabdeelee	change, transfer		n. f.																													1
+1708180877663	ماتې روپۍ	maate roopúy	change (money)		n. f. pl.																													1
+1708180908574	بدلېدونکی	badledóonkay	changing, changeable		adj.																													1
+1708180967958	نالۍ	naalúy	channel; mattress; rushes		n. f.																													1
+1708181022801	ګړبړ	guRbúR	chaos, hubbub		n. m.																													1
+1708181483392	اړې ګړې	aRe gúRe	chaos, hubbub		n. f. pl.																													1
+1708181117585	چرګوټی	churgóoTay	pullet, young hen		n. m. anim. unisex																													1
+1708181155268	شترنج	shatránj	chess		n. m.																													1
+1708181185326	چېري	chéree	cherry		n. f.																													1
+1708181219235	چېک	chek	check, cheque		n. m.																													1
+1708181233873	چېک کول	chek kawúl	to check		v. stat. comp. trans.	1708181219235	check																											
+1708181293382	چېک کېدل	chek kedúl	to be checked		v. stat. comp. intrans.	1708181219235	be	checked																										
+1708181314350	کیمیا	keemyáa	chemistry		n. f.																													1
+1708187795248	سکروټه	skarwáTa	hot coal, ember		n. f.																													1
+1708187834360	سکاره	skaarú	coal, coals (plural of سکور)																															1
+1708187870134	فیس	fees	fees		n. m. pl.																													1
+1708188535088	جاذبيت	jaazibiyát	charm, attractiveness, attraction																															1
+1708188596406	زړه راښکونکی	zRu raaxkóonkay	charming, attractive		adj.																													1
+1708189637101	خنده ګلی	khanda gÚlay	charming		adj.																													1
+1708188700749	ډوب ځای	Doob dzaay	chasm		n. m.																													1
+1708188944068	کم قیمته	kam qeemáta	cheap		adj.																													1
+1708189560697	اننګۍ	anungúy	cheek		n. f.																													
+1708189813964	خانساما	khaansaamáa	chef		n. m. anim.																													
+1708189830911	خانه ساما	khaana saamáa	chef		n. m. anim.																													1
+1708189875325	کیمیایي	keemyaayee, keemyaa`ee	chemical		adj.																													1
+1708189938534	کېمیسټري	kemeesTrée	chemistry		n. f.																													1
