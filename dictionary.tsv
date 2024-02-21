@@ -257,7 +257,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822923	بې غیرت	be ghayrat	scoundrel, dishonourable person, coward	4	adj.																													
 1527822968	بې غشه	be ghusha	pure, unadulterated, sincere	2	adj.																													
 1527817609	بې ګناه	be gUnáah	innocent, sinless	3	adj.																													1
-1588782497585	بې هوشه	be hósha	without feeling, unconscious, in a faint	4	adj.																													
+1588782497585	بې هوشه	be hósha	without feeling, unconscious, in a faint, stunned	4	adj.																													
+1708464971839	بې هوشه کول	be hosha kawúl	to knock unconscious, to stun, to make faint	4	v. stat. comp. trans.	1588782497585	stun,stuns,stunning,stunned																											
+1708464975771	بې هوشه کېدل	be hosha kedúl	to go unconscious, to be stunned, to faint	4	v. stat. comp. intrans.	1588782497585	be	stunned																										
 1527819823	بې انصافه	be insaafa	unjust	3	adj.																													
 1566473733009	بې انتها	be intiháa	limtless, endless	4	adj.																													1
 1527812490	بې کار	be kaar	useless	4	adj.																													
@@ -2172,7 +2174,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1576946674316	سوتره	sootrá	clean, neat, tidy	3	adj.																													
 1527813068	سوړ	soR, sooR	cold, cool; patient; lazy; inactive; satisfied	4	adj.				ساړه	saaRu	سړ	saR																						1
 1701943782864	سړول	saRawúl	to cool, make cold	4	v. stat. comp. trans.	1527813068			سړيخواره	saReekhwaarú																								
-1701943833082	سړېدل	saRedúl	to cool down, to get cold	4	v. stat. comp. intrans.	1527813068			سړیخور	saReekhwar																								
+1701943833082	سړېدل	saRedúl	to cool down, to get cold	4	v. stat. comp. intrans.	1527813068			سړیخور	saReekhwar																								1
 1701943860322	سړيخور	saReekhór	man-eater, cannibal	4	n. m. anim. unisex																													
 1600080053835	سور	sor	riding, mounted (Pakistani)	4	adj.				سواره	swaaru	سور	swar																						
 1630938741196	سورور	sorawár	wide, open	4	adj.																													
@@ -2382,7 +2384,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1593792697327	طفلي	tUfílee	childish, baby-like	3	adj.																													
 1527815381	تږی	túGay	thirsty	4	adj.																													
 1527820505	ټکي ټکي	TUkee TUkee	torn into shreds; splattering, drizzling (of rain)	4	adj.																													
-1527819567	ټکر ټکر	TUkúr TUkúr	cut up into pieces, torn up into pieces, destroyed, ruined	4	adj.																													
+1527819567	ټکر ټکر	TUkúr TUkúr, Tukúr Tukúr	cut up into pieces, torn up into pieces, destroyed, ruined	4	adj.																													
 1527820506	ټکیالی	Tukyaalay	spotted, speckled; having a diacritical mark (of a letter)	4	adj.																													
 1527818265	تلپاته	tulpaata	lasting, everlasting, eternal	4	adj.																													
 1527819383	تلپاتی	tulpaatay	eternal, everlasting	4	adj.																													
@@ -2725,7 +2727,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821496	بډا	baDáa	rich person, well-off, affluent	4	adj. / n. m.																													
 1527821323	بدبین	badbeen	pessimist, distrustful, mistrustful; enemy	4	adj. / n. m.																													
 1527818794	بدمزاجه	badmizaaja	grumbler, grumpy, aggressive, belligerent, quarrelsome person	4	adj. / n. m.																													
-1527812166	بهر	bahar, buhar	outside	4	adj. / n. m.																													
+1527812166	بهر	bahár, buhár	outside	4	adj. / n. m.																													
+1708465411248	بهر کول	bahar kawul	to put outside, to make go outside	4	v. stat. comp. trans.	1527812166																												
+1708465413541	بهر کېدل	bahar kedul	to go outside	4	v. stat. comp. intrans.	1527812166																												1
+1708465470570	بهر وتل	bahar watúl	to go outside			1527812166																												1
 1617948732919	بېلتونپال	beltoonpaal	separatist	4	adj. / n. m.																													
 1527821495	بډا	bUDáa	old, old person, aged, senior, elderly, advanced in years	4	adj. / n. m.																													
 1527823383	بزدل	bUzdíl	cowardly, coward	4	adj. / n. m.																													
@@ -3357,7 +3362,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812293	درسره	dărsara	with you	4	loc. adv.																													
 1527822852	دېخوا هاخوا	dekhwaa haakhwaa	this way and that way, here and there	3	loc. adv.																													
 1578080952673	دباندې	dubaande	outside, outside of, beyond	3	loc. adv.																													
-1527813122	دننه	dununa	inside, within, interior	4	loc. adv.																													
+1527813122	دننه	dunúna, dúnna	inside, within, interior	4	loc. adv.																													
+1708465305957	دننه کول	dunúna kawul	to bring inside	4	v. stat. comp. trans.	1527813122	bring	inside																										
+1708465310676	دننه کېدل	dunúna kedul	to come insinde, go in	4	v. stat. comp. intrans.	1527813122	come	inside																										1
 1527817710	ها خوا	haa khwaa	that side, across	4	loc. adv.																													
 1527812449	هلته	hálta, álta	there	4	loc. adv.																													
 1527820805	هماغلته	hamáaghalta	right there, in the same place, in the very same place	4	loc. adv.																													
@@ -4064,7 +4071,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1664091349581	ډۍ	Duy	a children's game, tip-cat	4	n. f.																													
 1527817151	ډیورنډ کرښه	DyooranD kurxa	the Durand Line, the border line drawn up between Afghanistan and Pakistan	4	n. f.																													
 1527812098	ډیوټي	DyooTee	duty, watch; job, work	3	n. f.																													
-1527818190	ځاله	dzaala	nest	3	n. f.																													
+1527818190	ځاله	dzáala	nest	3	n. f.																													
 1527811844	ځان ځاني	dzaan dzaanée	egotism, self-love, disconnectedness	4	n. f.																													1
 1589023295149	ځان ځولۍ	dzaan dzolúy	playfully rocking/swining a child back and forth	2	n. f.																													
 1527811843	ځان پرستي	dzaan parastee	selfishness, egoism	2	n. f.																													
@@ -4568,7 +4575,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821608	جرړه	jírRa	cotton	4	n. f.																													
 1527822739	جټکه	jiTká	push, shove, bump; jolt (جيټکه)	4	n. f.																													
 1527814633	جوبه	joba	market	3	n. f.																													
-1527818191	جولا	jolaa	cloth, fabric; spider	4	n. f.																													
+1527818191	جولا	jolaa, joolaa	cloth, fabric; weaver; spider	4	n. f.																													
 1527820437	جونګړه	joongúRa	shack, hut, lodge, cabin	4	n. f.																													
 1566549995565	جوسه	joosá	face, frame, body	3	n. f.																													
 1566477622070	جوپه	jopa	turn, beat (as in a watchman's beat), caravan	4	n. f.																													
@@ -5180,7 +5187,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823068	مني	manée	sperm, seed	4	n. f.																													
 1527817021	منګول	mangool	claw, paw	4	n. f.																													
 1527811609	منګل	mangul	claw, paw	4	n. f.																													
-1527813296	منګز	manguz	comb	4	n. f.																													
+1527813296	منګز	mangúz	comb	4	n. f.																													
 1527819164	منشا	mansháa	beginning, source, root, origin	2	n. f.																													
 1591033648000	منصوبه	mansooba	plan, scheme, project	3	n. f.																													
 1671708944438	منطقه پرستي	mantiqa parastée, mUntiqa parastée	favoring an area in politics		n. f.																													
@@ -8374,6 +8381,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820619	هجوم	hUjóom	attack, rushing, swarming, crowding	4	n. m.																													
 1527813749	حکومت	hUkoomat	government, reign, rule	4	n. m.																													
 1527812376	حکم	hÚkum	ruling, ordinance, order, command, law	4	n. m.									احکام	ahkáam																			1
+1708465807096	حکم کول	hÚkum kawúl	to command, order, rule	4	v. dyn. comp. trans.	1527812376	rule																											1
 1573682864646	هل	hul	the call/cry of a dervish asking for donations	2	n. m.																													
 1527811731	هنر	hUnár	art, skill	4	n. m.																													1
 1527811734	هنر مل	hUnar mal	patron of the arts	4	n. m.																													
@@ -9118,7 +9126,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1622655291910	کلاشینکوف	klaasheenkof	Kalashnikov (rifle)	4	n. m.																													
 1578330703431	کلاشنیکوف	klaashneekóf	klashnikov rifle	4	n. m.																													
 1527813118	کلک والی	klak waalay	strength, steadfastness, solidity, staunchness	4	n. m.																													
-1527812818	کلینیک	kleeneek	clinic	4	n. m.																													
+1527812818	کلینیک	kleenéek	clinic	4	n. m.																													1
 1591804767559	کلیپ	kleep	clip (video)	4	n. m.																													1
 1579014499969	کوچ	koch, kooch	migration, roaming	4	n. m.																													
 1527816845	کوډ	koD	chemical fertilizer, manure, dressing; code; magic, spell ??	4	n. m.																													
@@ -16222,3 +16230,33 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708355696339	مټه خاوره	muTa kháawra	clay																															1
 1708355971882	عقلمند	aqulmúnd	clever, smart, intelligent		n. m. anim. unisex / adj.																													1
 1708356072613	ګاهک	gaahúk, gaahk, gaak	customer, client		n. m. anim. unisex																													1
+1708463608651	مسوده	mUsawwada	draft, rough copy		n. f.																													
+1708463723626	غونډی	ghwunDáy	large wool sack; tarantula		n. f.																													1
+1708463765844	آب و هوا	aab-U-háwaa	climate		n. f.																													1
+1708463866074	اترایي	Utraayee	climb (down), descent, slope (down)		n. f.																													1
+1708463908416	اوترایي	ootraayee	climb (down), descent, slope (down)		n. f.																													1
+1708463985968	کلینک	kleeník	clinic		n. m.																													1
+1708464125446	وریېځ	wuryédz	cloud		n. f.																													1
+1708464160745	شوتل	shawtúl, showtúl	clover, shamrock																															1
+1708464227493	بې طریقې	be tareeqé	clumsy, improper		adj.																													1
+1708464283164	بې ډوله	be Dáwula	clumsy, improper		adj.																													1
+1708464333361	کلچ	kalúch, kluch	clutch (vehicle)		n. m.																													1
+1708464543353	کوکاین	kokáayn	cocaine																															1
+1708464594978	کاکروچ	kaakróch	cockroach		n. m.																													1
+1708464690908	کالر	kaalúr	collar		n. m.																													1
+1708464769368	ټکره	Takúra	trip, stumble, crash, collision		n. f.																													
+1708464798076	ټکره وهل	Takúra wahul	to trip, stumble, collide, crash		v. dyn. comp. trans.	1708464769368	trip, trips, tripping, tripped																											1
+1708464887234	کالم	kaalúm	column		n. m.																													1
+1708464926282	بې هوشي	be hoshée	unconsciousness, coma		n. f.																													1
+1708465082816	منګځ	mungúdz	comb		n. f.																													1
+1708465130472	ګومنځ	goomúndz	comb		n. f.																													1
+1708465150611	موګنځ	moogúndz	comb		n. f.																													1
+1708465200746	ټوقې ټقالې	Toqé Tuqáale	comedy, joking around		n. f. pl.																													1
+1708465503174	کامه	kaamá	comma		n. f.																													1
+1708465517999	اډر	aDúr	command, order, order in a restaurant		n. m.																													1
+1708465541376	اډر ورکول	aDúr warkawul	to order, command, give an order in a restaurant		v. dyn. comp. trans.	1708465517999	order																											
+1708465580695	اډر کول	aDúr kawúl	to order, command		v. dyn. comp. trans.	1708465517999	order																											
+1708465870958	خیال بیانول	khyaal bayaanawúl	to comment																															1
+1708465914011	رایه	ráaya	vote, opinion		n. f.																													
+1708465988142	رایه ورکول	ráaya warkawúl	to vote, give an opinion		v. dyn. comp. trans.	1708465914011	vote																											1
+1708466029049	کمېشن	kameshún	commision		n. m.																													1
