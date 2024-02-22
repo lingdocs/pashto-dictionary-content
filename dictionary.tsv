@@ -1419,6 +1419,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823089	مجملي	mUjmalee	brief, concise, shortened	3	adj.																													
 1527812096	مکلف	mUkalláf	obligated, responsible, dutied to	4	adj.																													
 1610448349896	مکمل	mUkamál, mUkammál	complete, perfect	4	adj.																													1
+1708559864807	مکمل کول	mUkamal kawúl	to complete, perfect		v. stat. comp. trans.	1610448349896	complete																											
+1708559868234	مکمل کېدل	mUkamal kedúl	to be completed, perfected		v. stat. comp. intrans.	1610448349896	be	completed																										
 1584688500524	مکرم	mUkarám	revered, honoured, beloved	3	adj.																													
 1527817616	مخ روڼی	mukh róoNay	honorable, honest, irreproachable, respectable, decent	3	adj.																													
 1527817612	مخ سپینی	mukh spéenay	innocent	3	adj.																													
@@ -3626,7 +3628,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822611	بډبولتیا	baDboltiyaa	truthfulness, righteousness	1	n. f.																													
 1527817345	بدي	badee	enmity; badness, a bad deed	4	n. f.																													
 1527816109	بدګوماني	badgoomaanee	suspicion, distrust	4	n. f.																													
-1527812512	بدله	badlá	exchange, return, reward, recompense, revenge	4	n. f.																													1
+1527812512	بدله	badlá	exchange, return, compensation, reward, recompense, revenge	4	n. f.																													1
+1708559381630	بدله ورکول	badlá warkawul	to compensate, reward, pay back		v. dyn. comp. trans.	1527812512																												
 1527811928	بدلغامي	badlaghaamee	prostitution	3	n. f.																													
 1588786872582	بدنامي	badnaamée	shame, disrepute, dishonour	4	n. f.																													1
 1650297394423	بدنصیبي	badnaseebee	bad luck, misfortune	4	n. f.																													
@@ -8981,6 +8984,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817462	خاشاک	khaashaak	kindling, brushwood	4	n. m.																													
 1527813691	خاطر	khaatir	thought, memory, consideration or deference (out of respect); reason, cause; mind, spirit	3	n. m.																													
 1527812765	خبر	khabár	news, information, notice	4	n. m.											خبرونه	khabróona																	1
+1708558394457	خبر ورکول	khabár warkawul	to inform	4	v. dyn. comp. trans.	1527812765	inform																											
 1573055311846	خبرداری	khabardaaráy	warning, notice, alarm	4	n. m.																													1
 1618408634809	خبري کنفرانس	khaburee kanfraans	press conference	4	n. m.																													
 1527822323	خچر	khachúr	mule	3	n. m.																													
@@ -9688,7 +9692,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819470	میل	mayl	wish, desire; inclination, slope, affection towards	4	n. m.																													
 1653182018430	میلان	mayláan	tendency, leaning, penchant, inclination, partiality	4	n. m.																													
 1527812917	مېز	mez	table, desk	4	n. m.																													1
-1527819249	مېزبان	mezbáan	host	4	n. m.																													
+1527819249	مېزبان	mezbáan	host	4	n. m. anim. unisex																													
 1527820190	معیار	mi'yáar, ma'yáar	standard, criteria, criterion, level	4	n. m.									معیارات	mi'yaaraat																			
 1527820369	مفتاح	miftáah	key (to a lock)	1	n. m.																													
 1527819246	مهماندار	mihmaandáar	host	4	n. m.																													
@@ -10239,7 +10243,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818740	پیداوار	paydaawaar	production, output, goods, product	4	n. m.																													
 1527811494	پیدایښ	paydaayx	birth, creation, appearance, production	4	n. m.																													
 1527811495	پیدایښت	paydaayíxt	birth, creation, appearance, production	4	n. m.																													1
-1527813574	پیغام	payghaam	message, notification, notice	4	n. m.									پیغامات	payghaamaat																			
+1527813574	پیغام	paygháam	message, notification, notice	4	n. m.									پیغامات	payghaamaat																			
+1708558546447	پیغام رسول	paygháam rasawúl	to inform, communicate, pass on a message		v. dyn. comp. trans.	1527813574	inform																											
 1527817381	پیغمبر	payghambár	prophet, messenger	4	n. m.																													1
 1578012796263	پیغور	payghór	taunting, reproach, mocking	4	n. m.																													
 1527815171	پیل	payl	start	4	n. m.																													
@@ -10747,7 +10752,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820658	شاهباز	shaahbáaz	mediator	2	n. m.																													
 1527820611	شاهین	shaahéen	falcon, hawk	4	n. m.																													
 1527823299	شاهین	shaahéen	eagle	4	n. m.																													
-1527817239	شاهد	shaahid	witness, someone who has seen something, someone bearing testimony (w/ plural - evidence)	4	n. m.									شواهد	shawaahid																			
+1527817239	شاهد	shaahid	witness, someone who has seen something, someone bearing testimony (w/ plural - evidence)	4	n. m. anim. unisex									شواهد	shawaahid																			
 1527815262	شاهکار	shaahkaar	masterpiece	3	n. m.																													
 1527819414	شاهزاده	shaahzaadá	prince	4	n. m.																													
 1527813634	شاعر	shaair	poet	4	n. m.																													
@@ -15313,7 +15318,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1592559707850	پښکی	puxkay	blacksmith (پښ)	2																														
 1527817045	پیاخله	pyaakhla	sweating, making vegetable extract	3																														
 1527814689	قاچاق تېرول	qaachaaq terawul	to smuggle, to traffick	4																														
-1589884891910	قلار	qaláar	quiet, peaceful, established, constant, stable, agreed	4																														
+1589884891910	قلار	qaláar	quiet, peaceful, established, constant, stable, agreed	4	adj.																													
+1708558316287	ناقلاره	naaqaláara	not calm, shook up, upset, in a commotion		adj.																													
+1708558356872	ناکراره	naakaráara	not calm, shook up, upset, in a commotion		adj.																													
 1708000958630	قلارول	qalaarawúl	to calm, make peaceful, settle	4	1589884891910	calm																												
 1708000962026	قلارېدل	qalaaredúl	to calm down, get quiet, settle	4	1589884891910	calm	down																											
 1708000748865	قلاره	qaláara	quiet, peaceful, calm, established, constant, stable, agreed	4																														
@@ -16251,7 +16258,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708465082816	منګځ	mungúdz	comb		n. f.																													1
 1708465130472	ګومنځ	goomúndz	comb		n. f.																													1
 1708465150611	موګنځ	moogúndz	comb		n. f.																													1
-1708465200746	ټوقې ټقالې	Toqé Tuqáale	comedy, joking around		n. f. pl.																													1
+1708465200746	ټوقې ټقالې	Tóqe Tuqáale	comedy, joking around		n. f. pl.																													1
 1708465503174	کامه	kaamá	comma		n. f.																													1
 1708465517999	اډر	aDúr	command, order, order in a restaurant		n. m.																													1
 1708465541376	اډر ورکول	aDúr warkawul	to order, command, give an order in a restaurant		v. dyn. comp. trans.	1708465517999	order																											
@@ -16260,3 +16267,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708465914011	رایه	ráaya	vote, opinion		n. f.																													
 1708465988142	رایه ورکول	ráaya warkawúl	to vote, give an opinion		v. dyn. comp. trans.	1708465914011	vote																											1
 1708466029049	کمېشن	kameshún	commision		n. m.																													1
+1708558436100	کانډوم	kaanDóm	condom		n. m.																													
+1708558629566	عشایي رباني	ashaayee rabaanée	communion (mass) (Catholocism / Christianity)		n. f.																													
+1708558683221	کمپني	kampanée	company		n. f.																													
+1708558697920	کمپاس	kampáas	compass		n. m.																													
