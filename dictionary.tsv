@@ -671,6 +671,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817288	ګوښه	gooxa	secluded, corner, private	3	adj.																													
 1527816697	ګوټ	goT	dull, blunt, idiot	4	adj.																													
 1527812639	ګران	graan	dear, valuable, expensive, difficult	4	adj.																													1
+1708612498392	ګران کول	graan kawúl	to make difficult, complicated, expensive		v. stat. comp. trans.	1527812639																												1
+1708612502792	ګران کېدل	graan kedúl	to become difficult, complicated, expensive		v. stat. comp. intrans.	1527812639																												
 1527817662	ګرم	gram	guilty, blamed, culprit, culpable	4	adj.																													
 1527822752	ګرنجی	grUnjáy	wrinkled, furrowed	2	adj.																													
 1527819773	ګلابي	gUlaabee	pink	4	adj.																													
@@ -1419,7 +1421,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823089	مجملي	mUjmalee	brief, concise, shortened	3	adj.																													
 1527812096	مکلف	mUkalláf	obligated, responsible, dutied to	4	adj.																													
 1610448349896	مکمل	mUkamál, mUkammál	complete, perfect	4	adj.																													1
-1708559864807	مکمل کول	mUkamal kawúl	to complete, perfect		v. stat. comp. trans.	1610448349896	complete																											
+1708559864807	مکمل کول	mUkamal kawúl	to complete, perfect		v. stat. comp. trans.	1610448349896	complete																											1
 1708559868234	مکمل کېدل	mUkamal kedúl	to be completed, perfected		v. stat. comp. intrans.	1610448349896	be	completed																										
 1584688500524	مکرم	mUkarám	revered, honoured, beloved	3	adj.																													
 1527817616	مخ روڼی	mukh róoNay	honorable, honest, irreproachable, respectable, decent	3	adj.																													
@@ -2731,7 +2733,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818794	بدمزاجه	badmizaaja	grumbler, grumpy, aggressive, belligerent, quarrelsome person	4	adj. / n. m.																													
 1527812166	بهر	bahár, buhár	outside	4	adj. / n. m.																													
 1708465411248	بهر کول	bahar kawul	to put outside, to make go outside	4	v. stat. comp. trans.	1527812166																												
-1708465413541	بهر کېدل	bahar kedul	to go outside	4	v. stat. comp. intrans.	1527812166																												1
+1708465413541	بهر کېدل	bahar kedúl	to go outside	4	v. stat. comp. intrans.	1527812166																												1
 1708465470570	بهر وتل	bahar watúl	to go outside			1527812166																												1
 1617948732919	بېلتونپال	beltoonpaal	separatist	4	adj. / n. m.																													
 1527821495	بډا	bUDáa	old, old person, aged, senior, elderly, advanced in years	4	adj. / n. m.																													
@@ -3366,7 +3368,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1578080952673	دباندې	dubaande	outside, outside of, beyond	3	loc. adv.																													
 1527813122	دننه	dunúna, dúnna	inside, within, interior	4	loc. adv.																													
 1708465305957	دننه کول	dunúna kawul	to bring inside	4	v. stat. comp. trans.	1527813122	bring	inside																										
-1708465310676	دننه کېدل	dunúna kedul	to come insinde, go in	4	v. stat. comp. intrans.	1527813122	come	inside																										1
+1708465310676	دننه کېدل	dununa kedúl	to come insinde, go in	4	v. stat. comp. intrans.	1527813122	come	inside																										1
 1527817710	ها خوا	haa khwaa	that side, across	4	loc. adv.																													
 1527812449	هلته	hálta, álta	there	4	loc. adv.																													
 1527820805	هماغلته	hamáaghalta	right there, in the same place, in the very same place	4	loc. adv.																													
@@ -3629,7 +3631,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817345	بدي	badee	enmity; badness, a bad deed	4	n. f.																													
 1527816109	بدګوماني	badgoomaanee	suspicion, distrust	4	n. f.																													
 1527812512	بدله	badlá	exchange, return, compensation, reward, recompense, revenge	4	n. f.																													1
-1708559381630	بدله ورکول	badlá warkawul	to compensate, reward, pay back		v. dyn. comp. trans.	1527812512																												
+1708559381630	بدله ورکول	badlá warkawul	to compensate, reward, pay back		v. dyn. comp. trans.	1527812512																												1
 1527811928	بدلغامي	badlaghaamee	prostitution	3	n. f.																													
 1588786872582	بدنامي	badnaamée	shame, disrepute, dishonour	4	n. f.																													1
 1650297394423	بدنصیبي	badnaseebee	bad luck, misfortune	4	n. f.																													
@@ -4192,6 +4194,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1621366274018	ګېدۍ	gedúy	bunch (of flowers etc.), bouquet; sheaf (of wheat/grain/corn after harvesting); tuft (of hair); villus; female donkey	4	n. f.																													
 1527820931	ګیدړۍ	geedaRúy	senseless laughter, laughter without reason (ګيدړۍ خندل)	2	n. f.																													
 1527814304	ګیله	geelá	resentment, hurt, offense, anger	4	n. f.																													1
+1708612386108	ګیله کول	geelá kawul	to resent, complain, take offense	4	v. dyn. comp. trans.	1527814304	resent																											1
 1527816103	ږیره	Géera	beard	4	n. f.																													1
 1602162432500	ګیټۍ	geeTúy	ankle	4	n. f.																													
 1527821006	غائطه	ghaaíta	feces, defecation, poop, poo, excrement, stool	2	n. f.																													
@@ -4361,7 +4364,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1678175363989	حلوا	halwáa	halva, halwa, sweets		n. f.																													
 1527821160	هم آهنګي	ham aahangee	harmony, agreement, unity, accord	4	n. f.																													
 1527823386	همبستري	hambistaree	sleeping together, cohabitation	3	n. f.																													
-1527817317	همدردي	hamdărdee	empathy, sympathy, compassion,sharing in another’s pain or difficulty	3	n. f.																													
+1527817317	همدردي	hamdărdee	empathy, sympathy, compassion,sharing in another’s pain or difficulty, condolence	3	n. f.																													
+1708618873029	همدردي کول	hamdărdee kawul	to sympathize, condole, show empathy or compassion	3	v. dyn. comp. trans.	1527817317	sympathize																											1
 1527814071	همغږي	hamghaGee	coordination, unity, understanding	3	n. f.																													
 1527817235	همغږي	hamghaGee	coordination	3	n. f.																													
 1527818091	همکاري	hamkaaree	collaboration, cooperation, aid, help	3	n. f.																													
@@ -6274,7 +6278,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823413	سخه	sukha	malice, spite, malicious joy, vindictiveness	3	n. f.																													
 1527812058	سله	sula	brick, casting, ingot	2	n. f.																													
 1527820676	سلګۍ	sulgúy	sobbing, weeping, wheezing, hiccps, death rattle	4	n. f.																													
-1527816466	صلح	sUlha	peace	3	n. f.																													
+1527816466	صلح	sÚlha	peace, compromise	3	n. f.																													1
 1527815315	سلنه	suluna	percentage, rate	3	n. f.																													
 1678361147109	سنتي	sUnnatee	circumcision ceremony		n. f.																													
 1527819267	سره	súra	manure, fertilizer	3	n. f.																													
@@ -7120,7 +7124,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821300	اخطار	akhtáar	warning, reprimand, admonishment	4	n. m.																													
 1527816139	اختر	akhtár	holiday, festival, Eid	4	n. m.																													1
 1527816481	اخښی	akhxay	brother in law; sister's husband	3	n. m.																													
-1527815933	اخذ	akhz	taking, reception, recruitment, collection	3	n. m.																													
+1527815933	اخذ	akhz, ákhuz	taking, reception, recruitment, collection	3	n. m.																													
+1708618662167	اخذ کول	ákhuz kawul	to conclude, receive		v. dyn. comp. trans.	1527815933																												1
 1588075624988	اکوړ	akoR	walnut	4	n. m.											اکوړان	akoRaan																	
 1527819073	اکرب توب	akrab tob	poverty	4	n. m.																													
 1527812215	عکس العمل	aks Ulamal	reaction, reflex	3	n. m.																													
@@ -8105,7 +8110,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814482	غوټندی	ghooTanday	dishwasher (person); diver	1	n. m.																													
 1527814962	غوټندی	ghooTanday	dishwasher (person); diver	1	n. m.																													
 1588075727222	غوز	ghooz	walnut	4	n. m.											غوزان	ghoozaan																	
-1527811470	غور	ghor	close attention, examination, discussion	4	n. m.																													
+1527811470	غور	ghor, ghawr, gháwur	concentration, close attention, examination, discussion	4	n. m.																													
+1708618418733	غور کول	ghawr kawul	to concentrate, pay close attention, examine, discuss	4	v. dyn. comp. trans.	1527811470	concentrate																											1
 1527818483	غوری	ghoray	plate	3	n. m.																													
 1588075698411	غوز	ghoz	fatty covering of intestines or kidneys	4	n. m.																													
 1597092163407	غوزی	ghozáy, ghoozáy ??	grindstone, millstone; load, pack, burden, armful	2	n. m.																													
@@ -8984,7 +8990,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817462	خاشاک	khaashaak	kindling, brushwood	4	n. m.																													
 1527813691	خاطر	khaatir	thought, memory, consideration or deference (out of respect); reason, cause; mind, spirit	3	n. m.																													
 1527812765	خبر	khabár	news, information, notice	4	n. m.											خبرونه	khabróona																	1
-1708558394457	خبر ورکول	khabár warkawul	to inform	4	v. dyn. comp. trans.	1527812765	inform																											
+1708558394457	خبر ورکول	khabár warkawul	to inform	4	v. dyn. comp. trans.	1527812765	inform																											1
 1573055311846	خبرداری	khabardaaráy	warning, notice, alarm	4	n. m.																													1
 1618408634809	خبري کنفرانس	khaburee kanfraans	press conference	4	n. m.																													
 1527822323	خچر	khachúr	mule	3	n. m.																													
@@ -9692,7 +9698,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819470	میل	mayl	wish, desire; inclination, slope, affection towards	4	n. m.																													
 1653182018430	میلان	mayláan	tendency, leaning, penchant, inclination, partiality	4	n. m.																													
 1527812917	مېز	mez	table, desk	4	n. m.																													1
-1527819249	مېزبان	mezbáan	host	4	n. m. anim. unisex																													
+1527819249	مېزبان	mezbáan	host	4	n. m. anim. unisex																													1
 1527820190	معیار	mi'yáar, ma'yáar	standard, criteria, criterion, level	4	n. m.									معیارات	mi'yaaraat																			
 1527820369	مفتاح	miftáah	key (to a lock)	1	n. m.																													
 1527819246	مهماندار	mihmaandáar	host	4	n. m.																													
@@ -10244,7 +10250,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811494	پیدایښ	paydaayx	birth, creation, appearance, production	4	n. m.																													
 1527811495	پیدایښت	paydaayíxt	birth, creation, appearance, production	4	n. m.																													1
 1527813574	پیغام	paygháam	message, notification, notice	4	n. m.									پیغامات	payghaamaat																			
-1708558546447	پیغام رسول	paygháam rasawúl	to inform, communicate, pass on a message		v. dyn. comp. trans.	1527813574	inform																											
+1708558546447	پیغام رسول	paygháam rasawúl	to inform, communicate, pass on a message		v. dyn. comp. trans.	1527813574	inform																											1
 1527817381	پیغمبر	payghambár	prophet, messenger	4	n. m.																													1
 1578012796263	پیغور	payghór	taunting, reproach, mocking	4	n. m.																													
 1527815171	پیل	payl	start	4	n. m.																													
@@ -14041,7 +14047,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813556	یو ځای کول	yo dzaay kawúl	to gather, bring together	3	v. stat. comp. trans.	1579824262965	gather																											1
 1527816947	جوتول	jawtawul	to harness, hitch up	3	v. stat. comp. trans.	1527816946	harness																											
 1527814819	ګرمول	garmawul	to warm, to heat up, to heat	4	v. stat. comp. trans.	1527814811	heat	up																										
-1527819182	پټول	puTawúl	to hide, cover, conceal; to steal	4	v. stat. comp. trans.	1527815201	hide,hides,hiding,hid,hidden																											
+1527819182	پټول	puTawúl	to hide, cover, conceal; to steal	4	v. stat. comp. trans.	1527815201	hide,hides,hiding,hid,hidden																											1
 1527814174	خوږول	khooGawul, khoGawul	to cause hurt, pain	4	v. stat. comp. trans.	1527814172	hurt,hurts,hurting,hurt																											
 1527811949	شریکول	shareekawul	to make a participant or involved, to share, to bring someone or something in, to include	4	v. stat. comp. trans.	1527811947	include																											
 1527823503	ډېرول	Derawúl	to increase, make more	3	v. stat. comp. trans.	1527812559	increase																											1
@@ -15319,7 +15325,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817045	پیاخله	pyaakhla	sweating, making vegetable extract	3																														
 1527814689	قاچاق تېرول	qaachaaq terawul	to smuggle, to traffick	4																														
 1589884891910	قلار	qaláar	quiet, peaceful, established, constant, stable, agreed	4	adj.																													
-1708558316287	ناقلاره	naaqaláara	not calm, shook up, upset, in a commotion		adj.																													
+1708558316287	ناقلاره	naaqaláara	not calm, shook up, upset, in a commotion		adj.																													1
 1708558356872	ناکراره	naakaráara	not calm, shook up, upset, in a commotion		adj.																													
 1708000958630	قلارول	qalaarawúl	to calm, make peaceful, settle	4	1589884891910	calm																												
 1708000962026	قلارېدل	qalaaredúl	to calm down, get quiet, settle	4	1589884891910	calm	down																											
@@ -16226,7 +16232,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708354602071	سیګرټ	seegráT, sugréT, sigréT	cigarette		n. m.																													1
 1708354696408	سینما	seenamáa	cinema, movie theatre		n. f.																													1
 1708354729563	سرکټ	surkíT	circuit		n. m.																													1
-1708355083646	عوام	awáam	popluce, masses, the common people		n. m.																													
+1708355083646	عوام	awáam	popluce, masses, the common people		n. m.																													1
 1708355022116	عوامي	awaamée	civilian, national, people's 		adj.																													1
 1708355123561	انسانیت	insaaniyát	humanity, civilization		n. m.																													1
 1708355278164	د لاس پړکه	du laas pRúka	clap		n. f.																													1
@@ -16258,7 +16264,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708465082816	منګځ	mungúdz	comb		n. f.																													1
 1708465130472	ګومنځ	goomúndz	comb		n. f.																													1
 1708465150611	موګنځ	moogúndz	comb		n. f.																													1
-1708465200746	ټوقې ټقالې	Tóqe Tuqáale	comedy, joking around		n. f. pl.																													1
+1708465200746	ټوقې ټقالې	Toqé Tuqáale	comedy, joking around		n. f. pl.																													1
 1708465503174	کامه	kaamá	comma		n. f.																													1
 1708465517999	اډر	aDúr	command, order, order in a restaurant		n. m.																													1
 1708465541376	اډر ورکول	aDúr warkawul	to order, command, give an order in a restaurant		v. dyn. comp. trans.	1708465517999	order																											
@@ -16267,7 +16273,18 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708465914011	رایه	ráaya	vote, opinion		n. f.																													
 1708465988142	رایه ورکول	ráaya warkawúl	to vote, give an opinion		v. dyn. comp. trans.	1708465914011	vote																											1
 1708466029049	کمېشن	kameshún	commision		n. m.																													1
-1708558436100	کانډوم	kaanDóm	condom		n. m.																													
-1708558629566	عشایي رباني	ashaayee rabaanée	communion (mass) (Catholocism / Christianity)		n. f.																													
-1708558683221	کمپني	kampanée	company		n. f.																													
-1708558697920	کمپاس	kampáas	compass		n. m.																													
+1708558436100	کانډوم	kaanDóm	condom		n. m.																													1
+1708558629566	عشایي رباني	ashaayee rabaanée	communion (mass) (Catholocism / Christianity)		n. f.																													1
+1708558683221	کمپني	kampanée	company		n. f.																													1
+1708558697920	کمپاس	kampáas	compass		n. m.																													1
+1708612459187	پیچیده	paycheedá	complicated, complex		adj.																													1
+1708612576797	پیچیده کول	paycheeda kawul	to complicate		v. stat. comp. trans.	1708612459187	complicate																											1
+1708612589926	پیچیده کېدل	paycheeda kedul	to get complicated		v. stat. comp. intrans.	1708612459187	get	complicated																										
+1708612724143	صلحه	sÚlha	peace, compromise, reconcilliation		n. f.																													1
+1708618272634	روغه جوړه	rogha jóRa	reconciliation, peace, compromisie		n. f.																													1
+1708618474662	په هکله	pu hákla	about, concerning, regarding																															1
+1708618727791	د بخارات مایع کېدل	du bUkhaaraat maayi kedul	condensation																															1
+1708618775681	صورت حال	soorat-i-háal	condition, circumstance, situation		n. m.																													1
+1708618946295	پټه	puTa	belt		n. f.																													
+1708619163675	پر اعتماده	pUr i'timáada	confident		adj.																													1
+1708619178963	پر اعتماد	pUr i'timáad	confident		adj.																													
