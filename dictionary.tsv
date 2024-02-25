@@ -215,7 +215,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823767	برکتناک	barakatnáak	blessed	4	adj.																													
 1527819355	برباد	barbáad	ruined, destroyed, wasted, spent, perished	4	adj.																													1
 1527811861	بربنډ	barbúnD	naked; bare	3	adj.																													1
-1690458825578	بریمن	barayman	successful, victorious	4	adj.																													
+1690458825578	بریمن	baraymán	successful, victorious	4	adj.																													
 1527821279	برهم	barhám	mixed up, spoiled, mixed	4	adj.																													
 1630938898418	برحق	barháq	just, right, fair	4	adj.																													
 1571524739886	برنده	barinda	winner (Farsi)	4	adj.																													
@@ -600,6 +600,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819259	غائب	ghaa'ib	missing, absent, concealed, vanished; third-person (grammar)	4	adj.																													
 1527823212	غافل	ghaafúl	unaware, negligent, heedless, amiss	3	adj.																													
 1527818523	غالب	ghaalíb	victorious, conquering, overcoming	3	adj.																													1
+1708738861637	غالب کېدل	ghaalib kedúl	to conquer, be victorious, overcome, win		v. stat. comp. intrans.	1527818523	conquer																											1
 1595254802868	غاور	ghaawúr, ghaawír	secret, concealed, introspect, intimate	3	adj.																													
 1527819260	غایب	ghaayib	missing, absent, concealed, vanished; third-person (grammar)	4	adj.																													
 1527818619	غبي	ghabée	dull, dumb, slow witted, forgetful, absentminded	2	adj.																													
@@ -1516,7 +1517,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708117311739	مستند کېدل	mUstanad kedúl	to be certified, attested, documented		v. stat. comp. intrans.	1527816061	be	certified																										
 1708117367893	مستندول	mUstanadawúl	to certify, attest, document		v. stat. comp. trans.	1527816061	certified																											
 1708117364280	مستندېدل	mUstanadedúl	to be certified, attested, documented		v. stat. comp. intrans.	1527816061	be	certified																										
-1527820671	مستقل	mUstaqíl	independent, self-reliant	4	adj.																													1
+1527820671	مستقل	mUstaqíl	independent, self-reliant; constant, permanent	4	adj.																													1
 1527820672	مستقل مزاجه	mUstaqil mizáaja	self-reliant, independent (when talking about a person)	4	adj.																													
 1592915611692	مسترد	mUstarăd	rejected, turned down	4	adj.																													
 1586618932936	مستثنیٰ	mUstasnáa	excepted, excluded, exempt	3	adj.																													
@@ -1818,6 +1819,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817448	پسند	pasand	pleasing, approved, select, choice; a suffix for one who likes or pursues an aim	4	adj.																													
 1577384523298	پست	past	low, base, vile	4	adj.																													
 1527814241	پته	páta	address, sign, track, trace, knowledge	4	adj.																													1
+1708738047108	پته لګول	pata lugawúl	to determine, to figure out, confirm, learn		v. dyn. comp. trans.	1527814241	determine																											1
+1708738220484	پته لګېدل	pata lugedúl	to become known, get figured out, turn out																															
 1664030195862	پټاکی	paTaakay	drunk, intoxicated	2	adj.																													
 1527822372	پتیر	pateer	unleavened (bread, dough)	4	adj.																													
 1527813815	پتلون پوش	patloon posh	dressed in European style	3	adj.																													
@@ -3397,6 +3400,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822803	هیسته	héesta	far, distantly, a bit further, to the side, back, away, direction	3	loc. adv. / adj.																													
 1527813688	کوز	kooz	lower, below, down	3	loc. adv. / adj.																													1
 1527812935	مخامخ	múkhaamukh, mákhaamakh	face to face, across from, opposite; straight	4	loc. adv. / adj.																													1
+1708738328629	مخامخ کول	mukhaamukh kawul	to confront, to make face	4	v. stat. comp. trans.	1527812935	confront																											1
+1708738332713	مخامخ کېدل	mukhaamukh kedul	to face, come to face with, encounter	4	v. stat. comp. intrans.	1527812935	encounter																											
 1527822780	ورمخته	wărmukhta	forward, towards	4	loc. adv. / adj.																													
 1527814913	ورنږدې	warnaGde	near, close to	4	loc. adv. / adj.																													
 1527818069	وروړاندې	wărwRaande	in front of him/her/it/them	4	loc. adv. / adj.																													
@@ -5238,7 +5243,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818940	مثانه	masaaná	bladder	4	n. f.																													
 1527814120	مسله	masala	prayer rug	3	n. f.																													
 1527814122	مسئله	masala	matter, issue	4	n. f.									مسایل	masaayil																			
-1527816605	مشوره	mashwará	advice, instructions, council, consultation	4	n. f.																													1
+1527816605	مشوره	mashwará, mushwará	advice, instructions, council, consultation	4	n. f.																													1
+1708739572215	مشوره کول	mashwará kawúl	to consult, get advice	4	v. dyn. comp. trans.	1527816605	consult																											1
 1527815685	مسکه	maska	woman who had a miscarriage	2	n. f.																													
 1527817857	مسخره	maskhara	ridicule, joking, jesting, mocking	4	n. f.																													
 1579188978548	مستي	mastée	excitement, intoxication, arousal, liveliness	4	n. f.																													1
@@ -5357,6 +5363,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823416	مباحثه	mUbaahisa	debate, discussion, argument	4	n. f.																													
 1527823104	مبالغه	mUbaalighá	exaggeration, overstatement	3	n. f.																													
 1527816057	مبارکي	mUbaarakée	congratulations	4	n. f.																													1
+1708738746534	مبارکي ورکول	mUbaarakée warkawul	to congratulate	4	v. dyn. comp. trans.	1527816057	congratulate																											1
 1527814629	مبارزه	mUbaaraza	fight, struggle	3	n. f.																													
 1610615401760	مبتدا	mUbtadáa	subject, matter, essence, subject of an equative sentence; beginning, starting	2	n. f.																													
 1527819915	مچرۍ	mUcharúy	mosquito net, mosquito netting	2	n. f.																													
@@ -5710,7 +5717,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819288	پوړۍ	pawRúy	rank, authority, position	4	n. f.																													
 1527814397	پیه	paya	dressing, eye ointment; moth; clothes	3	n. f.																													
 1527822412	پزه	páza	nose	4	n. f.																													
-1527822928	پېچلتیا	pechiltiyaa	complication, complicatedness	4	n. f.																													
+1527822928	پېچلتیا	pechiltiyaa	complication, complicatedness, complexity	4	n. f.																													
 1527815054	پېچکاري	pechkaaree	injection, needle, shot	4	n. f.																													
 1527820929	پېچموزي	pechmozee	mockery, laughter	3	n. f.																													
 1527820930	پېچمۍ	pechmúy	mockery, laughter	4	n. f.																													
@@ -6016,7 +6023,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816247	سختي	sakhtee	difficulty, hardship	3	n. f.																													
 1594905930980	سکته	saktá	interruption, stoppage, hitch, hesitation; comma	4	n. f.																													
 1527814732	صلا	salaa	invitation, summons, appeal	3	n. f.																													
-1527816606	سلا	salaa	advice, instructions, council, consultation	3	n. f.																													
+1527816606	سلا	saláa	advice, instructions, council, consultation	3	n. f.																													
+1708739672624	سلا کول	saláa kawul	to consult, get advice	3	v. dyn. comp. trans.	1527816606	consult																											1
 1527821144	صلاح	saláah	counsel, advice	4	n. f.																													1
 1527818682	صلاحیت نامه	salaahiyat naama	warrant, credentials, authority	3	n. f.																													
 1527813716	سلامتي	salaamatee	peace, safety, restfulness, safety	4	n. f.																													
@@ -6438,7 +6446,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814316	ترقي	taruqqée	progress, development	4	n. f.																													1
 1527815337	تسلي	tasallée	consolation, comfort, satisfaction, reassurance	4	n. f.																													
 1708189702665	تسله	tasallá	consolation, comfort, satisfaction, reassurance	3	n. f.																													
-1708189718575	تسلي ورکول	tasallée warkawúl	to comfort, console, reassure	4	v. dyn. comp. trans.	1527815337	comfort																											
+1708189718575	تسلي ورکول	tasallée warkawúl	to comfort, console, reassure	4	v. dyn. comp. trans.	1527815337	comfort																											1
 1708189722761	تسله ورکول	tasallá warkawúl	to comfort, console, reassure	3	v. dyn. comp. trans.	1708189702665	comfort																											1
 1622278360517	تصفیه	tasfiya	clarification, removal, purification, refinement	2	n. f.																													
 1527816794	تشریح	tashreeh	explanation, description, dissection, comment	4	n. f.																													
@@ -7398,6 +7406,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811862	بربنډتوب	barbunDtob	nudity, nakedness, bareness	4	n. m.																													
 1527813926	بردشت	bardasht	patience, steadfastness, forbearance, tolerance	4	n. m.																													
 1527811903	بری	baráy	success, victory	4	n. m.																													
+1708738984792	بری موندل	baráy moondúl	to succeed, be victorious, win		v. dyn. comp. trans.	1527811903	succeed																											1
 1527814368	برف کوچ	barf koch	avalanche	3	n. m.																													
 1527823699	برف کوچ	barf kóch	avalanche, flood, shower	3	n. m.																													
 1527822809	برګ	barg	leaf	4	n. m.																													
@@ -9115,7 +9124,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1585402832491	خوشوی	khwushóy	cow, horse, or donkey dung (often plural)	2	n. m.				خوشایه	khwushaayu	خوشای	khwushaay																						
 1527817827	خیال	khyaal, khayáal	thought, fancy, opinion, idea, care	4	n. m.																													1
 1708003680880	خیال ساتل	khyaal saatúl	to care, look after, remember	4	v. dyn. comp. trans.	1527817827	care																											1
-1708003714794	خیال کول	khyaal kawúl	to care, look after, remember	4	v. dyn. comp. trans.	1527817827	care																											
+1708003714794	خیال کول	khyaal kawúl	to care, look after, remember	4	v. dyn. comp. trans.	1527817827	care																											1
 1527823336	کپتان	kiptaan	captain (in cricket) (usually کپټان)	4	n. m.																													
 1527823337	کپټان	kipTaan	captain (in cricket)	4	n. m.																													
 1527813201	کردار	kirdáar	conduct, character, behavior, deed, action, role	4	n. m.																													1
@@ -10947,7 +10956,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814266	سکول	skwul	sheep shearing	2	n. m.																													
 1527820607	سمڅی	smútsay	cave, cavern	4	n. m.																													
 1568927565777	سنایپر	snaaypur	sniper	4	n. m.																													
-1527814074	سوچ	soch	thought, idea	4	n. m.																													
+1527814074	سوچ	soch	thought, idea, consideration	4	n. m.																													
+1708739044875	سوچ کول	soch kawul	to think, consider	4	v. dyn. comp. trans.	1527814074	think,thinks,thinking,thought																											1
 1527817595	سوخت	sokht	burning, combustion, bitter	4	n. m.																													
 1527818222	سول	sol	reason, intelligence, mind	2	n. m.																													
 1527817850	سود	sood	interest, usury, gain	3	n. m.																													
@@ -11866,7 +11876,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813377	زبان	zabaan	language, tongue (Urdu)	4	n. m.																													
 1527816889	زبرځواک	zabardzwaak	superpower	2	n. m.																													
 1527819954	زبور	zaboor	Zabur, the Psalms (in Islam, book given to David)	3	n. m.																													
-1527818898	ضبط	zabt	seizure, confiscation, control, restraint, self-control	4	n. m.																													
+1527818898	ضبط	zabt	seizure, confiscation, control, restraint, self-control, recording, record	4	n. m.																													1
 1586363815243	زعفران	zafráan	saffron	4	n. m.																													
 1584884477428	زغن	zaghán	kite (bird)	2	n. m.																													
 1527813243	زحمت	zahmat	effort, labor, difficulty, trouble	3	n. m.																													
@@ -14867,7 +14877,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820327	کړپول	kRapawúl	to chew noisily, to eat with crunching, to gnaw, to gnash teeth	2	v. trans.																													
 1527820328	کړچول	kRuchawúl	to chew, to grind teeth, to grit teeth	3	v. trans.																													
 1527811290	کښېنول	kxenawul	to seat, to make or have someone sit down	4	v. trans.																								true					
-1527811985	له لاسه ورکول	la laasa wărkawul	to lose	4	v. trans.																													
+1527811985	له لاسه ورکول	la laasa wărkawul	to lose	4																														
 1527814084	لګول	lagawúl, lugawúl	to touch, join, bind, use, take, place; to turn on	4	v. trans.																													1
 1527812868	لرل	larul	to have, possess	4	v. trans.																	لاره	laaru											
 1527816709	لړل	laRul	to soil, dirty; to shake up, stir, mix, bury	4	v. trans.																	لاړه	laaRu											
@@ -15734,7 +15744,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702810587760	کوټ ایستل	koT eestul	to align																															1
 1702810631764	یو شان	yó shaan	similar, alike, the same		adj.																													1
 1702810636497	یو شانتې	yo shaante	similar, alike, resembling		adj.																													
-1702810685239	یو رنګ	yo rang	similar, alike, resembling		adj.																													
+1702810685239	یو رنګ	yo rang	similar, alike, resembling		adj.																													1
 1702810707330	الله پاک	allah paak	Holy God																														TRUE	1
 1702810744117	خدای پاک	khUdaay paak	Holy God																															
 1702810772242	الرجیک	alarjéek	allergic		adj.																													1
@@ -16125,7 +16135,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708002286298	دارالخلافه	daarUlkhilaafá	capital		n. f.																												TRUE	1
 1708002280991	دار الخلافه	daar Ulkhilaafá	capital		n. f.																													1
 1708002383568	نیوک	neewák	invasion, occupasion, seizing		n. m.																													
-1708002428538	قبضه	qabzá	power, authority, seizing, foreclosure, capture, take-over, invasion, occupation	4	n. f.																													
+1708002428538	قبضه	qabzá	power, authority, seizing, foreclosure, capture, take-over, invasion, occupation	4	n. f.																													1
 1708002520813	قبضه کول	qabza kawúl	to take over, seize, capture, invade, occupy, foreclose	4	v. stat. comp. trans.	1708002428538	take	over																										1
 1708002525783	قبضه کېدل	qabza kedúl	to be taken-over, seized, captured, invaded, occupied, foreclosed	4	v. stat. comp. intrans.	1708002428538	be	taken over																										
 1708002661360	کاروان سرای	kaarwaan saráay	caravansary		n. m.																													1
@@ -16288,3 +16298,25 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708618946295	پټه	puTa	belt		n. f.																													
 1708619163675	پر اعتماده	pUr i'timáada	confident		adj.																													1
 1708619178963	پر اعتماد	pUr i'timáad	confident		adj.																													
+1708738463877	لاندې باندې	laande baande	mixed up, confused, upside-down		adj.																													
+1708738469202	لاندې باندې کول	laande baande kawul	to mix up, confuse, flip around		v. stat. comp. trans.	1708738463877	confuse																											1
+1708738473550	لاندې باندې کېدل	laande baande kedul	to be mixed up, confused, flipped around		v. stat. comp. intrans.	1708738463877	be	confused																										
+1708738588162	پېچیده	pecheedá	comlicated, complex		adj.																													1
+1708738639904	پېچیده کول	pecheeda kawul	to complicate		v. stat. comp. trans.	1708738588162	complicate																											
+1708738643351	پېچیده کېدل	pecheeda kedul	to get complicated		v. stat. comp. intrans.	1708738588162	get	complicated																										
+1708738792422	ګڼ کپ	guN kúp	conman		n. m. anim. unisex																													1
+1708739119309	خدمت کوونکی	khidmat kawóonkay	servant, considerate, serving		n. m. anim. unisex / adj.																													1
+1708739168171	مشتمل	mUshtamíl	consisting of		adj.																													1
+1708739238563	مستقل مزاج	mUstaqíl mizáaj	consistent		adj.																													1
+1708739305074	د لاسه ورکول	du laasa warkawul	to lose																															1
+1708739360318	هر وخت	har wakht	always, constantly		adv.																													1
+1708739389583	متواتر	mUtawaatír	successive, successive, constantly (periodically?)		adv.																													1
+1708739512646	قبض شوی	qabz shúway	conquered, taken		adj.																													1
+1708739762612	مسلسل	mUsalsál	constantly, continual		adv.																													1
+1708740097131	سیاق و سباق	siyaaq-U-sabáaq	context		n. m.																													1
+1708740143060	براعضم	buraazúm, buraayzúm	continent		n. m.																													1
+1708740181276	لګاتار	lugaatáar	continually, continuous		adv. / adj.																													1
+1708740248918	مانع حمل	maani-e-haml	contraceptive, birth-control		n. m.																													1
+1708740356267	برقرار	barqaráar	established, intact, continuing		adj.																													
+1708740484297	برقراره	barqaráara	established, intact, continuing		adj.																													1
+1708740638068	یو بل پسې	yo bul pase	one after the other, continuously		adv.																													1
