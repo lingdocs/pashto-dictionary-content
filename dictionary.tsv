@@ -1576,7 +1576,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1591804949320	مطمئن	mUtma'in	certain, sure, assured (in Urdu/Pakistan - satisfied)	4	adj.																													1
 1527821436	مټور	muTór	suffering from constipation (for livestock)	3	adj.																													
 1527820580	متحدالشکلانه	mUttadidUshakláana	homogeneous, uniform, identical, same	1	adj.																												true	
-1527818248	متفق	mUttafiq	in agreement, agreeing, in union, unanimous	3	adj.																													
+1527818248	متفق	mUttafíq	in agreement, agreeing, in union, unanimous	3	adj.																													
 1527820579	متحدالشکل	mUttahidUshákl	general, common, uniform	2	adj.																												true	
 1527818831	مواصلاتي	mUwaasalaatee	transportation, supply, communications	4	adj.																													
 1527821714	موازي	mUwaazée	parallel, matching, appropriate, identical	4	adj.																													
@@ -2034,6 +2034,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1664878705958	سهارنی	sahaaranáy	morning (adj.)	4	adj.																													
 1655509561631	سهي	sahée	right, correct, true, proper صحیح	4	adj.																													
 1527813557	صحیح	sahéeh, sahée, saée	correct, right, true, accurate	3	adj.								TRUE																					1
+1708825013062	صحیح کول	saheeh kawúl	to correct, make right	3	v. stat. comp. trans.	1527813557	correct																											1
+1708825021759	صحیح کېدل	saheeh kedúl	to be corrected	3	v. stat. comp. intrans.	1527813557	be	corrected																										
 1527818834	سهم ګر	sahm gár	frightening, terror, terrifying	3	adj.																													
 1527812963	سخي	sakhee	generous	4	adj.																													
 1527815246	سخت	sakht	hard, difficult, tough, strong	4	adj.																													1
@@ -4432,7 +4434,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577999538077	هرې	hire	a sound/cry used to drive sheep on	2	n. f.																													
 1671787987197	حرفه	hirfá	trade (as in a profession), job, career		n. f.																													
 1577818091416	حساب داري	hisaab daaree	accounting, record-keeping	3	n. f.																													
-1527814427	حصه	hissa	portion, share, lot	3	n. f.																													
+1527814427	حصه	hissá	portion, share, lot	3	n. f.																													
+1708824399326	حصه اخیستل	hissá akheestúl	to inherit, take part		v. dyn. comp. trans.	1527814427	inherit																											1
 1527818526	هښمه	híxma	storm cloud, rain cloud, rainstorm, downpour	2	n. f.																													
 1527812681	هوکړه	hókRa	agreement	4	n. f.																													
 1527813507	هوږه	hóoGa	garlic	4	n. f.																													
@@ -5245,6 +5248,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814122	مسئله	masala	matter, issue	4	n. f.									مسایل	masaayil																			
 1527816605	مشوره	mashwará, mushwará	advice, instructions, council, consultation	4	n. f.																													1
 1708739572215	مشوره کول	mashwará kawúl	to consult, get advice	4	v. dyn. comp. trans.	1527816605	consult																											1
+1708824023499	مشوره ورکول	mashwará warkawúl	to give advice	4	v. dyn. comp. trans.	1527816605	give	advice																										1
 1527815685	مسکه	maska	woman who had a miscarriage	2	n. f.																													
 1527817857	مسخره	maskhara	ridicule, joking, jesting, mocking	4	n. f.																													
 1579188978548	مستي	mastée	excitement, intoxication, arousal, liveliness	4	n. f.																													1
@@ -8960,7 +8964,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818902	کودی	kawdáy	potsherd, fragment, earthenware pot	1	n. m.																													
 1527823664	کوی	káway, kúway	smallpox	1	n. m.																													
 1527818838	کوکب	kawkab	star, planet, heavenly body	2	n. m.									کواکب	kawaakib																			
-1527823051	کونسل	kawnsúl, kaunsul	consul	4	n. m.																													
+1527823051	کونسل	konsúl, kawnsúl	consul	4	n. m.																													1
 1527820076	کوشېر	kawshér	soldering, welding; compensation	4	n. m.																													
 1574866671907	کوشکن	kawshkán, koshkán	anteroom, antechamber, waiting room	2	n. m.																													
 1527812289	کوتر	kawtar	pidgeon, dove	4	n. m.																													
@@ -12172,7 +12176,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821488	اسمان څکالکی	asmaan tskaalkay	bat (flying mouse)	3	n. m. anim.																													
 1527819439	باچا	baacháa	king, ruler, president, padishah	4	n. m.‌ anim.																													
 1527817718	بنده	bandá	slave, servant, a human, person (as in a slave of God)	4	n. m. anim.																													
-1656894910823	بېړا	beRaa	stupid, ignorant, retarted	4	n. m. anim.																													
+1656894910823	بېړا	beRaa	stupid, ignorant, retarded	4	n. m. anim.																													
 1659408677736	بلبل	bUlbUl	nightingale, songbird	4	n. m. anim.																													
 1582315903323	چیتا	cheetaa	cheetah	4	n. m. anim.																													
 1671707507124	غرڅه	ghurtsú	deer, stag, ibex	4	n. m. anim.																													
@@ -15742,7 +15746,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702810234492	بد ظن کول	bud zun kawúl	to alienate		v. stat. comp. trans.	1702810214442																												1
 1702810285814	زړه تورول	zRu torawúl	to alieanate, make sick of																															1
 1702810587760	کوټ ایستل	koT eestul	to align																															1
-1702810631764	یو شان	yó shaan	similar, alike, the same		adj.																													1
+1702810631764	یو شان	yo shaan	similar, alike, the same, matching, equal		adj.																													1
+1708825421658	یو شان کول	yo shaan kawul	to make the same, match, equalize		v. stat. comp. trans.	1702810631764	match																											
+1708825425422	یو شان کېدل	yo shaan kedul	to become the same, match, equalize		v. stat. comp. intrans.	1702810631764	match																											1
 1702810636497	یو شانتې	yo shaante	similar, alike, resembling		adj.																													
 1702810685239	یو رنګ	yo rang	similar, alike, resembling		adj.																													1
 1702810707330	الله پاک	allah paak	Holy God																														TRUE	1
@@ -16217,7 +16223,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708188700749	ډوب ځای	Doob dzaay	chasm		n. m.																													1
 1708188944068	کم قیمته	kam qeemáta	cheap		adj.																													1
 1708189560697	اننګۍ	anungúy	cheek		n. f.																													
-1708189813964	خانساما	khaansaamáa	chef		n. m. anim.																													
+1708189813964	خانساما	khaansaamáa	chef		n. m. anim.																													1
 1708189830911	خانه ساما	khaana saamáa	chef		n. m. anim.																													1
 1708189875325	کیمیایي	keemyaayee, keemyaa`ee	chemical		adj.																													1
 1708189938534	کېمیسټري	kemeesTrée	chemistry		n. f.																													1
@@ -16320,3 +16326,30 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708740356267	برقرار	barqaráar	established, intact, continuing		adj.																													
 1708740484297	برقراره	barqaráara	established, intact, continuing		adj.																													1
 1708740638068	یو بل پسې	yo bul pase	one after the other, continuously		adv.																													1
+1708824090737	نصیحت کوونکی	naseehát kawóonkay	counsellor		n. m. anim. unisex																													1
+1708824135977	بې شمېره	be shméra	countless																															1
+1708824186863	د کلي لمنې	du kúlee lamúne	countryside		n. f. pl.																													1
+1708824227413	خوشکه	khóoshka	barren, dry, arid																															1
+1708824249417	خشکه	khÚshka	barren, dry, arid																															
+1708824328627	شاړه	sháaRa	barren, dry, arid																															1
+1708824447592	خبرې اترې	khabure atúre	conversation (serious), disucssion		n. f. pl.																													
+1708824511453	اخلی پخلی	akhláy pakhláy	cooking		n. m.																													1
+1708824575007	کاپي	kaapée	copy		n. f.																													1
+1708824673021	کرپټ	karúpT	corrupt		adj.																													1
+1708824695163	کرپشن	karupshún	corruption		n. m.																													
+1708824740948	ټوخی	Tokháy	cough		n. m.																													1
+1708824939647	د زړه د اخلاصه	du zRu du ikhláasa	sincerely, genuinely, eagerly		adv.																													1
+1708824985332	د زړه له اخلاصه	du zRu la ikhláasa	sincerely, genuinely, eagerly		adv.																													
+1708825100511	په صحیح طریقې سره	pu saheeh tareeqe sara	correctly		adv.																													1
+1708825137589	خرابوالی	kharaabwáalay	badness, decay, corruption		n. m.																													1
+1708825614873	خط و کتابت	khut-U-kitaabát	correspondance (writing)																															1
+1708825714188	سرخي پوډر	sUrkhee poDúr	cosmetic powder, make-up		n. m.																													1
+1708825761895	میک اپ	mayk áp	make-up		n. m.																													1
+1708825807097	نېکه لار ښودل	neka láar xodúl	to guide into the truth, to advise, show the right way																															1
+1708825928631	هدایت کوونکی	hidaayat kawóonkay	counsellor, guide		n. m. anim. unisex																													1
+1708828117988	هیکل	haykál	statue		n. m.																													
+1708828232761	جسامت	jasaamát	size, bulk		n. m.																													
+1708828306845	کېناستېدل	kenaaastedúl	to sit		v. instrans.																													
+1708828388057	شګلن	shiglún	sandy		adj.																													
+1708828401874	شګن	shigún	sandy		adj.																													
+1708828435855	شګونی	shigoonay	sandy																															
