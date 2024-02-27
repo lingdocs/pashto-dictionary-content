@@ -4688,7 +4688,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822720	کلوشه	kaláwsha	galosh (کلوښه)	4	n. f.																													
 1527822719	کلوښه	kaláwxa	galosh	3	n. f.																													
 1527819042	کلیسا	kaleesáa	church	4	n. f.																													1
-1527814416	کلمه	kalima	word; short form for the Islamic Shahadah (confession of faith)	4	n. f.									کلمات	kalimáat																			
+1527814416	کلمه	kalimá	word; short form for the Islamic Shahadah (confession of faith), creed	4	n. f.									کلمات	kalimáat																			1
+1708911049259	کلیمه	kaleemá	word; short form for the Islamic Shahadah (confession of faith), creed	4	n. f.																													1
 1527822414	کم فکري	kam fikrée	lack of seriousness, lack of consideration/care, frivolousness	3	n. f.																													
 1527819855	کم خوبي	kam khobee	insomnia, sleeplessness	3	n. f.																													
 1527823595	کم خوني	kam khoonee	anemia	3	n. f.																													
@@ -9414,6 +9415,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822874	لوټ پاټ	looT páaT	robbery	4	n. m.																													
 1527823063	لوټه مار	looTa máar	mallet, tamper (agriculture)	2	n. m.																													
 1527814481	لوښی	lóoxay	dish, pot, jar, utensil, cutlery (often plural)	3	n. m.																													1
+1708911460956	لوښي	lóoxee	dishes, pots, jars, cutlery (plural of لوښی)																															1
 1527819233	لوی څارنوال	looy tsaaranwáal	attorney general, public prosecutor	3	n. m.																													
 1527820548	لوپر	lopar	sketchy person, thug/punk/not-involved-in-good things and sitting around	4	n. m.																													
 1527812864	لور	lor	side, direction	3	n. m.																													
@@ -11113,7 +11115,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818070	تابوت	taabóot	coffin, casket	4	n. m.																													1
 1622278302097	تادیب	taadéeb	punishment, correction, rehabilitation	4	n. m.																													
 1527823404	طاغوت	taaghóot	wretched, miserable, evil, base, miserable, demon	2	n. m.																													
-1527816610	تاج	taaj	crown, crest	4	n. m.																													
+1527816610	تاج	taaj	crown, crest	4	n. m.																													1
 1527813062	تاجیل	taajeel	postponement, delay	4	n. m.																													
 1527820834	تاجکستان	taajikistaan	Tajikistan	4	n. m.																													
 1527822373	تاک	taak	vine; mouthful; ambush	4	n. m.																													1
@@ -11338,7 +11340,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817916	تنګی	tangay	ravine, narrow valey/gorge, pass; pouch for dried cheese	4	n. m.																													
 1668755501093	تنګون	tangóon	the state of being bothered, cramped, tight	4	n. m.																													
 1586266458203	ټنګسال	Tangsáal	mint (for making money)	3	n. m.																													
-1527815880	تنقید	tanqéed	criticism (Arabic)	4	n. m.																													1
+1527815880	تنقید	tanqéed	criticism	4	n. m.																													1
+1708911400377	تنقید کول	tanqéed kawul	to criticize	4	v. dyn. comp. trans.	1527815880	criticize																											1
 1675436743502	طنز	tanz	satire, irony, mockery, accosting		n. m.																													
 1527812237	تنظیم	tanzeem	organization, order, regulation	4	n. m.																													
 1527811348	ټپ	Tap	wound	4	n. m.																													
@@ -13519,7 +13522,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1573149364576	ګډېدل	gaDedul	to be mixed, combined, blended, to meet, rejoin	3	v. stat. comp. intrans.	1527812640	be	mixed																										
 1579034600343	ګیرېدل	geeredul	to be seized, caught, trapped, confined, imprisoned, beseiged, stuck	4	v. stat. comp. intrans.	1527814363	be	caught																										
 1527814972	غرقېدل	gharqedul	to be sunk, immersed, plunged, lost	3	v. stat. comp. intrans.	1527814495	be	sunk																										
-1527821483	غصه کېدل	ghUssa kedul	to be angry, upset, distressed	3	v. stat. comp. intrans.	1527814572	be	angry																										
+1527821483	غصه کېدل	ghUsa kedúl	to get angry, upset, cross distressed	3	v. stat. comp. intrans.	1527814572	be	angry																										
+1708911667462	غوصه کېدل	ghwusa kedúl	to get angry, upset, cross distressed	3	v. stat. comp. intrans.	1527814574	be	angry																										1
 1588783381414	حاضرېدل	haaziredúl, haazuredúl	to show up, be present, appear; to be prepared, to get ready	4	v. stat. comp. intrans.	1527812113	be	present																										1
 1527814126	حلېدل	haledul	to be solved, resolved	4	v. stat. comp. intrans.	1527814125	be	solved																										
 1527817763	هېرېدل	heredul	to be forgotten (ستا نوم ما نه هېر شو – I forgot your name – lit, Your name was forgotten from me)	4	v. stat. comp. intrans.	1527817761	be	forgotten																										
@@ -15062,7 +15066,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814431	ښورول	xorawul	to cause to shake, to shake, to rock back and forth, to trouble, to agitate, to move, flutter	3	v. trans.																													
 1527820871	ښوول	xowúl	to show (ښودل)	4	v. trans.													ښای	xaay			ښود	xod											
 1596922014004	یشول	yashawúl	to boil, stew	4	v. trans.																													
-1527823022	یېرول	yerawúl	to make afraid, to scare, to make fear	4	v. trans.																													
+1527823022	یېرول	yerawúl	to frighten, to scare, to make fear	4	v. trans.																													
 1527817477	زنګول	zangawul	to rock back and forth (as in with a baby, to lull to sleep), to swing (on a swing etc.)	2	v. trans.																													
 1604511833990	زورول	zawrawul	to bother, irritate, torture, distress, vex, grind on (ځورول)	4	v. trans.																													
 1527814829	زبېښل	zbexul	to suck, soak up, absorb, to press, squeeze; to swallow	2	v. trans.																													
@@ -15122,7 +15126,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813885	ډارېدل	Daaredul	to fear, to be afraid, to be terrorized	3																														
 1582144888040	ډډی بډی	DaDay baDay	swollen, bloated (from sickness)	4																														
 1527817407	دل تلل	dal tlul	to go to ruin, to be wasted, to come to nothing	2														دل ځ	dal dz															
-1662632987010	دله	dalá	cuckold, mean-spirited (derogatory)	4																														1
+1662632987010	دله	dalá	cuckold, mean-spirited, coward, zealless (derogatory)	4																														1
 1527815955	دم کول	dam kawul	exorcism or magic done by blowing on people, to make an object into a magic charm	2																														
 1527823275	ډمول	Damawúl	to obstruct the flow of water	2																														
 1527819559	دړه کول	daRa kawul	to break (wood); to crack (voice)	2																														
@@ -16350,6 +16354,41 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708828117988	هیکل	haykál	statue		n. m.																													
 1708828232761	جسامت	jasaamát	size, bulk		n. m.																													
 1708828306845	کېناستېدل	kenaaastedúl	to sit		v. instrans.																													
-1708828388057	شګلن	shiglún	sandy		adj.																													
-1708828401874	شګن	shigún	sandy		adj.																													
-1708828435855	شګونی	shigoonay	sandy																															
+1708828388057	شګلن	shuglún	sandy		adj.																													
+1708828401874	شګن	shugún	sandy		adj.																													
+1708828435855	شګونی	shugoonay	sandy																															
+1708909968171	حوصله مند	hawsila mánd	couragous, brave, emotionally strong, patient		adj.																													1
+1708910008012	کورس	koors	course (education)		n. m.																													1
+1708910039306	کزن	kázun	cousin		n. m. anim. unisex																													1
+1708910084330	یرېدونکی	yaredóonkay	afraid, coward		n. m. anim. unisex / adj.																													1
+1708910131534	وېرېدونکی	weredóonkay	afraid, coward		n. m. anim. unisex / adj.																													
+1708910166638	یروونکی	yarawóonkay	frightening, scary		adj.																													
+1708910182434	وېروونکی	werawóonkay	frightening, scary		adj.																													
+1708910239089	بزدله	bUzdíla	cowardly		adj.																													1
+1708910261168	بزدل	bUzdíl	cowardly		adj.																													
+1708910320664	دله توب	dala tób	cowardice		n. m.																													1
+1708910441930	کوني کبر	koonee kábur	crab		n. m. anim.																													1
+1708910494498	کني کبر	kUnee kábur	crab		n. m. anim.																													
+1708910619751	چاودې	cháawde	cracks (in skin on hands and feet)		n. f. pl.																													1
+1708910650278	چاوده	cháawda	crack (in skin on hands and feet)		n. m. pl.																													
+1708910683553	چالباز	chaalbáaz	crafty, trickster		n. m. anim. unisex / adj.																													1
+1708910744983	رټه	rúTa	rote memorization, cramming for a test		n. f.																													
+1708910762487	رټه لګول	ruTa lugawul	to cram for a test, to learn my memorization		v. dyn. comp. trans.	1708910744983	cram																											1
+1708910824871	برېښ	brex	flash, glitter; cramp (pain); pneumonia		n. m.																													1
+1708910889655	کرین	kreen	crane (machine)		n. m.																													1
+1708910946263	په سینه تلل	pu seená tlul	to crawl																															1
+1708911085024	په خېټه تلل	pu kheTa tlul	to crawl																															1
+1708911175251	کرکټ	kirkúT	cricket (sport)		n. m.																													1
+1708911210780	نازک وخت	naazik wakht	crisis, critical time		n. m.																													1
+1708911243775	تنقیدي	tanqeedée	critical (to do with criticism)		adj.																													1
+1708911510593	مګرمچ	magurmúch	crocodile		n. m. anim.																													1
+1708911547037	نرګس	nirgús	crocus		n. m.																													1
+1708911813165	کارغه	kaarghú	crow, raven		n. m. anim.																													1
+1708911850123	کاغه	kaaghú	crooked (inflected form of کوغ)																															1
+1708911878404	رش	rush	crowd, traffic		n. m.																													1
+1708911912374	رېزه رېزه	reza reza	crumbled, in bits, crushed		adj.																													
+1708911950899	رېزه رېزه کېدل	reza reza kedúl	to crumble, be crushed		v. stat. comp. intrans.	1708911912374	crumble																											1
+1708911958558	رېزه رېزه کول	reza reza kawúl	to crush, make crumbled		v. stat. comp. trans.	1708911912374	crush																											
+1708912055087	خړپ	khRup	crunch		n. m.																													1
+1708912367342	اتریش	Utráysh	Austria		n. m.																													
+1708912420372	اتریشي	Utrayshée	Austrian		adj.																													
