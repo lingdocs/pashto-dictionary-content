@@ -1241,6 +1241,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703659954870	مایله کول	maayila kawul	to incline (fig.), attract	4	v. stat. comp. trans.	1703659927497	incline																											1
 1703659956540	مایله کېدل	maayila kedul	to be inclined (fig.), attracted	4	v. stat. comp. intrans.	1703659927497	be	inclined																										
 1527820799	مایوس	maayóos	disappointed, hopeless, despairing, let down, depressed	4	adj.																													
+1709218360692	مایوسه	maayóosa	disappointed, hopeless, despairing, let down, depressed	4	adj.																													1
 1527823215	مبغوز	mabghóoz	hateful, repulsive, hated	3	adj.																													
 1527818759	مدني	madanée	civil, civilized, cultured, educated	3	adj.																													
 1527816123	مدفوع	madfoo	discarded, thrown out, waste	2	adj.																													
@@ -1259,7 +1260,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811264	محکوم	mahkoom	condemned, sentenced, criminal; subjugated	4	adj.																													
 1591805178821	محلول	mahlóol	dissolved	2	adj.																													
 1527815901	محنت کش	mahnat kash, mihnat kash	hard-working, tough, industrious	4	adj.																													
-1598138974785	محنتي	mahnatée, mihnatée	hard-working, tough, industrious	4	adj.																													
+1598138974785	محنتي	mahnatée, mihnatée	hard-working, tough, industrious	4	adj.																													1
 1527820796	محروم	mahróom	deprived, excluded	3	adj.																													
 1527817755	محوه	mahwa	shaken, destroyed	3	adj.																													
 1527821889	مجازي	majaazee	figurative, metaphorical, allegoric	4	adj.																													
@@ -1279,7 +1280,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1584517283908	ممنون	mamnóon	content, happy, grateful, appreciative	4	adj.																													
 1527813488	منع	mána	forbidden	4	adj.																													1
 1702030935407	منع کېدل	mana kedúl	to abstain, to be forbidden	4	v. stat. comp. intrans.	1527813488	abstain																											1
-1702030937670	منع کول	mana kawúl	to forbid, to order not to	4	v. stat. comp. trans.	1527813488	forbid																											
+1702030937670	منع کول	mana kawúl	to forbid, to order not to	4	v. stat. comp. trans.	1527813488	forbid																											1
 1575642966457	معنیٰ دار	manaa daar	meaningful, significant	3	adj.																													
 1527815745	منندوی	manandooy	grateful, thankful, appreciative	4	adj.																													
 1527820414	منځنی	mandzunáy	middle, central	3	adj.																													
@@ -1604,7 +1605,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822115	نا درک	naa darák	unknown, unclear, ambiguous as to where it is, lost	4	adj.																													
 1527816276	نا روا	naa rawaa	not acceptable, not permitted, not allowed	4	adj.																													
 1527815098	نا شکر	naa shUkur	ungrateful	4	adj.																													
-1586449485269	نا امیده	naa Uméeda	hopeless	4	adj.																													1
+1586449485269	نا امیده	naa Uméeda	hopeless, dissapointed	4	adj.																													1
+1709218429649	نا امېده	naa Uméda	hopeless, dissapointed		adj.																													1
 1664091595857	نابلد	naabalad	unfamiliar, unaccustomed, unacquianted, stranger	4	adj.																													
 1610542099016	نابلده	naabalada	unfamiliar, unaccustomed, unacquianted	4	adj.																													
 1675002492491	نابریالی	naabaryaaláy	unsuccesful		adj.																													
@@ -2815,7 +2817,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815541	مسلم	mUslim	Muslim	3	adj. / n. m.																													
 1527814442	مطابق	mUtaabiq	matching, corresponding, accordance (په مطابق - according to)	4	adj. / n. m.																													
 1527811672	معتاد	mUtaad	addicted, addict	3	adj. / n. m.																													
-1527820639	متهم	mUttahám, mUthám	accused, indicted, defendant	4	adj. / n. m.																													
+1527820639	متهم	mUttahám, mUthám, mathám	accused, indicted, defendant	4	adj. / n. m.																													
 1527811662	ناب	naab	pure, unadulterated; molar tooth	2	adj. / n. m.																													
 1527820193	ناګاره	naagaara	denying, disowning, abnegating; denier, abnegator	4	adj. / n. m.																													
 1527813962	نازل	naazil	happened, befallen, come, revealed (used of prophecies and religious texts); condescension, low, tolerance	4	adj. / n. m.																													
@@ -4768,7 +4770,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1623044617293	کوڅۍ	kawtsúy	braid, pigtail, strands of hair	4	n. f.																													
 1527813871	کښتۍ	kaxtúy	boat, ship	2	n. f.																													
 1527813462	کیلي	keelee	key	4	n. f.																													
-1527821284	کینه	keena	malice, spite, vindictiveness	4	n. f.																													
+1527821284	کینه	keená	malice, spite, vindictiveness, hatred	4	n. f.																													
+1709218594968	کینه لرل	keená larul	to despise, hate	4	v. dyn. comp. trans.	1527821284	despise																											1
 1527812816	کیسه	keesá	story, tale, history; washcloth, glove used for rubbing in baths	4	n. f.																													1
 1576374375326	کېږدۍ	keGdúy	tent, nomad's tent	4	n. f.																													
 1527812756	کېله	kelá	banana	3	n. f.																													1
@@ -6460,7 +6463,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816448	ترله	tarla	cousin (paternal uncle's daughter)	4	n. f.																													
 1527816418	ترنه انا	tarna anaa	great-grandmother	4	n. f.																													
 1527821179	تړنه	taRúna	binding, linking, reinforcement, connection, closing, covering	4	n. f.																													
-1527814316	ترقي	taruqqée	progress, development	4	n. f.																													1
+1527814316	ترقي	taruqqée, taruqée	progress, development, advancement	4	n. f.																													1
+1709219258407	ترقي کول	taruqée kawúl	to progress, advance	4	v. dyn. comp. trans.	1527814316	progress																											
+1709219262898	ترقي ورکول	taruqee warkawul	to develop, cause to advance and make progress	4	v. dyn. comp. trans.	1527814316	develop																											1
 1527815337	تسلي	tasallée	consolation, comfort, satisfaction, reassurance	4	n. f.																													
 1708189702665	تسله	tasallá	consolation, comfort, satisfaction, reassurance	3	n. f.																													
 1708189718575	تسلي ورکول	tasallée warkawúl	to comfort, console, reassure	4	v. dyn. comp. trans.	1527815337	comfort																											1
@@ -8279,7 +8284,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586446698332	ګوړمار	gwuRmáar	someone who makes sugar from sugarcane	4	n. m.																													
 1527816705	ګوټ ناستی	gwuT naastay	hermit, recluse, anchorite	3	n. m.																													
 1527816796	حافظ	haafiz	hafiz, one who has memorized the Koran; someone who has memorized the Koran	4	n. m.																													
-1527813199	حاجت	haajat	need, necessity, requirement	4	n. m.																													
+1527813199	حاجت	haaját	need, necessity, requirement	4	n. m.																													
 1578618561154	حاجي	haajee	Haji, someone who has gone on the Hajj	4	n. m.																													
 1527815874	حاکمیت	haakimiyat	authority, ruling, supremacy	4	n. m.																													
 1527814069	حال	haal	state, condition, circumstance	4	n. m.									احوال	ahwáal																			1
@@ -8325,6 +8330,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819444	هند	hand	measure, size	2	n. m.																													
 1586634232305	هنس	hans	swan, goose	4	n. m.																													
 1527812050	حق	haq	right, share, claim; something one deserves; a sin done against someone	4	n. m.									حقوق	hUqóoq																			
+1709219688996	حق لرل	haq larúl	to deserve	4	v. dyn. comp. trans.	1527812050	deserve																											1
 1702966819828	حق غوښتل	haq ghwUxtul	to appeal, to seek one's rights	4	v. dyn. comp. trans.	1527812050	appeal																											1
 1610541150518	حقانیت	haqaaniyat, haqaanyat	truthfullness, honesty, legitimacy, rightfulness	4	n. m.																													
 1527812663	حقیقت	haqeeqát	truth, fact, reality	4	n. m.									حقایق	haqáayq																			1
@@ -11937,7 +11943,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1590826074673	زرګر	zargúr, zargár	goldsmith	4	n. m.																													
 1527815443	ضرورت	zaroorat	necessity, need	4	n. m.																													
 1571528301235	زړښت	zaRúxt	old age, aging, dilapitation, antiquity	3	n. m.																													
-1527817980	زوال	zawáal	destruction, decline, fall (of an empire etc.), dying out; setting of the sun	4	n. m.																													
+1527817980	زوال	zawáal	destruction, decline, fall (of an empire etc.), dying out; setting of the sun	4	n. m.																													1
 1527819978	زوجیت	zawjiyát, zaujiyat	marriage, matrimony	3	n. m.																													
 1527819670	ذوق	zawq, zauq	taste, interest, gusto	4	n. m.																													
 1527822891	زوزاد	zawzáad	dialect; descent, origin, family, clan	3	n. m.																													
@@ -13564,7 +13570,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818360	خلاصېدل	khlaasedúl	to be freed, saved, rescued, opened	4	v. stat. comp. intrans.	1527812777	be	opened																										1
 1527812812	خوښېدل	khwuxedul	to be pleasing, happy, to be liked; to be chosen, selected	2	v. stat. comp. intrans.	1527812810	be	liked																										
 1527817119	لنډېدل	lanDedul, lunDedul	to be shortened, made short	3	v. stat. comp. intrans.	1527813816	be	shortened																										
-1588152260378	لرې کېدل	lure kedul	to be removed, put far away	3	v. stat. comp. intrans.	1527814605	be	removed																										
+1588152260378	لرې کېدل	lure kedul	to be removed, put far away, detatched	3	v. stat. comp. intrans.	1527814605	be	removed																										
 1527811901	ماتېدل	maatedul	to be broken, break, hurt badle, crumble	4	v. stat. comp. intrans.	1527816011	be	broken																										
 1527821810	مغلوبېدل	maghloobedul	to be defeated, to lose (in sports); to be subjugated, enslaved	4	v. stat. comp. intrans.	1527821807	be	defeated																										
 1527814560	مجبورېدل	majbooredul	to be compelled, forced, obligated	3	v. stat. comp. intrans.	1527814556	be	compelled																										
@@ -13821,7 +13827,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823661	خارښتېدل	khaaruxtedul	to itch, to get itchy	4	v. stat. comp. intrans.	1527823659																												
 1527813162	خمېدل	khamedul	to bow oneself, to bend oneself down, to become curved	4	v. stat. comp. intrans.	1577899462253																												
 1584888688659	خسي کېدل	khasee kedul	to be castrated	4	v. stat. comp. intrans.	1584888643209																												
-1527813175	خطا کېدل	khataa kedul	to miss, to go astray	4	v. stat. comp. intrans.	1527814225																												
+1527813175	خطا کېدل	khataa kedul	to miss, to go astray	4	v. stat. comp. intrans.	1527814225																												1
 1614169692243	خیشتېدل	kheeshtedul	to become wet, soggy, soaked	4	v. stat. comp. intrans.	1527817115																												
 1592303570673	خوږمنېدل	khooGmunedul	to suffer, to have sympathy for others or grieve for	3	v. stat. comp. intrans.	1592303515292																												
 1527815715	خوټېدل	khooTedul	to boil (passive)	4	v. stat. comp. intrans.	1577901610224																												
@@ -14124,7 +14130,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816201	ثبتول	sabtawul	to enter, save, record, register	4	v. stat. comp. trans.	1527816205	record																											
 1673935779816	منعکسول	mUnakisawul	to reflect; to overturn, invert, reverse		v. stat. comp. trans.	1673935500270	reflect																											
 1527816559	یادول	yaadawul	to remember, to recall, to think on, to mention	4	v. stat. comp. trans.	1527812940	remember																											
-1588152253147	لرې کول	lure kawul	to remove, put far away	4	v. stat. comp. trans.	1527814605	remove																											
+1588152253147	لرې کول	lure kawul	to remove, put far away, detach	4	v. stat. comp. trans.	1527814605	remove																											1
 1577501129214	تکرارول	tăkraarawul	to repeat	4	v. stat. comp. trans.	1527815340	repeat																											
 1527813065	ستنول	stanawul, stunawul	to return, to give back; to delay someone or something, to direct, to turn, to fix on	4	v. stat. comp. trans.	1527819505	return																											
 1527812403	بچ کول	bach kawul	to save, protect, guard, spare, rescue, economize	4	v. stat. comp. trans.	1577298685334	save																											
@@ -16455,3 +16461,26 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709149838673	څهره	tsahrá	face, appearance		n. f.																													1
 1709149877248	ډیکورېشن	Daykoreshún	decoration		n. m.																													1
 1709150503352	ډکې میتیازې کول	Duke meetyáaze kawul	to poop, defecate, have a bowel movement																															1
+1709217683855	عاق	aaq	disinherited, cursed, deprived		adj.																													1
+1709218009137	ژوروالی	jzawurwáalay	depth		n. m.																													1
+1709218077516	ډوبوالی	Doobwáalay	sukenness, depth of water		n. m.																													1
+1709218124067	صحرا	sahráa	desert		n. m.																													1
+1709218160234	غیر اباد	ghayr abáad	deserted, uninhabited		adj.																													1
+1709218187552	ډیزاین	Deezáayn	design		n. m.																													1
+1709218390317	زړه کېدل	zRu kedul	to want, desire, feel like it																															1
+1709218495989	حاجتمند	haajatmánd	in need		adj.																													
+1709218532268	سخت حاجتمند	sakht haajatmánd	desperate																															1
+1709218668742	بد منل	bud manul	to not like something, to hate or be displeased with something																															1
+1709218713350	منزل مقصود	manzil-e-maqsóod	destination, goal		n. m.																													1
+1709218768383	خالي لاس	khaalee laas	empty-handed		adv.																													1
+1709218841045	ورانی	wraanáy	destruction, degeneration (خرابي)		n. m.																													1
+1709218980727	بربادي	barbaadée	destruction		n. f.																													1
+1709219076365	خبر رسان	khabar rasáan	detective		n. m. anim. unisex																													1
+1709219115781	سراغ رسان	sUráagh rasáan	detective		n. m. anim. unisex																													1
+1709219160303	بدله لاره	badála laara	detour, other way		n. f.																													1
+1709219163366	بله لاره	búla laara	detour, other way		n. f.																													1
+1709219339712	آله	aalá	device, tool		n. f.																													1
+1709219371704	وقف شوی	waquf shúway	devoted, dedicated		adj.																													1
+1709219513871	دشت	dusht	desert		n. m.																													1
+1709219528458	خوشې ځای	khooshe dzaay	desereted place		n. m.																													1
+1709219745262	په ګوته کول	pu gwuta kawúl	to determine, point out																															1
