@@ -620,6 +620,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812180	غرمی	gharmáy	noon	4	adj.																													
 1527814495	غرق	gharq	immersed, submerged, plunged, lost, drowned	3	adj.																													
 1527820081	غیب	ghayb	hidden, lost, disappeared	3	adj.																													
+1709334153471	غیبول	ghaybawúl	to make disappear, hide		v. stat. comp. trans.	1527820081	make	dissapear																										
+1709334399417	غیبېدل	ghaybedúl	to disappear, hide, get lost		v. stat. comp. intrans.	1527820081	disappear																											1
 1690458832491	غیر طبیعي	ghay tabee'ee	unnatural		adj.																													
 1527821765	غیر عادي	ghayr 'aadee	unusual, uncommon	4	adj.																													
 1527823442	غیر فاني	ghayr faanee	imperishable, eternal, will not decay	4	adj.																													
@@ -686,7 +688,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703658693877	ګمراه کېدل	gUmraah kedúl	to go astray, to err	4	v. stat. comp. intrans.	1527819154	go	astray																										
 1527812099	ګمرک	gUmrUk	customs (border)	3	adj.									ګمرکات	gUmrUkáat																			
 1527812100	ګمرکي	gUmrUkee	customs (border)	3	adj.																													
-1527814446	ګنده	gundá	dirty, filthy, unclean, sinful, rotten, stale, rotten, spoiled	4	adj.																													
+1527814446	ګنده	gundá	dirty, filthy, unclean, sinful, rotten, stale, rotten, spoiled	4	adj.																													1
 1702629516901	ګندا	gundáa	dirty, filthy, unclean, sinful, rotten, stale, rotten, spoiled	4	adj.																													
 1614083484276	ګپ شپي	gup shupée	chatty, sociable, gregarious, fun	3	adj.																													
 1527818765	ګړندی	guRandáy	speedy, high speed, fast, quick	4	adj.																													
@@ -1223,7 +1225,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822455	معقول	ma'qóol	rational, sensible, acceptable, prudent, judicious, legitimate, valid, appropriate	4	adj.																													
 1527818286	معروف	ma'roof	famous, well-known; active (verb - grammar)	3	adj.																													
 1527817601	معصوم	ma'sóom	innocent	3	adj.																													
-1527817636	معذور	ma'zóor	forgiven, pardoned; upset, distressed, helpless; disabled, handicapped	3	adj.																													
+1527817636	معذور	ma'azóor	disabled, deformed,handicapped, forgiven, pardoned; upset, distressed, helpless;	3	adj.																													
+1709333885567	معذوره	ma'azóora	disabled, deformed,handicapped, forgiven, pardoned; upset, distressed, helpless;		adj.																													1
 1527813723	مادي	maaddee	material, monetary	4	adj.																													
 1527819775	ماهوار	maahawaar	monthly	4	adj.																													
 1527817960	مالګین	maalgéen	salty, salted	4	adj.																													
@@ -1241,7 +1244,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703659954870	مایله کول	maayila kawul	to incline (fig.), attract	4	v. stat. comp. trans.	1703659927497	incline																											1
 1703659956540	مایله کېدل	maayila kedul	to be inclined (fig.), attracted	4	v. stat. comp. intrans.	1703659927497	be	inclined																										
 1527820799	مایوس	maayóos	disappointed, hopeless, despairing, let down, depressed	4	adj.																													
+1709334248773	مایوسول	maayoosawúl	to dissapoint, to make despair		v. stat. comp. trans.	1527820799	dissapoint																											
+1709334252086	مایوسېدل	maayoosedúl	to be dissapointed, to despair		v. stat. comp. intrans.	1527820799	be	dissapointed																										
 1709218360692	مایوسه	maayóosa	disappointed, hopeless, despairing, let down, depressed	4	adj.																													1
+1709334233263	مایوسه کول	maayoosa kawúl	to dissapoint, to make despair		v. stat. comp. trans.	1709218360692	dissapoint																											1
+1709334240629	مایوسه کېدل	maayoosa kedúl	to be dissapointed, to despair		v. stat. comp. intrans.	1709218360692	be	dissapointed																										
 1527823215	مبغوز	mabghóoz	hateful, repulsive, hated	3	adj.																													
 1527818759	مدني	madanée	civil, civilized, cultured, educated	3	adj.																													
 1527816123	مدفوع	madfoo	discarded, thrown out, waste	2	adj.																													
@@ -1260,7 +1267,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811264	محکوم	mahkoom	condemned, sentenced, criminal; subjugated	4	adj.																													
 1591805178821	محلول	mahlóol	dissolved	2	adj.																													
 1527815901	محنت کش	mahnat kash, mihnat kash	hard-working, tough, industrious	4	adj.																													
-1598138974785	محنتي	mahnatée, mihnatée	hard-working, tough, industrious	4	adj.																													1
+1598138974785	محنتي	mahnatée, mihnatée	hard-working, tough, industrious	4	adj.																													
 1527820796	محروم	mahróom	deprived, excluded	3	adj.																													
 1527817755	محوه	mahwa	shaken, destroyed	3	adj.																													
 1527821889	مجازي	majaazee	figurative, metaphorical, allegoric	4	adj.																													
@@ -1443,6 +1450,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821206	مختل	mUkhtál	disrupted, brought into disorder, spoiled, damaged, violated	2	adj.																													
 1527823090	مختلط	mUkhtalát	mixed, intermixed	2	adj.																													
 1527813253	مختلف	mUkhtalíf	different, distinct, various	4	adj.																													1
+1709331726232	مختلف کېدل	mUkhtalif kedúl	to differ, become different	4	v. stat. comp. intrans.	1527813253	differ																											1
 1527821217	مختصر	mUkhtasír	short, abbreviated, small, modest	4	adj.																													1
 1701935203071	مختصر کول	mUkhtasir kawúl	to shorted, to abbreviate	4	v. stat. comp. trans.	1527821217	shorten																											1
 1701935253143	مختصر کېدل	mUkhtasir kedúl	to be shortened, abbreviated	4	v. stat. comp. intrans.	1527821217	become	shortened																										
@@ -3752,6 +3760,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1612114401489	بې حرمتي	be hUrmatée	disrespect, disgrace	4	n. f.																													
 1527818814	بې احتیاطي	be ihtiyaatée	carelessness, lack of caution	4	n. f.																													1
 1527818344	بې اتفاقي	be itifaaqée	disunity, discord, disharmony, disagreement	4	n. f.																													1
+1709334076421	بې اتفاقي کول	be itifaaqée kawul	to disagree, be in disunity	4	v. dyn. comp. trans.	1527818344	disagree																											1
 1527820995	بې اعتمادي	be itimaadee	mistrust, lack of trust, lack of confidence	3	n. f.																													
 1527816763	بې کفایتي	be kafaayatee	insufficiency, inadequacy, incompetence	2	n. f.																													
 1527819528	بې کسي	be kasee	the state of having no relatives, being alone, having no guardian	4	n. f.																													
@@ -4029,7 +4038,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1664026534692	ډبا	Dibbáa	box (Urdu)	4	n. f.																													
 1527816915	دفاع	difaa	defence, protection	4	n. f.																													
 1527814467	دهقاني	dihqaanee	farming, agriculture	3	n. f.																													
-1527818108	ډکشنري	Dikshinaree	dictionary	3	n. f.																													
+1527818108	ډکشنري	Dikshinarée	dictionary	3	n. f.																													1
 1527817429	دل بستګي	dil bastagee	attachment, love, affection, passion (for something or someone)	2	n. f.																													
 1527817415	دل داره	dil daara	very good looking girl or woman, very beautiful girl or woman, babe; beloved, sweetheart, darling	3	n. f.																													
 1527817411	دل جویي	dil joyee	consolation, comfort, kindness, charm	3	n. f.																													
@@ -4368,7 +4377,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819701	حافظه	haafiza	memory, recall, recollection	4	n. f.																													
 1622897858990	هاغه	háagha	that (emphasizing)	4	n. f.																													
 1527820173	هارمونیه	haarmooniya	harmonium	4	n. f.																													
-1571526689012	هاضمه	haazimá	digestion	4	n. f.																													
+1571526689012	هاضمه	haazimá	digestion	4	n. f.																													1
 1527812114	حاضري	haaziree, haazuree	appearance, showing up for	4	n. f.																													
 1588786604676	هبه ډبه	hába Dába	whooping cough	2	n. f.																													
 1527812240	هدفي وژنه	hadafee wajzuna	target killing	4	n. f.																													
@@ -6479,7 +6488,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821265	تصریح	tasreeh	explanation; clear; precise	4	n. f.																													
 1527823151	تواضع	tawaazÚ'	humility, meekness	4	n. f.																													
 1527817885	توجه	tawajÚ	attention, care, regard, paying attention, consideration	4	n. f.																													
-1527815921	توقع	tawaqqÚ	expectation, hope, anticipation	4	n. f.									توقعات	tawaqqUaat																			1
+1527815921	توقع	tawaqqÚ	expectation, hope, anticipation	4	n. f.									توقعات	tawaqqUáat																			1
 1582145873843	تودوخه	tawdókha	heat, heating	3	n. f.																													
 1527817320	توجیه	tawjeeh	justification	3	n. f.									توجیهات	tawjeeháat																			
 1586452182432	تولیه	tawliyá	towel	4	n. f.																													
@@ -7181,7 +7190,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817178	امبار	ambaar	barn, heap, storehouse, haystack; sewage, manure, fertilizer	4	n. m.																													
 1586346832339	انبار	ambáar	barn, heap, storehouse, haystack; sewage, manure, fertilizer	4	n. m.																													1
 1588758350882	امبولانس	amboolaans	ambulance	4	n. m.																													
-1527816145	امېل	amel	necklace, garland, wreath	4	n. m.																													
+1527816145	امېل	amél	necklace, garland, wreath	4	n. m.																													
 1527814678	امنیت	amniyat	security, safety	4	n. m.																													
 1527813695	امپراتور	amparaator	emperor	4	n. m.																													
 1588696880300	امرود	amróod	pear, guava	4	n. m.																													
@@ -7772,7 +7781,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819067	دسمال	dasmáal	handkerchief, necktie ??, scarf or little shawl that guys carry around	4	n. m.																													
 1586362472138	دسمال	dasmáal	handkerchief, kerchief, necktie	3	n. m.																													
 1527821002	دست	dast	usually used in combinations with the meaning hand/arm; elbow (a measure of length)	3	n. m.																													1
-1527821003	دست	dast	feces, poop, poo,excrement, stool	3	n. m.																													1
+1527821003	دست	dast, dust	feces, poop, poo,excrement, stool; diarrhea	3	n. m.																													1
 1527820745	دست انداز	dast andáaz	someone who encroaches on someone’s rights; tyrant; enslaver	3	n. m.																													
 1566471183042	دستار	dastáar	turban	4	n. m.																													
 1527819615	دستخط	dastakhát	signature, receipt	4	n. m.																													1
@@ -8257,7 +8266,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818850	ګنبت	gUmbát	jump, leap	2	n. m.																													
 1527823745	ګڼه بوز	guNa bóoz	decisive and bold man	2	n. m.																													
 1675275952692	ګناه	gUnáah	sin		n. m.																													
-1613551667510	ګند	gund	dirtiness, filth	4	n. m.																													
+1613551667510	ګند	gund	dirtiness, filth	4	n. m.																													1
 1579016578450	ګنی	gunáy	sugarcane	4	n. m.																													1
 1527814657	ګنجایش	gUnjaayish	capacity, place for, space, room, tonnage	4	n. m.																													1
 1527823159	ګړدود	guRdód	dialect, vernacular	4	n. m.																													
@@ -8310,7 +8319,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821450	حجامت	hajaamát	bloodletting, the use of cupping glasses; a shave, a haircut	4	n. m.																													
 1527816748	حکیم	hakeem	wise man, thinker; eastern/traditional doctor or medicine man, doctor, physician	3	n. m.																													
 1527822075	هکتار	haktáar	hectare, 1000 square meters	2	n. m.																													
-1527814125	حل	hal	solution	4	n. m.																													
+1527814125	حل	hal	solution, resolution	4	n. m.																													
+1709337733496	حل کول	hal kawúl	to solve, resolve	4	v. stat. comp. trans.	1527814125	solve																											
+1709337736130	حل کېدل	hal kedúl	to resolve, be solved	4	v. stat. comp. intrans.	1527814125	resolve																											
 1573682845789	هل	hal	handle/shaft of a plow	2	n. m.																													
 1527814755	هلاهل	halaahal	deadly poison	2	n. m.																													
 1584529683652	هلاکت	halaakát	ruin, destruction	4	n. m.																													
@@ -9102,7 +9113,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819361	خوسکی	khooskáy, khoosakáy	calf (animal)	4	n. m.																													
 1527814511	خوی	khooy	character, nature, disposition, habit	4	n. m.																													1
 1577902271755	خور	khor	crust, rind, crustiness	2	n. m.																													
-1527812788	خوراک	khoráak, khwaráak	food	4	n. m.																													
+1527812788	خوراک	khoráak, khwaráak	food	4	n. m.																													1
 1527822094	خوریی	khorayáy	nephew (sister’s son)	4	n. m.																													
 1588075156748	خوشامند	khoshaamand	flattery, sucking up to	4	n. m.																													
 1527821025	خراس	khraas	wine press, press, extraction	1	n. m.																													
@@ -11377,6 +11388,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822127	ټپټپی	TapTapáy	motorbike, motorcycle	2	n. m.																													
 1527819931	تقاعد	taqaa'Úd, taqaawad	retirement (with pension)	4	n. m.																													
 1527820678	تقابل	taqaabÚl	meeting, reception, confrontation, contrast, opposition, conflict	3	n. m.																													
+1709336002084	تقابل کول	taqaabÚl kawul	to compare, contrast		v. dyn. comp. trans.	1527820678	compare																											
 1527822463	تقالید	taqaaléed	tradition, custom	4	n. m.																													
 1527822163	تقدس	taqaddÚs	holiness, piety, respect, reverence	4	n. m.																													
 1527821670	تقلب	taqalÚb	cheating, deception, fraud, forgery	4	n. m.																													
@@ -11908,7 +11920,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813377	زبان	zabaan	language, tongue (Urdu)	4	n. m.																													
 1527816889	زبرځواک	zabardzwaak	superpower	2	n. m.																													
 1527819954	زبور	zaboor	Zabur, the Psalms (in Islam, book given to David)	3	n. m.																													
-1527818898	ضبط	zabt	seizure, confiscation, control, restraint, self-control, recording, record	4	n. m.																													1
+1527818898	ضبط	zabt	seizure, confiscation, control, restraint, discipline, self-control, recording, record	4	n. m.																													1
 1586363815243	زعفران	zafráan	saffron	4	n. m.																													
 1584884477428	زغن	zaghán	kite (bird)	2	n. m.																													
 1527813243	زحمت	zahmat	effort, labor, difficulty, trouble	3	n. m.																													
@@ -13827,7 +13839,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823661	خارښتېدل	khaaruxtedul	to itch, to get itchy	4	v. stat. comp. intrans.	1527823659																												
 1527813162	خمېدل	khamedul	to bow oneself, to bend oneself down, to become curved	4	v. stat. comp. intrans.	1577899462253																												
 1584888688659	خسي کېدل	khasee kedul	to be castrated	4	v. stat. comp. intrans.	1584888643209																												
-1527813175	خطا کېدل	khataa kedul	to miss, to go astray	4	v. stat. comp. intrans.	1527814225																												1
+1527813175	خطا کېدل	khataa kedul	to miss, to go astray	4	v. stat. comp. intrans.	1527814225																												
 1614169692243	خیشتېدل	kheeshtedul	to become wet, soggy, soaked	4	v. stat. comp. intrans.	1527817115																												
 1592303570673	خوږمنېدل	khooGmunedul	to suffer, to have sympathy for others or grieve for	3	v. stat. comp. intrans.	1592303515292																												
 1527815715	خوټېدل	khooTedul	to boil (passive)	4	v. stat. comp. intrans.	1577901610224																												
@@ -14130,7 +14142,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816201	ثبتول	sabtawul	to enter, save, record, register	4	v. stat. comp. trans.	1527816205	record																											
 1673935779816	منعکسول	mUnakisawul	to reflect; to overturn, invert, reverse		v. stat. comp. trans.	1673935500270	reflect																											
 1527816559	یادول	yaadawul	to remember, to recall, to think on, to mention	4	v. stat. comp. trans.	1527812940	remember																											
-1588152253147	لرې کول	lure kawul	to remove, put far away, detach	4	v. stat. comp. trans.	1527814605	remove																											1
+1588152253147	لرې کول	lure kawul	to remove, put far away, detach, discard	4	v. stat. comp. trans.	1527814605	remove																											1
 1577501129214	تکرارول	tăkraarawul	to repeat	4	v. stat. comp. trans.	1527815340	repeat																											
 1527813065	ستنول	stanawul, stunawul	to return, to give back; to delay someone or something, to direct, to turn, to fix on	4	v. stat. comp. trans.	1527819505	return																											
 1527812403	بچ کول	bach kawul	to save, protect, guard, spare, rescue, economize	4	v. stat. comp. trans.	1577298685334	save																											
@@ -14281,7 +14293,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579645799283	هلاکول	halaakawul	to destroy, ruin, annihilate, wear down, kill	4	v. stat. comp. trans.	1527817637																												
 1527819365	حلال کول	halaal kawul	to authorize, permit (by Sharia Law); to butcher, kill	4	v. stat. comp. trans.	1527819363																												
 1527819364	حلالول	halaalawul	to authorize, permit (by Sharia Law); to butcher, kill	4	v. stat. comp. trans.	1527819363																												
-1527814127	حلول	halawul	to solve, resolve	4	v. stat. comp. trans.	1527814125																												
+1527814127	حلول	halawul	to solve, resolve	4	v. stat. comp. trans.	1527814125	solve																											
 1527821308	حرامول	haraamawúl	to forbid	4	v. stat. comp. trans.	1527813792																												
 1527821838	هړیسه کول	haReesa kawul	to boil soft	2	v. stat. comp. trans.	1527821837																												
 1527822669	هسکول	haskawul	to lift, raise, elevate, make higher; to inflict, to deal (a blow); to develop	4	v. stat. comp. trans.	1527822668																												
@@ -14435,7 +14447,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821313	موقوفول	mawqoofawúl	to forbid, prohibit, terminate, remove	4	v. stat. comp. trans.	1527821314																												
 1527819472	میل کول	meel kawul	to fill, to pack	2	v. stat. comp. trans.	1527819471																												
 1527812906	مېخول	mekhawul	to nail, fasten	4	v. stat. comp. trans.	1527812905																												
-1579296011831	ملاوول	milaawawul	to introduce, to bring together	4	v. stat. comp. trans.	1527823031																												
+1579296011831	ملاوول	milaawawul	to introduce, to bring together, dial (a number)	4	v. stat. comp. trans.	1527823031																												
 1527818732	مومیایي کول	moomyaayee kawul	to embalm, to mummify	2	v. stat. comp. trans.	1527818731																												
 1579367141671	موسکول	mooskawul	to make smile	2	v. stat. comp. trans.	1577820170587																												
 1527812121	معاف کول	mUaaf kawul, m'aaf kawul	to forgive, to pardon, to exempt	4	v. stat. comp. trans.	1527812118																												
@@ -14454,7 +14466,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1611420499457	منظمول	mUnzimawul	to organize	4	v. stat. comp. trans.	1527815086																												
 1527815855	مقایسه کول	mUqaayasa kawul	to compare, to juxtapose	4	v. stat. comp. trans.	1527816216																												
 1527816458	مقررول	mUqarrarawúl	to appoint, assign, delegate	4	v. stat. comp. trans.	1527816457																												1
-1611421166075	مړ کول	muR kawul	to extinguish, snuff out, to kill	4	v. stat. comp. trans.	1527815087																												
+1611421166075	مړ کول	muR kawúl	to kill, to extinguish, snuff out	4	v. stat. comp. trans.	1527815087	kill																											
+1709331508666	مړ کېدل	muR kedúl	to die, be extinguished, snuffed out	4	v. stat. comp. intrans.	1527815087	die, dies, dying, died																											1
 1588857827542	مراعتول	mUraa'atawul	to apply, follow, put int action (a law etc.)	3	v. stat. comp. trans.	1527822244																												
 1579187839667	مرتبول	mUratabawul	to put into order, put right, adjust, regulate, develop	4	v. stat. comp. trans.	1527821885																												
 1611421133084	مړول	muRawul	to extinguish, snuff out, to kill	4	v. stat. comp. trans.	1527815087																												
@@ -15089,7 +15102,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811227	ښندل	xandul, xundul	to give, offer, present, distribute	1	v. trans.																	ښانده	xaandu											
 1527816901	ښیل	xayul	to show, indicate	2	v. trans.																													
 1527823539	ښکنځل	xkandzul	to swear or curse at someone	4	v. trans.																	ښکانځه	xkaandzu											
-1527816828	ښکل	xkul	to write, compose; pull, take out, withdraw	3	v. trans.																													
+1527816828	ښکل	xkul	to write, compose; pull, take out, withdraw, discard	3	v. trans.																													
 1527814431	ښورول	xorawul	to cause to shake, to shake, to rock back and forth, to trouble, to agitate, to move, flutter	3	v. trans.																													
 1527820871	ښوول	xowúl	to show (ښودل)	4	v. trans.													ښای	xaay			ښود	xod											
 1596922014004	یشول	yashawúl	to boil, stew	4	v. trans.																													
@@ -16484,3 +16497,36 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709219513871	دشت	dusht	desert		n. m.																													1
 1709219528458	خوشې ځای	khooshe dzaay	desereted place		n. m.																													1
 1709219745262	په ګوته کول	pu gwuta kawúl	to determine, point out																															1
+1709330939699	شوګر	shóogar, shóogur	diabetes		n. m.																													1
+1709330954889	د شوګر مریض	du shóogar maréez, du shóogur maréez	diabetes		n. m.																													1
+1709331008433	دیاګرام	dayaagráam	diagram		n. m.																													1
+1709331085713	قطر	qÚtur	diameter		n. m.																													1
+1709331108247	حیرا	heeráa	diamond		n. f.																													1
+1709331138605	پیچر	paychár	diaper		n. m.																													1
+1709331162982	نیپي	naypée	diaper		n. f.																													1
+1709331295976	پېچش	pechúsh	diarrhea		n. m.																													1
+1709331321423	ډایري	Daayirée	diary		n. f.																													1
+1709331348599	روزنامچه	roznaamchá	diary		n. f.																													1
+1709331397591	ډیکشنري	Deekshinarée	dictionary		n. f.																													1
+1709331456944	په حق رسېدل	pu háq rasedúl	to die, pass away																															1
+1709331567440	ډېزل	Dezúl	diesel																															1
+1709331668598	ډایټینګ	DáayiTeeng	dieting		n. m.																													1
+1709331831614	عضمت	azamát	greatness, grandeur		n. m.																													1
+1709331873005	ډېم	Dem	dam		n. m.																													1
+1709331901327	مډم	maDám	madam		n. f. anim. / title																													1
+1709332004346	خیری	khéeray	dirt		n. m.																													1
+1709332083961	آفت	aafát	disaster		n. m.																													1
+1709332107438	نقصاني	nUqsaanée	damaging, disastrous		adj.																													1
+1709332210525	بې ارامي	be araamée	disquiet, discomfort, upset		n. f.																													1
+1709332258952	ډسک	Disk	disk, disc		n. m.																													1
+1709332265430	ډیسک	Deesk	disk, disc		n. m.																													1
+1709332758041	ناخوښه	naakhwúxa	dislike, disgust, dissaproval; unhappy, annoyed, rejected		n. f. / adj.																													1
+1709332918672	اوښکل	ooxkúl	see ښکل																															1
+1709333766600	غوپه ورکول	ghóopa warkawul	to dip																															1
+1709333815034	هدایتکار	hidaayatkáar	director		n. m. anim. unisex																													1
+1709333973642	معذوب	ma'azóob	disabled, deformed, abnormal, handicapped		adj.,																													
+1709334013840	شل ګوډ	shul góoD	disabled, crippled, handicapped		adj. doub.																													1
+1709335838357	پېژندویي	pejzandóoyee	recognition, acquaintance		n. f.																													
+1709336076000	ارادتاً	iraadatán	intentionally, on purpose, deliberately		adv.																													
+1709336156762	غیر حقیقي	ghayr haqeeqee	unrealistic		adj.																													
+1709336673731	زمه دار	zima dáar	responsible		n. m. anim. unisex / adj.																													
