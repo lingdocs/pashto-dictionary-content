@@ -1349,7 +1349,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822109	مزه دار	maza dáar	tasty, sweet, pleasant, attractive	4	adj.																													
 1571840263659	مزه دار	maza dáar	delicious, tasty, flavourfull	4	adj.																													
 1527822110	مزه ناک	maza náak	tasty, sweet, pleasant, attractive	4	adj.																													1
-1527822048	مضبوط	mazbóot	strong, sturdy, firm, tough, determined, invincible	4	adj.																													
+1527822048	مضبوط	mazbóot	strong, sturdy, firm, tough, determined, invincible	4	adj.																													1
 1527822949	مزېدار	mazedáar	tasty, sweet, pleasant, attractive (مزه دار)	4	adj.																													
 1575239393600	مزی	mázay, múzay	firm, stable, muscular, stalwart; prompt, quick	4	adj.																													
 1527817028	مذهبي	mazhabee	religious	4	adj.																													
@@ -4214,7 +4214,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821620	ګړۍ	gaRúy	hour, time; watch, wristwatch; pond, puddle, hollow in a rock filled with rainwater, gully; fort, castle	4	n. f.																													
 1527820724	ګرزونه	garzawúna	vomit, vomiting, puke, puking	3	n. f.																													
 1527822831	ګټه وټه	gaTa waTa	earnings, wages	3	n. f.																													
-1527814086	ګټه	gáTa, gúTa	earning, wages; benefit, gain, profit	3	n. f.																													1
+1527814086	ګټه	gáTa, gúTa	earning, wages; benefit, gain, profit	4	n. f.																													1
+1709563382167	ګټه کول	gáTa kawul	to earn, profit, benefit, gain	4	v. dyn. comp. trans.	1527814086	profit																											1
 1527816956	ګټنه	gaTuna	gain, benefit, usefulness, profit, win	3	n. f.																													
 1527818140	ګواهي	gawaahee	testimony, witness	4	n. f.																													
 1527822483	ګزمه	gazma	patrol	4	n. f.																													
@@ -4804,7 +4805,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821063	خارښتي	khaaruxtée	itchy, mangy, a mangy she-goat; lustful man, scoundrel	4	n. f.																													
 1571526277443	خاشه	khaasha	piece, crumb, chunk of, pinch of, speck, trash, garbage, litter	2	n. f.																													
 1527822518	خاصره	khaasirá	side	1	n. f.																													
-1527814024	خاته	khaata	lifting, rising, ascent	3	n. f.																													
+1527814024	خاته	khaatú	lifting, rising, ascent	3	n. m.																													
 1621957939454	خاتمه	khaatimá	end, ending, completion, termination	4	n. f.																													1
 1527815061	خاطره	khaatira	memory, keepsake, souvenir, memento; deference, consideration (ie. of a person or something owing to them)	4	n. f.									خاطرات	khaatiraat																			
 1527812764	خاوره	kháawra	ground, land, area	4	n. f.																													1
@@ -9121,6 +9122,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814511	خوی	khooy	character, nature, disposition, habit	4	n. m.																													1
 1577902271755	خور	khor	crust, rind, crustiness	2	n. m.																													
 1527812788	خوراک	khoráak, khwaráak	food	4	n. m.																													1
+1709564011209	خوراک کول	khoráak kawúl	to eat	4	v. dyn. comp. trans.	1527812788	eat																											1
 1527822094	خوریی	khorayáy	nephew (sister’s son)	4	n. m.																													
 1588075156748	خوشامند	khoshaamand	flattery, sucking up to	4	n. m.																													
 1527821025	خراس	khraas	wine press, press, extraction	1	n. m.																													
@@ -9437,7 +9439,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813986	لمر پرېواته	lmar prewaatu	sunset, west	4	n. m.																													
 1586447467856	لمر څرک	lmar tsrak	rising of the sun	3	n. m.																													
 1527813984	لمر	lmar, lamar	sun	4	n. m.																													
-1527813987	لمرخاته	lmarkhaatu	sunrise, east	4	n. m.																													
+1527813987	لمرخاته	lmarkhaatú	sunrise, east	4	n. m.																													
+1709563920211	لمر خاته	lmar khaatú	sunrise, east	4	n. m.																													
 1527814401	لوبونی	lobawúnay	toy	2	n. m.																													
 1527811402	لوبځی	lobdzay	playground	4	n. m.																													
 1527811403	لوبغالی	lobgháalay	stadium	4	n. m.																													
@@ -12753,7 +12756,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1590838706728	شپږویشت	shpuGweesht	twenty-six	4	num.																													
 1589025140915	شل	shul, shil	twenty	4	num.																													1
 1527816917	صفر	sifr, sifur	zero, none, naught	4	num.																													
-1527815312	سل	sul	hundred	4	num.											سلګونه	sulgóona																	
+1527815312	سل	sul	hundred (for multiples سوه - sáwa, ie two hundred دوه سوه)	4	num.											سلګونه	sulgóona																	
 1527822534	سلها	sulháa	hundreds (from Farsi)	3	num.																													
 1590838609258	څلېرویشت	tsalerweesht	twenty-four	4	num.																													
 1588688961102	څلور	tsalór	four	4	num.																													
@@ -14419,7 +14422,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819614	لاسلیکول	laasleekawul	to sign (ie. signature)	3	v. stat. comp. trans.	1527819613																												
 1527817188	لغوه کول	laghwa kawul	to cancel, make void, to repeal, to waive	4	v. stat. comp. trans.	1527817187																												
 1566549033366	لمدول	lamdawul	to make wet, moisten	4	v. stat. comp. trans.	1527817123																												
-1609947763069	لړه کول	laRa kawúl	to throw	3	v. stat. comp. trans.	1609947777710																												1
+1609947763069	لړه کول	laRa kawúl	to throw, toss, dump	3	v. stat. comp. trans.	1609947777710																												1
 1527814754	لتاړول	lataaRawul	to expose to something, suprise by somethin, ruin, trample, destroy, surprise, topple	3	v. stat. comp. trans.	1579035507218																												
 1527819881	لوول	lawawúl	to reap, harvest	4	v. stat. comp. trans.	1527813995																												
 1571525550047	لیلامول	leelaamawul	to sell by auction or bidding	4	v. stat. comp. trans.	1571525526237																												
@@ -16567,27 +16570,72 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709423785238	بدګماني	budgUmaanée	distrust, doubt, suspicion		n. f.																													1
 1709423788027	بدګماني کول	budgUmaanée kawul	to distrust, doubt, have suspicion		v. dyn. comp. trans.	1709423785238	distrust																											1
 1709422719442	شک شبهه	shuk shUbá	distrust, doubt, suspicion		n. f.																												TRUE	1
-1709422724411	شک شبه	shuk shUbá	distrust, doubt, suspicion		n. f.																													
+1709422724411	شک شبه	shuk shUbá	distrust, doubt, suspicion		n. f.																													1
 1709423474639	ګړبړ کول	guRbúR kawul	make a hubub, disturb, make a commotion		v. dyn. comp. trans.	1708181022801	disturb																											1
 1709423370801	ګوډۍ	gooDúy	doll		n. f.																													
-1709473802906	لینځکه	leendzúka	doll		n. f.																													
-1709473849337	نینځکه	nayndzúka	doll		n. f.																													
-1709473874377	ګومبت	goombút	dome		n. m.																													
+1709473802906	لینځکه	leendzúka	doll		n. f.																													1
+1709473849337	نینځکه	nayndzúka	doll		n. f.																													1
+1709473874377	ګومبت	goombút	dome		n. m.																													1
 1709473979384	ټلۍ	Táluy	doorbell		n. f.																													
-1709474028946	ګینټۍ	geenTúy	doorbell		n. f.																													
-1709474057027	دوه ګون	dwa góon	double		adj.																													
-1709474082480	پایپ	paayp	pipe		n. m.																													
-1709474084288	ډرامه	Draamá	drama		n. f.																													
-1709474111516	خوب لیدل	khób leedul	to dream																															
+1709474028946	ګینټۍ	geenTúy	doorbell		n. f.																													1
+1709474057027	دوه ګون	dwa góon	double		adj.																													1
+1709474082480	پایپ	paayp	pipe		n. m.																													1
+1709474084288	ډرامه	Draamá	drama		n. f.																													1
+1709474111516	خوب لیدل	khób leedul	to dream																															1
 1709474184376	ډرېور	Drewár	driver		n. m. anim. unisex																													
-1709474226262	ډریور	Draywár	driver		n. m. anim. unisex																													
-1709474271798	نیم اوده	neem oodú	drowsy, sleepy																															
+1709474226262	ډریور	Draywár	driver		n. m. anim. unisex																													1
+1709474271798	نیم اوده	neem oodú	drowsy, sleepy																															1
 1709474383236	ګوګوشته	googooshtá	dove		n. f.																													
 1709474387452	ګوګوشتکه	googooshtká	dove		n. f.																													
-1709474641793	کوړکوړه	kooRkooRá	dove		n. f.																													
-1709474429479	خشک سالي	khUsh saalée	drought		n. f.																													
+1709474641793	کوړکوړه	kooRkooRá	dove		n. f.																													1
+1709474429479	خشک سالي	khUsh saalée	drought		n. f.																													1
 1709474489459	باراني	baaraanée	rainy		adj.																													
-1709474541840	د پرتوغاښ ډکی	du partoogháax Dúkay	shalwar cord, rope for tying up pants		n. m.																													
-1709474587738	درځن	dardzún	dozen		n. m.																													
+1709474541840	د پرتوغاښ ډکی	du partoogháax Dúkay	shalwar cord, rope for tying up pants		n. m.																													1
+1709474587738	درځن	dardzún	dozen		n. m.																													1
 1709474609920	درجن	darjún	dozen		n. m.																													
-1709474699602	اغږلي اوړه	aghGúlee ooRú	dough																															
+1709474699602	اغږلي اوړه	aghGúlee ooRú	dough																															1
+1709561113827	د خوبه	du khóba	sleepy, drowsy																															1
+1709561146649	سترګې ورتلل	stúrge wartlúl	to doze																															
+1709561231110	تصویر جوړول	taswéer joRawúl	to draw, make a picture		v dyn. comp. trans.	1527811389	draw																											1
+1709561701990	ډولکی	Dolkáy	drum		n. m.																													1
+1709561782362	تمبل	túmbul	timbrel, tambourine, drum		n. m.																													1
+1709561853737	دوپړی	dopRáy	timbrel, tambourine, drum		n. m.																													1
+1709561908440	دوپړیمار	dopReemáar	drummer		n. m. anim. unisex																													1
+1709561917602	ډولکیمار	Dolkeemáar	drummer		 n. m. anim. unisex																													1
+1709561965094	په نشه کې مست	pu nashá ke mast	intoxicated, high		adj.																													1
+1709562025616	بته	búta	duck		n. f.																													1
+1709562048109	په دې سبب	pu de sabáb	for this reason, due to, because of																															1
+1709562079144	ساده	saadá	plain, simple; simple-minded, dull, dumb, naive		adj.																													1
+1709562187537	خاشڼه	khaashúNa, khaashNa	dung (of a donkey, horse) 		n. f.																													1
+1709562277224	ګوش	gosh	ear (Farsi)		n. m.																													1
+1709562334653	جومکۍ	joomkúy	earring		n. f.																													1
+1709562630824	د ماښام خړه	du maaxáam khúRa	dusk		n. f.																													1
+1709562694779	د ګند ټوکرۍ	du gund Tookrúy	dustbin, garbage can		n. f.																													1
+1709562725056	جاړن	jaaRún	dustcloth		n. m.																													1
+1709562768383	خټین	khaTéen	muddy, made of mud, pottery		adj.																													1
+1709562886250	خټین	khuTéen	dynamite (??)																															
+1709564473442	ډینمایټ	DaynamáayT	dynamite		n. m.																													1
+1709562943885	هر یو	har yo	each, every																															1
+1709562982131	په شوق سره	pu shoq sara, pu shauq sara	eagerly, with enthusiasm		adv.																													1
+1709563032868	د زړه د خلاصه	du zRu du khláasa	eagerly, genuinely		adv.																													1
+1709563056071	د زړه د اخلاصه	du zRu du ikhláasa	eagerly, genuinely		adv.																													
+1709563077146	د زړه په مینه	du zRu pu méena	eagerly, genuinely		adv.																													1
+1709563139300	شوقیه	shoqíya, shauqíya	eagerly, with enthusiasm; having interest, desire		adv. / adj.																													1
+1709563223975	د غوږ درد	du ghwuG dárd	earache		n. m.																													1
+1709563243425	د غوږ خوږ	du ghwuG khóG	earache		n. m.																													1
+1709563278468	غوږ سخا کېدل	ghwuG skhaa kedúl	ear infection																															1
+1709563305533	مندرۍ	mundrúy, mundurúy	earring		n. f.																													1
+1709563338019	د وخته	du wákhta	early		adv.																													1
+1709563501067	دیاړي	diyaaRée	earning, daily wage, pay		n. f.																													1
+1709563535246	دیاړي کول	diyaaRée kawul	to earn, to do day labour, to work, earn wages		v. dyn. comp. trans.	1709563501067	earn																											1
+1709563594281	په اسانۍ سره	pu asaanúy sara	easily		adv.																													1
+1709563616723	په ارام سره	pu aráam sara	easily, calmly, slowly		adv.																													1
+1709563836148	نمر خاته	nmar khaatú	sunrise; east		n. m.																													1
+1709563814460	خاته	khaata	shed, 																															
+1709563844633	لمر څرک	lmar tsrák	sunrise, rising of the sun		n. m.																													
+1709563975654	مشرقي	mushriqée	eastern		adj.																													1
+1709564062260	د اواز بېرته راتلل	du awáaz berta raatlúl	echo																															1
+1709564117776	بچتي	bachútee	economical, cheap		adj.																													
+1709564143430	مالي حالت	maalee haalát	economy, economical situation		n. m.																													1
+1709564169041	مالي حیثیت	maalee haysiyát	economy, economical situation		n. m.																													1
+1709564815619	سوه	sáwa	for multiples of a hundred, ie. three hundred - درې سوه																															
