@@ -124,7 +124,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1690458823761	اسکېرلی	askerúlay	pitiful, weak, feeble, faint	1	adj.																													
 1527814226	اصلي	aslée	real, actual, original, genuine, essential	4	adj.																													1
 1588849760045	اسپه	aspa	spotted, thick	4	adj.																													
-1527816243	عصري	asree	modern	3	adj.																													
+1527816243	عصري	asrée	modern	3	adj.																													
 1527820202	استرالیایي	astraaliyaayee	Australian	4	adj.																													
 1527819449	اسیایي	asyaayee	Asian	3	adj.																													
 1610617550750	عتیقه	ateeqá	ancient, very old, antique	4	adj.																													
@@ -1475,6 +1475,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702024813255	منسوخ کېدل	munsookh kedúl	to be cancelled, abrogated, annulled, abolished	4	v. stat. comp. intrans.	1527811367	be	cancelled																										
 1527811367	منسوخ	munsookh	canceled, abrogated, abolished, annulled	3	adj.																													
 1527823721	منتخب	mUntakháb	selected, elected	4	adj.																													
+1709670972687	منتخب کول	mUntakháb kawúl	to select, elect, choose		v. stat. comp. trans.	1527823721	select																											1
+1709670976189	منتخب کېدل	mUntakháb kedul	to be selected, elected, chosen		v. stat. comp. intrans.	1527823721	be	selected																										
 1566476291171	منتقل	mUntaqíl	transferred, moved	4	adj.																													
 1527813675	منتظم	mUntazam	orderly, arranged, organized	4	adj.																													
 1527815084	منتظر	mUntazir	waiting, expecting	4	adj.																													
@@ -9574,7 +9576,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1662023131048	محفله	mahfíl, mafhíl	party, gathering, event, assembly	4	n. m.																													
 1678446368187	محکومیت	mahkoomiyát	condemnation		n. m.																													
 1586956457276	محلت	mahlát	neighborhood, district, section	3	n. m.																													
-1527813247	محنت	mahnat, mihnat	effort, labor, diligence	3	n. m.																													
+1527813247	محنت	mahnat, mihnat	effort, labor, diligence, hard work	3	n. m.																													1
 1671707581792	محرومیت	mahroomiyát	deprivation, bereavement, exclusion, being cut off from something		n. m.																													
 1527817693	محشر	mahshár	judgement day	3	n. m.																													
 1527812101	محصول	mahsool	product	4	n. m.									محصولات	mahsoolaat																			
@@ -11337,6 +11339,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813532	تلفظ	talafÚz	pronunciation, utterance	4	n. m.																													1
 1589465056176	تلک	talák	trap, dragnet	4	n. m.																													
 1527811823	تعلیم	taléem	education	4	n. m.																													1
+1709662916732	تعلیم ورکول	taléem warkawul	to educate, teach		v. dyn. comp. trans.	1527811823	educate																											1
 1602162555608	تلی	taláy	palm (of hand), sole (of foot/shoe), compound ??	4	n. m.																													
 1577585114379	تلی	tálay	sole (of a shoe); yard, compound; palm	4	n. m.																													
 1527819728	تلفیق	talféeq	word order, composition / combination (grammar)	2	n. m.																													
@@ -11423,7 +11426,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822886	تړنګ	taRáng	fastener, clip, tie, tether, brace; fence, enclosure; unassailable cliff	3	n. m.																													
 1527820266	ترشح	tarashÚh	secretion, discharge, oozing, trickle, seeping; sweating	4	n. m.																													
 1527811699	تربیت	tarbiyát	upbrining, teaching, training, education	4	n. m.																													1
-1703654526382	تربیت ورکول	tarbiyat warkawul	to educate, train, teach, bring up	4	v. dyn. comp. trans.	1527811699	train																											
+1703654526382	تربیت ورکول	tarbiyat warkawul	to educate, train, teach, bring up	4	v. dyn. comp. trans.	1527811699	train																											1
 1527816447	تربور	tarboor	cousin (paternal uncle's son); rival / enemy (from someone's own relatives/kin)	4	n. m.																													1
 1582659232364	تردید	tărdéed	doubt, hesitation, indecision; declining, refusal; refutation	3	n. m.																													
 1527820165	طریقت	tareeqát	a way, path, group in Sufism, mysticism	4	n. m.																													
@@ -14155,7 +14158,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816201	ثبتول	sabtawul	to enter, save, record, register	4	v. stat. comp. trans.	1527816205	record																											
 1673935779816	منعکسول	mUnakisawul	to reflect; to overturn, invert, reverse		v. stat. comp. trans.	1673935500270	reflect																											
 1527816559	یادول	yaadawul	to remember, to recall, to think on, to mention	4	v. stat. comp. trans.	1527812940	remember																											
-1588152253147	لرې کول	lure kawul	to remove, put far away, detach, discard	4	v. stat. comp. trans.	1527814605	remove																											1
+1588152253147	لرې کول	lure kawul	to remove, put far away, detach, discard, eliminate	4	v. stat. comp. trans.	1527814605	remove																											1
 1577501129214	تکرارول	tăkraarawul	to repeat	4	v. stat. comp. trans.	1527815340	repeat																											
 1527813065	ستنول	stanawul, stunawul	to return, to give back; to delay someone or something, to direct, to turn, to fix on	4	v. stat. comp. trans.	1527819505	return																											
 1527812403	بچ کول	bach kawul	to save, protect, guard, spare, rescue, economize	4	v. stat. comp. trans.	1577298685334	save																											
@@ -16639,3 +16642,26 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709564143430	مالي حالت	maalee haalát	economy, economical situation		n. m.																													1
 1709564169041	مالي حیثیت	maalee haysiyát	economy, economical situation		n. m.																													1
 1709564815619	سوه	sáwa	for multiples of a hundred, ie. three hundred - درې سوه																															
+1709662859861	ایډیټر	ayDeeTár	editor		n. m. anim. unisex																													1
+1709662883200	ترتیب ورکوونکی	tartéeb warkawóonkay	editor		n. m. anim. unisex																													1
+1709662962734	مارمهي	maarmahée	eel		n. f.																													1
+1709662992568	رد عمل	rad-e-amál	reaction, effect		n. m. anim. unisex																													1
+1709663144312	رد عمل کول	rad-e-amál kawul	to react, effect		v. dyn. comp. trans.	1709662992568																												1
+1709670897383	اثر پرېباسل	asár prebaasúl	to affect, effect																															1
+1709663170447	اثر کوونکی	asár kawóonkay	effective, efficacious, effectual		adj.																													1
+1709663198776	اثري	asarée	effective, efficacious, effectual		adj.																													1
+1709663244435	مؤثر	mU`asír	effective, efficacious, effectual		adj.																												TRUE	1
+1709663455750	مصر	mísur	Egypt		n. m.																													1
+1709663518217	الاسټیک	alaasTéek	elastic		n. m. / adj.																													
+1709670935783	السټیک	alasTéek	elastic		n. m. / adj.																													1
+1709663576794	ووټ	woT	vote		n. m.																													
+1709663619960	انتخابات	intikhaabáat	elections		n. m. pl.																													1
+1709664195061	خوښونه	khwuxawúna	election, selection		n. f.																													1
+1709663676654	الیکټرېشن	alaykTréshun	electrician		n. m. anim. unisex																													1
+1709663730137	د بجلۍ نیول	du bijlúy neewúl	elecrtocution		n. m.																													1
+1709663795407	لفټ	lifT	elevator, lift		n. m.																													1
+1709663836930	برقي زانګو	barqee zaangó	elevator, lift		n. f.																													1
+1709663898042	یوولسم	yowalasúm, yowlasúm	eleventh		adj. / ord.																													1
+1709664027241	دې نه بغیر	de na bagháyr	else, otherwise, without this																															1
+1709671064991	دې نه علاوه	de na ilaawá	else, in addition to this																															1
+1709671205751	بجلي	bijlée	electricity (Urdu)		n. f.																													
