@@ -2660,6 +2660,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815475	جبري	jabree	forcibly, compulsory	4	adj. / adv.																													
 1527811712	کابو	kaaboo	near, close, basically, approximately; control, check	2	adj. / adv.																													
 1527812762	خالي	khaalée	empty, only, just	3	adj. / adv.																													1
+1709768767520	خالي کول	khaalee kawul	to empty	4	v. stat. comp. trans.	1527812762	empty																											1
 1527819679	خاص	khaas	special (fig. really, well, actually, totally)	4	adj. / adv.																													
 1527817078	خود	khood, khwud	sure, certainly, totally, surely, aware	4	adj. / adv.																													
 1527822440	خوابدی	khwaabáday	sad, feeling bad, offended, distressed, upset	4	adj. / adv.																													
@@ -3425,7 +3426,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813688	کوز	kooz	lower, below, down	3	loc. adv. / adj.																													1
 1527812935	مخامخ	múkhaamukh, mákhaamakh	face to face, across from, opposite; straight	4	loc. adv. / adj.																													1
 1708738328629	مخامخ کول	mukhaamukh kawul	to confront, to make face	4	v. stat. comp. trans.	1527812935	confront																											1
-1708738332713	مخامخ کېدل	mukhaamukh kedul	to face, come to face with, encounter	4	v. stat. comp. intrans.	1527812935	encounter																											
+1708738332713	مخامخ کېدل	mukhaamukh kedul	to face, come to face with, encounter	4	v. stat. comp. intrans.	1527812935	encounter																											1
 1527822780	ورمخته	wărmukhta	forward, towards	4	loc. adv. / adj.																													
 1527814913	ورنږدې	warnaGde	near, close to	4	loc. adv. / adj.																													
 1527818069	وروړاندې	wărwRaande	in front of him/her/it/them	4	loc. adv. / adj.																													
@@ -4232,6 +4233,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821006	غائطه	ghaaíta	feces, defecation, poop, poo, excrement, stool	2	n. f.																													
 1527820845	غالۍ	ghaalúy	carpet, rug	3	n. f.																													
 1527812614	غاړه	gháaRa	neck, throat, front of shirt, collar; edge, band (of sea, river, etc.); cough, tune, song	4	n. f.																													1
+1709767650200	غاړه ورکول	gháaRa warkawul	to embrace, hug	4	v. dyn. comp. trans.	1527812614																												1
+1709767664936	ور غاړه وتل	war gháaRa watúl	to embrace, hug																															1
 1527817543	غاړه غړۍ	ghaaRa ghaRúy	embrace	4	n. f.																													
 1527817541	غاړه غټۍ	ghaaRa ghaTúy	embrace	4	n. f.																													
 1527817542	غاړه غجي	ghaaRa ghujée	embrace	2	n. f.																													
@@ -4436,7 +4439,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1620042025293	هوایي کوربنه	hawaayee korbana	airline hostess, stewardess (on an airplane) (from کوربه)	4	n. f.																													
 1527811815	هوس پرستي	hawas parastee	hedonism, profligacy, debauchery	3	n. f.																													
 1527817193	حوصله	hawsilá, hawsalá, hausilá	patience, courage, emotional strength or firmness	4	n. f.																													1
-1709420996189	حوصله ختمول	hawsilá khatmawúl	to discourage		v dyn. comp. trans.	1527817193	discourage																											1
+1709768914938	حوصله ورکول	hawsilá warkawúl	to encourage			1527817193	encourage																											1
+1709420996189	حوصله ختمول	hawsilá khatmawúl	to discourage		v. dyn. comp. trans.	1527817193	discourage																											1
+1709768953441	حوصله افزایي	hawsila afzaayee	encouragement		n. f.																													
+1709768962263	حوصله افزایي کول	hawsila afzaayee kawul	to encourage		v. dyn. comp. trans.	1709768953441	encourage																											1
 1527818926	حوزه	hawza	zone, area, region	3	n. f.																													
 1527820515	حوضه	hawzá	basin, pool (حوزه)	3	n. f.																													
 1527818525	هښمه	háxma	storm cloud, rain cloud, rainstorm, downpour	2	n. f.																													
@@ -8414,7 +8420,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813738	حکمت	hikmat	wisdom, reason, ability (Arabic)	4	n. m.																													
 1527822076	هکتار	hiktáar	hectare, 1000 square meters	2	n. m.																													
 1527815876	حمایت	himaayat	custody, protection, support	4	n. m.																													
-1527813249	همت	himmát	courage, bravery, valor, courage, strong willed-ness, strength of heart	4	n. m.																													1
+1527813249	همت	himmát, himát	courage, bravery, valor, courage, strong willed-ness, strength of heart	4	n. m.																													1
+1709768848857	همت ورکول	himát warkawúl	to encourage		v. dyn. comp. trans.	1527813249																												1
 1527819443	هند	hind	India	4	n. m.																													
 1527822927	هندویزم	hindooeezm	Hinduism	4	n. m.																													
 1527814303	هندوستان	hindoostaan	India	4	n. m.																													
@@ -9090,7 +9097,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1666977819226	ختمون	khatmóon	finishing, removal, completion	3	n. m.																													
 1527812770	خطر	khatur	danger, risk, peril	4	n. m.																													
 1527817828	خیال پلو	khayaal palaw	imaginary; daydreaming, fantasizing	4	n. m.																													
-1527819977	خیانت	khayaanát	betrayal, treason	4	n. m.																													
+1527819977	خیانت	khiyaanát,khayaanát	betrayal, treason, embezzlement	4	n. m.																													
 1527814528	خیدک	khaydak	curdled milk, fermented milk, cheese	3	n. m.																													
 1527815006	خیدک	khaydak	curdled milk, fermented milk, cheese	3	n. m.																													
 1527813190	خزان	khazáan	autumn, fall; fading, losing	4	n. m.																													1
@@ -10096,6 +10103,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815634	نمر	nmar	sun	4	n. m.																													
 1527815071	نوبت	nobat	turn, watch	4	n. m.																													
 1527812104	نوکر	nokár	servant, worker	4	n. m. anim. unisex																													1
+1709768713531	نوکر کول	nokar kawúl	to employ, hire		v. stat. comp. trans.	1527812104	employ																											1
 1590052416042	نولی	noláy	marmot, mongoose, weasel	4	n. m.																													
 1527811489	نوم	nom	navel, bellybutton	4	n. m.				نامه	naamu	نم	nam																						
 1527818956	نوږی	nooGáy	sneeze, sneezing	2	n. m.																													
@@ -10738,7 +10746,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1593003541997	سپېدار	sapedáar, spedáar	aspen, white poplar (tree)	4	n. m.																													
 1527822408	ثقافت	saqaafat	culture	4	n. m.																													
 1577815708827	سقاو	saqáaw	water carrier	3	n. m.																													
-1527815254	سر	săr	head	4	n. m.																													1
+1527815254	سر	săr	head, end, beginning	4	n. m.																													1
 1527814143	سر خوږی	săr khooGáy	headache	4	n. m.																													
 1588150220002	سر و کار	săr-U-káar	relation, connection	3	n. m.																													
 1527821226	صراحت	saraahát	clarity, precision; clear instruction, directive	2	n. m.																													
@@ -11953,7 +11961,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819737	زنبور	zambóor	wasp, bee; trick, vice	3	n. m.																													
 1610618153766	زمیدار	zameedáar	land owner / farmer	4	n. m.																													
 1527823411	ضمیر	zaméer	heart, soul, conscience; pronoun	4	n. m.									ضمائر	zamaair																			1
-1527822902	زمرد	zamUrrÚd	emerald; icicle	4	n. m.																													
+1527822902	زمرد	zamarrÚd, zamUrrÚd	emerald; icicle	4	n. m.																													1
+1709768297370	زمرود	zamarróod, zamUrróod	emerald; icicle	4	n. m.																													1
 1527821720	زنخ	zanákh	chin	4	n. m.																													
 1527821721	زنخدان	zanakhdáan	chin	4	n. m.																													
 1567594527089	زنځ	zandz	alum	3	n. m.																													
@@ -14553,7 +14562,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823361	قربانول	qUrbaanawul	to sacrifice	4	v. stat. comp. trans.	1527812841																												
 1588152899787	قرباني کول	qUrbaanee kawul	to make ____ a sacrifice	4	v. stat. comp. trans.	1527812288																												
 1527820019	راګیر کول	raageer kawul	to capture, to occuppy; to fill up, to fill	3	v. stat. comp. trans.	1527820018																												
-1527815923	راګیرول	raageerawul	to entice, ensare	3	v. stat. comp. trans.	1527820018																												
+1527815923	راګیرول	raageerawul	to entice, ensare	3	v. stat. comp. trans.	1527820018																												1
 1527822017	رائجول	raaijawul	to put into circulation, to disseminate, to put into general use	3	v. stat. comp. trans.	1527822016																												
 1527818068	راژوندی کول	raajzwunday kawul	to resurrect, to bring back to life	4	v. stat. comp. trans.	1527818067																												
 1580005508631	راستنول	raastanawul	to return to us / me / here, to resettle	3	v. stat. comp. trans.	1527813943																												
@@ -15256,8 +15265,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813106	کاریابول	kaaryaabawul	to neglect, delay, obstruct, to put in a difficult situation	2																														
 1527812735	کاش چې	kaash che	if only… (wish or regret)	2																														
 1527814712	کاشکې	kaashke	if only, alas, I wish	3																														
-1527812737	کډه	káDa	residence, relocation, wife	4																														1
-1527812738	کډه کول	kaDa kawul	to change residence, to move	3																														
+1527812737	کډه	káDa	residence, relocation, wife	4	n. f.																													1
+1527812738	کډه کول	káDa kawúl	to emmigrate, migrate, move, change residence	3	v. dyn. comp. trans.	1527812737	emmigrate																											1
 1571526400516	کډن کېدل	kaDún kedul	to migrate	4																														
 1527818846	کم روڼ	kam rooN	subdued, pale, weak	2																														
 1610616097892	کنستل	kanastúl, kunastúl	to dig	4																														1
@@ -16013,7 +16022,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703837326959	په چیغو ژړل	pu cheegho jzaRúl	to bawl, weep																															1
 1703837367233	خلیج	khaléej	gulf		n. m.																													1
 1703837412161	قبل المسیح	qabl Ulmaséeh	B.C.																														TRUE	1
-1703837500182	برداشت	bardáasht	endurance, tolerance; understanding, idea		n. m.																													
+1703837500182	برداشت	bardáasht	endurance, tolerance; understanding, idea, concept		n. m.																													1
 1703837551752	برداشت کول	bardáasht kawul	to bear, endure		v. dyn. comp. trans.	1703837500182	bear, bears, bearing, bore, born																											1
 1703837613723	د برداشت قابل	du bardáasht qaabíl	bearable, endurable		adj.																													1
 1703838757520	د زغملو قابل	du zghumulo qaabíl	bearable, endurable		adj.																													1
@@ -16665,3 +16674,34 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709664027241	دې نه بغیر	de na bagháyr	else, otherwise, without this																															1
 1709671064991	دې نه علاوه	de na ilaawá	else, in addition to this																															1
 1709671205751	بجلي	bijlée	electricity (Urdu)		n. f.																													
+1709767325277	پرتوګ ایستل	partóog eestúl	disgrace, embarrass, shame		v. dyn. comp. trans.	1527822421	disgrace																											1
+1709767394509	بې عزته کول	be izzáta kawul	disgrace, embarrass, shame, (rape)																															1
+1709767446552	شرمناک	sharumnáak, sharmnáak	disgraceful, embarrasing		adj.																													1
+1709767482729	سفارتخانه	safaaratkhaaná	embassy		n. f.																													1
+1709767529015	امبیسي	ambeesée	embassy		n. f.																													1
+1709767550825	خیانت کوونکی	khiyaanát kawóonkay	betrayer, traitor, embezler																															1
+1709767695563	جوړ تکړه کول	joR takRá kawul	to greet, embrace																															1
+1709767719765	ګړه بړه کول	guRa búRa kawul	to embrace																															1
+1709767845454	کړایي	kaRaayee	frying pan, karahi		n. f.																													
+1709767872404	کړایي کول	kuRaayee kawul	to embroider																															1
+1709767929943	ګلونه جوړول	gUlóona joRawúl	to embroider																															1
+1709767981567	کشیده کاري	kasheeda káaree	embroidery		n. f.																													1
+1709768013292	کشیده کاري کول	kasheeda káaree kawul	to embroider		v. dyn. comp. trans.	1709767981567	embroider																											1
+1709768085392	ګلکاري کول	gulkáaree kawúl	to embroider		v. dyn. comp. trans.	1602595162903	embroider																											1
+1709768346420	بهر راوتل	bahár raawatúl	to exit, go out																															1
+1709768396719	اېمرجنسي	emarjansée	emergency		n. f.																													1
+1709768421138	په کډه تلل	pu káDa tlul	to emmigrate, migrate, move, change residence																															1
+1709768460387	کډه وړل	káDa wuRúl	to emmigrate, migrate, move, change residence		v. dyn. comp. trans.	1527812737	emmigrate																											1
+1709768629770	جذبات	jazbáat	emotion		n. m.																													1
+1709768632090	جذباتي	jazbaatée	emotional		adj.																													1
+1709768674700	بادشاهت	baadshaahát	empire, kingdom		n. m.																													1
+1709769056926	اخیري سر	akheeree sár	end		n. m.																													1
+1709769600673	انسایکلوپیډیا	insaayklopéeDiyaa	encyclopedia		n. f.																													1
+1709769716097	د علم خزانه	du í'lum khazaaná	encyclopedia		n. f.																													1
+1709769723270	دایرت المعارف	daayrat Ulmaa'ríf	encyclopedia		n. m.																												TRUE	1
+1709769731226	په خطره کې اچول	pu khatrá ke achawúl	to endager, put in danger																															1
+1709769783229	د زغملو طاقت	du zghamulo taaqát	endurance, forebearance, fortitude, toleration		n. m.																													1
+1709770037427	بل ځای	búl dzaay	elsewhere, somewhere else		adv.																													1
+1709770054706	بل چېرته	búl cherta	elsewhere, somewhere else		adv.																													1
+1709770071463	بلخوا	búlkhwaa	elsewhere, somewhere else		adv.																													1
+1709770139354	زور اچول	zor achawul	to press, exert force on, emphazise (په ___ باندې)		v. dyn. comp. trans.	1527813672	emphasize																											
