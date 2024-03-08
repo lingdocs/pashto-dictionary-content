@@ -4738,6 +4738,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819215	کمزورتیا	kamzortiyaa	weakness	3	n. f.																													
 1527815510	کناري	kanaaree	butcher shop, butchery, slaughter, massacre	2	n. f.																													
 1527813517	کنده	kánda	pit, ditch, abyss, cavity	4	n. f.																													1
+1709838506835	کنده کول	kanda kawúl	to dig, engrave		v. stat. comp. trans.	1527813517	dig																											
+1709838508737	کنده کېدل	kanda kedúl	to be dug, engraved		v. stat. comp. instrans.	1527813517	be	dug																										
 1527816364	کنډه	kanDa	balance, scale; source of a river	4	n. f.																													
 1527818566	کندانۍ	kandaanúy	sugar bowl	4	n. f.																													
 1630939439405	کنډاسه	kanDaasa	breaking, pulling, or knocking someone's tooth out	4	n. f.																													
@@ -5952,7 +5954,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1610538625885	رکېبي	rakebee	small dish	3	n. f.																													
 1527812269	رمه	rama	flock, herd, drove	4	n. f.																													
 1576372324658	رمباړه	rambáaRa	bellowing, bleating	4	n. f.																													
-1527812272	رڼا	raNáa	light, glory	4	n. f.																													1
+1527812272	رڼا	raNáa	light, glory, brightness, illumination	4	n. f.																													1
+1709839797770	رڼا کول	raNaa kawúl	to enlighten, illuminate, light up		v. stat. comp. trans.	1527818348	illuminate																											
+1709839800436	رڼا کېدل	raNaa kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										
 1527818746	رنده	randá	plane (carpenter’s tool)	4	n. f.																													
 1527811755	رنډۍ	ranDúy	prostitute	4	n. f.																													
 1527820298	رنګارنګي	rangaarangée	diversity, diversity of colours	3	n. f.																													
@@ -6005,6 +6009,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1583458923784	روټه	roTa	food, bread, barley bread	3	n. f.																													
 1583458923782	روټۍ	roTúy	food, bread (from Urdu)	3	n. f.																													1
 1527818348	روښنایي	roxnaayee	light, radiance, brilliance, brightness	4	n. f.																													
+1709839575895	روښنایي کول	roxnaayee kawúl	to enlighten, illuminate, light up		v. stat. comp. trans.	1527818348	illuminate																											
+1709839581147	روښنایي کېدل	roxnaayee kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										
 1586363997636	روزه	roza	fast, fasting (see روژه)	4	n. f.																													
 1527817222	روزي	rozee	daily bread, livelihood, wages, living, substinance, lot, food-grant	3	n. f.																													
 1527815234	روزنه	rozuna	training, learning	4	n. f.																													
@@ -8572,7 +8578,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1610618336107	انعطاف	initáaf	flexibility	2	n. m.																													
 1527820307	انجیل	injéel	Injil, New Testament (in Islam, book given to Isa), Good News	4	n. m.																													
 1527814767	انجماد	injimaad	thickening, congealing, freezing, hardening	4	n. m.																													
-1588787527818	انجن	injín	motor, engine	4	n. m.																													
+1588787527818	انجن	injín, anjín	motor, engine	4	n. m.																													
 1527814295	انجنیر	injuneer	engineer	4	n. m. anim. unisex																													
 1527813407	انکار	inkaar	denial, refusal, rejection	4	n. m.																													
 1527816921	انکشاف	inkishaaf	development, growth, upsurge, progress	4	n. m.																													
@@ -9167,6 +9173,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812162	خواشین	khwaasheen	grief, vexation	3	n. m.																													
 1527814428	خواست	khwaast	wish, request, supplication, entreaty	4	n. m.																													
 1527811937	خوند	khwand	taste, flavour, enjoyment, delight	4	n. m.																													1
+1709838629770	خوند اخیستل	khwánd akheestúl	to enjoy, take plasure in (له ... نه)																															
 1527817879	خور	khwar	crust, skin (fruit), peel, rind	2	n. m.																													
 1527823173	خوړ	khwaR	ravine, brook, creek, gully, wash; race ??	3	n. m.																													1
 1527816319	خورون	khwaroon	development	1	n. m.																													
@@ -11198,7 +11205,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819664	ټاپه رس	Taapa rás	sunflower	3	n. m.																													
 1527814386	ټاپو	Taapóo	island, bank	4	n. m.											ټاپوان	Taapoo`aan																	
 1527813163	طاق	taaq	arc, bow, arch, vault, dome, cupola; vine	4	n. m.																													
-1578099466563	طاقت	taaqát	strength, force, power, endurance	4	n. m.																													1
+1578099466563	طاقت	taaqát	strength, force, power, energy, endurance	4	n. m.																													1
 1527811870	تار	taar	single hair, string, thread, chord; chord, ligament (anatomy)	4	n. m.																													
 1575235754972	تاراج	taaráaj	pillage, plundering, theft	4	n. m.																													
 1527821512	تاړاک	taaRáak	misfortune	4	n. m.																													
@@ -13602,7 +13609,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816079	خبرېدل	khabredul	to be informed, to come to know	4	v. stat. comp. intrans.	1527812765	be	informed																										
 1527814184	خرڅېدل	khartsedul	to be sold, to be spent	4	v. stat. comp. intrans.	1527817698	be	sold																										
 1577900112011	ختمېدل	khatmedúl	to be finished, completed, ended, used up, killed, destroyed	4	v. stat. comp. intrans.	1527812221	be	finished																										1
-1675274663116	خوشحالېدل	khosh`haaledúl	to be pleased, to be happy	4	v. stat. comp. intrans.	1527812791	be	pleased																										1
+1675274663116	خوشحالېدل	khosh`haaledúl, khoshaaledúl	to be pleased, to be happy, enjoy	4	v. stat. comp. intrans.	1527812791	be	pleased																										1
+1709838765795	خوشالېدل	khoshaaledúl	to be pleased, to be happy, enjoy	4	v. stat. comp. intrans.	1527812792	be	pleased																										
 1527811394	خپرېدل	khparedul	to be spread, dispersed, opened, unfolded, publicized, distributed	4	v. stat. comp. intrans.	1527816071	be	spread																										
 1527818360	خلاصېدل	khlaasedúl	to be freed, saved, rescued, opened	4	v. stat. comp. intrans.	1527812777	be	opened																										1
 1527812812	خوښېدل	khwuxedul	to be pleasing, happy, to be liked; to be chosen, selected	2	v. stat. comp. intrans.	1527812810	be	liked																										
@@ -14155,7 +14163,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1678361377384	مدغمول	mUdghumawul	to merge, combine		v. stat. comp. trans.	1678361365751	merge																											
 1527823277	رنګول	rangawul	to paint, color	3	v. stat. comp. trans.	1527815219	paint																											
 1527817455	ځایول	dzaayawul	to place, put, accommodate, make room for, to make fit	4	v. stat. comp. trans.	1527812594	place																											
-1675274657428	خوشحالول	khosh`haalawúl	to please, to make happy	4	v. stat. comp. trans.	1527812791	please																											1
+1675274657428	خوشحالول	khosh`haalawúl, khoshaalawúl	to please, to make happy	4	v. stat. comp. trans.	1527812791	please																											1
+1709838714299	خوشالول	khoshaalawúl	to please, to make happy	4	v. stat. comp. trans.	1527812792	please																											
 1581189437955	پېش کول	pesh kawúl	to bring forward, present, deliver	4	v. stat. comp. trans.	1581189430959	present																											
 1527815074	چاپول	chaapawul	to print, publish	4	v. stat. comp. trans.	1527815073	publish																											
 1579724723019	ویدول	weedawul	to put to sleep	4	v. stat. comp. trans.	1527815408	put,puts,putting,put	to sleep																										
@@ -16705,3 +16714,15 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709770054706	بل چېرته	búl cherta	elsewhere, somewhere else		adv.																													1
 1709770071463	بلخوا	búlkhwaa	elsewhere, somewhere else		adv.																													1
 1709770139354	زور اچول	zor achawul	to press, exert force on, emphazise (په ___ باندې)		v. dyn. comp. trans.	1527813672	emphasize																											
+1709837799547	مشغولتیا	mashghooltyáa	pastime, activity (work or recreation) one's busy with, entertainment, 		n. f.																													
+1709838033100	طاقتور	taaqatwár	strong, powerful, energetic		adj.																													
+1709838104054	په زبردستي	pu zabardastée	by force		adv.																													
+1709838199968	زبردستي	zabardastée	force, oppresion		n. f.																													
+1709838234820	کوژدن شوی	kojzdun shúway	engaged (in marriage)		adj.																													
+1709838295329	انجن	anjín	engine		n. m.																													
+1709838299689	انجین	anjéen	engine		n. m.																													
+1709838347019	اېنجڼ	enjúN	engine		n. m.																													
+1709838377214	انګلش	inglísh	English		n. m.																													
+1709838425059	فیرنګی	feerungáy	Westerner, Englishman, foreigner		n. m. anim. unisex																													
+1709838581997	ډوغل جوړول	Doghúl joRawúl	to dig, engrave																															
+1709838846284	خوندناک	khwandnáak	pleasant, enjoyable, interesting		adj.																													
