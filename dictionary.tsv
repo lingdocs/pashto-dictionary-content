@@ -3382,7 +3382,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819529	والله	wallah	I swear to God, I promise	4	interj.																												true	
 1566121009379	زره	zára	just (used sort of like a filler word)	2	interj.																													
 1527813882	زنده باد	zinda baad	long live ...!	4	interj.																													
-1527818842	ادې	adé	mommy! mother, mom	4	interj. / n. f.																													
+1527818842	ادې	adé	mommy! mother, mom; grandmother	4	interj. / n. f.																													
 1527815247	سلام	salaam	hello, hi, greetings, peace	4	interj. / n. m.																													
 1527813915	مخکې	múkhke	before, in front of, forward	4	loc adv.																													1
 1702632661929	مخکې کېدل	mukhke kedúl	to go forward, to get ahead, to advance	4	v. stat. comp. intrans.	1527813915	advance																											1
@@ -4340,7 +4340,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588161705418	ګوډیکه	gooDyáka	crutch; small doll, dolly; brace/support of a distaff	4	n. f.																													
 1610619048756	ګوګوشتکه	googooshtúka	turtledove	4	n. f.																													
 1574870450774	ګوجره	goojura	dairymaid, feminine form of ګوجر	4	n. f.																													
-1586446744624	ګومارنه	goomaaruna	appointment, selection, commission, commissioning	4	n. f.																													
+1586446744624	ګومارنه	goomaarúna	appointment, selection, commission, commissioning	4	n. f.																													
 1578015334699	ګومبځه	goombádza	dome, cupola	4	n. f.																													
 1578015215415	ګومبته	goombáta	dome, cupola	4	n. f.																													
 1578015248288	ګومبزه	goombáza	dome, cupola; warhead	4	n. f.																													
@@ -16119,7 +16119,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1704701445995	چک لګول	chak lugawul	to bite																															1
 1704701466937	تریخوالی	treekhwáalay	bitterness, spicyness		n. m.																													1
 1704701509846	بلېک بورډ	blek borD	blackboard		n. m.																													1
-1704701533450	توره تخته	tora takhtá	blackboard		n. m.																													1
+1704701533450	توره تخته	tora takhtá	blackboard																															1
 1704701566115	د میتازو پوکڼی	du meetaazo pokúNay	bladder		n. m.																													1
 1704701615226	د میچیازو پوکڼی	du meechyaazo pokúNay	bladder		n. m.																													
 1704701645137	بلیډ	blayD	blade		n. m.																													1
@@ -16798,3 +16798,6 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1711591451539	کاندید	kaandéed	candidate		n. m. anim. unisex																													
 1711827420153	لبنان	lUbnáan	Lebanan		n. m.																													
 1711827643917	غزه	ghaza	Gaza		n. f.																													
+1712225799871	میندواري	mayndwaarée	pregnancy		n. f.																													
+1712225829497	میندوار	mayndwáar	pregnant		adj.																													
+1712226072433	شاپېټی	shaapeTáy	load on one's back; snail		n. m.																													
