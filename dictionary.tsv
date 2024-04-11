@@ -4923,7 +4923,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811387	خواله	khwáala	conversation, talk; (د زړه خواله - secret of the heart, deep inner thoughts, intimate conversation)	3	n. f.																													
 1527811391	خواله رسنۍ	khwaala rasanúy	social media	3	n. f.																													
 1594807341420	خوار ځواکي	khwaar dzwaakee	malnourishment, lack of food	4	n. f.																													
-1527811351	خواري	khwaarée	hard labor, toil	4	n. f.																													1
+1527811351	خواري	khwaarée	hard labor, toil, effort, exertion	4	n. f.																													1
+1712744367393	خواري کول	khwaaree kawul	to work hard, exert, toil	4	v. dyn. comp. trans.	1527811351	work																											1
 1527815864	خواشیني	khwaasheenee	grief, hurt, offense, distress, dissatisfaction, disappointment	4	n. f.																													
 1527816501	خواښه	khwaaxa	wife's mother, husband's mother, mother-in-law	3	n. f.																													
 1527816500	خواښې	khwaaxe	wife's mother, husband's mother, mother-in-law (plural?)	4	n. f.																													
@@ -6019,7 +6020,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709839581147	روښنایي کېدل	roxnaayee kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										
 1586363997636	روزه	roza	fast, fasting (see روژه)	4	n. f.																													
 1527817222	روزي	rozee	daily bread, livelihood, wages, living, substinance, lot, food-grant	3	n. f.																													
-1527815234	روزنه	rozúna	training, learning, education	4	n. f.																													1
+1527815234	روزنه	rozúna	training, learning, education	4	n. f.																													
 1584528684178	رباعي	rUbaa'ée	quatrain	4	n. f.									رباعیاني	rUbaa'eeaanee																			
 1527817876	رجوع	rUjoo	reference, appeal, turning to	3	n. f.																													
 1527823515	رخه	rúkha	envy, jealousy, spite, ill-will	4	n. f.																													
@@ -6436,7 +6437,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818297	ټلوالي	Talwaalée	alliance, league, marriage, wedding ring	3	n. f.																													
 1527817285	تلوسه	talwasa	longing, craving, yearning, desire	4	n. f.																													
 1527821661	طمعه	tam'a	expectation	3	n. f.																													
-1527815332	تمه	táma	expectation	4	n. f.																													1
+1527815332	تمه	táma	expectation, anticipation	4	n. f.																													1
+1712744017267	تمه لرل	táma larul	to expect, anticipate	4	v. dyn. comp. trans.	1527815332																												1
 1527822400	تمانچه	tamaanchá	pistol, handgun, gun	4	n. f.																													1
 1527818459	تمنا	tamannáa	desire, wish, request	4	n. f.																													
 1527813220	تمبه	tamba	bolt, bar, lock; shutter; crowd, throng	4	n. f.																													
@@ -6514,7 +6516,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821265	تصریح	tasreeh	explanation; clear; precise	4	n. f.																													
 1527823151	تواضع	tawaazÚ'	humility, meekness	4	n. f.																													
 1527817885	توجه	tawajÚ	attention, care, regard, paying attention, consideration	4	n. f.																													
-1527815921	توقع	tawaqqÚ	expectation, hope, anticipation	4	n. f.									توقعات	tawaqqUáat																			1
+1527815921	توقع	tawaqqÚ, tawaqÚ	expectation, hope, anticipation	4	n. f.									توقعات	tawaqqUáat																			1
+1712743940789	توقع کول	tawaqÚ kawul	to expect, anticipate	4	v. dyn. comp. trans.	1527815921	expect																											1
 1582145873843	تودوخه	tawdókha	heat, heating	3	n. f.																													
 1527817320	توجیه	tawjeeh	justification	3	n. f.									توجیهات	tawjeeháat																			
 1586452182432	تولیه	tawliyá	towel	4	n. f.																													
@@ -7746,7 +7749,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820343	داوطلب	daawtaláb	volunteer; aspirant, claimant, pretender; bidder (in an auction); instigator (of war), war-monger	3	n. m.																													
 1527819514	دای	daay	tier, row, foundation (masonry etc.)	1	n. m.																													
 1527819437	ډب	Dab	pit, hole; puddle, stagnant water; dam, impounding, delay; crash, hit, blow, loss	2	n. m.																													
-1588787007390	ډب	Dab	force, strength, power; shape, form; conduct, behaviour	4	n. m.																													
+1588787007390	ډب	Dab	force, strength, power; beating, hitting; shape, form; conduct, behaviour	4	n. m.																													
 1527821304	ډباو	Dabáaw	pressure (from Urdu)	0	n. m.																													
 1527813433	دبلی	dablay	box, jar, pot, can	3	n. m.																													
 1527819649	دد	dad	wild animal, beast	1	n. m.																													
@@ -8569,6 +8572,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812172	امکان	imkaan	possibility, opportunity, feasibility, probability, means, ability	4	n. m.									امکانات	imkaanaat																			
 1527822896	امتداد	imtidáad	extent, duration; extension, prolongation	4	n. m.																													
 1527817778	امتحان	imtiháan	test, examination, exam	4	n. m.																													1
+1712744087234	امتحان اخیستل	imtiháan akheestúl	to give a test	4	v. dyn. comp. trans.	1527817778	give	a test																										
 1527817189	امتنان	imtinaan	thankfulness, gratitude	2	n. m.																													
 1527817198	امتزاج	imtizáaj	blend, blending; combination	2	n. m.																													
 1527820702	انعام	in'áam	prize, reward	4	n. m.																													1
@@ -9707,6 +9711,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586627622738	مشکوک	mashkóok	suspicious, questionable	4	n. m.																													1
 1585400383006	مشکڼی	mashkúNay	bamboo	2	n. m.																													
 1586518605862	مشق	mashq	practice, exercise, drill	3	n. m.																													1
+1712743790445	مشق کول	mashq kawul	to practice, exercise, drill	3	v. dyn. comp. trans.	1586518605862	practice																											1
 1527819445	مشرق	mashríq	east, sunrise, Orient	4	n. m.																													1
 1527818691	مشروعیت	mashroo'iyat	lawfulness, legality, justice	4	n. m.																													
 1527815527	مسجد	masjid	mosque	4	n. m.									مساجد	masaajíd																			
@@ -12042,7 +12047,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817978	زول	zool	worry, concern	3	n. m.																													
 1527816138	زوم	zoom	groom, bridegroom, son in law	4	n. m.											زومان	zoomaan																	
 1527821100	زومبکی	zoombukáy	small pompom; tassel; pendant earring	3	n. m.																													
-1527813672	زور	zor	force, violence, power, strength	4	n. m.																													1
+1527813672	زور	zor	force, violence, power, strength, exertion	4	n. m.																													1
+1712744269596	زور لګول	zor lugawul	to exert, apply effort/force, use strength	4	v. dyn. comp. trans.	1527813672	exert																											1
 1582146394807	زوز	zoz	camelthorn	3	n. m.											زوزان	zozaan																	
 1527813508	زړه	zRu	heart	4	n. m.								true			زړونه	zRoona																	
 1709420923408	زړه ماتول	zRú maatawul	to discourage		v. dyn. comp. trans.	1527813508	discourage																											1
@@ -16744,7 +16750,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1709864891539	همتي	himatée, himmatée	brave, enterprising, courageous		adj.																													1
 1709865116549	تماشا	tamaasháa	spectacle, sight		n. f.																													1
 1709865170728	جذبه	jazbá	passion, enthusiasm, spirit, desire, ecstacy		n. f.																													1
-1709865272201	ولوله	wulwula	sentiment, excitement, feeling, sensation, impression		n. f.																													1
+1709865272201	ولوله	wulwulá	sentiment, excitement, feeling, sensation, impression		n. f.																													1
 1709865333269	ننګېرنه	nangerána	sentiment, feeling, sensation, impression		n. f.																													
 1709865368207	ټولټال	TolTaal	in total, all together, entirely		adv.																									TRUE				1
 1709865408395	کولمې	koolmé	intestines, guts, bowels		n. f. pl.																													1
@@ -16803,3 +16809,27 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1712226072433	شاپېټی	shaapeTáy	load on one's back; snail		n. m.																													
 1712336963428	لا له وړاندې	laa la wRaande	already		adv.																													
 1712432602672	تمامیت	tamaamiyat	completeness, entirety, totality, integrity		n. m.																													
+1712743184676	د حد نه وتل	du had na watúl	to exceed																															1
+1712743237857	سیوا	seewáa	except, extra																															1
+1712743334186	مارچه	maarchá	exchange for goods with other goods		n. f.																													
+1712743359822	مارچه کول	maarcha kawúl	to exchange (for goods)		v. stat. comp. trans.	1712743334186	exchange																											1
+1712743448961	ادل بدل	adál badál	mixed up, confused, interchanged		adj. doub.																													
+1712743595383	اعلانیه نقطه	i'laaniya nUqtá	exclamation point, exclamation mark		n. f.																													1
+1712743637694	وښکل	wUxkúl	to pull out, exclude, discard																															1
+1712743722516	سر قلم کول	sar qalam kawul	to execute (a person)																															1
+1712744202839	وباسل	oobaasúl	see باسل، ایستل																															1
+1712744418014	ستړی کوونکی	stuRay kawóonkay	tiring, exhausting																															1
+1712744474389	زړه شین کوونکی	zRu sheen kawóonkay	tiring, exhausting		adj.																													1
+1712744529992	تماشه	tamaashá	show, spectacle, exhibition, scene (fig.)		n. f.																													1
+1712744575729	تماشه جوړول	tamaashá joRawúl	to make a scene, make a spectacle		v. dyn. comp. trans.	1712744529992	make	scene																										1
+1712744631851	ننداره جوړول	nandaara joRawul	to make a scene, make a spectacle		v. dyn. comp. trans.	1527815986	make	scene																										1
+1712744690242	د وتلو لاره	du watulo láara	exit, way out		n. f.																													1
+1712745112081	په مهم تلل	pu mUhím tlul	to explore																															
+1712745224877	آتشګیر	aatashgéer	flammable, explosive		adj.																													
+1712745287907	برامد	baraamád	recovery, repossesion		n. m.									برامدات	baraamadáat																			
+1712745411677	فاش	faash	exposed, discovered, revealed, disclosed, betrayed		adj.																													
+1712745430313	فاش کول	faash kawúl	to expose, disclose		v. stat. comp. trans.	1712745411677	expose																											
+1712745434983	فاش کېدل	faash kedúl	to be exposee, disclosed		v. stat. comp. intrans.	1712745411677	be	exposed																										
+1712745575951	بېروني	beroonée	exterior, foreign, outside		adj.																													
+1712745618550	فالتو	faaltóo	extra, spare, redundant, surplus		adj.																													
+1712745712644	بې حد	be had	extremely		adv.																													
