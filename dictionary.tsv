@@ -4643,6 +4643,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588160897255	جراحي	jarraahee	surgery	3	n. f.																													
 1661499729403	جو	jaw	space, space between, interval; space, atmosphere	2	n. f.																													
 1527823421	جواري	jawaarée	gambling, card game, gambling game	4	n. f.																													1
+1713437534959	جواري کول	jawaaree kawul	to gamble	4	v. dyn. comp. trans.	1527823421	gamble																											1
 1527820636	جوله	jawla	form, shape	3	n. f.																													
 1566549992928	جوسه	jawsá	cupboard	3	n. f.																													
 1527815043	جزا	jazaa	punishment, retribution	4	n. f.																													
@@ -10540,7 +10541,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586445355004	قول و قرار	qawl-U-qaraar	agreement, understanding	3	n. m.																													
 1527820509	قول	qáwul, qaul	word, speech, utterance, promise, word of honour	4	n. m.									اقوال	aqwáal																			
 1610792960534	قوال	qawwáal	internerant signger/storyteller; qawwali singer (in the Sufi tradition)	4	n. m.																													
-1527819788	قید	qayd	prison, imprisonment; obligation, provision of a treaty; (w/ plural chains, shackes, fetters); adverb	3	n. m.									قیود	qUyood																			
+1527819788	قید	qayd	prison, imprisonment; obligation, provision of a treaty; (w/ plural chains, shackes, fetters); adverb	3	n. m.									قیود	qUyood																			1
+1713437821855	قید کول	qayd kawúl	to imprison, to put in jail	3	v. stat. comp. trans.	1527819788																												1
+1713437868325	قید کېدل	qayd kedul	to be imprison, to go to jail	3	v. stat. comp. intrans.	1527819788																												
+1713437887541	جیل ته اچول	jayl ta achawul	to put in jail, imprison																															1
 1582390877453	قز	qaz, qazz	raw silk	2	n. m.																													
 1527820833	قزاقستان	qazaaqistaan	Kazakhstan	4	n. m.																													
 1527816083	قضاوت	qazaawat	judgment	4	n. m.																													
@@ -13718,7 +13722,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821802	ښکېل کېدل	xkel kedul	to be involved in, implicated in; to be hobbled; fraud cheating	4	v. stat. comp. intrans.	1527821801	be	involved in																										
 1527820128	ښخېدل	xukhedúl	to be buried, entombed; to be pierced, plunged, thrust into	4	v. stat. comp. intrans.	1527818182	be	buried																										
 1527812941	یادېدل	yaadedul	to be remembered, to be missed	4	v. stat. comp. intrans.	1527812940	be	missed																										
-1527815032	بندي کېدل	bandee kedul	to become a prisoner, to get imprisoned	3	v. stat. comp. intrans.	1527815031	become	a prisoner																										
+1713437913242	بندي کول	bandee kawúl	to imprison, to put in jail	4	v. stat. comp. trans.	1527815031	imprison																											1
+1527815032	بندي کېدل	bandee kedúl	to become a prisoner, to get imprisoned, go to jail	3	v. stat. comp. intrans.	1527815031	become	a prisoner																										
 1527815784	درنېدل	dranedul	to become heavier; to become more serious, respectable, reliable	4	v. stat. comp. intrans.	1527813499	become	heavier																										
 1527816943	جوتېدل	jawatedul	to become evident, clear, apparent, explained, established	4	v. stat. comp. intrans.	1527816944	become	clear																										
 1527811975	کڼېدل	kaNedul	to become deaf	4	v. stat. comp. intrans.	1527811973	become	deaf																										
@@ -17058,3 +17063,26 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713363360255	جبرایل	jibraa`éel	Gabriel																															1
 1713367879150	چڼاسه	chaNaasa	mold, mould (fungus)		n. f.																													
 1713368008352	چڼیاسه	chaNyaasa	mold, mould (fungus)		n. f.																													
+1713437447489	ګیلن	geelán, gaylán	gallon		n. m.																													1
+1713437492125	زلزول	zalzóol	gale		n. m.																													1
+1713437672030	ګینګ	gayng	gang		n. m.																													1
+1713437694395	بدماش	budmáash	gangster, bully, mobster		n. m. anim. unisex																													1
+1713437697731	بدمعاش	budmáash	gangster, bully, mobster		n. m. anim. unisex																													
+1713437739164	جیل	jayl	jail		n. m.																													1
+1713437757358	قیدخانه	qaydkhaaná	jail		n. m.																													1
+1713438181890	ګیراج	geeráaj	garage (auto repair)		n. m.																													1
+1713438206701	ګراج	giráaj	garage (auto repair)		n. m.																													
+1713438246754	مالیاري	maalyaarée, maaliyaarée	gardening, groundskeeping		n. f.																													1
+1713438300132	غړغړه	ghaRghaRá	gargle, gargling		n. f.																													
+1713438331627	غړغړې کول	ghaRghaRé kawul	to gargle		v. dyn. comp. trans.	1713438300132	gargle																											1
+1713438397438	امیل	amáyl	garland		n. m.																													1
+1713438452541	پیټرول	payTról	gas, petrol																															1
+1713438490922	پیټرول پمپ	payTrol púmp	gas station, petrol pump		n. m.																													1
+1713438535989	د تېلو پمپ	du telo púmp	gas station, petrol pump		n. m.																													1
+1713438706404	کپړې	kapRé	clothes, cloth (plural form of کپړه)		n. f.																													1
+1713438755061	ګیس	gays	gas, petrol																															1
+1713438790082	ګیس سټېشن	gays sTeshún	gas station, petrol pump		n. m.																													1
+1713438814144	سروس سټېشن	sarwís sTeshún	gas station, petrol pump, service station		n. m.																													1
+1713438863848	ګیټ	gayT	gate		n. m.																													1
+1713439028680	د خندا خبره	du khandáa khabura	(something) funny, (something) laughable		n. f.																													1
+1713439216725	راتلونکی وخت	raatloonkay wakht	future, future time, future tense																															1
