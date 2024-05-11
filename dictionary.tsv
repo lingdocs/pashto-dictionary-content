@@ -137,7 +137,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1589025674899	اتیایم	atyaayum, atiyaayum	eightieth	4	adj.																													
 1527818785	اولی	awláy	irritable, grumpy, sour, grouchy	4	adj.																													
 1574785481606	اوتر	awtár	frightened, alarmed, distressed	4	adj.																													
-1662618824589	اوښتی	awÚxtay	converted, sprained, inflected, oblique	4	adj.																													
+1662618824589	اوښتی	awÚxtay	converted, sprained, inflected, oblique	4	adj.																													1
 1527817142	اولین	awwaleen	first	4	adj.																													
 1527815661	اولنی	awwalunáy, awalunáy	first, beginning	4	adj.																													1
 1589025603430	اویایم	awyaayum, awiyaayum	seventieth	4	adj.																													
@@ -403,7 +403,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820085	چینایي	cheenaayee	Chinese	4	adj.																													
 1527823155	چینګ	cheeng	open, gaping (of a mouth/beak)	2	adj.																													
 1576948414202	چینجن	cheenjún	rotten, decayed, worm-eaten	3	adj.																													
-1527822370	چیت پیت	cheet peet	crushed, flattened out	4	adj.																													
+1527822370	چیت پیت	cheet peet	crushed, flattened out, smashed	4	adj. doub.																													
 1576948418235	چنجن	chinjún	rotten, decayed, worm-eaten, wormy	4	adj.																													
 1527822563	چټکه دار	chiTka dáar	spotted, dotted (cloth)	4	adj.																													
 1527822429	چوداني	choodaanee	cast iron (attributive)	1	adj.																													
@@ -989,7 +989,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818837	کوکبي	kawkabée	space, cosmic, interplanetary	2	adj.																													
 1527812755	کیڼ	keeN	left	4	adj.																													
 1527821285	کینه ګر	keena gár	vindictive, malicious, spiteful, revengeful	4	adj.																													
-1527821286	کینه ور	keena wár	vindictive, malicious, spiteful, revengeful	3	adj.																													
+1527821286	کینه ور	keena wár	vindictive, malicious, spiteful, revengeful	3	adj.																													1
 1527819770	کینخي	keenakhkhee	purple	3	adj.																													
 1527816544	کېږلی	keGúlay	cursed, damned, accursed	3	adj.																													
 1527821274	کېته	keta	open	2	adj.																													
@@ -1220,7 +1220,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813877	لري	luree	far, distant	3	adj.																													1
 1623167207860	لوستی	lwástay, lwústay	educated, well-read	4	adj.																													
 1588073551653	معافیتي	m'aafiyatee	immune (as in immune system)	4	adj.																													
-1527822322	معاشرتي	ma'aashiratee	societal, social	4	adj.																													
+1527822322	معاشرتي	ma'aashiratée	societal, social	4	adj.																													1
 1527814271	معلوم	ma'aloom	known, evident, apparent, obvious	4	adj.																													
 1527814272	معلومدار	ma'aloomdaar	known, evident, obviously	4	adj.																													
 1576368657785	معطل	ma'atal	suspending, hanging, waiting for (an answer etc.)	4	adj.																													
@@ -1284,7 +1284,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814556	مجبور	majboor	compelled, forced, obligated, in need	4	adj.																													
 1527816080	مجهول	majhool	mysterious, unknown; passive (verb - grammar)	4	adj.																													
 1527813455	مخفي	makhfee	hidden, secret, covert, low-key	4	adj.																													
-1527815512	مخصوص	makhsoos	special, particular, peculiar	4	adj.																													
+1527815512	مخصوص	makhsóos	special, particular, peculiar	4	adj.																													1
 1579042295912	مختوم	makhtóom	final, concluding, ending, ultimate	2	adj.																													
 1527823392	مختون	makhtóon	circumcised (person)	2	adj.																													
 1566478420410	مکر	mákur	false, deceit, pretend	4	adj.																													1
@@ -1897,7 +1897,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1582316603483	پورتینی	porteenáy	upper, above	4	adj.																													
 1582390092514	پورتنی	portináy	upper, above	4	adj.																													
 1670563393263	پوشیده	posheedá	hidden, secret, unknown, clandestine		adj.																													
-1576952412644	پوست	post	soft, tender, gentle, loosened	3	adj.				پاسته	paastu	پست	past																						
+1576952412644	پوست	post	soft, tender, gentle, loosened	3	adj.				پاسته	paastu	پست	past																						1
 1527815998	پراخ ټنډی	praakh TanDay	smiling, cheerful	4	adj.																													
 1527812013	پراخ	praakh, paráakh	wide, broad, spacious, vast	4	adj.																													
 1678446438781	پراخه	praakha	wide, broad, spacious, vast (پراخ)		adj.																													
@@ -2043,7 +2043,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713120150596	روغ رمټ	rogh ramúT	healthy, well, intact, good, built-up	4	adj. doub.																													1
 1713120171613	جک جوړ	juk joR	healthy, well, intact, good, built-up (intensified with جک)	4	adj. doub.																													1
 1527816847	روغتیایي	roghtiyaayee	healthy, heath, related to health	3	adj.																													
-1527811673	روږدی	rooGdáy, roGdáy	addicted, addict; used to, adjusted to, accustomed to	3	adj.																													
+1527811673	روږدی	roGdáy, rooGdáy	addicted, addict; used to, adjusted to, accustomed to	3	adj.																													
+1715336424723	روږدی کول	roGday kawúl	to addict, accustomed, adjusted to		v. stat. comp. trans.	1527811673	addict																											
+1715336429706	روږدی کېدل	roGday kedúl	to get addicted, accustomed, adjusted to		v. stat. comp. intrans.	1527811673	get	addicted																										
+1715336437520	روږدول	roGdawúl	to addict, accustomed, adjusted to		v. stat. comp. trans.	1527811673	addict																											
+1715336440101	روږدېدل	roGdedúl	to get addicted, accustomed, adjusted to		v. stat. comp. intrans.	1527811673	get	addicted																										
 1577218776062	روحاني	roohaanee	spiritual	4	adj.																													
 1611401291814	روحي	roohee	spiritual	4	adj.																													
 1527822854	ړومبی	Roombáy	first, before	4	adj.																													1
@@ -2413,7 +2417,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815365	تور	tor	black	4	adj.																													1
 1527817607	تور مخی	tor múkhay	disgraceful, shameful, dishonered	4	adj.																													
 1527813138	تورن	toran	accused, charged, being sued, defendant	4	adj.																													
-1527819720	توری	toráy	black, having a dark complexion	4	adj.																													
+1527819720	توری	toráy	black, having a dark complexion	4	adj.																													1
 1591805053098	تورپوست	torpóst	black (skinned person)	4	adj.																													
 1527813835	تورتلب	tortalab	really black, black as soot, absolutely black	3	adj.																													
 1527822341	تورتپ	tortáp	see تورتم	4	adj.																													
@@ -2424,7 +2428,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1593258382116	ترسکونه	traskóona	tasty, delicious	4	adj.																													
 1527815366	تریخ	treekh	bitter, hot, spicy (of food); terrible, miserable	4	adj.				تراخه	traakhu	ترخ	turkh																						1
 1527819604	ترینګلی	treengúlay	tense, stern, grim, sour, moody (person)	4	adj.																													
-1527818789	تریو	treew	salty, savoury, sour, acid, bitter, grumpy	4	adj.				تراوه	traawu	ترو	truw																						
+1527818789	تریو	treew	salty, savoury, sour, acid, bitter, grumpy	4	adj.				تراوه	traawu	ترو	truw																						1
 1576366107077	څک	tsak	straight, upright, pricked up, erect, alert	4	adj.																													
 1527812957	څک اروا	tsak arwaa	greedy, eager, hungry, grasping	4	adj.																													
 1590839082693	څلېرویشتم	tsalerweeshtum	twenty-fourth	4	adj.																													
@@ -2708,7 +2712,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811712	کابو	kaaboo	near, close, basically, approximately; control, check	2	adj. / adv.																													
 1527812762	خالي	khaalée	empty, only, just	3	adj. / adv.																													1
 1709768767520	خالي کول	khaalee kawul	to empty	4	v. stat. comp. trans.	1527812762	empty																											1
-1527819679	خاص	khaas	special (fig. really, well, actually, totally)	4	adj. / adv.																													
+1527819679	خاص	khaas	special (fig. really, well, actually, totally)	4	adj. / adv.																													1
 1527817078	خود	khood, khwud	sure, certainly, totally, surely, aware	4	adj. / adv.																													
 1527822440	خوابدی	khwaabáday	sad, feeling bad, offended, distressed, upset	4	adj. / adv.																													
 1527816129	خواره واره	khwaara waara	scattered, speed, thrown about	4	adj. / adv.																													
@@ -3215,7 +3219,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819271	نسبتاً	nisbatan	relatively	4	adv.																													
 1527815123	نن	nun	today, these days	4	adv.																													
 1527815124	نن سبا	nun sabaa	these days	4	adv.																													1
-1527815135	اوس	oos	now	4	adv.																													1
+1527815135	اوس	oos, os	now	4	adv.																													1
 1527815136	اوسمهال	oosmahaal	presently	4	adv.																													
 1527817155	پرله پسې	parla pase	continuous, back to back, uninterrupted, constant, unceasing	4	adv.																													
 1527817156	پرلپسې	parlapasé	continuous, back to back, uninterrupted, constant, unceasing	4	adv.																													1
@@ -3331,7 +3335,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821531	تل	tul	always, forever, constantly	4	adv.																													1
 1527812137	تل تر تله	tul tur tula	eternal, everlasting, forever	4	adv.																													1
 1527818051	تر ابده	tur abada	eternally, forever, constantly, for eternity	4	adv.																													
-1586265891338	تر اوسه	tur oosa	until now, up until now, yet	4	adv.																													
+1586265891338	تر اوسه	tur óosa, tur ósa	until now, up until now, yet	4	adv.																													1
 1527815385	تر پایه	tur paaya	until the end, until the finish	4	adv.																													
 1527814590	تر څنګ	tur tsang	alongside, along with this	4	adv.																													
 1527820016	ترهغه	turhaghú	until	4	adv.																													
@@ -3964,7 +3968,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819041	چلیپا	chaleepaa	cross, crucifix	3	n. f.																													
 1576101632183	چلښت لیکه	chaluxt leeka	direction, course	3	n. f.																													
 1527821320	چمبه	chamba	paw, claws (bird’s); tambourine; circle, rim	2	n. f.																													
-1527815802	چمچه	chamcha	spoon, ladle	3	n. f.																													
+1527815802	چمچه	chamácha, chamchá	spoon, ladle	3	n. f.																													1
 1527821992	چمچه ګیري	chamcha geeree	sucking up, flattery	4	n. f.																													
 1650882378868	چمپل	champál	slipper	0	n. f.																													
 1573768760729	چنه	chaná	bartering, bargaining (for a price)	3	n. f.																													
@@ -4075,7 +4079,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823467	ډنډۍ	DanDúy	balance beam of a scale; ear lobe; bunch (of grapes)	3	n. f.																													
 1527812543	دڼیا	daNiyáa	cilantro/coriander, parsley	4	n. f.																													1
 1527813475	دقیقه	daqeeqa	minute	4	n. f.									دقائق	daqaa'iq																			
-1527811438	دړه	daRa	board, leaf, panel, strip, slice (of a melon etc.)	3	n. f.																													
+1527811438	دړه	dáRa	board, leaf, panel, strip, slice (of a melon etc.)	3	n. f.																													1
 1527818230	دړه دوړه	dáRa dóoRa	noise, racket, hubbub	2	n. f.																													
 1527813973	دره	dara, darra	valley, mountain pass, gorge	4	n. f.																													
 1594834298490	دره	dara, darra	valley, gourge, mountain pass, ravine	4	n. f.																													
@@ -4713,7 +4717,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821608	جرړه	jírRa	cotton	4	n. f.																													
 1527822739	جټکه	jiTká	push, shove, bump; jolt (جيټکه)	4	n. f.																													1
 1527814633	جوبه	joba	market	3	n. f.																													
-1527818191	جولا	jolaa, joolaa	cloth, fabric; weaver; spider	4	n. f.																													
+1527818191	جولا	joláa, jooláa	cloth, fabric; weaver; spider	4	n. f.																													1
 1527820437	جونګړه	joongúRa	shack, hut, lodge, cabin	4	n. f.																													1
 1566549995565	جوسه	joosá	face, frame, body	3	n. f.																													
 1566477622070	جوپه	jopa	turn, beat (as in a watchman's beat), caravan	4	n. f.																													
@@ -5243,7 +5247,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814516	لوړي	lwuRee	altitude, promotion, success	3	n. f.																													
 1527814273	لوستانۍ	lwustaanúy	female teacher of girls	3	n. f.																													
 1527812175	لیار	lyaar	road, way	3	n. f.																													
-1527822321	معاشره	ma'aashira	society	3	n. f.																													
+1527822321	معاشره	ma'aashirá	society	3	n. f.																													1
 1527822423	معموري	ma'moorée	prosperity, well-being, fullness	4	n. f.																													
 1575642947741	معنیٰ	ma'naa	meaning, significance	4	n. f.																													
 1622720402465	معرکه	ma'riká	battlefield, battle, arena, meeting	2	n. f.																													
@@ -5651,7 +5655,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811814	نفس پرستي	nafs parastee	hedonism, profligacy, debauchery	4	n. f.																													
 1527818117	نفسي	nafsee	mental, psychological	2	n. f.																													
 1574784019072	نغاره	naghaará	kettledrum, drum	4	n. f.																													
-1527822689	نغمه	naghmá	song, tune, motif, melody	4	n. f.																													
+1527822689	نغمه	naghmá	song, tune, motif, melody	4	n. f.																													1
 1527812257	نهه	naha	Tuesday (Urdu)	4	n. f.																													
 1527817071	نحو	nahwa	syntax, grammar	2	n. f.																												true	
 1579463046963	نهیه	náhya	prohibition, forbidding	2	n. f.																													
@@ -5669,7 +5673,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815985	نندره	nandra	a collection of goods or gifts for a wedding	4	n. f.																													
 1584640124080	ننګه	nanga	honor, sense of honor, reputation	3	n. f.																													
 1527814542	ننګونه	nangawúna	challenge	2	n. f.																													
-1527820631	نقاشي	naqaashee	painting (the art of), depiction, description, portrayal	4	n. f.																													
+1527820631	نقاشي	naqaashée	painting (the art of), depiction, description, portrayal	4	n. f.																													
 1527816321	نقادي	naqqaadee	literary criticism	2	n. f.																													
 1527812140	نقشه	naqshá	map, scheme, plan, diagram, blueprint	4	n. f.																													1
 1527823071	نر تخمه	nar tUkhma	sperm	4	n. f.																													
@@ -6197,7 +6201,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812059	سندله	sandala	locally made cement (of broken brick, lime, and vegetable fibers)	3	n. f.																													
 1527822777	سندلۍ	sandalúy	brazier, hearth	4	n. f.																													
 1527813430	صندوقچه	sandooqcha	small chest, trunk, box	3	n. f.																													
-1527815249	سندره	sandúra, sandára	song, poem, verse	4	n. f.																													
+1527815249	سندره	sandúra, sandára	song, poem, verse	4	n. f.																													1
 1715164916686	سندرې ویل	sandúre wayúl	to sing		v. dyn. comp. trans.	1527815249	sing,sings,singing,sang,sung																											1
 1715164945018	ګانه	gaaná	song (Urdu)		n. f.																													
 1715164965261	ګانې ویل	gaané wayúl	to sing		v. dyn. comp. trans.	1715164945018	sing,sings,singing,sang,sung																											1
@@ -6418,7 +6422,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816173	سپیني	speenee	Achilles tendon	3	n. f.																													
 1527823572	سپوږمکۍ	spoGmakúy	satellite	3	n. f.																													
 1527814788	سپوږمۍ	spoGmúy	moon	4	n. f.																													
-1577408787088	سپرې	spre	sprey (as in a medicinal spray)	3	n. f.																													
+1577408787088	سپرې	spre	spray	3	n. f.																													
+1715387062699	سپرې کول	spre kawúl	to spray	3	v. stat. comp. trans.	1577408787088	spray																											1
+1715387069476	سپرې کېدل	spre kedúl	to be sprayed	3	v. stat. comp. instrans.	1577408787088	be	sprayed																										
 1632350233969	سپږه	spúGa	louse (usually plural سپږې - lice)	4	n. f.																													
 1527814371	سپږمه	spuGmá	nostril	4	n. f.																													
 1527823457	سپرغه	spúrgha	well (hole for a kahreez کارېز - underground irrigation tunnel), pit, hole, foxhole	4	n. f.																													
@@ -6447,7 +6453,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1594905387399	سکته	sukáta	patience, endurance; satisfaction	4	n. f.																													
 1527823413	سخه	sukha	malice, spite, malicious joy, vindictiveness	3	n. f.																													
 1527812058	سله	sula	brick, casting, ingot	2	n. f.																													
-1527820676	سلګۍ	sulgúy	sobbing, weeping, wheezing, hiccps, death rattle	4	n. f.																													
+1527820676	سلګۍ	sulgúy	sobbing, weeping, wheezing, hiccup, death rattle	4	n. f.																													1
 1527816466	صلح	sÚlha	peace, compromise, reconcilliaton	3	n. f.																													1
 1714728304819	صلح کول	sÚlha kawúl	to make peace, reconcile	3	v. dyn. comp. trans.	1527816466	make	peace																										1
 1527815315	سلنه	suluna	percentage, rate	3	n. f.																													
@@ -6741,6 +6747,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822618	څپه	tsapá	wave	3	n. f.																													
 1527820054	څپړۍ	tsapaRúy	crossbar (on the handle of a spade or shovel); hockey stick	1	n. f.																													
 1527813431	څپېړه	tsapéRa	slap, smack, spank	4	n. f.																													1
+1715364371079	څپېړه وهل	tsapéRa wahúl	to slap, smack	4	v. dyn. comp. trans.	1527813431	slap																											
+1715364367327	څپېړه ورکول	tsapéRa warkawúl	to slap, smack	4	v. dyn. comp. trans.	1527813431	slap																											1
 1527820052	څپلۍ	tsaplúy	sandal	4	n. f.																													1
 1527823657	څپړ	tsapúR	leg, paw	1	n. f.																													
 1527823658	څپړه	tsapúRa	leg, paw	1	n. f.																													
@@ -6857,7 +6865,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823534	وړتیا	waRtiyáa	ability, capacity, capability, power, volumeá	4	n. f.																													
 1527815405	وړۍ	waRúy	wool, yarn	4	n. f.																													
 1527814001	وسه	wasa	summer rain, monsoon	2	n. f.																													
-1527811535	وسیله	waseela	means, agency, reason, cause, medium	4	n. f.									وسائل, وسایل	wasaa'il, wasaayil																			
+1527811535	وسیله	waseelá	means, agency, reason, cause, medium	4	n. f.									وسائل, وسایل	wasaa'il, wasaayil																			1
 1584529132645	وثیقه	waseeqá	document, deed	4	n. f.																													
 1527814719	وسله	waslá	weapon, firearm, artillery	4	n. f.																													1
 1527819683	وسوسه	waswasa	worry, fixation, obsessive concern, obsession, temptation, doubt	3	n. f.																													
@@ -7192,7 +7200,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811490	ذات	zaat	person; nature; breed; caste	3	n. m.		person	people																										1
 1527820199	عکس	aks	photo, photograph, snapshot; contrast, antithesis, opposition, contrary; reflection	3	n. m.		photo	photos																										1
 1527819345	پسه	psu	sheep, ram	4	n. m.		sheep	sheep								پسونه	pusoona																	1
-1586598425514	بوی	booy	smell	4	n. m.		smell																											
+1586598425514	بوی	booy	smell	4	n. m.		smell																											1
 1527816746	غاښ	ghaax	tooth	4	n. m.		tooth	teeth																										
 1650696329398	للون	lalóon	weeding; speech, utterance	4	n. m.		weeding																											
 1527818255	لېوه	lewú	wolf, wild dog	4	n. m.		wolf	wolves								لېوان	lewáan																	
@@ -7442,7 +7450,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813428	عطر	átur	perfume, fragrance	4	n. m.																													1
 1527818948	اټسکی	aTúskay	sneezing, sneeze	2	n. m.																													
 1527819820	اواخر	awaakhír	for the last time	4	n. m.																													
-1675148914129	اواز	awáaz	voice, sound		n. m.																													
+1675148914129	اواز	awáaz	voice, sound		n. m.																													1
 1527821981	اوباش	awbáash	riff-raff, rabble; tramp, vagrant	4	n. m.																													
 1527811787	اودس	awdás	ablution, ritual washing in Islam	4	n. m.																													1
 1527813869	اوګوټ	awgoT	boat, ship	1	n. m.																													
@@ -7543,8 +7551,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817600	بغل	baghál	edge, side, curb; armpit	4	n. m.																													
 1568411756930	بغری	bagharáy	pimp (swear word)	4	n. m.																													
 1527823563	بغور	baghóor, baghór	cheek, jowl	2	n. m.																													
-1527814014	بهار	bahaar	spring (season)	4	n. m.																													
-1670563436631	بهار	baháar	spring (season)		n. m.																													
+1670563436631	بهار	baháar	spring (season)		n. m.																													1
 1527814322	بهیر	baheer	process	4	n. m.																													
 1595258515075	بحر	bahr, báhar	sea, ocean; syllable	4	n. m.									ابحار	abhaar																			
 1527812020	بحث	bahs	discusion, talk, debate, argument	4	n. m.																													1
@@ -7698,7 +7705,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820806	بدایي	bUdaayee	Buddhist	4	n. m.																													
 1527814353	بدکار	budkáar	adulterer, fornicator, sinner	4	n. m.																													1
 1527820654	بګاښ	bugáax	mediation, arbitration	3	n. m.																													
-1591034228982	بغض	bUghz	grudge, hatred, wickedness	4	n. m.																													1
+1591034228982	بغض	bUghz	grudge, spite, hatred, wickedness	4	n. m.																													1
 1527814106	بحران	bUhraan	crisis	4	n. m.																													
 1527813561	بهتان	bUhtaan	false accusation	4	n. m.																													
 1527812514	بجاز	bujaaz	cloth merchant	4	n. m.																													
@@ -7871,8 +7878,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813311	داستان	daastaan	tale, legend, story, fairy tale	4	n. m.																													
 1527820343	داوطلب	daawtaláb	volunteer; aspirant, claimant, pretender; bidder (in an auction); instigator (of war), war-monger	3	n. m.																													
 1527819514	دای	daay	tier, row, foundation (masonry etc.)	1	n. m.																													
-1527819437	ډب	Dab	pit, hole; puddle, stagnant water; dam, impounding, delay; crash, hit, blow, loss	2	n. m.																													
-1588787007390	ډب	Dab	force, strength, power; beating, hitting; shape, form; conduct, behaviour	4	n. m.																													
+1588787007390	ډب	Dab, Dub	force, strength, power; beating, hit, hitting, blow, slap, loss, crash, thud, dull noise; shape, form; conduct, behaviour; pit, hole; puddle, stagnant water; dam	4	n. m.																													1
 1527821304	ډباو	Dabáaw	pressure (from Urdu)	0	n. m.																													
 1527813433	دبلی	dablay	box, jar, pot, can	3	n. m.																													
 1527819649	دد	dad	wild animal, beast	1	n. m.																													
@@ -7906,7 +7912,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821234	دنګو	dangóo	boiled beans	2	n. m.																													
 1527820757	ډنمارک	Danmaark	Denmark	4	n. m.																													
 1527818522	ډپ	Dap	puddle, pool; loss; conceit	4	n. m.																													
-1527814242	درک	darak	address, sign, track, trace, knowledge, understood, clear	3	n. m.																													
+1527814242	درک	darák	address, sign, track, trace, knowledge, understood, clear	3	n. m.																													1
 1585219862807	درمسال	daramsáal	gurdwara, sikh temple	4	n. m.																													
 1527817746	دربار	dărbáar	court, the presence (of God or a king)	4	n. m.																													1
 1595258181697	درباري	darbaarée	courtier, person in a (King's) court	4	n. m.																													
@@ -8480,7 +8486,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821450	حجامت	hajaamát	shaving, haircut; bloodletting, the use of cupping glasses	4	n. m.																													
 1527816748	حکیم	hakéem	wise man, thinker; eastern/traditional doctor or medicine man, doctor, physician	3	n. m. anim. unisex																													
 1527822075	هکتار	haktáar	hectare, 1000 square meters	2	n. m.																													
-1527814125	حل	hal	solution, resolution	4	n. m.																													
+1527814125	حل	hal	solution, resolution	4	n. m.																													1
 1709337733496	حل کول	hal kawúl	to solve, resolve	4	v. stat. comp. trans.	1527814125	solve																											1
 1709337736130	حل کېدل	hal kedúl	to resolve, be solved	4	v. stat. comp. intrans.	1527814125	resolve																											
 1573682845789	هل	hal	handle/shaft of a plow	2	n. m.																													
@@ -8845,7 +8851,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812700	عزت	izát, izzát	honour, honor, respect, esteem	4	n. m.																													1
 1714745059837	عزت کول	izát kawúl	to respect, honor, esteem	4	v. dyn. comp. trans.	1527812700																												1
 1527820311	جعل	ja'l	forging, faking	4	n. m.																													
-1585241147122	جادو	jaadoo	magic, spell, witchcraft	4	n. m.																													
+1585241147122	جادو	jaadóo	magic, spell, witchcraft	4	n. m.																													1
 1579313323182	جادوګر	jaadoogar	magician, charmer, sorcerer	4	n. m.																													
 1584888555862	جاګنی	jaagunáy	stag, bull (of certain horned animals); leader of a herd	2	n. m.																													
 1527812701	جاج	jaaj	understanding, thought, survey, analysis	4	n. m.																													
@@ -8908,7 +8914,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816936	جنګیالی	jangyaalay	warrior, fighter, soldier	4	n. m.																													
 1527813265	جنجال	janjáal	fuss, trouble, issue, fighting, controversy	4	n. m.																													
 1714413140289	جنجال جوړول	janjáal joRawúl	to squabble, quibble, start a fight, cause trouble	4	v. dyn. comp. trans.	1527813265	squabble																											1
-1527818293	جنوب	janóob	south	4	n. m.																													
+1527818293	جنوب	janóob	south	4	n. m.																													1
 1527812224	جنرال	janraal	general	4	n. m.																													
 1614081918508	جره توب	jara tób	singleness, bachalorhood	4	n. m.																													
 1527813324	جرس	jaras	bell	4	n. m.																													
@@ -9078,7 +9084,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1574868472113	کجلېچ	kajléch	bend, turn, curve	3	n. m.																													
 1527821729	کژ	kajz	chin	1	n. m.																													
 1527818571	کک	kak	particle, crumb, blade of grass; sugar-cane molasses	2	n. m.																													1
-1527815973	کلام	kalaam	word, speech, piece of poetry	4	n. m.																													
+1527815973	کلام	kaláam	word, speech, piece of poetry	4	n. m.																													
+1715385348572	کلام کول	kaláam kawúl	to speak																															1
 1527819553	کلنګ	kaláng	tribute; money; goods given from the husband’s family to the bride’s	3	n. m.																													
 1527818373	کلوو	kalóow	anise, aniseed	1	n. m.																													
 1527811723	کلتور	kaltoor	culture	4	n. m.																													
@@ -9450,7 +9457,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817296	کفر	kÚfur	blasphemy	4	n. m.																													1
 1527818572	کک	kUk	onion	1	n. m.																													
 1578769875936	کلال	kUláal	potter	4	n. m.																													
-1527812836	کلی	kúlay, kílay	village	4	n. m.																													
+1527812836	کلی	kúlay, kílay	village	4	n. m.																													1
 1527813460	کلف	kUlf	lock	4	n. m.																													
 1527820354	کلپ	kUlp	lock (کلف); locked	3	n. m.																													
 1527820385	کلپکی	kUlpakáy	small lock (diminutive of کلپ)	4	n. m.																													
@@ -10178,7 +10185,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823204	نندارتون	nandaartóon	exhibition, exhibit, spectacle, show	3	n. m.																													
 1527813021	ننګ	nang, nung	honor, sense of honor, reputation; disgrace, shame	4	n. m.																													
 1527817955	ننګرهار	nangarhaar	Nangarhar	4	n. m.																													
-1527820630	نقاش	naqáash	painter, portraitist, artist	4	n. m.																													
+1527820630	نقاش	naqáash	painter, portraitist, artist	4	n. m. anim. unisex																													
 1527815112	نقد	naqd	ready money, cash	4	n. m.																													
 1527820534	نقد	naqd	cash, ready-money; criticism, critique	4	n. m.																													
 1527816673	نقص	nÚqs, naqs	shortcoming, defect, deficiency, damage, harm	3	n. m.									نواقص	nawaaqis																			1
@@ -10536,7 +10543,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813404	پورته تګ	porta tug	ascent	3	n. m.																													
 1578329038223	پوړنی	poRúnay, poRÚnay	veil, covering for women, cover	3	n. m.																													
 1527823426	پوشاک	posháak	clothing, attire, dress	4	n. m.																													1
-1527816685	پوست	post	skin, fur, peel, bark, rind; post (as in a job or position)	3	n. m.																													
+1527816685	پوست	post	skin, fur, peel, bark, rind; post (as in a job or position)	3	n. m.																													1
 1527816627	پوستکی	postúkay	fleece, pelt, skin, shell, rind, bark; ear lobe	4	n. m.																													1
 1527822875	پوټ	poT	hide, skin, rind; misfortune, grief, discord, disagreement, dissention	4	n. m.																													
 1527818869	پوټکی	poTúkay	skin, pelt, hide	4	n. m.																													1
@@ -10575,6 +10582,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813142	پنجاب	punjaab	Punjab	4	n. m.																													
 1527820675	پړ	puR	wedging, fastening with a wedge	4	n. m.																													
 1527820338	پړک	pRak, pRuk, puRák 	flash, shine, twinkling, sparkling; slap, smack, shaking, trembling, agitation	4	n. m.																													
+1715364284784	پړک وهل	pRák wahúl, pRúk wahúl	to slap, smack		v. dyn. comp. trans.	1527820338	slap																											1
 1527822385	پړی	púRay	rope, cable, cord	4	n. m.																													1
 1527821241	پرګی	purgáy, pirgáy	acorn	3	n. m.																													
 1527815772	پرهیز	purhayz	abstinence	4	n. m.																													
@@ -10795,7 +10803,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815226	روغتون	roghtoon	hospital	4	n. m.																													
 1527813655	رول	rol	role	3	n. m.																													1
 1527816840	رود	rood	river, small stream, brook	3	n. m.																													
-1527811552	روح	rooh	spirit, soul, character, ghost	4	n. m.									ارواح	arwáah																			
+1527811552	روح	rooh	spirit, soul, character, ghost	4	n. m.									ارواح	arwáah																			1
 1571840616231	روح القدس	rooh UlqUdUs	Holy Spirit (in Christianity)	4	n. m.																													
 1527816791	روحانیت	roohaaniyat	spirituality	4	n. m.																													
 1527812947	روحیات	roohyaat	pshychology	4	n. m.																													
@@ -11233,12 +11241,12 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819309	سوزښت	sozúxt	burning, combustion; agitation, anxiety, vexation, concern	3	n. m.																													
 1527819900	سپاري تیر	spaaree téer	plow beam	3	n. m.																													
 1527819183	سپارښت	spaarúxt	order, commission, assignment; recommendation, asking or interceding on someone’s behalf	4	n. m.																													
-1527816935	سپایي	spaayee	soldier	4	n. m.																													
+1527816935	سپایي	spaayée	soldier	4	n. m. anim. unisex																													1
 1527821102	سپم	spam	eye of a needle, hole (for an earring)	4	n. m.																													
 1527811577	سپڼسی	spaNsay	fathom, sewing thread	4	n. m.																													
 1527819792	سپڼسی	spaNsáy	yarn, cotton; yarn fabric, cotton fabric	4	n. m.																													
 1527818481	سپر	spar	armour plate, shield	4	n. m.																													1
-1527814021	سپرلی	sparláy	spring (season)	4	n. m.																													
+1527814021	سپرلی	sparláy	spring (season)	4	n. m.																													1
 1527823243	سپېده چاود	speda chaawd	dawn	3	n. m.																													
 1527814205	سپېده داغ	speda daagh	break of dawn, sunrise, first light of day	3	n. m.																													
 1527816102	سپین ږیری	speen Geeray	older man, "white beard"	4	n. m.																													
@@ -11586,7 +11594,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708911400377	تنقید کول	tanqéed kawul	to criticize	4	v. dyn. comp. trans.	1527815880	criticize																											1
 1675436743502	طنز	tanz	satire, irony, mockery, accosting		n. m.																													
 1527812237	تنظیم	tanzeem	organization, order, regulation	4	n. m.																													
-1527811348	ټپ	Tap	wound	4	n. m.																													
+1527811348	ټپ	Tap	wound	4	n. m.																													1
 1527817145	ټپ و ټپ	Tap-U-Tap	clap, clatter, clapping, slapping	3	n. m.																													
 1527814800	تپاک	tapaak	zeal, fervor, diligence, love	4	n. m.																													
 1527819694	ټپوس	Tapoos	vulture, kite (bird); sluggard	4	n. m.																													
@@ -11807,8 +11815,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815672	تور مرچ	tor mrach	black pepper	4	n. m.																													
 1527817608	تور مخی	tor mukháy	disgrace, shame, dishonor	4	n. m.																													
 1527823352	طور	tor, taur	manner, mode, way	3	n. m.									اطوار	atwaar																			
-1527819721	توری	toráy	letter, letter of the alphabet	4	n. m.																													
-1527819719	توری	tóray	spleen	4	n. m.																													
+1527819721	توری	tóray	letter, letter of the alphabet	4	n. m.																													
+1527819719	توری	toráy	spleen	4	n. m.																													1
 1527816435	توړۍ زی	toRuy zay	cousin (son of maternal aunt)	4	n. m.																													
 1588785486376	توشک	toshak	narrow mattress used as a bed or a couch, reversible rug	4	n. m.																													
 1584518072523	توی	toy	wedding ceremony, marriage ceremony	4	n. m.																													
@@ -12096,7 +12104,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1585488415368	یابو	yaaboo	pony, pack-horse	3	n. m.																													
 1527820953	یاد و بود	yaad-U-bóod	celebration, commemoration	4	n. m.																													
 1527811280	یادښت	yaadáxt	memoir, memorandum, note, reminder; memory	4	n. m.																													
-1527819745	یادګار	yaadgáar	souvenir, a gift or token of remembrance, memorial, memory, recollection	4	n. m.																													
+1527819745	یادګار	yaadgáar	souvenir, a gift or token of remembrance, memorial, memory, recollection	4	n. m.																													1
 1527822377	یاغي	yaaghee	rebel, mutineer, insurgent, outlaw	4	n. m.																													
 1589906371858	یاهو	yaahóo	a type of owl	2	n. m.																													
 1591804235196	یاقوت	yaaqóot	ruby; a name	4	n. m.																													1
@@ -12213,7 +12221,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817979	زول	zol	yarrow, milfoil (plant)	3	n. m.																													
 1578319495822	زو	zoo	a piece of brick	2	n. m.																													
 1527817978	زول	zool	worry, concern	3	n. m.																													
-1527816138	زوم	zoom	groom, bridegroom, son in law	4	n. m.											زومان	zoomaan																	
+1527816138	زوم	zoom	groom, bridegroom, son in law	4	n. m. anim. unisex											زومان	zoomaan																	1
 1527821100	زومبکی	zoombukáy	small pompom; tassel; pendant earring	3	n. m.																													
 1527813672	زور	zor	force, violence, power, strength, exertion	4	n. m.																													1
 1713347191771	زور کول	zor kawul	to force		v. dyn. comp. trans.	1527813672	force																											1
@@ -12287,8 +12295,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811527	درغل	darghal	crook, swindler, traitor, villian, disloyal	3	n. m. anim. unisex / adj.																													
 1591034093130	ډینګ	Deeng	a stork-like bird; long, leggy, lanky	4	n. m. / adj.																													
 1527813226	دوزخي	dozakhee	someone going to hell, someone in hell; hellish, awful	4	n. m. anim. unisex / adj.																													
-1527817392	دروغجن	droghjun, darwaghjun	liar, false, imposter	4	n. m. / adj.																													
-1527817394	دروغژن	droghjzun	liar, false, imposter	4	n. m. anim. unisex / adj.																													
+1527817392	دروغجن	daroghjún, duroghjún, darwaghjún	liar, false, imposter	4	n. m. / adj.																													
+1527817394	دروغژن	daroghjzún, duroghjzún	liar, false, imposter	4	n. m. anim. unisex / adj.																													
 1527813031	ایسار	eesaar	delay; held up, delayed	4	n. m. / adj.																													
 1577381886441	فرنګی	farangáy	Englishman, westerner, foreigner	3	n. m. anim. unisex / adj.																													
 1527811521	غدار	ghaddaar	traitor, treacherous	4	n. m. / adj.																													
@@ -12456,7 +12464,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821489	څکالکی	tskaalkay	bat (flying mouse)	4	n. m. anim.																													
 1582315831441	څکلکی	tsukúlkay	bat (flying mouse)	3	n. m. anim.																													
 1527815421	ورور	wror	brother	4	n. m. anim.											وروڼه	wrooNa																	1
-1527815450	زوی	zooy	son	4	n. m. anim.											زامن	zaamún																	
+1527815450	زوی	zooy	son	4	n. m. anim.											زامن	zaamún																	1
 1585221940780	ملکي	mUlkee	countryman, citizan, civilan	4	n. m. anim. / adj.																													
 1527815138	اورپک	orpak	insurgent, wicked, terrorist	4	n. m. anim. / adj.																													
 1632856461211	میرڅمن	meertsaman	enemy	2	n. m. anim. masc.																													
@@ -12496,7 +12504,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1612613313603	دباندنی	dubaandunáy	foreigner	4	n. m. anim. unisex																													
 1527814359	دښمن	dUxmán	enemy, foe, adversary	4	n. m. anim. unisex / adj.																													1
 1677571934500	فاتح	faatih	conquerer, victor		n. m. anim. unisex									فاتحین	faatihéen																			
-1527819017	فرزند	farzánd	son, child, offspring (poetic)	3	n. m. anim. unisex																													
+1527819017	فرزند	farzánd	son, child, offspring (poetic)	3	n. m. anim. unisex																													1
 1622874527846	ګاک	gaak	customer (dialect)	4	n. m. anim. unisex																													1
 1527820667	ګاښکرندی	gaaxkrúnday	mediator, arbitrator	1	n. m. anim. unisex																													
 1675281819173	ګډونوال	gaDoonwáal	participant		n. m. anim. unisex																													
@@ -12879,7 +12887,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818393	تشریفات	tashreefáat	formalities, ceremonials, protocol	4	n. m. pl.																													
 1527817825	تېل	tel	oil, petrol	4	n. m. pl.																													1
 1641844602733	تیل	tayl	oil, petrol	2	n. m. pl.																													
-1527823568	توکاڼي	tookaaNee	spit, saliva	4	n. m. pl.																													
+1527823568	توکاڼي	tookáaNee	spit, saliva	4	n. m. pl.																													1
 1577816455925	ټوکر	Tookúr	cloth	2	n. m. pl.																													
 1527814037	ټوسان	Toosaan	large hailstones, hail (in spring)	3	n. m. pl.																													
 1586266501693	تورکڼي	torkúNee	soot, lampblack; blight (disease of cereal grains)	4	n. m. pl.																													
@@ -13077,7 +13085,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820673	پړ	puR	intensifying particle, completely	4	suff.																													
 1527814609	تن	tan	with numbers, a kind of counter suffix	4	suff.																													1
 1577500548493	تعالیٰ	taalaa	great, most high, an Arabic epithet or suffix attached to the name of God	4	suff.																													
-1527811349	ټپ	Tap	used in connection with adjectives to mean ‘very, totally, utterly’	4	suff.																													
+1527811349	ټپ	Tap	used in connection with adjectives to mean ‘very, totally, utterly’	4	suff.																													1
 1527821363	ترین	taréen	suffix meaning ‘most, very’	4	suff.																													
 1527823138	تر	tur	suffix increasing adjective meaning more	4	suff.																													
 1527817742	العزت	ul'izzat	an Arabic suffix meaning ‘almighty’ that is attached to God’s name (رب العزت )	4	suff.																													
@@ -13273,11 +13281,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823468	ډنډۍ وهل	DanDuy wahul	to cheat on the scales, to give a short weight	4	v. dyn. comp. trans.	1527823467																												
 1527823249	دړکه کول	daRaka kawul	to threaten, intimidate; to threaten with a firearm	4	v. dyn. comp. trans.	1527823248																												
 1527816715	درمن بادول	darman baadawul	to winnow grain	4	v. dyn. comp. trans.	1527816714																												
-1527815742	دروغ ویل	darwagh wayul	to lie, to speak false	4	v. dyn. comp. trans.	1527815739																												
 1527811275	دوام لرل	dawaam larul	to continue, to be in progress	3	v. dyn. comp. trans.	1527811273																												
 1527811274	دوام ورکول	dawaam warkawul	to continue, to go on with	3	v. dyn. comp. trans.	1527811273																												
 1622374504154	دلاسا ورکول	dilaasaa wărkawul	to comfort, console, to calm affectionately	4	v. dyn. comp. trans.	1622374461771																												
-1527815741	دروغ ویل	drogh wayul	to lie, to speak false	4	v. dyn. comp. trans.	1527815739																												
+1527815741	دروغ ویل	darógh wayúl, darwágh wayúl	to lie, to speak false, to slander	4	v. dyn. comp. trans.	1527815739																												1
 1527820271	دربهار کول	drubaháar kawul	to make noise, stamping, to beat (drum etc.)	3	v. dyn. comp. trans.	1527820270																												
 1527820459	ډزې کول	Duze kawul	to fire, to shoot at someone or something (د چا باندې ډزې کول)	4	v. dyn. comp. trans.	1527820458																												
 1527818124	ځان څنډل	dzaan tsanDul	to rouse oneself, shake or flap one’s wings (for a bird), to brandish (a sword etc.), to sweep aside, reject or ignore (criticism etc.)	4	v. dyn. comp. trans.	1527812593																												
@@ -13562,7 +13569,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1581086654898	کېدل	kedúl	to become _____	2	v. intrans.		become													ش	sh			شول	shwul	شوی	shúway		TRUE					1
 1527811442	توانېدل	twaanedul	become able, become strong or good enough to…	4	v. intrans.		become	able																										
 1527813837	سوځېدل	swadzedúl	to burn	4	v. intrans.		burn,burns,burning,burnt,burned																					TRUE						1
-1527814025	ختل	khatúl	to climb, ascend, rise, go up; to fall out, to fall off, to leave/dissapear; to turn out to be ...; to give a sentence (in law)	3	v. intrans.		climb											خېژ	khejz			خوت	khot											1
+1527814025	ختل	khatúl	to climb, ascend, rise, go up; sprout, grow up; to fall out, to fall off, to leave/dissapear; to turn out to be ...; to give a sentence (in law)	3	v. intrans.		climb											خېژ	khejz			خوت	khot											1
 1585228551150	درتلل	dărtlul	to come (to you / second person)	3	v. intrans.		come,comes,coming,came,come											درځ	dărdz	درش	dársh	درغی	dărghay	درغلل	dárghlul	درغلی	dărghúlay		true		2	3		
 1527815216	راتلل	raatlúl	to come	4	v. intrans.		come,comes,coming,came,come											راځ	raadz	راش	ráash	راغی	ráaghay	راغلل	ráaghlul	راغلی	raaghúlay		TRUE		2	3		1
 1585228579997	ورتلل	wărtlul	to come / go over to (third person or place)	4	v. intrans.		come,comes,coming,came,come											ورځ	wărdz	ورش	wársh	ورغی	wărghay	ورغلل	wárghlul	ورغلی	wărghúlay		true		2	3		
@@ -13576,7 +13583,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813473	الوتل	alwatúl	to fly	4	v. intrans.		fly,flies,flying,flew,flown											الوځ	aloodz			الووت,الواته	alwot,alwaatu											1
 1527814038	پاڅېدل	paatsedul	to get up, rise, wake up	4	v. intrans.		get, gets, getting, got, gotten	up																				true	true		2	3		
 1527815348	تلل	tlul	to go	4	v. intrans.		go,goes,going,went,gone											ځ	dz	لاړ ش	láaR sh			لاړل	láaRul						2	3		1
-1527823376	وتل	watul	to go out, exit, leave, emerge	4	v. intrans.		go,goes,going,went,gone	out										وځ	oodz			ووت,واته	wot,waatu											
+1527823376	وتل	watul	to go out, exit, leave, emerge; be sprained	4	v. intrans.		go,goes,going,went,gone	out										وځ	oodz			ووت,واته	wot,waatu											
 1527818535	ځړېدل	dzaRedúl	to hang, to be hung, to be lowered	3	v. intrans.		hang,hangs,hanging,hung,hung																											
 1527812754	کېدل	kedúl	to happen, occur	2	v. intrans.		happen													وش	óosh			وشول	óoshwul	شوی	shúway				1	2	TRUE	1
 1578191534500	رحمېدل	rahmedul	to have mercy on, to have compassion on	3	v. intrans.		have	mercy																				true						
@@ -13666,7 +13673,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820932	خندېدل	khandedúl	to laugh, giggle	4	v. intrans.																													
 1527818981	خرېدل	kharedúl	to snore	4	v. intrans.																													
 1610445073880	خوټکېدل	khooTkedúl	to boil	4	v. intrans.																													
-1577898628875	خرړېدل	khraRedúl	to snore (dialect)	4	v. intrans.																													
+1577898628875	خرړېدل	kharRedúl, khraRedúl	to snore (dialect)	4	v. intrans.																													1
 1582390007080	خرېدل	khUredul	to purr (for cats)	4	v. intrans.																													
 1610445111023	خټکېدل	khUTkedúl	to boil	3	v. intrans.																													
 1527815691	کوړېدل	kooRedul	to gurgle, rumble	1	v. intrans.																													
@@ -13704,7 +13711,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1589885909792	پړقېدل	pRaqedul	to sparkle, twinkle, shine, beam	4	v. intrans.																													
 1590052866301	پرشېدل	prashedul	to sneeze, to hiss	3	v. intrans.																													
 1527818966	پرچېدل	pruchedúl	to sneeze	4	v. intrans.																													
-1527818963	پرنجېدل	prunjedúl	to sneeze	4	v. intrans.																													
+1527818963	پرنجېدل	prunjedúl	to sneeze	4	v. intrans.																													1
 1584688639213	پنځېدل	pundzedul	to be filled with, created; to be born; to have success	4	v. intrans.																													
 1527819397	پرځېدل	purdzedúl	to fall, be thrown down, toppled, overcome, wrestled to the ground	4	v. intrans.																													
 1577815956165	پړسېدل	puRsedúl	to swell, to fill up, to puff up	4	v. intrans.																													1
@@ -13839,7 +13846,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814919	تولیدېدل	tawleededul	to be produced, manufactured; to spring up, to be created, birthed	4	v. stat. comp. intrans.	1527814916	be	produced																										
 1589019870271	ټیک کېدل	Teek kedul	to be corrected, made right	4	v. stat. comp. intrans.	1527816006	be	corrected																										
 1577571096956	ټولېدل	Toledul	to be gathered, collected	4	v. stat. comp. intrans.	1527815358	be	gathered																										
-1579644515886	تویېدل	toyedúl	to be poured, shed, spilled, scattered, knocked down (fruit)	4	v. stat. comp. intrans.	1579644457295	be	shed																										
+1579644515886	تویېدل	tooyedúl	to be shed, poured, spilled, scattered, knocked down (fruit)	4	v. stat. comp. intrans.	1579644457295	be	shed																										1
 1527814905	تشېدل	tushedul	to be emptied	4	v. stat. comp. intrans.	1527814904	be	emptied																										
 1579721195157	واردېدل	waaridedúl	to be imported	4	v. stat. comp. intrans.	1527819574	be	imported																										
 1527820996	وهمېدل	wahmedúl	to be worried, apprehensive, concerned	4	v. stat. comp. intrans.	1527819571	be	worried																										
@@ -13910,7 +13917,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815167	پېښېدل	pexedúl	to happen, occur, come up	4	v. stat. comp. intrans.	1527820020	occur																					TRUE						1
 1527811948	شریکېدل	shareekedul	to be shared, held in common; to participate in something, share in something, be involved	4	v. stat. comp. intrans.	1527811947	participate																											
 1527816404	ستنېدل	stanedul, stunawul	to return go back; to be delayed, to linger	4	v. stat. comp. intrans.	1527819505	return																											
-1527815844	بېلېدل	beledul	to be separated	4	v. stat. comp. intrans.	1527812031	seperate																											
+1527815844	بېلېدل	beledúl	to be separated	4	v. stat. comp. intrans.	1527812031	seperate																											1
 1588153594269	وړېدل	waRedul	to become smaller, shrink	4	v. stat. comp. intrans.	1576113803291	shrink,shrinks,shrinking,shrank,shrunk																											
 1527822931	اوده کېدل	oodu kedúl	to sleep, to be asleep	4	v. stat. comp. intrans.	1527822930	sleep,sleeps,sleeping,slept																											1
 1576947352743	ویدېدل	weededúl	to sleep	4	v. stat. comp. intrans.	1527815408	sleep,sleeps,sleeping,slept																											
@@ -14378,7 +14385,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1675282073051	تالاشي کول	taalaashee kawul	to search (as in police searching someone, patting them down, searching a house, etc.)	3	v. stat. comp. trans.	1675282065710	search																											
 1527814183	خرڅول	khartsawúl	to sell, to spend, (fig.) to betray	4	v. stat. comp. trans.	1527817698	sell,sells,selling,sold																											1
 1527815843	بېلول	belawúl	to separate	4	v. stat. comp. trans.	1527812031	seperate																											1
-1579644522321	تویول	toyawúl	to pour, shed, spill, scatter, knock down (fruit)	4	v. stat. comp. trans.	1579644457295	shed,sheds,shedding,shed																											
+1579644522321	تویول	tooyawúl	to pour, shed, spill, scatter, knock down (fruit)	4	v. stat. comp. trans.	1579644457295	shed,sheds,shedding,shed																											
 1527817118	لنډول	lanDawul, lunDawúl	to shorten, to make short, abbreviate	4	v. stat. comp. trans.	1527813816	shorten																											1
 1527814493	غرقول	gharqawul	to sink, plunge, submerge, immerse	3	v. stat. comp. trans.	1527814495	sink,sinks,sinking,sank,sunk																											
 1527820144	پستول	pastawúl	to soften, knead, pulverize, dig over again	4	v. stat. comp. trans.	1576952412644	soften																											
@@ -14406,7 +14413,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586346835576	انبارول	ambaarawul	to pile up, heap up, store up	4	v. stat. comp. trans.	1586346832339																												
 1527823433	انجامول	anjaamawul	to finish, complete, execute	4	v. stat. comp. trans.	1527823432																												
 1577224312539	اړ کول	aR kawul	to compel, oblige	4	v. stat. comp. trans.	1527814795																												
-1577224570550	اړول	aRawul	to prevent, hinder, detain, seize, put in trouble, force, compel	4	v. stat. comp. trans.	1527814795																												
+1577224570550	اړول	aRawúl	to prevent, hinder, detain, seize, put in trouble, force, compel	4	v. stat. comp. trans.	1527814795																												1
 1574809245852	ارتاو کول	artaaw kawul	to throw, toss, fling	3	v. stat. comp. trans.	1574809204482																												
 1527816140	ارتاوول	artaawuwul	to throw, fling, toss	4	v. stat. comp. trans.	1574809204482																												
 1527816141	ارتول	artawúl	to widen, extend	4	v. stat. comp. trans.	1573663943732																												1
@@ -15046,7 +15053,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813405	تړل	taRúl	to connect, tie, bind, close	3	v. trans.		tie,ties,tying,tied,tied															تاړه	taaRu											1
 1527819396	پرځول	purdzawúl	to throw down, to topple, overcome, wrestle to the ground	4	v. trans.		topple																											
 1527811605	ازمویل	azmoyul	to attempt, try; to experiment, test	4	v. trans.		try																							true				
-1527816127	اړول	aRawul	to turn over, flip over; convert, change; to move over to, establish oneself in a new spot; divert, turn away, hijack	4	v. trans.		turn	over																										
+1527816127	اړول	aRawúl	to turn over, flip over; sprain; convert, change; to move over to, establish oneself in a new spot; divert, turn away, hijack	4	v. trans.		turn	over																										1
 1527813568	کارول	kaarawul	to use, utilize	3	v. trans.		use																											
 1527812627	غوښتل	ghwuxtúl, ghwUxtúl, ghoxtúl	to want, to request	4	v. trans.		want											غواړ	ghwaaR															1
 1527816801	وینځل	weendzúl	to wash	4	v. trans.		wash																											1
@@ -16136,7 +16143,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703620384032	وینلړلی	weenlaRúlay	blood-stained, blood-soaked		adj.																													
 1703652309597	فوج	foj, fauj	army, military		n. m.																													1
 1703652338864	فوځ	fodz, faudz	army, military		n. m.																													1
-1703652356284	فوجي	fojée, faujée	army, military		adj.																													
+1703652356284	فوجي	fojée, faujée	army, military		adj. / n. m. anim. unisex																													1
 1703652373553	فوځي	fodzée, faudzée	army, military		adj.																													
 1703652439518	فوجی	fojáy, faujáy	soldier		n. m. anim. unisex																													
 1703652448816	فوځی	fodzáy, faudzáy	soldier		n. m. anim. unisex																													
@@ -16614,7 +16621,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708824090737	نصیحت کوونکی	naseehát kawóonkay	counsellor		n. m. anim. unisex																													1
 1708824135977	بې شمېره	be shméra	countless																															1
 1708824186863	د کلي لمنې	du kúlee lamúne	countryside		n. f. pl.																													1
-1708824227413	خوشکه	khóoshka	barren, dry, arid																															1
+1708824227413	خوشکه	khóoshka, khwúshka	barren, dry, arid; irritable																															1
 1708824249417	خشکه	khÚshka	barren, dry, arid																															
 1708824328627	شاړه	sháaRa	barren, dry, arid																															1
 1708824447592	خبرې اترې	khabure atúre	conversation (serious), disucssion		n. f. pl.																													
@@ -17900,3 +17907,82 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1715166272357	ډانچه	Daanchá	form, shape, skeleton, figure		n. f.																													1
 1715166360497	سومبه	soombá	skewer																															1
 1715166957676	غلامي	ghUlaamée	slavery, servitude		n. f.																													1
+1715351106276	لوړتیا	lwuRtyáa, lwaRtáa	height, level, highness		n. f.																													
+1715363670997	چمړه	chamRá	leather; piece, fabric		n. f.																													1
+1715363708042	وچ کلک	wuch kluk	skinny, thin		adj. doub.																													1
+1715364006652	په ترڅ کې	pu truts ke	meanwhile, through		adv.																													
+1715365242157	په ترڅ	pu truts	meanwhile, through, slanted, sloping		adv.																													1
+1715364481087	په ورو ورو	pu wro wro	slowly		adv.																													1
+1715364507150	په مزه مزه	pu mazá mazá	slowly, unhurriedly, leisurely		adv.																													1
+1715364536275	په قلاره	pu qaláara	slowly, unhurriedly, leisurely, easily		adv.																													1
+1715364561889	کچه ابادي	kacha abaadée	slum																															1
+1715364881375	سګرېټ سکل	sigréT skul	to smoke (cigarettes)		v. dyn. comp. trans.	1527819849	smoke																											1
+1715365459089	سمګلنګ	smuglíng	smuggling		n. m.																													
+1715365461276	سمګلنګ کول	smuglíng kawúl	to smuggle		v. dyn. comp. trans.	1715365459089	smuggle																											1
+1715365003878	سمګلر	smuglár	smuggler		n. m. anim. unisex																													1
+1715365035116	ګنډه مار	gunDa máar	smuggler		n. m. anim. unisex																													1
+1715365129601	سپک خوراک	spuk khoráak	snack																															1
+1715365163095	په بدو سترګو کتل	pu budo sturgo katúl	to sneer, to look with contempt																															1
+1715365202870	پرنجی	prunjáy	sneeze		n. m.																													1
+1715365509515	معمولي خوراک	mamoolee khoráak	snack		n. m.																													1
+1715366089876	پرنجېدل	prunjedúl	to sneeze																															
+1715365721884	انتروشی	antróshay	sneeze		n. m.																													
+1715365764965	انتروشی کول	antróshay kawúl	to sneeze		v. dyn. comp. trans.	1715365721884	sneeze																											
+1715365724930	انموشی	anmóshay	sneeze		n. m.																													
+1715365769151	انموشی کول	anmóshay kawúl	to sneeze		v. dyn. comp. trans.	1715365724930	sneeze																											
+1715365837537	پوزه راښکل	póza raaxkúl	to sniff																															1
+1715366075075	واوره ورېدل	wáawra waredúl	to snow																															1
+1715366048870	خوشک	khooshk, khwushk	barren, dry, arid; irritable		adj.																													
+1715366236449	سا نیول	saa neewúl	to belch, sob, be breathless (??)																															1
+1715366264996	سلګۍ وهل	sulgúy wahúl	to sob, weep		v. dyn. comp. trans.	1527820676	sob,sobs,sobbing,sobbed																											1
+1715366491692	سوپ	soop	soup		n. m.																													1
+1715367147782	د اور بڅری	du or batsúray	spark		n. m.																													1
+1715366819958	په څه طریقه	pu tsu tareeqá	somehow, how, in some way, in what way, by some way		adv.																													1
+1715366883688	په څه چل	pu tsu chal	somehow, in some way, in what way, by some way, by some trick		adv.																													1
+1715366898636	لوټکی	loTkáy	somersault		n. m.																													1
+1715366934521	څه شی	tsu shay	what, what thing, something		adv. / n. m.																													1
+1715367649092	څه څیز	tsu tseez	what, what thing, something		adv. / n. m.																													1
+1715366980048	توروالی	torwáalay	blackness, darkness		n. m.																													1
+1715367044474	تر اوسه پورې	tur ósa pore, tur óosa pore	still, yet, up till now		adv.																													1
+1715367205542	جرابي	jaraabée, jUráabee	sock		n. f.																													1
+1715367527018	بې نشه	be nashá	sober		adj.																													1
+1715367542854	هوش کې	hosh ke	alert, conscious, sober, aware		adj.																													1
+1715367712641	په هوش کې	pu hosh ke	alert, conscious, sober, aware		adj.																													
+1715367575272	پلګ	plug	plug		n. m.																													1
+1715367597387	په نرمۍ سره	pu narmúy sara	sofly		adv.																													1
+1715367755509	ارام سره	araam sara	calmly, easily, slowly		adv.																													1
+1715367926506	حضرت سلیمان	hazrat-e-sUlaymáan	the prophet Sulaiman, Solomon																															1
+1715385244031	چنچڼه	chanchúNa	sparrow		n. f.																													1
+1715385284643	پړکندی	pRúkanday	shiny, glistening		adj.																													1
+1715385389799	ویونکی	wayóonkay	speaker		n. m. anim. unisex																													1
+1715385412294	بیانوونکی	bayaanawóonkay	speaker		n. m. anim. unisex																													1
+1715385436319	نیزه	neezá	spear		n. f.																													1
+1715387349708	سپېشل	speshúl, speshál	special		adj.																													1
+1715385528898	تماشایي	tamaashaayée	spectator, observer		n. m. anim. unisex																													1
+1715385551292	تماشه کوونکی	tamaasha kawóonkay	spectator, observer		n. m. anim. unisex																													1
+1715385580128	تماشه ګر	tamaasha gár	spectator, observer		n. m. anim. unisex																													1
+1715385606682	ننداره کوونکی	nandaara kawóonkay	spectator, observer		n. m. anim. unisex																													1
+1715385628849	تماشبین	tamaashbéen	spectator, observer		n. m. anim. unisex																													1
+1715385707167	مسالې	masaalé	spices (plural of مساله)		n. f. pl.																													1
+1715385764888	مساله دار	masaala dáar	spicy		adj.																													1
+1715385817747	جولاګی	joolaagáy	spider		n. m.																													1
+1715385890376	پالک	paalák, paalík	spinach		n. m. pl.																													1
+1715385925431	د ملا هډوکی	du mlaa haDóokay	spine, backbone		n. m.																													1
+1715385955108	مناره	minaará	minaret, spire		n. f.																													1
+1715386022269	بغضي	bUghzée	spiteful, hateful, wicked, begrudging		adj.																													1
+1715386230431	شګلي	shuglée	splinter		n. f.																													1
+1715386313143	شوکېدل	shookedúl	to split, crack																															1
+1715386434202	تیلی	teeláy	match (for making fire), thin, sharp piece of wood		n. m.																													1
+1715386637668	قاش	qaash	quarter (of fruit), hoster (of a gun)		n. m.																													
+1715386750435	ځوانکه	dzwaanúka	pimple, acne, spot		n. f.																													1
+1715386815425	بې داغه	be dáagha	spotless		adj.																													1
+1715386845329	داغدار	daaghdáar	spotted		adj.																													1
+1715386890315	نوزل	nozúl	nozzle, spout		n. m.																													1
+1715386940481	ساخکوړی	saakhkóoRay	spout		n. m.																													1
+1715387007870	وتلی	watúlay	exited, got out, left, sprained (past participle of وتلی), exceeded		adj.																													1
+1715387164675	سپرینګ	spreeng	spring (hardware)		n. m.																													1
+1715387178040	سپرنګ	spring	spring (hardware)		n. m.																													
+1715387207751	راختل	raakhatúl	to climp up, sprout (see ختل)																															1
+1715389743130	ډیجیټل	DeejeeTál	digital		adj.																													
+1715389759552	ډیجیټلول	DeejeeTalawúl	to digitize		v. stat. comp. trans.	1715389743130	digitize																											
+1715389788452	ډیجیټلېدل	DeejeeTaledúl	to be digitized		v. stat. comp. intrans.	1715389743130	be	digitized																										
