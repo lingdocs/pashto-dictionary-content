@@ -377,7 +377,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1566473865582	بري	buree	acquitted, relieved of charges	4	adj.																													
 1527811511	بشپړ	bushpuR	full, complete, total, exhaustive, fulfilled, finished, utmost, superior, mature	4	adj.																													
 1527811768	بزرګ	buzúrg, bUzÚrg	large, big, elder, mighty	4	adj.																													1
-1527821562	چابک	chaabúk	quick, fast, rapid	3	adj.																													1
+1527821562	چابک	chaabúk	quick, fast, rapid; whip	3	adj. / n. m.																													1
 1527811692	چاغ	chaagh	fat, obese, healthy, fleshly, overweight	3	adj.																													
 1527819672	چالاک	chaaláak	crafty, sly, tricky; quick, fast, nimble	4	adj.																													1
 1527821857	چاڼیز	chaaNeez	combing, sifting (چاڼيز عمليات - combing operations)	3	adj.																													
@@ -1015,7 +1015,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822932	خلاقه	khallaaqá	creative	2	adj.																													
 1527822196	خمیر	khameer	fermented, leavened (dough)	4	adj.																													
 1577899089150	خمسور	khamsor	spontaneous, sociable	2	adj.																													
-1617991263023	خندانه	khandaana	humorous, funny	4	adj.																													
+1617991263023	خندانه	khandáana	humorous, funny; smiling	4	adj.																													
 1586341318400	خندني	khandunee	laughing; funny; sarcastic	4	adj.																													
 1620042274477	خندني	khandunée	funny, laughing, pleasant, funny, sarcastic	4	adj.																													
 1527823057	خپ	khap	quiet, silent, still	2	adj.																													
@@ -4153,8 +4153,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818019	دوکانداري	dookaandaaree	shopkeeping, retail store selling	4	n. f.																													
 1650298821954	دوخړه	dookhúRa	smother, smoulder	2	n. f.																													
 1610795228080	ډوکړه	DookRá	tambourine	3	n. f.																													
-1527818141	دوړه	dooRá	dust, powder, sand, sand storm	3	n. f.																													
-1703677795788	دوړې	dooRé	dust (plural of دوړه)	4	n. f. pl.																													1
+1527818141	دوړه	dóoRa, dooRá	dust, powder, sand, sand storm; boasting, jibe, sneer, taunt, mocking; exaggeration, hyperbole	3	n. f.																													
+1703677795788	دوړې	dóoRe, dooRé	dust (plural of دوړه)	4	n. f. pl.																													1
 1527818229	دوړه پاکي	dooRa paakee	vacuum cleaner	4	n. f.																													
 1527816689	دوربیني	doorbeenee	foresight, ability to see far	4	n. f.																													
 1527812255	دوشنبه	dooshamba	Monday	4	n. f.																													
@@ -4184,8 +4184,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821109	ډنډاره	DunDaara	ring of an earring, nose earring, scape; stalk with ear	4	n. f.																													
 1527812345	دنیا	dUnyáa	world; fig. wealth, possessions, money	3	n. f.																													1
 1586356148469	دنیا پرستي	dUnyaa parastee	greed, worshipping the world	4	n. f.																													
-1527820109	دره	dUrá	lash, scourge, whip	3	n. f.																													
-1594834321232	دره	dÚra, dirrá	lash, whip, scourge	4	n. f.																													
+1594834321232	دره	dÚra, dirrá, dUrá	lash, whip, scourge	4	n. f.																													
 1586627419806	درسته	durastá, darastá	weapons, arms	2	n. f.																													
 1578014405951	درګه	dúrga	thicket of bushes/rushes; heart of the forest	2	n. f.																													
 1527822919	درمه	dUrmá	rushes, cane; shepherd’s pipe (musical instrument); barrel (of a shotgun)	4	n. f.																													
@@ -4251,7 +4250,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819018	فرزندي	farzandée	the position of a son, adoption	2	n. f.																													
 1527822892	فرضیه	farziya	hypothesis	2	n. f.																													
 1589023873660	فتح	fátha, fáta	victory, conquest	3	n. f.																													1
+1716083894965	فتح کول	fatha kawúl	to conquer, to win		v. stat. comp. trans.	1589023873660	conquer																											1
 1715961130237	فتحه	fátha, fáta	victory, conquest	3	n. f.																													1
+1716083925945	فتحه کول	fatha kawúl	to conquer, to win		v. stat. comp. trans.	1715961130237	conquer																											1
 1527815508	فتوا	fítwáa, fatwáa	fatwa, decree, ruling, judgment, sentence (in Islam)	4	n. f.																													1
 1578683859160	فتویٰ	fatwáa	fatwa, decree, ruling, judgment, sentence (in Islam)	4	n. f.																													
 1527822990	فواره	fawaará	fountain, jet, spout	4	n. f.																													1
@@ -7722,7 +7723,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818949	بړچ	bRuch	wrath, anger; sneeze, sneezing	4	n. m.																													
 1623044357441	ببوتنکی	bubootúnkay	tuft, clump, shock of hair	2	n. m.																													
 1527820806	بدایي	bUdaayee	Buddhist	4	n. m.																													
-1527814353	بدکار	budkáar	adulterer, fornicator, sinner	4	n. m.																													1
+1527814353	بدکار	budkáar	adulterer, fornicator, sinner	4	n. m. anim. unisex / adj.																													1
 1527820654	بګاښ	bugáax	mediation, arbitration	3	n. m.																													
 1591034228982	بغض	bUghz	grudge, spite, hatred, wickedness	4	n. m.																													1
 1527814106	بحران	bUhraan	crisis	4	n. m.																													
@@ -11895,11 +11896,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815065	څټک	tsaTak, tsTuk	hammer	4	n. m.																													
 1527819043	څڅ	tsats	thistle, thorny bush	1	n. m.																													
 1527814040	څڅوبی	tsatsobay	dripping, leaking; spring source	4	n. m.																													
-1567239360445	څښتن	tsaxtán, tsixtán	landlord, owner, lord, Lord (God)	3	n. m.																													
+1567239360445	څښتن	tsaxtán, tsixtán	owner, landlord, lord, Lord (God)	3	n. m. anim. unisex																													
 1578000261184	څیر	tseer	manner, kind, like	2	n. m.																													
 1527817816	څیز	tseez	thing, object	4	n. m.																													1
 1527811223	څېر	tser	style, manner	3	n. m.																													
-1527821898	څېښتن	tsextún	landlord, owner, lord, Lord (God)	3	n. m.																													
+1527821898	څېښتن	tsextún	owner, landlord, lord, Lord (God)	3	n. m. anim. unisex																													
 1527818330	څراغ	tsiráagh, tsaráagh	light, lamp, lantern, bulb	4	n. m.																													
 1594813705375	څراخ	tsiráakh, tsaráakh	light, lamp, lantern, bulb (څراغ)	4	n. m.	1527818330																												
 1527819211	څوکیدار	tsokeedaar, tsaukeedaar	watchman, doorman, chokidar	4	n. m. anim. unisex																													1
@@ -15422,7 +15423,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822554	چوخېدل	chokhedúl	to be inclined, bent to	4																														
 1527820746	چوټول	choTawul	to drag, drag along; to steal	1																														
 1527820747	چوټېدل	choTedul	to be dragged, dragged along; to be stolen; to cope with something; to attain victory	1																														
-1527812534	ده	da	is, feminine 3rd pers sing. pres. equative verb	4																														
+1527812534	ده	da	is, feminine third pers. singular present equative	4																														
 1678366990206	دار العهد	daar alahd	dar al-'ahd, in Islam, lands that have a treaty of non-aggression with Muslims																														true	
 1678366984891	دار الحرب	daar alharb	dar al-harb, in Islam, non-Islamic lands																														true	
 1678366986748	دار الاسلام	daar alislaam	dar al-Islam, in Islam, where Islamic law prevails																														true	
@@ -15441,9 +15442,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816716	درمن کېدل	darmun kedul	to be threshed (as with wheat etc.)	4																														
 1630927926507	دروېغ	darwégh	lie, deception, falsehood (دروغ)	4																														
 1527812551	دې	de	may (there be, someone do…, should)	4																														
-1527812554	دي	dee	are, third pers. plural pres. equative	4																														
+1527812554	دي	dee	are, third pers. plural present equative	4																														
 1527812562	دی	day	is, masculine 3rd pers sing. pres. equative verb	4																														1
-1527813131	دی	day	is, 3rd person equative present	4																														1
+1527813131	دی	day	is, third person present equative	4																														1
 1527817412	دل جویي کول	dil joyee kawul	to console, comfort, charm, captivate	3																														
 1527817804	دوکه کېدل	doka kedul	to be deceived, misled, mistaken, tricked, to fall for something	4		1527812565																												
 1573684562090	دونه	dóna	this much, that much (دومره)	3																														
@@ -15772,12 +15773,13 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816039	څه هم	tsu hum, tsu ham	somewhat, to some extent	4																														
 1527815378	څه رنګه	tsu ranga	how	3																														
 1527815377	څه رقم	tsu raqam	what kind	3																														
-1527818592	څله	tsúla	why, what for, for what purpose	4																														
+1527818592	څله	tsúla	why, what for, for what purpose	4																														1
+1716083512518	څه له	tsú la	why, what for, for what purpose	4																														1
 1592560331152	څلی څولی	tsúlay tsóolay	ascent and descent; provisions (for the road)	2																														
 1527821321	تر چمبه لاندې کول	tur chamba laande kawul	to overcome, overpower	3																														
 1527815386	توي کول	twee kawul	to shed (blood)	4																														
 1527815387	توي کېدل	twee kedul	to be shed (blood)	4																														
-1527815392	وه	wa	(she) was, thirds person singular feminine past equative	4																														
+1527815392	وه	wa	(she) was, third pers. singular feminine past equative	4																														
 1674758199799	وانه	waanú	the perfective head verb marker وا plus the negative نه																															
 1527816733	وفرت کول	wafrat kawul	to abound in, to have plenty of	2																														
 1586683422384	وربدل کول	wărbadal kawul	to change	3																														
@@ -15786,14 +15788,21 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812295	ورسره	wărsará	with him, with them	4																														1
 1527820851	ورټولېدل	wărToledúl	to be gathered, collected, focused	3																														
 1527811471	ورڅخه	wărtsukha	from it	4																														
-1527815407	وې	we	(you sing.) were second pers past equative; can also be a combination of و and یې	4																														
-1690458906396	وئ	wey	(you plur.) were, second person plural simple past equative	4																														
-1527815413	و	wo	(he) was, third person singular male simple past equative	4																														1
-1527815414	وو	woo	were (they); third person plural / first person plural past equative	4																														
+1527815407	وې	we	(you) were, second pers. singular past or subjunctive equative, (they fem.) were, third pers. plural feminine past or subjunctive equative	4																														
+1716082407512	ولې	wúle	(you) were, second pers. singular past equative, (they fem.) were, third pers. plural feminine past equative																															
+1716082691796	وله	wúla	(she) was, third pers. singular feminine past equative																															
+1716082097064	وې	we	combination / abbreviation of و perfective head and یې enclitic pronoun																															
+1690458906396	وئ	wey	(you plur.) were, second pers. plural past or subjunctive equative	4																														
+1716082444752	ولئ	wúley	(you plur.) were, second pers. plural past equative																															
+1527815413	و	wo	(he) was, third pers. singular male past equative	4																														1
+1527815414	وو	woo	(we/they) were; third person plural / first person plural past equative	4																														
+1716082467381	ول	wul	(they) were; third person plural male past equative																															
+1716082496569	ولو	wúloo	(we) were; first person plural past equative																															
 1591873420147	ورانکاره ډله	wraankaara Dula	gang	3																														
 1619278879881	ورځ تر بلې	wradz tur bule	day by day, every day, each day (more and more, etc.)	4																														
 1591900171530	وړم کال	wRum kaal	last year	4																														
-1527815425	وم	wum	was (I), first pers. past equative	4																														
+1527815425	وم	wum	(I) was, first pers. singular past or subjunctive equative	4																														
+1716082545403	ولم	wúlum	(I) was, first pers. singular past equative																															
 1527817263	ویې	wye, we	shortening/combining of و and یې (oo and ye) used before verbs. occurs when the 3rd person mini-pronoun یې is used right after the و prefix in the subjunctive or simple past forms	4																														
 1574870782991	یه	ya	no, not	3																														
 1589906385472	یاهو	yaahoo	an interjection, oh God!, Jehovah	4																														
@@ -15805,7 +15814,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818015	یوو	yoo	(we) are (3rd person plural equative verb)	4																														
 1586637167837	یورو	yooro	Euro (money)	4																														
 1675282380218	یوشمېر	yoshmer	a number of, a few																															
-1527817254	یم	yum	(I) am, 1st person singular present equative verb	4																														
+1527817254	یم	yum	(I) am, first person singular present or habitual equative verb	4																														
 1527814186	زارول	zaarawul	to bid, offer a price; to sacrifice or make an offerning to a god; to sell at a loss, to surrender something for the sake of something more valuable (see ځارول)	3																														
 1527823712	زاړه واړه	zaaRu waaRu	both young and old (plural)	3																														
 1589885478670	زېبرا	zebráa	zebra	4																														
@@ -16654,7 +16663,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708824135977	بې شمېره	be shméra	countless																															1
 1708824186863	د کلي لمنې	du kúlee lamúne	countryside		n. f. pl.																													1
 1708824227413	خوشکه	khóoshka	barren, dry, arid; irritable																															1
-1708824249417	خشکه	khÚshka	barren, dry, arid																															
+1708824249417	خشکه	khÚshka	barren, dry, arid; wilderness		adj. / n. f.																													
 1708824328627	شاړه	sháaRa	barren, dry, arid																															1
 1708824447592	خبرې اترې	khabure atúre	conversation (serious), disucssion		n. f. pl.																													
 1708824511453	اخلی پخلی	akhláy pakhláy	cooking		n. m.																													1
@@ -18356,3 +18365,17 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1716064003875	وۀ	wu	was, masc third pers sing past equative (dialect)																														TRUE	1
 1716064333888	حرکت ورکول	harakát warkawúl	to move (causitive), cause to move		v. dyn. comp. trans.	1527812667	make	move																										
 1716064591393	کونډ	kwunD, koonD	widower		n. m. anim. unisex																													1
+1716081805938	یو	yoo	(we) are, first pers. plural present or habitual equative																															
+1716081913341	یې	ye	(you) are, first pers. singular present of habitual equative																															
+1716082019869	وي	wee	is, are, third persone habitual or subjunctive equative																															
+1716082922096	کوړه	kwáRa	heap		n. f.																													1
+1716082940543	کوړه	koRá	whip, lash, scourge		n. f.																													
+1716082972853	دوره	doorá	whip, lash, scourge		n. f.																													
+1716083352121	دوره وهل	doorá wahúl	to whip		v. dyn. comp. trans.	1716082972853	whip,whips,whipping,whipped																											1
+1716083104457	دوره	dorá	period, era		n. f.																													1
+1716083412454	پس پس کول	pus pús kawúl	to whisper		v. dyn. comp. trans.	1527812982	whisper																											1
+1716083645047	باتۍ	baatúy	wick		n. f.																													
+1716083688642	بد کار	bud káar	adulterer, fornicator, sinner		n. m. anim. unisex																													1
+1716083691028	بد کاري	bud kaarée	adultery, fornication, sinning		n. f.																													1
+1716083984269	د تار جال	du taar jáal	wire netting		n. m.																													1
+1716084129774	خیالي دنیا	khayaalée dUnyáa, khyaalée dÚnyaa	fantasy, imaginary world		n. f.																													1
