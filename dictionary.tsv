@@ -1208,7 +1208,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1576374772751	لوڅ لپړ	loots lapúR	completely naked	4	adj.																													
 1527811551	لوی	looy	great, big, large, huge	3	adj.																													1
 1585823820568	لوی لاسی	looy laasay	generous	4	adj.																													
-1527814781	لوړ	lwuR, lwaR	high, tall	4	adj.																													1
+1527814781	لوړ	lwuR, lwaR, loR	high, tall	4	adj.																													1
 1627222388855	لوړپوړی	loRpóRay	high-level		adj.																													
 1582391167074	لعابي	lU'aabee	salival	3	adj.																													
 1527813654	لږ	luG	little	4	adj.																													1
@@ -1272,7 +1272,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713851834747	محفوظ کول	mahfooz kawúl	to secure, safeguard, make safe		v. stat. comp. trans.	1527816607	secure																											1
 1713852323921	محفوظ کېدل	mahfooz kedúl	to be secured, safeguarded, made safe		v. stat. comp. intrans.	1527816607	be	secured																										
 1527815052	محکم	mahkam	strong, durable, firm, reinforced	4	adj.																													
-1527811264	محکوم	mahkoom	condemned, sentenced, criminal; subjugated	4	adj.																													
+1527811264	محکوم	mahkoom	condemned, sentenced, criminal; subjugated	4	n. m. anim. unisex / adj.																													
 1591805178821	محلول	mahlóol	dissolved	2	adj.																													
 1527815901	محنت کش	mahnat kash, mihnat kash	hard-working, tough, industrious	4	adj.																													
 1598138974785	محنتي	mahnatée, mihnatée	hard-working, tough, industrious	4	adj.																													1
@@ -1594,7 +1594,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1703676789674	متوجه کېدل	mUtawajih kedúl	to become attentive, attracted	4	v. stat. comp. intrans.	1527816585	be	attracted																										
 1527822594	متوقف	mUtawaqíf	stopped, halted, standing still	3	adj.																													
 1527823108	متوقع	mUtawaqqÚ	expected	4	adj.																													
-1527816731	متوسط	mUtawassit	middle, medium, average	4	adj.																													
+1527816731	متوسط	mUtawassít	middle, medium, average	4	adj.																													
 1527816983	متوطن	mUtawattin	settled, repatriated, taken up residence, naturalized	2	adj.																													
 1572991904484	متضاد	mUtazáad	contradictory, antithetical, polar	4	adj.																													
 1527814434	متزلزل	mUtazalzil	shaking, shaken, trembling	3	adj.																													
@@ -13933,6 +13933,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588760879818	احساسېدل	ahsaasedúl	to feel, be sensed	4	v. stat. comp. intrans.	1527813782	feel,feels,feeling,felt,felt																											
 1527817671	ډکېدل	Dukedul	to be filled up, get full (inanimate objects)	4	v. stat. comp. intrans.	1527812583	fill	up																										
 1577905544406	ځایېدل	dzaayedul	to fit, to fit into a space, to be accomodated	3	v. stat. comp. intrans.	1527812594	fit,fit,fitting,fit																											
+1718311465186	ځایول	dzaayawúl	to place, put, accommodate, make room for, to make fit	3	v. stat. comp. trans.	1527812594	fit,fit,fitting,fit																											
 1527815734	راټولېدل	raaToledul	to be brought together, gathered, collected, assembled	4	v. stat. comp. intrans.	1527820101	gather																											
 1527817576	زرغونېدل	zarghoonedúl	to sprout, germinate, grow, flourish, develop	3	v. stat. comp. intrans.	1527817116	germinate																											1
 1577057620783	عادت کېدل	aadat kedul	to get used to, to get accustomed to; to get addicted to	3	v. stat. comp. intrans.	1527811203	get	used to																										
@@ -18412,3 +18413,5 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1716311155502	بې خیالي	be khyaalée	carelessness, lack of concern or awareness		n. f.																													
 1716311263424	اېکس رې	eks re	x-ray		n. f.																													
 1716517588887	ټاټوبه	TaaTóba	abode, dwelling place, home-town		n. f.																													
+1718245345511	ناراحتي	naaraahatée	discomfort, displeasure, disturbance		n. f.																													
+1718310225579	ځولۍ	dzolúy	cloth		n. f.																													
