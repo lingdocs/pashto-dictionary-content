@@ -13893,6 +13893,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579644515886	تویېدل	tooyedúl	to be shed, poured, spilled, scattered, knocked down (fruit)	4	v. stat. comp. intrans.	1579644457295	be	shed																										1
 1527814905	تشېدل	tushedul	to be emptied	4	v. stat. comp. intrans.	1527814904	be	emptied																										
 1579721195157	واردېدل	waaridedúl	to be imported	4	v. stat. comp. intrans.	1527819574	be	imported																										
+1718389283860	واردول	waaridawúl	to import	4	v. stat. comp. trans.	1527819574	import																											
 1527820996	وهمېدل	wahmedúl	to be worried, apprehensive, concerned	4	v. stat. comp. intrans.	1527819571	be	worried																										
 1527812005	وقفېدل	waqfedul	to be devoted, dedicated, given, donated, bequeathed	4	v. stat. comp. intrans.	1527812008	be	devoted																										
 1527821802	ښکېل کېدل	xkel kedul	to be involved in, implicated in; to be hobbled; fraud cheating	4	v. stat. comp. intrans.	1527821801	be	involved in																										
@@ -14080,6 +14081,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588160290532	هېښېدل	hexedul	to be stunned, shocked, perplexed, amazed	4	v. stat. comp. intrans.	1527823162																												
 1527816849	حسابېدل	hisaabedul	to be calculated, settled, accounted for, considered, reckoned	4	v. stat. comp. intrans.	1527812686																												
 1527823181	حصارېدل	hisaaredul	to be fenced in, inclosed, surrounded by a barrier	3	v. stat. comp. intrans.	1527823180																												
+1718389204573	حصارول	hisaarawúl	to fence in, inclose, surround by a barrier	3	v. stat. comp. trans.	1527823180																												
 1585821305401	اعدامېدل	i'daamedul	to be sentenced/condemned to death	4	v. stat. comp. intrans.	1527812380																												
 1577231491953	اعلامېدل	i'laamedúl	to be announced, declared, communicated	3	v. stat. comp. intrans.	1527819106																												
 1527819096	ابلاغېدل	iblaaghedul	to be reported, notified, informed communicated	4	v. stat. comp. intrans.	1527816214																												
@@ -14413,7 +14415,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1675274657428	خوشحالول	khosh`haalawúl	to please, to make happy	4	v. stat. comp. trans.	1527812791	please																											1
 1709838714299	خوشالول	khoshaalawúl	to please, to make happy	4	v. stat. comp. trans.	1527812792	please																											
 1581189437955	پېش کول	pesh kawúl	to bring forward, present, deliver	4	v. stat. comp. trans.	1581189430959	present																											
-1713866260496	چاپ کول	chaap kawúl	to print, publish, impress, mark	4	v. stat. comp. trans.	1527815073	publish																											1
+1713866260496	چاپ کول	chaap kawúl	to print, publish, impress, mark, scratch	4	v. stat. comp. trans.	1527815073	publish																											1
+1718377727926	چاپول	chaapawúl	to print, publish, impress, mark, scratch	4	v. stat. comp. trans.	1527815073	publish																											
 1579724723019	ویدول	weedawul	to put to sleep	4	v. stat. comp. trans.	1527815408	put,puts,putting,put	to sleep																										
 1588074072453	قرنطینول	qaranteenawul	to quarentine	4	v. stat. comp. trans.	1584886169431	quarenteen																											
 1527814350	لویول	looyawúl	to raise, bring up (children), to make big	2	v. stat. comp. trans.	1527811551	raise																											1
@@ -18415,3 +18418,13 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1716517588887	ټاټوبه	TaaTóba	abode, dwelling place, home-town		n. f.																													
 1718245345511	ناراحتي	naaraahatée	discomfort, displeasure, disturbance		n. f.																													
 1718310225579	ځولۍ	dzolúy	cloth		n. f.																													
+1573681135691	اربکی	arbakáy	tribal constable, tribal offical with police powers		n. m. anim. unisex																													
+1527816483	فداکار	fidaakáar	sacrificial, selfless		adj.																													
+1672917541611	حباب	hUbáab	bubble		n. m.																													
+1675145516872	کابل	kaabúl	Kabul		n. m.																													
+1527816891	کروندګر	karwandgár	farmer		n. m. anim. unisex																													
+1527813626	تڼ	taN	verse, poetry, song		n. m.																													
+1718389160625	ړی	Ray	suffix for diminutive nouns		suff.																													
+1718389355720	روڼېدل	rawNedúl, rauNedúl	to get right, to work out well																															
+1718389390985	پارکېنسن	paarkensán	Parkinson's disease		n. m.																													
+1718389439491	سپورېدل	sporedúl	to go stale, become stale		v. stat. comp. intrans.	1610447888169																												
