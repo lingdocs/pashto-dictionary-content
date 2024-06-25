@@ -9055,7 +9055,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577067295826	کاګل	kaagíl	plaster (for walls made from straw and clay)	4	n. m.																													
 1527823679	کاهښت	kaahúxt	itch; pruritus; angrily gnashing/grinding one’s teeth; swearing	3	n. m.																													
 1623405986902	کاجو	kaajóo	cashew	4	n. m.																													
-1527816446	کاکا	kaakáa	paternal uncle, term of address for elderly man	4	n. m. anim. unisex																													1
+1527816446	کاکا	kaakáa	paternal uncle, term of address for elderly man	4	n. m. anim.																													1
 1527820353	کاکل	kaakÚl	lock (of hair), curl, ringlet; (small) crest (birds)	4	n. m.																													
 1527812727	کال	kaal	year	3	n. m.																													1
 1527823368	کالبوت	kaalbóot	carcass, corpse, frame, structure, body, shell	3	n. m.																													
@@ -9534,7 +9534,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1675281658443	لاهور	laahór	Lahore		n. m.																													
 1527822903	لاجورد	laajwárd	lazulite, lapis lazuli	3	n. m.																													
 1586634724937	لاله سر	laala săr	red-crested pochard (duck)	2	n. m.																													
-1527816512	لالا	laalaa	elder brother, general form of familiar and respectful address	4	n. m.																													
+1527816512	لالا	laalaa	elder brother, general form of familiar and respectful address	4	n. m. anim.																													
 1527816511	لالاناوې	laalaanaawe	term of address for the wife of an older brother	3	n. m.																													
 1614169779114	لالج	laaláj	animosity, hostility; stubbornness, willfulness, obstinacy	4	n. m.																													
 1527814840	لالچ	laalúch, laalích	greed; antagonism	4	n. m.																													1
@@ -9723,7 +9723,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820677	مالکیت	maalikiyát	ownership	4	n. m.																													
 1527821845	مالش	maalísh	friction, rubbing, massage, filling	3	n. m.																													
 1527821846	مالښ	maalíx	friction, rubbing, massage, filling	3	n. m.																													
-1527812878	ماما	maamáa	uncle (maternal), respectful form of address	4	n. m. anim. unisex																													1
+1527812878	ماما	maamáa	uncle (maternal), respectful form of address	4	n. m. anim.																													1
 1527816403	ماماجي	maamaajee	diminutive form of uncle	4	n. m.																													
 1527816063	ماموریت	maamooriyat	position, job, post, service, mission, assignment	4	n. m.																													
 1527816405	مامک	maamuk	diminutive form of uncle	4	n. m.																													
@@ -18429,3 +18429,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1718389390985	پارکېنسن	paarkensán	Parkinson's disease		n. m.																													
 1718389439491	سپورېدل	sporedúl	to go stale, become stale		v. stat. comp. intrans.	1610447888169																												
 1718819805840	تصفیه خانه	tasfiya khaaná	refinery		n. f.																													
+1719260768649	څیزنوم	tseeznoom	noun		n. m.																													
+1719260834547	شمېرنوم	shmernoom	number		n. m.																													
+1719260936025	نومځری	noomdzúray	pronoun		n. m.																													
+1719261193725	نروچکی	naróochkay	thin, weak		adj.																													
+1719261220165	نروڅکی	naróotskay	thin, weak (نروچکی)		adj.																													
+1719262200064	سادو	saadoo	eulogist, advocate; sadhu		n. m. anim.																													
