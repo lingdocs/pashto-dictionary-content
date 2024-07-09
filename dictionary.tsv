@@ -376,7 +376,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811704	بنیادي	bUnyaadée	basic, foundational, essential	3	adj.																													1
 1527812518	برابر	baraabúr, buraabúr	equal, even, all good	4	adj.																													1
 1566473865582	بري	buree	acquitted, relieved of charges	4	adj.																													
-1527811511	بشپړ	bushpuR	full, complete, total, exhaustive, fulfilled, finished, utmost, superior, mature	4	adj.																													
+1527811511	بشپړ	bushpuR	complete, total, full, exhaustive, fulfilled, finished, utmost, superior, mature	4	adj.																													
 1527811768	بزرګ	buzúrg, bUzÚrg	large, big, elder, mighty	4	adj.																													1
 1527821562	چابک	chaabúk	quick, fast, rapid; whip	3	adj. / n. m.																													1
 1527811692	چاغ	chaagh	fat, obese, healthy, fleshly, overweight	3	adj.																													
@@ -2442,7 +2442,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822859	څپولی	tsapolay	dishevelled, messy, curly (with hair etc.)	2	adj.																													
 1527816134	څپڅپانه	tsaptsapaana	disordered, disturbed, unsettled, grieved, pained	3	adj.																													
 1568411327197	څړه	tsaRá	solitary, lonely, secluded; travelling without burden/luggage	2	adj.																													
-1527815370	څرګند	tsárgund	clear, obvious, apparent, disclosed	4	adj.																													1
+1527815370	څرګند	tsargúnd	clear, obvious, apparent, disclosed	4	adj.																													1
 1708355928197	څرګنده	tsargúnda	clear, obvious, apparent, disclosed	4	adj.																													1
 1527822718	څرخېدونکی	tsarkhedóonkay	turning, revolving, spinning	3	adj.																													
 1594128581723	څرمني	tsarmunee	leather	4	adj.																													
@@ -2922,7 +2922,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818799	توند خوی	toond khooy	grumbler, grouchy, grumpy	4	adj. / n. m. anim. unisex																													
 1527823756	تورت	toort	direct, frank or candid person	3	adj. / n. m. anim. unisex																													
 1527822340	تورتم	tortám	darkness, complete and utter darkness, completely black	4	adj. / n. m.																													
-1527813270	تروش	troosh	sour, bitter; sarcasm	4	adj. / n. m.																													1
+1527813270	تروش	troosh	sour, bitter; sarcastic	4	adj.				تراشه	traashú	ترش	trash																						1
 1527822858	څپول	tsapól	curly, wavy; winnow	2	adj. / n. m.																													
 1527814414	واحد	waahíd	one, single, sole (Arabic); unity	4	adj. / n. m.																													1
 1527820994	وهمي	wahmée	imaginary, mock, hypothetical, concoction; paranoid, worry-wart, hypochondriac	4	adj. / n. m.																													1
@@ -2970,7 +2970,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812124	وظیفه دار	wazeefa daar	fulfilling one's duty, responsible, authorized employee, employee	4	adj. / n. m. anim. unisex																													
 1584530715084	زندیق	zandéeq, zindíq	non-beliver (in Islam)	4	adj. / n. m. anim. unisex																													
 1664030864502	الوتونکی	alwutóonkay	flying, something that flies, bird	4	adj. / n. m. anim. unisex.																													
-1527815300	سپور	spor	mounted, rider, riding	4	adj. / n. m. unisex				سپاره	spaaru	سپر	spar																						
+1527815300	سپور	spor	mounted, rider, riding	4	adj.				سپاره	spaaru	سپر	spar																						
 1527812559	ډېر	Der	very, lots, many	3	adj. / quant. adv.																													1
 1527818938	زده	zada	beaten down, beaten, oppressed	4	adj. / suffix.																													
 1527819724	زیېړ	zyeR	yellow, scab, yellowy; bronze; bile, gall, petulance, spleen	3	adj. and n. m.																													
@@ -3201,7 +3201,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814711	لنډ پر لنډه	lanD par lanDa	soon, very soon, shortly	4	adv.																													
 1573149071525	لروبر	larobar	up and down, all over, encompassing the whole geographic range (of a country/land)	4	adv.																													
 1527812866	لږترلږه	luGturluGa	at least	4	adv.																													
-1527818669	ماشومانه	maashoomaana	childishly	3	adv.																													
+1527818669	ماشومانه	maashoomaana, maashoomaana	childishly, childish	3	adv. / adj.																													
 1527821752	ماسوا	maasiwáa	except for, excepting, with the exception of	3	adv.																													
 1527818054	مازې	máaze	merely, only, just (محض)	3	adv.																													
 1527815514	مخصوصاً	makhsoosan	especially, particularly	4	adv.																													
@@ -3876,7 +3876,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1573682378816	بیماري	beemaarée	sickness, illness	3	n. f.																													1
 1653363882851	بینډۍ	beenDúy	okra, ladyfinger (dialect vers. of بنډۍ)	4	n. f.																													
 1527820867	بیروکراسي	beerookraasee	bureaucracy	4	n. f.																													
-1566468038374	بیزو	beezó	monkey, ape	4	n. f.																													
+1566468038374	بیزو	beezó	monkey, ape	4	n. f. anim.																													
 1527818598	بېکاري	bekaaree	unemployment, idleness	3	n. f.																													
 1527822564	بېخ کني	bekh kanée	ruin, destruction, extermination	4	n. f.																													
 1527819857	بېخوابي	bekhwaabee	insomnia, sleeplessness	3	n. f.																													
@@ -3899,7 +3899,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820739	بېوزلي	bewazlee	poor, needy, destitute, helpless, poverty, need, helplessness	4	n. f.																													
 1571607895925	بیت الخلا	bayt Ulkhalaa	bathroom, toilet (Arabic)	3	n. f.																													
 1622873088561	بېزه	beza	she-goat (dialectical variant of وزه)	4	n. f.																													
-1566468054028	بېزو	bezó	monkey, ape	4	n. f.																													
+1566468054028	بېزو	bezó	monkey, ape	4	n. f. anim.																													
 1527818629	بغرګه	bghárga	valley between two mountains; woman who has had twinns	4	n. f.																													
 1527812205	بهبودي	bihboodee	health, well-being, prosperity; large knife, dagger	4	n. f.																													
 1527811239	بهتري	bihtaree	improvement, getting better, prosperity	4	n. f.																													
@@ -7968,7 +7968,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1617441986561	دروازه وان	darwaaza waan	doorman, door-keeper, goalie, goal-keeper	4	n. m.																													
 1527817243	دریاب	daryáab	sea, river, lake	3	n. m.																													1
 1527817304	درز	darz	crack, split, fissure; sound of something falling, boom, crash; penetration, breakthrough (military); seam, hem	4	n. m.																													1
-1527822536	درزي	darzée	tailor; cracked	3	n. m. anim. unisex / adj.																													1
+1527822536	درزي	darzée	tailor; cracked	3	n. m. anim. / adj.																													1
 1527819067	دسمال	dasmáal	handkerchief, necktie ??, scarf or little shawl that guys carry around	4	n. m.																													
 1586362472138	دسمال	dasmáal	handkerchief, kerchief, necktie	3	n. m.																													
 1527821002	دست	dast	usually used in combinations with the meaning hand/arm; elbow (a measure of length)	3	n. m.																													1
@@ -9730,7 +9730,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821597	ماڼو	maaNóo	sailor, myrtle	4	n. m.																													
 1527821598	ماڼوتوب	maaNootob	sailing	3	n. m.																													
 1527812179	ماپښین	maapxeen	afternoon	3	n. m.																													
-1527815711	مار	maar	snake	4	n. m.																													
+1527815711	مار	maar	snake	4	n. m. anim.																													
 1527819917	مارباغ	maarbáagh	mosquito trap plant, venus fly trap??	3	n. m.																													
 1594813275177	مارچ	maarch	March (month)	4	n. m.																													
 1527815949	معارف	maaríf, ma'aaríf	education, public instruction, enlightenment	4	n. m.																													
@@ -10398,7 +10398,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815151	پارک	paark	park	4	n. m.																													
 1593176064920	پاړکی	páaRkay	segment, slice, class (of a society etc.)	2	n. m.																													
 1527818295	پارلمان	paarlamáan	parliament	4	n. m.																													
-1527821599	پارو	paaróo	row, oar, paddle; manure fertilizer	3	n. m.																													
+1527821599	پارو	paaróo	oar, paddle, row; manure fertilizer	3	n. m.																													
 1577068600622	پاړسوب	paaRsóob	swelling	4	n. m.																													1
 1527814707	پارویی	paarwayay	interjection	2	n. m.																													
 1527820423	پاسپورټ	paasporT	passport	4	n. m.																													
@@ -11994,7 +11994,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821172	عضویت	Uzwiyát	organism, membership	3	n. m.																													
 1527814262	وعظ	wa'az	sermon, preaching	4	n. m.																													
 1574034107048	واعظ	waa'iz	preacher, one who gives a sermon (وعظ)	4	n. m.																													
-1527815394	واده	waadú	wedding, marriage	4	n. m.											ودونه	wadóona																	1
+1527815394	واده	waadú	wedding, marriage	4	n. m.																													1
 1527816645	واګ	waag	lamb, innocent or naive person	4	n. m.																													
 1527822420	واګه	waagu	rein, bridle (for horses); string for trousers, string used inside to hold up the partoog/shalwar	4	n. m.																													
 1527816036	واک	waak	authority, power	3	n. m.																													
@@ -12533,7 +12533,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1674926447812	بریدګر	breedgár	attacker, assailant		n. m. anim. unisex																													
 1527811621	چاره ساز	chaara saaz	assistant, healer	4	n. m. anim. unisex																													
 1527815465	چارواکی	chaarwáakay	official authority, official, authority	3	n. m. anim. unisex																													
-1610793723568	چېلی	cheláy	ram, goat	4	n. m. anim. unisex																													
+1610793723568	چېلی	cheláy	ram, goat	4	n. m. anim.																													
 1527816747	ډاکټر	DaakTár	doctor	4	n. m. anim. unisex																													1
 1673936015889	ډلمشر	Dalmáshar, Dalmáshur	faction-leader, chief, trustee, supervisor		n. m. anim. unisex																													
 1622873938137	درغلګر	darghalgar	crook, swindler, criminal	4	n. m. anim. unisex																													
@@ -12646,7 +12646,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1649787558398	نل جوړوونکی	nal joRawóonkay	plumber, one who works with pipes/water systems	4	n. m. anim. unisex																													
 1649787647580	نلدوان	naldawáan	plumber (from Farsi)	4	n. m. anim. unisex																													
 1625931094320	نندارچي	nandaarchee	spectator, onlooker	4	n. m. anim. unisex																													
-1527815127	نرس	nars, nursa	nurse	4	n. m. anim. unisex																													
+1527815127	نرس	nurs, nars	nurse	4	n. m. anim. unisex																													
 1573055507860	نوښتګر	nawaxtgár	initiator, inovator	2	n. m. anim. unisex																													
 1527811730	نیوکه کوونکی	neewaka kawóonkay	critic	3	n. m. anim. unisex																													
 1527817245	نیوونکی	neewóonkay	catcher	3	n. m. anim. unisex																													
@@ -12667,7 +12667,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817829	پوروړی	porwáRay, porawúRay	debtor, in debt	4	n. m. anim. unisex																													
 1527819228	پلټونکی	pulaTóonkay	inspector, detective, person checking people at the doors etc.	4	n. m. anim. unisex																													
 1527814686	قاچاق وړونکی	qaachaaq waRóonkay	smuggler, trafficker	4	n. m. anim. unisex																													
-1527815206	قاضي	qaazee	judge, religious authority/judge	3	n. m. anim. unisex																													
+1527815206	قاضي	qaazee	judge, religious authority/judge	3	n. m. anim.																													
 1678174275611	قلموال	qalamwáal	writer, author		n. m. anim. unisex																													
 1527820391	قومندان	qoomandáan	commander	4	n. m. anim. unisex																													
 1614081825855	راهب	raahib	priest, monk/nun	2	n. m. anim. unisex																													
@@ -12774,7 +12774,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815436	ظالم	zaalím	tyrant, oppressor, cruel person	4	n. m. anim. unisex / adj.																													1
 1627968722460	زیار ایستونکی	zyaar eestóonkay	hard worker, industrious; proletariot	4	n. m. anim. unisex / adj.																													
 1527812795	خپلوان	khpulwaan	relative	4	n. m. anim. unisex / adj. ??																													
-1527820043	چرګ	churg	rooster, cock; chicken, poultry	4	n. m. anim. unisex / anim.																													1
+1527820043	چرګ	charg	rooster, cock; chicken, poultry	4	n. m. anim. unisex																													1
 1664030649267	ژوند ساتونکی	jzwund saatóonkay	lifeguard	4	n. m. anim. unisex.																													
 1648754436827	مهندس	mUhandís	engineer, architect	2	n. m. anim. unisex.																													
 1527822279	طبیب	tabéeb	doctor, physician	4	n. m. anim. unisex.																													1
