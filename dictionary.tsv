@@ -2598,7 +2598,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819906	ښویندار	xwayundáar, xwayundáar	slippery	4	adj.																													
 1527819904	ښوی	xwáy	smooth, slippery; fake, counterfeit, hypocritical, fraudulent; sneakily, stealthily	1	adj. / adv.																													
 1527815498	یاد	yaad	aforementioned	3	adj.																													
-1527819950	یهودي	yahoodée	Jewish	4	adj.																													1
+1527819950	یهودي	yahoodée	Jewish; Jew	4	adj. / n. m. anim.																													1
 1527818331	یکړ	yakaR	single, only	2	adj.																													
 1527823757	یکي	yakee	only, just	4	adj.																													
 1527818332	یکي یو	yakee yo	sole, only, single	4	adj.				یکي یوه	yakee yawu	یکي یو	yakee yaw																						
@@ -7107,7 +7107,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527823642	زېږنده	zeGunda	product; fertile	3	n. f. / adj.																													
 1527818325	اېله	elá	fee; useless person, idle, vagrant; barely, just, scarcely, only, merely	4	n. f. / adj. / adv.																													
 1595233763403	رسا	rasáa, rusáa	attaining, achieving; precise, exact; height?	4	n. f. / adj. / adv.																													
-1591261999945	بوډۍ	booDúy	old person (female), senior, elderly, old	4	n. f. / adj. f.																													
+1591261999945	بوډۍ	booDúy	old woman, senior, elderly, old	4	n. f. anim. / adj. f.																													
 1527818329	منتها	mUntaháa	extremity, end, maximum, utmost; only, the thing is, at least	2	n. f. / adv.																													
 1527815242	سبا	sabáa	tomorrow, morning	4	n. f. / adv.																													1
 1527812904	مهرباني	mihrabaanée	favor, kindness, greatness; thanks	4	n. f. / interj.																													1
@@ -12297,7 +12297,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713118388384	چنغله	changhalá	engaged womand, bethrothed, fiancee (feminine form of چنغول)	3	n. f. anim.																													1
 1527812908	مېلمه	melmá	guest	4	n. m. anim. unisex				مېلمانه	melmaanu	مېلمن	melman																						1
 1527816386	خیټو	khayToo	fatso, glutton, fat person	4	n. m. anim. unisex / adj.		fat person	fat people																										
-1527815062	بوډا	booDáa	old person, senior, elderly, old	3	n. m. anim. unisex / adj.		old person	old people																										1
+1527815062	بوډا	booDáa	old ړشم, senior, elderly, old	3	n. m. anim. / adj.		old person	old people																										1
 1527814570	آرام	aaraam	peacefulness, calm, controlled, comfort, at ease	4	n. m. / adj.																													
 1527814349	عاشق	aashíq	lover, in love	4	n. m. anim. unisex / adj.																													
 1702632069002	عاشق کېدل	aashiq kedúl	to fall in love, to become lovers	3	v. stat. comp. intrans.	1527814349	fall,falls,falling,fell	in love																										1
@@ -18439,3 +18439,6 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1719926063193	چون کې	choon ke	becuase, therefore, insomuch																															
 1720824970486	قباحت	qabaahát	bad thing, ugliness, fault, obscenity, oversight, meanness		n. m.																													
 1720908456657	دوه لاسی	dwa láasay	two-handed, double handed		adj.																													
+1721344622304	یهودڼه	yahoodúNa	female Jew		n. f. anim.																													
+1721345460811	مشکڼه	mushkúNa	pearl, bead		n. f.																													
+1721345618712	بیاڼ	biyaaN	foal, baby horse		n. m. anim. unisex																													
