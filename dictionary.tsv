@@ -33,7 +33,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817075	آزرده	aazUrda	offended, affronted, hurt	1	adj.																													
 1527817447	آزرده خاطر	aazUrda khaatír	upset, offended, hurt	1	adj.																													
 1527822662	ابایي	abaayee	paternal, ancestral, that which is taken on or inherited from the family	4	adj.																													
-1527817793	ابدي	abadee	eternal	4	adj.																													
+1527817793	ابدي	abadee	eternal, to all eternity	4	adj.																													
 1527818429	عبث	abás	empty, worthless, vain, idle, useless, nonsense, squandered	4	adj.																													
 1585398951862	ابلک	ablák	two-colored, piebald; (fig. two-faced, hypocritical)	4	adj.																													
 1585398948903	ابلق	abláq	two-colored, piebald; (fig. two-faced, hypocritical)	3	adj.																													
@@ -7487,7 +7487,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1675148867739	اولاد	awláad	child, offspring (Arabic plural of ولد but used in the singular)		n. m.																													1
 1527815937	اوراق	awraaq	archive, office	4	n. m.																													
 1527818899	اوسان	awsáan	feeling, presence of mind, self-control, bravery	3	n. m.																													
-1617442358264	اوښتون	awuxtóon	revolution, process, reformation	3	n. m.																													
+1617442358264	اوښتون	awuxtóon	revolution, process, reformation; inflection (grammar)	3	n. m.																													
 1527814110	اولیت	awwaliyat	priority, precedence	4	n. m.																													
 1527816488	اوښی	áwxay	brother in law, wife's brother	4	n. m.																													1
 1610539642829	اوزار	awzáar	tool, device	4	n. m.																													1
@@ -12267,7 +12267,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713347191771	زور کول	zor kawul	to force		v. dyn. comp. trans.	1527813672	force																											1
 1712744269596	زور لګول	zor lugawul	to exert, apply effort/force, use strength	4	v. dyn. comp. trans.	1527813672	exert																											1
 1582146394807	زوز	zoz	camelthorn	3	n. m.											زوزان	zozaan																	
-1527813508	زړه	zRu	heart	4	n. m.								TRUE			زړونه	zRoona																	1
+1527813508	زړه	zRu	heart	4	n. m.																													1
 1709420923408	زړه ماتول	zRú maatawul	to discourage		v. dyn. comp. trans.	1527813508	discourage																											1
 1527813137	زړه ډغی	zRu Dughay	dissatisfied, indifferent, apathetic	2	n. m.																													
 1527814142	زړه خوږی	zRu khooGay	heartache	3	n. m.																													
@@ -15187,7 +15187,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579645004578	هټول	haTawúl	to make laugh, guffaw	2	v. trans.																													
 1527811741	هڅول	hatsawul	to encourage, urge, incite, to make someone try, spur on	4	v. trans.																													
 1577572940513	جنګول	jangawul	to make fight, to turn people/animals against each other, to cause to go to war, to cause to collide or bump into	4	v. trans.																													
-1527815041	ژړول	jzaRawul	to make someone cry	4	v. trans.																													
+1527815041	ژړول	jzaRawul	to make someone cry	4	v. trans.		make	cry																										
 1527816768	ژباړول	jzbaaRawul	to translate	3	v. trans.																													
 1588759017756	ژباړل	jzbaaRúl	to translate	3	v. trans.																													
 1594131462786	ژدویل	jzdoyúl	to chew, masticate, think over, mull over (ژوول)	1	v. trans.	1527818852																												
@@ -18442,3 +18442,4 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1721344622304	یهودڼه	yahoodúNa	female Jew		n. f. anim.																													
 1721345460811	مشکڼه	mushkúNa	pearl, bead		n. f.																													
 1721345618712	بیاڼ	biyaaN	foal, baby horse		n. m. anim. unisex																													
+1722474565757	ازلي	azalée	from before time		adj.																													
