@@ -1773,7 +1773,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816015	نیک	nayk	kind, good (morally), righteous	4	adj.																													1
 1630708378124	نهادي	nihaadee	institutional	2	adj.																													
 1527818413	نهائي	nihaaee	extreme, maximum, fully, final	4	adj.																													
-1527818412	نهایي	nihaayee	extreme, maximum, fully, final	4	adj.																													
+1527818412	نهایي	nihaayee	final, finalized; extreme, maximum	4	adj.																													
 1527816781	نژادي	nijzaadee	racial	4	adj.																													
 1594215491631	نکلي	nikalee	nickal	4	adj.																													
 1527813316	نسایي	nisaayee	female, women's	4	adj.																													
@@ -4185,7 +4185,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1653693311170	د مرګ څلوېښتي	du marg tsalwextee	the 40th day after death, a memorial service after someone's death in Islam an Eastern Orthodoxy	4	n. f.																													
 1579042015006	د ندا اشاره	du nadáa ishaara	exlamation mark	3	n. f.																													
 1527812581	د سمندر غاړه	du samundar gháaRa	seaside, coast	4	n. f.																													1
-1527812582	دعا	dUaa	prayer	4	n. f.																													
+1527812582	دعا	dUáa	prayer	4	n. f.																													
 1527816116	ډګه	Duga	penis	4	n. f.																													
 1591712545187	ډکی	Dúkay	stalk, sprout, stem; shrub, small bush; toothpick; fluff, down	2	n. m.																													1
 1527819423	ډمه	Dúma	dancer?? ; woman hairdresser or hairstylist; table with mirrors and draws for dressing and makeup	4	n. f.																													
@@ -7223,7 +7223,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1582316802128	فوټ	fooT	foot (measurement)	4	n. m.		foot	feet																										1
 1610797797756	سای	saay	hollow, depression	2	n. m.		hollow																											
 1527822533	پیر	peer	holy person, spiritual mentor/guide (in Sufism); monday (Urdu)	4	n. m. anim. unisex		holy person	holy people																										1
-1527815251	سړی	saRáy	man	4	n. m.		man	men																										
+1527815251	سړی	saRáy	man	4	n. m. anim.		man	men																										
 1527811490	ذات	zaat	person; nature; breed; caste	3	n. m.		person	people																										1
 1527820199	عکس	aks	photo, photograph, snapshot; contrast, antithesis, opposition, contrary; reflection	3	n. m.		photo	photos																										1
 1527819345	پسه	psu	sheep, ram	4	n. m.		sheep	sheep								پسونه	pusoona																	1
@@ -12778,7 +12778,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1648754436827	مهندس	mUhandís	engineer, architect	2	n. m. anim. unisex.																													
 1527822279	طبیب	tabéeb	doctor, physician	4	n. m. anim. unisex.																													1
 1638873488382	واورین توپان	waawréen topáan	snow storm	4	n. m. doub.																													
-1527815333	تنور	tanoor	a "tandoor" oven built in the ground	4	n. m. irreg.				تناره	tanaaru	تنر	tanar																						
+1527815333	تنور	tanoor	a "tandoor" oven built in the ground	4	n. m.				تناره	tanaaru	تنر	tanar																						
 1527822248	اعداد	a'dáad	digits, numbers, figures, numerals	4	n. m. pl.																													
 1527820489	عاریتي وېښتان	aariyatee wextaan	wig	2	n. m. pl.																													
 1672910659598	آثار	aasáar	remains, works, relics, left-overs; Arabic plural of اثر		n. m. pl.																													
@@ -15028,8 +15028,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816564	چیچل	cheechúl	to bite, chew, grind (teeth), clench (teeth), sting	4	v. trans.		bite,bites,biting,bitten,bitten																											1
 1527815489	داړل	daaRul	to bite, tear, gnaw	4	v. trans.		bite,bites,biting,bitten,bitten																											
 1527820418	ځورول	dzawrawul	to bother, irritate, torture, distress, vex, grind on	4	v. trans.		bother																											
-1527815214	راوړل	raawRúl	to bring, deliver (inanimate objects)	4	v. trans.		bring,brings,bringing,brought,brought															راووړ	raawoR						TRUE		2	3		1
-1527819827	راوستل	raawustúl	to bring, deliver (animate objects), obtain, extract	3	v. trans.		bring,brings,bringing,brought,brought											راول	raawul										TRUE		2	3		1
+1527815214	راوړل	raawRúl	to bring, deliver (by physically carrying something, someone)	4	v. trans.		bring,brings,bringing,brought,brought															راووړ	raawoR						TRUE		2	3		1
+1527819827	راوستل	raawustúl	to bring, deliver (by transporting or leading something/someone) obtain, extract	3	v. trans.		bring,brings,bringing,brought,brought											راول	raawul										TRUE		2	3		1
 1527813831	سوځول	swadzawúl	to cause to burn, set on fire	3	v. trans.		burn,burns,burning,burnt,burned																											1
 1527814617	نیول	neewúl	to catch, grab, take, arrest; bear (fruit)	4	v. trans.		catch,catches,catching,caught,caught											نیس	nees															1
 1527815886	غندل	ghandul	to condemn, reproach, to criticize	4	v. trans.		condemn															غانده	ghaandu											
@@ -15090,9 +15090,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812544	درول	darawul	to stop (active, causative); to stand, set up, put in place; to bring in, introduce; to advance/field (an army/troops)	4	v. trans.		stop,stops,stopping,stopped,stopped																											
 1527817298	اخیستل	akheestúl	to take, buy, purchase, receive; to shave, cut with scissors	4	v. trans.		take,takes,taking,took,taken											اخل	akhl			اخیست	akheest											1
 1527812447	اخستل	akhistúl, akhustúl	to take, buy, purchase, receive; to shave, cut with scissors	4	v. trans.		take,takes,taking,took,taken											اخل	akhl			اخست	akhist											
-1527812507	بوتلل	botlul	to take, bring, send (animate objects)	4	v. trans.		take,takes,taking,took,taken											بیای	byaay	بوځ	bódz								true		2	2		
+1527812507	بوتلل	botlul	to take, bring, send (by transporting or leading - not by physically carrying)	4	v. trans.		take,takes,taking,took,taken											بیای	byaay	بوځ	bódz								true		2	2		
 1527816146	ایستل	eestul	to throw out, discard, chuck, toss; to extract, to take out	4	v. trans.		take,takes,taking,took,taken	out										باس	baas			یوست	yost											
-1527816865	وړل	wuRúl, oRúl, wRul	to take, carry, bear, move (inanimate objects); to win, earn (subjunctive یوسي - yósee or ویسي - wéesee, simple past یو یې وړلو - yo ye wRulo)	3	v. trans.		take,takes,taking,took,taken													یوس	yos	یوړ	yoR	یوړل	yóRul				TRUE		2	2	TRUE	1
+1527816865	وړل	wuRúl, oRúl, wRul	to take, carry, bear, move (by physically carrying); to win, earn (subjunctive یوسي - yósee or ویسي - wéesee, simple past یو یې وړلو - yo ye wRulo)	3	v. trans.		take,takes,taking,took,taken													یوس	yos	یوړ	yoR	یوړل	yóRul				TRUE		2	2	TRUE	1
 1527815531	شکول	shkawul	to tear, to break of, to dig up, to pull out	3	v. trans.		tear,tears,tearing,torn,torn																											
 1527811625	سنجول	sanjawul	to think over, deliberate, examine, think, develop	3	v. trans.		think,thinks,thinking,thought,thought	over																										
 1527822144	ګواښل	gwaaxúl	to threaten	4	v. trans.		threaten																											
