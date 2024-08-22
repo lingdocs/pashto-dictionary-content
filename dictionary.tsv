@@ -371,7 +371,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1576951682524	بدي دار	budee dáar	having emnity with someone, being in a feud	4	adj.																													
 1527811684	بږنوونکی	bUGnawóonkay	disturbing, frightening, extremely distressing	3	adj.																													
 1577302628682	بک	buk, bUk	bent over, arched, hunchbacked	4	adj.																													
-1527812515	بل	bul	other, next	4	adj.																													1
+1527812515	بل	bul	other, another, next	4	det.																													1
 1527816939	بنسټیز	bunsuTeez	foundational, fundamental	3	adj.																													
 1527811704	بنیادي	bUnyaadée	basic, foundational, essential	3	adj.																													1
 1527812518	برابر	baraabúr, buraabúr	equal, even, all good	4	adj.																													1
@@ -737,7 +737,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821779	حق بین	haq béen	just, fair	4	adj.																													
 1527818258	حقدار	haqdáar	deserving, entitled	3	adj.																													1
 1527814228	حقیقي	haqeeqée	real, actual, true, genuine	4	adj.																													1
-1527812664	هر	hăr	every	4	adj.																													1
+1527812664	هر	hăr	every, each	4	det.																													1
 1672942947760	هر اړخېز	har aRkhéz	multifaceted, comprehensive		adj.																													
 1527813792	حرام	haráam	haram, forbidden in Islam	4	adj.																													1
 1527819824	حریص	harées	envious, greedy, mean	3	adj.																													1
@@ -1109,7 +1109,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812822	کوچنی	koochnáy	little, small; child, little one	4	adj.																													
 1527821275	کولاو	kooláaw	open	4	adj.																													1
 1675336201103	کولتوري	kooltooree	cultural		adj.																													
-1527813602	کوم	koom	which, that, any, some	4	adj.																													1
+1527813602	کوم	koom	which, that, any, some, (a) certain	4	det.																													1
 1527823752	کومڼ	koomuN	rotten, withered, decayed, faded	2	adj.																													
 1527811973	کوڼ	kooN	deaf	4	adj.				کاڼه	kaaNu	کڼ	kaN																						1
 1527819940	کونډی	koonDáy	cut, trimmed, cropped, trimmed, hornless (for livestock), short, undersized	4	adj.																													
@@ -2759,7 +2759,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811894	ټینګ	Teeng	firm, thick, strong, tough, rigid	4	adj. / adv.																													1
 1527822351	تېر و بېر	ter-U-ber	more or less suitable, approximate, changing, alternating, sooner or later	4	adj. / adv.																													
 1595515640766	تېر و بېر	ter-U-ber	more or less (suitable), sooner or later, approximate, changing	4	adj. / adv.																													
-1527815358	ټول	Tol	all; gathered, collected; gross (as opposed to net)	4	adj. / adv.																													1
+1527815358	ټول	Tol	all / the whole; gathered, collected; gross (as opposed to net)	4	det. / adj. / adv.																													1
 1527814904	تش	tush, tash	empty, hollow; just	4	adj. / adv.																													1
 1527813109	واقعي	waaq'ee, waaqee	really, truly, real, true	4	adj. / adv.																													1
 1527821764	وحشیانه	wahshiyaana	wild, savage, barbaric	4	adj. / adv.																													
@@ -3074,10 +3074,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820750	چوټ انداز	choT andaaz, chooT andaaz ??	at random, haphazardly	2	adv.																													
 1527811233	ډاګه	Daaga	openly, frankly	3	adv.																													
 1593176318060	ډانګ پېیلی	Daang pe`yúlay	openly, direct	4	adv.																													
-1527812321	داسې	dáase	such, like this, like that, like	4	adv.																													1
+1527812321	داسې	dáase	such, like this, like that, in that way	4	adv. / det.																													1
 1588073608418	دفعتاً	daf'atan	suddenly, immediately, at once, currently	4	adv.																													
 1527817032	دغومره	daghaoomra	that much, so much, so much as	3	adv.																													
-1527813653	دغسې	daghase	in this way, like this	3	adv.																													
+1527813653	دغسې	daghase	just such, just like this, just like that, in just that way	3	adv. / det.																													
 1662099972424	دلې	dalé	here	2	adv.																													
 1662100000870	دلې دورې	dale doore	here and there	4	adv.																													
 1527815959	دم درحال	dam dărhaal	in an instant, in a flash, at once	2	adv.																													
@@ -3133,7 +3133,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586340494373	حد اقل	had-i-aqul	at least, minimum (from Farsi)	3	adv.																													
 1527812419	هډو	haDo	fully, quite	2	adv.																													
 1527823533	هغلته	haghalta	there, in that place, thence	4	adv.																													
-1527820737	هغسې	hagháse	in this/that way, like this/that	4	adv.																													1
+1527820737	هغسې	haghase	in that way, just like that, just such	4	adv. / det.																													1
 1527823339	هغومره	haghoomra	that much, so much	4	adv.																													
 1527813261	هله	hala	at that time (used in correspondence with کله), in that case, then	4	adv.																													
 1527811360	هم مهاله	ham mahaala	at the same time, simultaneous	3	adv.																													
@@ -3152,7 +3152,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818118	هرځای	hărdzaay	everywhere, every place	4	adv.																													
 1527821294	هرګز	hărgíz	never, not at all	3	adv.																													
 1572991416788	هرو مرو	haroo maroo	definately, for sure, I'll bet, certainly	4	adv.																													
-1527812670	هسې	háse	just, basically	3	adv.																													1
+1527812670	هسې	háse	just, basically; like that, such	3	adv. / det.																													1
 1527812671	حتماً	hatman	definitely	4	adv.																													
 1575642923868	حتیٰ	hattaa	even, in fact	3	adv.																													
 1527822114	هیله بیله	heela beela	barely, scarcely, just, hardly ever; just, so much; in vain, for naught, for no reason	3	adv.																													
@@ -7079,7 +7079,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816554	زیاړه	zyaaRa	curse, abuse, swearing	3	n. f.																													
 1527820183	زیارکښي	zyaarkáxee	work ethic, indusrious-ness, hard working-ness	4	n. f.																													
 1527822367	زیاتي	zyaatée	violence, oppression, injustice; over and above, moreover, superflous, excess, addition, surplus	3	n. f.																													1
-1527812785	خور	khor	sister	4	n. f.  anim.											خویندې	khwaynde																	1
+1527812785	خور	khor	sister	4	n. f.  anim. fam.											خویندې	khwaynde																	1
 1527821376	آینده	aayandá, aaeendá	future, approaching, coming	4	n. f. / adj.																													1
 1527811214	باکره	baakira	virgin (female)	4	n. f. / adj.																													
 1584738314029	چوله	chóla, chóola	crevice, crack (noun); gaping, wide-open (adjective)	2	n. f. / adj.																													
@@ -7123,19 +7123,19 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816361	کونډه	kwúnDa, kóonDa	widow	4	n. f. anim.																													1
 1582335316606	کویه	kooyá	moth	3	n. f. anim.																													
 1663958479173	لنډۍ	lanDúy	snake, adder, lizard	4	n. f. anim.																													
-1527812861	لور	loor	daughter	4	n. f. anim.											لوڼې, لوریانې	lóoNe, looryáane																	1
-1527812928	مور	mor	mother, mom	4	n. f. anim.											میندې, میېندې	máynde, myénde																	
+1527812861	لور	loor	daughter	4	n. f. anim. fam.											لوڼې, لوریانې	lóoNe, looryáane																	1
+1527812928	مور	mor	mother, mom	4	n. f. anim. fam.											میندې, میېندې	máynde, myénde																	
 1527815128	نرسه	nars, nursa	female nurse	3	n. f. anim.																													
-1664029717573	ندرور	ndróor, indróor	sister-in-law (husband's sister)	4	n. f. anim.											ندرېندې, ندرېندیانې	ndrénde, ndrendiyaane																	
-1527823521	نږور	nGor	daughter-in-law	4	n. f. anim.											نږیندې	nGaynde																	
+1664029717573	ندرور	ndróor, indróor	sister-in-law (husband's sister)	4	n. f. anim. fam.											ندرېندې, ندرېندیانې	ndrénde, ndrendiyaane																	
+1527823521	نږور	nGor	daughter-in-law	4	n. f. anim. fam.											نږیندې	nGaynde																	
 1527813268	نجلۍ	njulúy	girl	4	n. f. anim.											نجونې	njóone																	
 1582336957371	پیله	peelá	silkworm	2	n. f. anim.																													
 1582336917769	پیله	péela	female elephant, cow-elephant (فیله)	3	n. f. anim.																													
 1527815163	پیشو	peeshó	cat	4	n. f. anim.																													1
 1582336959996	پېله	pelá	silkworm	2	n. f. anim.																													
 1582335440542	سپږۍ	spuGúy	aphid, plant louse	3	n. f. anim.																													
-1527816397	ترور	tror	aunt	4	n. f. anim.											تریندې	traynde																	1
-1527816485	یور	yor	wife of husbands brother, wife of brother-in-law	4	n. f. anim.											یوڼې	yóoNe																	
+1527816397	ترور	tror	aunt	4	n. f. anim. fam.											تریندې	traynde																	1
+1527816485	یور	yor	wife of husbands brother, wife of brother-in-law	4	n. f. anim. fam.											یوڼې	yóoNe																	
 1527816424	بي بي	bee bee	lady, princess, elder, grandmother	4	n. f. anim. / suff.																													
 1527813236	هلي ځلي	halee dzalee	effort, efforts, working, labouring, uneasiness, worry	4	n. f. doub.																													
 1527813238	هپه دپه	hapa dapa	effort, endeavour, zeal, diligence	2	n. f. doub.																													
@@ -10057,7 +10057,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816761	مدیریت	mUdeeriyat	management, administration	3	n. m.																													
 1588857537259	مدرک	mUdrík	understanding, comprehension, intellect	4	n. m.																													
 1527820618	مفاجات	mUfaajáat	unexpected attack	1	n. m.																													
-1527819560	مهاجر	mUhaajír, mahaajír	migrant, refugee, immigrant	4	n. anim. unisex											مهاجرین	mUhaajiréen																	1
+1527819560	مهاجر	mUhaajír, mahaajír	migrant, refugee, immigrant	4	n. anim. unisex									مهاجرین	mUhaajiréen																			1
 1610800185455	مهاجرت	mUhaajirát	emmigration	4	n. m.																													
 1527821973	محارب	mUhaaríb	military combat, line, drill, aggression, combatant	4	n. m.																													
 1579114355696	محبت	mUhabbát, mUhabát	love, affection, attachment (Arabic)	3	n. m.																													1
@@ -12085,7 +12085,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814003	ووړګنی	woRganay	summer harvest	2	n. m.																													
 1527813979	ووړنګوری	woRungoray	summer place, summer cottage	2	n. m.																													
 1527811649	وړاندیز	wRaandeez	proposal, offer, presentation, suggestion, motion	4	n. m.																													
-1527816357	وراره	wraaru	nephew, brother's son	4	n. m.											وریرونه	wreeroona																	
+1527816357	وراره	wraaru	nephew, brother's son	4	n. m. anim. fam.											وریرونه	wreeroona																	
 1527823276	ورېغ	wregh	ink, paint, dye	2	n. m.																													
 1527822087	وری	wray	lamb	4	n. m.																													
 1527819238	ورون	wroon	thigh, hip	4	n. m.				ورانه	wraanu	ورن	wran				ورنونه	wrUnoona																	
@@ -12259,7 +12259,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817979	زول	zol	yarrow, milfoil (plant)	3	n. m.																													
 1578319495822	زو	zoo	a piece of brick	2	n. m.																													
 1527817978	زول	zool	worry, concern	3	n. m.																													
-1527816138	زوم	zoom	groom, bridegroom, son in law	4	n. m. anim. unisex											زومان	zoomaan																	1
+1527816138	زوم	zoom	groom, bridegroom, son in law	4	n. m. anim. fam.											زومان	zoomaan																	1
 1527821100	زومبکی	zoombukáy	small pompom; tassel; pendant earring	3	n. m.																													
 1527813672	زور	zor	force, violence, power, strength, exertion	4	n. m.																													1
 1713347191771	زور کول	zor kawul	to force		v. dyn. comp. trans.	1527813672	force																											1
@@ -12498,13 +12498,13 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1645514754752	پنډی	panDáy, punDáy	porter, someone who loads and unloads cargo, goods	4	n. m. anim.																													
 1582335717409	پتنګ	patáng	butterfly; kite	3	n. m. anim.																													
 1527817359	پیرو	payraw	follower, adherent, follower of a religious leader or sect	4	n. m. anim.																													
-1527815177	پلار	plaar	father	4	n. m. anim.											پلرونه	plaróona																	1
+1527815177	پلار	plaar	father	4	n. m. anim. fam.											پلرونه	plaróona																	1
 1648578943633	رهنما	rahnUmáa, rahnamáa	leader, guide, chief	4	n. m. anim.																													1
 1527811526	شاپرک	shaaparák	butterfly	4	n. m. anim.																													
 1527821489	څکالکی	tskaalkay	bat (flying mouse)	4	n. m. anim.																													
 1582315831441	څکلکی	tsukúlkay	bat (flying mouse)	3	n. m. anim.																													
-1527815421	ورور	wror	brother	4	n. m. anim.											وروڼه	wrooNa																	1
-1527815450	زوی	zooy	son	4	n. m. anim.											زامن	zaamún																	1
+1527815421	ورور	wror	brother	4	n. m. anim. fam.											وروڼه	wrooNa																	1
+1527815450	زوی	zooy	son	4	n. m. anim. fam.											زامن	zaamún																	1
 1585221940780	ملکي	mUlkee	countryman, citizan, civilan	4	n. m. anim. / adj.																													
 1527815138	اورپک	orpak	insurgent, wicked, terrorist	4	n. m. anim. / adj.																													
 1632856461211	میرڅمن	meertsaman	enemy	2	n. m. anim. masc.																													
@@ -12705,7 +12705,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1591025901570	ټوکمار	Tokmáar	joker, jester, mocker	4	n. m. anim. unisex																													1
 1591700082615	ټوک خور	Took khor	a derogitory term for someone who lives off charity	3	n. m. anim. unisex																													
 1613563994424	ټوقمار	Toqmáar	joker, jester, mocker	4	n. m. anim. unisex																													1
-1527816431	ترورزی	trorzáy	cousin (of paternal aunt)	4	n. m. anim. unisex											ترورزامن	trorzaamun																	
+1527816431	ترورزی	trorzáy	cousin (of paternal aunt)	4	n. m. anim. unisex fam.											ترورزامن	trorzaamun																	
 1527820400	څارونکی	tsaaróonkay	analyst, observer, follower (on social media)	3	n. m. anim. unisex																													
 1527811466	څېړونکی	tseRóonkay	researcher	4	n. m. anim. unisex																													
 1527815737	استاذ	Ustáaz	teacher, professor, expert, master (in a field)	4	n. m. anim. unisex																													1
@@ -13023,9 +13023,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815441	زر	zur	thousand	4	num.																													
 1527818126	زرها	zurhaa	a thousand	4	num.																													
 1527812467	به	ba	future tense marker	4	part.																													
-1586519006879	هیڅ	heets, hits	negative particle, used for nothing, never, etc.	4	particle																													
-1527816810	هېڅ	hets	negative particle, used for nothing, never, etc.	4	particle																													
-1588783656510	هېڅ	hets	negative particle, used for nothing, never, etc.	4	particle																													
+1586519006879	هیڅ	heets, hits	negative determiner, used for nothing, never, no, none etc. (used with negative phrases)	4	det. / adv.								TRUE																					
+1527816810	هېڅ	hets	negative determiner, used for nothing, never, no, none etc. (used with negative phrases)	4	det. / adv.								TRUE																					
 1527823719	جي	jee	polite filler word used in Pakistan (from Urdu/Punjabi)	4	particle																													
 1527818066	رمی	rumay	emphasizing word used with روغ	3	particle																													
 1527818065	رمټ	rumúT	emphasizing word used with روغ	4	particle																													
