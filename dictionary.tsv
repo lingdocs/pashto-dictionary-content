@@ -15053,7 +15053,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817457	درکول	dărkawul	to give (to second person - you, you pl.)	4	v. trans. irreg.		give,gives,giving,gave,given																			درکړی	dărkúRay							
 1527813914	ورکول	wărkawul	to give (to him/her/it - towards third person)	4	v. trans.		give,gives,giving,gave,given																			ورکړی	wărkúRay							1
 1527818537	ځړول	dzaRawul	to hang, to suspend, to lower down, to let down	3	v. trans.		hang,hangs,hanging,hung,hung																											
-1527815399	وهل	wahul	to hit	4	v. trans.		hit,hits,hitting,hit,hit															واهه	waahu											1
+1527815399	وهل	wahul	to hit, strike	4	v. trans.		hit,hits,hitting,hit,hit															واهه	waahu											1
 1527815240	ساتل	saatúl	to keep, protect, watch over; to hold	4	v. trans.		keep,keeps,keeping,kept,kept																											1
 1527816494	تښتول	tuxtawúl	to drive off, steal, hijack, abduct, kidnap	4	v. trans.		kidnap,kidnaps,kidnapping,kidnapped,kidnapped																											1
 1527814862	وژل	wajzul	to kill, slaughter	4	v. trans.		kill											وژن	wajzn			واژه	waajzu											
@@ -15178,7 +15178,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822750	ګرنجول	grUnjawúl	to wrinkle (the brow/forehead)	3	v. trans.																													
 1579017328825	ګډول	guDawul	to make dance	4	v. trans.																													1
 1527822762	ګنجول	gUnjawúl	to wrinkle, to knead; to anger, to reproach	3	v. trans.																													
-1578010012603	ګرځول	gurdzawul	to take (someone) for a walk around, to make move around, to move around	4	v. trans.																													
+1578010012603	ګرځول	gurdzawul	to take (someone) for a walk around, to make move around, to move around; to make something ____, to make something turn out ____	4	v. trans.		turn																											
 1527811318	ګذارول	gUzaarawul	to hit, to strike, to throw, cross	3	v. trans.	1527811317																												
 1621882739023	ګواښول	gwaaxawul	to threaten	4	v. trans.																													
 1579645004578	هټول	haTawúl	to make laugh, guffaw	2	v. trans.																													
@@ -15415,7 +15415,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812455	عربي	arabée	Arabic	4																														1
 1527823253	عرض کول	arz kawul	to report; to say or ask respectfully	4		1527823252																												1
 1594814238712	اتلانتیک	atlaanteek	Atlantic	4																														
-1625606871957	عورت	awrát	woman, wife, private body parts	4																														
+1625606871957	عورت	awrát	woman, wife; private body parts, something that needs to be covered or hidden in Islam	4																														
 1675274610388	ایا	ayaa	is? question word																															
 1527815895	باد ماتېدل	baad maatedul	to fart, to break wind	4		1527816345																												
 1622285259380	باجګیر	baajgeer	tax collector	4																														
@@ -18444,3 +18444,4 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1722813937069	له کومه	la kóoma	from where, whencefrom, from whence		adv.																													
 1722820879837	کنځل	kundzúl	to swear at, curse out		v. trans.																													
 1723689743674	یو څه	yo tsu	somewhat, a little, some, a bit		adv.																													
+1725334137713	نجلۍ توب	njuluy tób	girlhood, being a girl		n. m.																													
