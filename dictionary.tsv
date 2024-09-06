@@ -6402,7 +6402,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812256	سه شنبه	si shamba	Tuesday	4	n. f.																													
 1527811788	صبغه	sibgha	faith, religion	2	n. f.																													
 1527820317	سجده	sijdá	bowing down to the ground, prostrating (in religion)	4	n. f.									سجود	sUjóod																			
-1527818090	سکه	siká	coin; posture, figure, shape; blood (relative – adj.); respected, honored	4	n. f.																													
+1527818090	سکه	siká	coin; posture, figure, shape; blood (relative – adj.), full sibling from same mom and dad; respected, honored	4	n. f.																													
 1527821354	سلاح	siláah	weapon, firearm	4	n. f.									اسلحه	aslahá																			
 1527815466	سلسله	silsilá	series, succession, chain, consecutive order, range	4	n. f.																													1
 1527817908	سپاره	sipaara	Juz', one of the divisions of 30 parts of the Quran	4	n. f.																													
@@ -13617,7 +13617,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821558	شړېدل	shaRedúl	to be decomposed, break down, fall apart; to be boiled soft (meat)	1	v. intrans.		fall	apart																										
 1527814867	غورځېدل	ghwurdzedúl, ghoordzedúl	to fall, jump, leap	4	v. intrans.		fall,falls,falling,fell,fallen																					TRUE						1
 1527813994	لوېدل	lwedul	to fall, to tumble, go down, settle	3	v. intrans.		fall,falls,falling,fell,fallen															لوېد	lwed											
-1527817259	پرېوتل	prewatúl	to fall, to lie down, to go down	4	v. intrans.		fall,falls,falling,fell,fallen											پرېوځ	prewudz	پرېووځ	prewÚoodz	پرېواته	prewaatu	پرېوتل	préwatul				TRUE		3	3		1
+1527817259	پرېوتل	prewatúl	to fall, to lie down, to go down	4	v. intrans.		fall,falls,falling,fell,fallen											پرېوځ	prewudz	پرېووځ	prewÚoodz	پرېوت, پرېواته	preewot, prewaatu	پرېوتل	préwatul				TRUE		3	3	TRUE	1
 1577572987826	جنګېدل	jangedúl	to fight, battle, war, to bump or crash into	4	v. intrans.		fight,fights,fighting,fought																											1
 1527813473	الوتل	alwatúl	to fly	4	v. intrans.		fly,flies,flying,flew,flown											الوځ	aloodz			الووت,الواته	alwot,alwaatu											1
 1527814038	پاڅېدل	paatsedúl	to get up, rise, wake up	4	v. intrans.		get, gets, getting, got, gotten	up																				TRUE	TRUE		2	3		1
@@ -18445,3 +18445,4 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1722820879837	کنځل	kundzúl	to swear at, curse out		v. trans.																													
 1723689743674	یو څه	yo tsu	somewhat, a little, some, a bit		adv.																													
 1725334137713	نجلۍ توب	njuluy tób	girlhood, being a girl		n. m.																													
+1725557475054	چربه	charbá	sketch	n. f.																														
