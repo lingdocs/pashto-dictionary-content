@@ -2891,7 +2891,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812003	مصلح	mUslih	reconciling, peace-loving, improving; correcter, peace-maker, reformer	4	adj. / n. m. anim. unisex									مصلحین	mUslihéen																			
 1527815541	مسلم	mUslím	Muslim	3	adj. / n. m. anim. unisex																													3
 1527814442	مطابق	mUtaabíq	matching, corresponding, accordance (په مطابق - according to)	4	adj. / n. m.																													3
-1527811672	معتاد	mU'táad mu'táad	addicted, addict	3	adj. / n. m. anim. unisex									معتادین	mUtaadéen																			3
+1527811672	معتاد	mU'táad, mu'táad	addicted, addict	3	adj. / n. m. anim. unisex									معتادین	mUtaadéen																		TRUE	3
 1527820639	متهم	mUtahám, mUthám, mathám	accused, indicted, defendant	4	adj. / n. m. anim. unisex																													3
 1527811662	ناب	naab	pure, unadulterated; molar tooth	2	adj. / n. m.																													3
 1527820193	ناګاره	naagáara	denying, disowning, abnegating; denier, abnegator	4	adj. / n. m.																													3
@@ -2950,7 +2950,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588783751043	خدمتي	khidmatée	serving, attentous; servant, attendant	4	adj. / n. m. anim. unisex																													3
 1678362238519	لرغونپال	larghoonpáal	conservative, traditionalist		adj. / n. m. anim. unisex																													3
 1527814445	مامور	maamóor	officer, clerk (as in government worker); assigned, appointed, given orders or istructions (Arabic), authorized, sent on business	4	adj. / n. m. anim. unisex																													3
-1527820758	مسوول	mas'óol	responsible, accountable, in charge, person responsible, official	3	adj. / n. m. anim. unisex									مسوولین	mas'ooleen																			3
+1527820758	مسوول	mas'óol	responsible, accountable, in charge, person responsible, official	3	adj. / n. m. anim. unisex									مسوولین	mas'ooleen																		TRUE	3
 1586682209639	مسئول	mas'óol	responsible, person responsible, accountable, in charge, official	4	adj. / n. m. anim. unisex									مسئولین	mas'ooleen																			1
 1527816583	مسول	masóol	responsible, person responsible, accountable, in charge, official	4	adj. / n. m. anim. unisex									مسولین	masooleen																			1
 1627156157285	میین	mayeen	enamoured, in love; someone in love		adj. / n. m. anim. unisex																													
@@ -18449,3 +18449,4 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1725597569634	سکنی	sakanáy	blood (relative), full (relative) (ie. سکنی ورور - a brother from the same father and mother)		adj.																													
 1725598781386	سکه	saká	blood (relative), full (relative) (ie. سکنی ورور - a brother from the same father and mother)		adj.																													
 1726600374278	سست کاري	sUst kaarée	laziness		n. f.																													
+1726628336041	رهبانیت	rahbaaniyát	monasticism		n. m.																													
