@@ -10,10 +10,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818896	آهني	aahinee	iron; (fig. strong)	4	adj.																													
 1613562345137	عاجل	aajíl	urgent, immediate, compelling, pressing	4	adj.																													
 1527814889	عاجز	aajiz	weak, poor, humble, introverted, shy, innocent, cautious, reserved	4	adj.																													
-1527821999	آخري	aakhiree	last, final, definitive, conclusive	4	adj.																													
-1527822003	آخرین	aakhireen	last, final, latest	4	adj.																													
+1527821999	آخري	aakhirée	last, final, definitive, conclusive	4	adj.																													
+1527822003	آخرین	aakhiréen	last, final, latest	4	adj.																													
 1690458870216	آخرینی	aakhireenáy	last, final, latest	4	adj.																													
-1527815462	عالي	aalee	supreme, good, superior, high, great, fantastic	4	adj.																													
+1527815462	عالي	aalée	supreme, good, superior, high, great, fantastic	4	adj.																													
 1527814658	عام	aam	usual, ordinary, simple, public	4	adj.																													1
 1527820765	عاقل	aaqíl	wise, sensible, intelligent, prudent	4	adj.																													
 1622461081707	آراسته	aaraastá	adorned, ornate, dressed up, decorated	2	adj.																													
@@ -962,7 +962,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821437	کنجوس	kanjóos	stingy, cheap, miserly, mean, foul	3	adj.																													2
 1527823616	کنجر	kanjúr, kanjÚr	shameless, imprudent (derogatory term)	4	adj.																													2
 1527821016	کر	kar	deaf	2	adj.																													2
-1527812035	کره	kára	pure, uncontaminated, true, trustworthy, exact, precise, sincere	3	adj.																													2
+1527812035	کره	kára	pure, uncontaminated, true, trustworthy, exact, precise, sincere	3	adj.																													3
 1527817649	کړاند	kaRáand	bewildered, out of sorts, upset, lost one’s head	2	adj.																													2
 1527812747	کرار	karáar	quiet, peaceful, established, constant, stable, agreed	4	adj.																													2
 1678361714266	کرنیز	karanéez	agricultural		adj.																													2
@@ -3136,7 +3136,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820737	هغسې	haghase	in that way, just like that, just such	4	adv. / det.																													1
 1527823339	هغومره	haghoomra	that much, so much	4	adv.																													
 1527813261	هله	hala	at that time (used in correspondence with کله), in that case, then	4	adv.																													
-1527811360	هم مهاله	ham mahaala	at the same time, simultaneous	3	adv.																													
+1527811360	هم مهاله	ham maháala	at the same time, simultaneous	3	adv.																													
 1527812278	هماغه	hamaagha	exactly that	4	adv.																													
 1527811781	هماغومره	hamaaghaoomra, humaaghaoomra	in the same degree, insofar as, in the same measure	4	adv.																													
 1527814067	همدا	hamdaa	this very	4	adv.																													
@@ -3182,7 +3182,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819967	خامخا	khaamakhaa	definitely, for sure, whether someone wants or not, willy-nilly (this last use more in Urdu)	3	adv.																													
 1527821015	خاصکر	kháaskar	especially, in particular	4	adv.																													1
 1527821734	خاصتاً	kháassatan	especially	3	adv.																													1
-1527811333	خلاملا	khalaamalaa	sincere, frank, open	1	adv.																													
+1527811333	خلاملا	khalaamaláa	sincere, frank, open	1	adv.																													
 1527822660	خود به خود	khood ba khood	automatically, on one’s own, on it’s own	3	adv.																													
 1527818710	خوشبختانه	khooshbakhtaana	fortunately, luckily, thankfully	4	adv.																													
 1527813323	خوشبختانه	khoshbakhtaana	fortunately, luckily	4	adv.																													
@@ -3192,8 +3192,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822286	کلاً	kUllan	totally, entirely	1	adv.																													
 1527814270	له بده مرغه	la buda margha, la buda murgha	unfortunately, regretfully	4	adv.																													
 1527822765	له واره	la waara	suddenly, immediately, instantly, at once	3	adv.																													
-1527811270	له ورا	la wraa	from a distance, from afar, distantly	4	adv.																													
-1527811269	له ورایه	la wraaya, la weraya	from afar, clearly, apparent	4	adv.																													
+1527811270	له ورا	la wráa	from a distance, from afar, distantly	4	adv.																													
+1527811269	له ورایه	la wráaya, la weráya	from afar, clearly, apparent	4	adv.																													
 1527819419	لاهم	laahum	still	4	adv.																													
 1527811423	لاندې	láande	below, beneath	4	adv.																													1
 1527820440	لاپسې	laapasé	all the more, still more	4	adv.																													
@@ -3252,7 +3252,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816897	پروسږکال	parósaGkaal, paróskaal	last year	4	adv.																													1
 1527811508	په بشپړه توګه	pu bushpuRa toga	completely, totally	4	adv.																													
 1527813778	په چپه پښه	pu chapa pxa	barefoot	4	adv.																													
-1527811234	په ډاګه	pu Daaga	openly, frankly	4	adv.																													
+1527811234	په ډاګه	pu Dáaga	openly, frankly	4	adv.																													
 1527820344	په داوطلب ډول	pu daawtaláb Dawul	voluntarily	4	adv.																													
 1527813790	په دې خاطر	pu de khaatur	because of this, for this reason	4	adv.																													
 1527815193	په ګډه	pu guDa	together, combined	4	adv.																													
@@ -3295,7 +3295,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820456	راباندې	raabaande	on me, on us (باندې with 1st person directive pronoun)	4	adv.																													
 1527815215	راپدېخوا	raapudekhwaa	since  (له ... راپدېخوا)	4	adv.																													
 1527816767	رډ رډ	raD raD	obvious, openly, boldly, immodestly	3	adv.																													
-1527811405	رسماً	rasman	officially	4	adv.																													
+1527811405	رسماً	rásman	officially	4	adv.																													
 1586363985796	روزانه	rozaaná	daily, each day	4	adv.																													1
 1527819294	سهر وختي	sahar wakhtee	in the morning	4	adv.																													
 1527823222	سلابلا	salaabaláa	without rhyme or reason, for no reason at all	4	adv.																													
@@ -3393,7 +3393,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819764	ماهانه	maahaaná	monthly, every month	3	adv. / adj.																													
 1527817550	محافظه کارانه	mUhaafiza kaaraana	conservatively, conservative	3	adv. / adj.																													
 1620904454896	مخلصانه	mUkhlisaana	sincerely, sincere	4	adv. / adj.																													
-1527811328	صادقانه	saadiqaana	sincerely, truthfully, faithfully	3	adv. / adj.																													
+1527811328	صادقانه	saadiqaaná	sincerely, truthfully, faithfully	3	adv. / adj.																													
 1527816034	تر شا	tur shaa	behind	4	adv. / adj.																													
 1527815070	یک تنها	yak tanhaa	all alone, alone	4	adv. / adj.																													
 1527811637	زیاتره	zyaatara	most, the majority, predominating	4	adv. / adj.																													
@@ -3416,7 +3416,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817724	لاکن	laakin	however, but, on the other hand, (contrastive particle, Arabic)	4	conj.																													
 1527817521	لېکن	lekin	but, yet, however, moreover, nevertheless	4	conj.																													
 1527818322	لیکن	laykin	but, yet, however, moreover, nevertheless	4	conj.																													
-1527811279	مګر	magar	but, however, only	4	conj.																													
+1527811279	مګر	magár	but, however, only	4	conj.																													
 1527815121	نو	no	so, then	4	conj.																													1
 1527812290	یا	yaa	or	4	conj.																													1
 1527814766	یانې	yaane	that is to say, in other words, namely	3	conj.																													
@@ -3628,7 +3628,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816422	انکه	anuka	granny, grandma (children's speech)	4	n. f.																													
 1527816423	انۍ	anúy	granny, grandma, grandmother	4	n. f.																													
 1527811793	عقیده	aqeedá	faith, religion, creed	4	n. f.									عقائد	aqaaíd																			1
-1527811553	اړه	aRa	relation, connection; need	3	n. f.																													
+1527811553	اړه	áRa	relation, connection; need	3	n. f.																													
 1527821380	اره	ará	saw (the tool)	4	n. f.																													1
 1527821382	اره کشي	ara kashee	sawing (lumber)	4	n. f.																													
 1527819843	اړه تړه	áRa táRa	collusion	3	n. f.																													
@@ -3695,7 +3695,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819994	عزیزداري	azeezdaaree	relationship through marriage	3	n. f.																													
 1527819062	اضحیٰ	azháa	religious sacrifice, sacrificial offering (from Arabic, used for festival of sacrifice)	3	n. f.																													
 1527816065	ازماینه	azmaayna	trial, testing, difficulty, temptation	3	n. f.																													
-1527811606	ازموینه	azmoyuna	attempt, try; experiment, test	3	n. f.																													
+1527811606	ازموینه	azmoyúna	attempt, try; experiment, test	3	n. f.																													
 1623687085120	اذوقه	azooqá	provisions, stock, food	4	n. f.																													
 1527817173	ازوتي	azotee	nitrogen	1	n. f.																													
 1527812364	بابونه	baabawuna	spreading, dissemination	4	n. f.																													
@@ -3747,7 +3747,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588786872582	بدنامي	badnaamée	shame, disrepute, dishonour	4	n. f.																													1
 1650297394423	بدنصیبي	badnaseebee	bad luck, misfortune	4	n. f.																													
 1527813651	بدرګه	badraga	escort, accompaniment	4	n. f.																													
-1527811242	بدتري	badtaree	awfulness, getting worse	4	n. f.																													
+1527811242	بدتري	badtarée	awfulness, getting worse	4	n. f.																													
 1527817599	بغل ګیري	baghal geerée	embrace, hugging	4	n. f.																													
 1527817598	بغل کشي	baghal kashée	embrace, hugging	4	n. f.																													
 1527822140	بغرۍ	baghrúy	mortar, mortar for threshing rice	4	n. f.																													
@@ -3790,7 +3790,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579294091093	برنډه	baranDá	balcony, veranda, porch	4	n. f.																													1
 1577584084745	برچه	bărchá	bayonet	4	n. f.																													
 1672387452072	برف جنګي	barf jangee	snow ball fighting (Farsi)		n. f.																													
-1527811566	برفي	barfee	A kind of ice cream that comes in little bars, popsicles	4	n. f.																													
+1527811566	برفي	barfée	A kind of ice cream that comes in little bars, popsicles	4	n. f.																													
 1527812001	برخه	bárkha	poriton, part, share	4	n. f.																													1
 1527821688	برمه	barmá	auger (for drilling)	4	n. f.																													1
 1705179194985	برمه کول	barma kawúl	to auger, drill		v. stat. comp. trans.	1527821688	drill																											1
@@ -3841,7 +3841,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814089	بې فکري	be fikree	lightheartedness, lack of concern; neglect, inattentiveness, disregard	4	n. f.																													
 1527822977	بې غوري	be ghawree, be ghoree	carelessness, negligence, rashness, inattentiveness	4	n. f.																													
 1527822924	بې غیرتي	be ghayratee	dishonourable bahaviour, dishonour, being a scoundrel, cowardice	4	n. f.																													
-1527811292	بې ګناهي	be gUnaahee	sinlessness, innocence	4	n. f.																													
+1527811292	بې ګناهي	be gUnaahée	sinlessness, innocence	4	n. f.																													
 1527817195	بې حوصله	be hawsala, be hausala	lack of patience, lack of courage	3	n. f.																													
 1612114401489	بې حرمتي	be hUrmatée	disrespect, disgrace	4	n. f.																													
 1527818814	بې احتیاطي	be ihtiyaatée	carelessness, lack of caution	4	n. f.																													1
@@ -3902,7 +3902,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1566468054028	بېزو	bezó	monkey, ape	4	n. f. anim.																													
 1527818629	بغرګه	bghárga	valley between two mountains; woman who has had twinns	4	n. f.																													
 1527812205	بهبودي	bihboodee	health, well-being, prosperity; large knife, dagger	4	n. f.																													
-1527811239	بهتري	bihtaree	improvement, getting better, prosperity	4	n. f.																													
+1527811239	بهتري	bihtarée	improvement, getting better, prosperity	4	n. f.																													
 1527823693	بجلکه	bijláka, bajilaka	ankle	4	n. f.																													
 1527819115	بستر سازي	bistar saazee	making a bed, creating the conditions or pretext for something	4	n. f.																													
 1527818310	بستره	bistará	bed, bed-roll	4	n. f.																													
@@ -3960,7 +3960,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816680	چاپه	chaapa	pattern, composition (Archaeology), printing	4	n. f.																													
 1631221830768	چاپي	chaapee	massage, rubbing or kneading	4	n. f.																													
 1527813414	چاره	chaara	solution, way out, cure; work, act, deed, duty; method, way	4	n. f.																													
-1527811622	چاره سازي	chaara saazee	assistance, aid, healing, cure	4	n. f.																													
+1527811622	چاره سازي	chaara saazée	assistance, aid, healing, cure	4	n. f.																													
 1527813465	چاړه	chaaRú	knife	3	n. f.																													1
 1527812254	چارشنبه	chaarshamba	Wednesday	3	n. f.																													
 1527812032	چارۍ	chaarúy	shovel	4	n. f.																													
@@ -3975,9 +3975,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817913	چکه	chaká	semi-sold cheese curds, cottage cheese; hand	3	n. f.																													1
 1527814403	چکلۍ	chaklúy	whirlpool; cogwheel in Persian water-wheel; top (the toy)	2	n. f.																													
 1527811838	چکۍ	chakúy	small piece, morsel, scrap; fat tail (sheep)	1	n. f.																													
-1527811415	چل بازي	chal baazee	cunning, deceit, trickery	4	n. f.																													
+1527811415	چل بازي	chal baazée	cunning, deceit, trickery	4	n. f.																													
 1527815706	چله	chala	flood, inundation	2	n. f.																													
-1527811413	چلبازي	chalbaazee	cunning, deceit, trickery	4	n. f.																													
+1527811413	چلبازي	chalbaazée	cunning, deceit, trickery	4	n. f.																													
 1527819041	چلیپا	chaleepaa	cross, crucifix	3	n. f.																													
 1576101632183	چلښت لیکه	chaluxt leeka	direction, course	3	n. f.																													
 1527821320	چمبه	chamba	paw, claws (bird’s); tambourine; circle, rim	2	n. f.																													
