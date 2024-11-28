@@ -1,15 +1,15 @@
 ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	ssf	tppp	tppf	prp	prf	pprtp	pprtf	shortIntrans	noOo	sepOo	separationAtP	separationAtF	diacExcept	a
 1527816609	آباد	aabáad	established, populated, prosperous, built	4	adj.																													2
 1709915524063	اباد	abáad	established, populated, prosperous, built																															
-1566552178969	آبچکن	aabchakán	moire, having and undulating appearance, pattern, or texture	2	adj.																													2
+1566552178969	آبچکن	aabchakán	moire, having and undulating appearance, pattern, or texture	2	adj.																													
 1575058865062	آبدار	aabdáar	sparkling, shining; honorable, respectable, dignified, glorious; tempered, hardened (metal)	2	adj.																													2
-1527822106	آبي	aabée	moist, humid; pertaining to watering, irrigation; sky-blues	4	adj.																													2
+1527822106	آبي	aabée	moist, humid; pertaining to watering, irrigation; sky-blues	4	adj.																													
 1527813777	عادي	aadée, 'aadée	ordinary, usual, accustomed to, normal	3	adj.																													2
-1614168996327	عادل	aadíl	just, right, fair, true	4	adj.																													2
+1614168996327	عادل	aadíl	just, right, fair, true	4	adj.																													
 1527821158	آهنګ دار	aahang dáar	melodious, harmonious	3	adj.																													2
 1527818896	آهني	aahinée, ahunée	iron; (fig. strong)	4	adj.																													2
 1613562345137	عاجل	aajíl, 'aajíl	urgent, immediate, compelling, pressing	4	adj.																													2
-1527814889	عاجز	aajíz	weak, poor, humble, introverted, shy, innocent, cautious, reserved	4	adj.																													2
+1527814889	عاجز	aajíz	weak, poor, humble, introverted, shy, innocent, cautious, reserved	4	adj.		poor thing																										TRUE	2
 1527821999	آخري	aakhirée	last, final, definitive, conclusive	4	adj.																													2
 1527822003	آخرین	aakhiréen	last, final, latest	4	adj.																													2
 1690458870216	آخرینی	aakhireenáy	last, final, latest	4	adj.																													2
@@ -2582,6 +2582,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813639	ولسي	wUlusée, oolasée	national, people's, folk	4	adj.																													3
 1713258617078	اولسي	oolusée, oolasée	national, people's, folk	4	adj.																													3
 1527818274	ولسمشري	wUlusmushurée, oolusmushurée	presidential	4	adj.																													3
+1732598807178	ولسمشری	wUlusmushuráy, oolusmushuráy	presidential	4	adj.																													
 1527818278	ولسمشریز	wUlusmushuréez, oolusmushuréez	presidential	3	adj.																													3
 1611399565694	ولسواک	wUluswáak, Uluswáak	democratic	2	adj.																													3
 1527819097	وزګار	wUzgáar, Uzgáar	free, unoccupied, available, at leisure	4	adj.																													3
@@ -4649,7 +4650,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577396541950	انجنیري	injuneeree	engineering	4	n. f.																													
 1527812694	انجنۍ	injUnúy	girl	4	n. f.																													
 1527823039	انکاري	inkaaree	denying, refusing, recanting	4	n. f.																													
-1678173958069	انقطاع	inqitáa'	cessation, stopping; seperation, amputation		n. f.																													
+1678173958069	انقطاع	inqitáa'	cessation, stopping; separation, amputation		n. f.																													
 1527811805	انسان پرستي	insaan parastee	humanism	4	n. f.																													
 1617442271435	انتباه	intibáa	warning, awakening, perception; the Renaissance; vigilance; cheerfulness	4	n. f.																													
 1566473683629	انتها	intiháa	utimate, extremity, limit, end	4	n. f.																													1
@@ -5541,6 +5542,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579289097783	معرفي	mU'arrifée, marrifée, marifée	introduction, recommendation, acquaintance	3	n. f.																													
 1669827653209	معضله	mU'azalá	difficulty, problem, impasse		n. f.																													
 1527818259	معجزه	mU'jizá	miracle, wonder	4	n. f.									معاجزه	m'aajUza																			
+1732599665080	معجزه ناک	mU'jiza náak	miraculous		adj.																													
 1527812119	معافي	mUaafée	exemption	3	n. f.																													1
 1527814282	معلمه	mUalima	female teacher, instructor	4	n. f.																													
 1527814284	معلمي	mUalimee, maalimee	teaching	4	n. f.																													
@@ -6563,7 +6565,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588162032311	تداوي	tadaawee	treatment, therapy (medical)	3	n. f.																													
 1527823554	تفریح ګاه	tafreeh gáah	resort	4	n. f.																													
 1527813795	تفرېح	tafreh	entertainment, recreation, amusement	4	n. f.																													
-1610797742078	تفرقه	tafriqá	division, seperation	4	n. f.																													
+1610797742078	تفرقه	tafriqá	division, separation	4	n. f.																													
 1527821813	ټګي	Tagée	deception, deceit, trick, trickery	4	n. f.																													1
 1708189220191	ټګي کول	Tagée kawul	to deceive, cheat, trick	4	v. dyn. comp. trans.	1527821813	deceive																											1
 1527821814	ټګي برګي	Tagee bragee	fraud, cheat, deception, swindling, trickery	4	n. f.																													
@@ -8216,7 +8218,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1577817487250	فلز	filíz	metal	4	n. m.																													2
 1527817205	فلم	fílum	film, movie	4	n. m.																													3
 1578330299245	فقه اللغت	fiqh UllUghát	etymology, the study of the development of words	3	n. m.																												true	2
-1566478387778	فراق	firáaq, faráaq	seperation, parting	2	n. m.																													2
+1566478387778	فراق	firáaq, faráaq	separation, parting	2	n. m.																													2
 1527816676	فرار	firáar	escape, flight, desertion	3	n. m.																													2
 1527819390	فردوس	firdós, firdáus	heavenly garden, paradise	3	n. m.																													2
 1527816789	فرصت	firsat	opportunity, occasion, chance	4	n. m.																													2
@@ -10280,7 +10282,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819867	نیله چنار	neela chináar	white poplar (tree)	4	n. m.																													2
 1527821604	نیم مرئیتوب	neem mrayitób	serfdom, dependence	4	n. m.																													2
 1594834227795	نیمچکی	neemchákay	wavy pattern (on a carpet edge etc.)	2	n. m.																													2
-1584518122818	نیشتوی	neeshtóy, neeshtwáy	dissasociation, seperation, parting, severance	2	n. m.																													2
+1584518122818	نیشتوی	neeshtóy, neeshtwáy	dissasociation, separation, parting, severance	2	n. m.																													2
 1527819431	نیواک	neewáak	invasion, occupation	4	n. m.																													2
 1527822238	نیوکګر	neewakgár	critic	2	n. m. anim. unisex																													2
 1610793639841	نېکر	nekur	underwear, underpants, boxers	2	n. m.																													
@@ -11769,7 +11771,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819982	تزویج	tazwéej	marriage, giving someone in marriage	3	n. m.																													
 1527822550	تزویر	tazwéer	deceit, forgery, falsehood, hypocrisy	3	n. m.																													2
 1527822149	ټیکه دار	Teeka dáar	guardian, contractor, monopolist	4	n. m. anim. unisex																													2
-1527817956	ټیکاو	Teekaaw	stability, strength, constancy, firmness, resistance, stamina	4	n. m.																													2
+1527817956	ټیکاو	Teekáaw	stability, strength, constancy, firmness, resistance, stamina	4	n. m.																													2
 1527813617	ټیکری	Teekráy	shawl, head covering	4	n. m.																													2
 1527813174	تیندک	teendák	trip, stumbling; jump, hop, skip	4	n. m.																													3
 1527815866	ټینګار	Teengáar	emphasis, insistence	4	n. m.																													2
@@ -11857,7 +11859,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822615	توښ	toox	source, resource (in computer science)	3	n. m.																													2
 1579644413383	توی	tooy	a herd of goats	2	n. m.																													2
 1527814869	ټوپ	Top	jump, leap, skip; beat (of a heart); heap, pile, stack; stupa; a cap with earflaps	4	n. m.																													3
-1527815362	توپ	top	ball; (cannon) ball	4	n. m.																													2
+1527815362	توپ	top	ball; cannon	4	n. m.																													2
 1594835669685	ټوپ ټپانی	Top Tapaanáy, Top Tapáanay	race, run (contest)	4	n. m.																													2
 1577570957507	ټوپک	Topák	gun, rifle, weapon	4	n. m.																													3
 1661858508541	توپک	topák	rifle, gun (ټوپک)	4	n. m.																													
@@ -18346,7 +18348,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1715988667886	ګټونکی	gaTóonkay	winner, earner		n. m. anim. unisex																													3
 1715988700404	کتونکی	katóonkay	viewer		n. m. anim. unisex																													3
 1715988966475	د ځناورو ډاکټر	du dzinaawáro DaakTár, du dzanaawáro DaakTár	veterenarian, vet		n. m. anim. unisex																													3
-1715989417092	ستر کول	sátur kawúl	to keep seperation of females from men, to veil 		v. dyn. comp. trans.	1527820838																												1
+1715989417092	ستر کول	sátur kawúl	to keep separation of females from men, to veil 		v. dyn. comp. trans.	1527820838																												1
 1715989568998	سنکیا	sankyáa, sankiyáa	arsenic, poison		n. f.																													3
 1715989626323	زرنیخ	zarnéekh	arsenic, poison																															2
 1715989749584	بوتلګی	botalgáy	vial, little bottle		n. m.																													3
@@ -18495,3 +18497,16 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1729658130811	دادا	daadáa	affectionate name for father or older brother		n. m. anim.																													
 1729658152670	داداتوب	daadaatób	fatherhood		n. m.																													
 1731935273578	هغه	haghú	inflected form of he/him/it - 3rd pers sing.																															2
+1732598845790	سانسور	saansór	censorship, censure		n. m.																													
+1732598925571	سانسورول	saansorawúl	to censure		v. stat. comp. trans.	1732598845790	censure																											
+1732598928655	سانسورېدل	saansoredúl	to be censured		v. stat. comp. intrans.	1732598845790	be	censured																										
+1732599008880	پروډیوسر	proDyoosár	producer (radio, TV)		n. m. anim. unisex																													
+1732599142676	ضمیمه	zameemá	companion (as in a companion, additional publication)		n. f.																													
+1732599281936	لاسبري	laasbarée	dominance		n. f.																													
+1732599293463	لاسبری	laasbáray	dominant		adj.																													
+1732599354809	مورال	moráal	morale		n. m.																													
+1732599365300	بې موراله	be moráala	demoralized		adj.																													
+1732599382215	بې موراله کول	be moraala kawúl	to demoralize		v. stat. comp. trans.	1732599365300	demoralize																											
+1732599385516	بې موراله کېدل	be moraala kedúl	to be demoralized		v. stat. comp. intrans.	1732599365300	be	demoralized																										
+1732599511646	بالمثل	bilmisl	similar, the same		adj. / adv.								TRUE																					
+1732617662243	زرغونتیا	zarghoontyáa	greenery		n. f.																													
