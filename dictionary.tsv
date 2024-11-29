@@ -1,11 +1,11 @@
 ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	ssf	tppp	tppf	prp	prf	pprtp	pprtf	shortIntrans	noOo	sepOo	separationAtP	separationAtF	diacExcept	a
 1527816609	آباد	aabáad	established, populated, prosperous, built	4	adj.																													2
 1709915524063	اباد	abáad	established, populated, prosperous, built																															
-1566552178969	آبچکن	aabchakán	moire, having and undulating appearance, pattern, or texture	2	adj.																													
+1566552178969	آبچکن	aabchakán	moire, having and undulating appearance, pattern, or texture	2	adj.																													2
 1575058865062	آبدار	aabdáar	sparkling, shining; honorable, respectable, dignified, glorious; tempered, hardened (metal)	2	adj.																													2
-1527822106	آبي	aabée	moist, humid; pertaining to watering, irrigation; sky-blues	4	adj.																													
+1527822106	آبي	aabée	moist, humid; pertaining to watering, irrigation; sky-blues	4	adj.																													2
 1527813777	عادي	aadée, 'aadée	ordinary, usual, accustomed to, normal	3	adj.																													2
-1614168996327	عادل	aadíl	just, right, fair, true	4	adj.																													
+1614168996327	عادل	aadíl	just, right, fair, true	4	adj.																													2
 1527821158	آهنګ دار	aahang dáar	melodious, harmonious	3	adj.																													2
 1527818896	آهني	aahinée, ahunée	iron; (fig. strong)	4	adj.																													2
 1613562345137	عاجل	aajíl, 'aajíl	urgent, immediate, compelling, pressing	4	adj.																													2
@@ -174,7 +174,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1675435661345	باشرفه	baasharáfa	honorable, respectable, decent		adj.																													2
 1527821119	باثبات	baasUbaat, baasabaat	stable, constant	4	adj.																													
 1618846912260	باتجربه	baatajraba, baatajriba, baatajrUbá	experienced	4	adj.																													2
-1594807837096	باتینګڼي	baateengúNee	purple	4	adj.																													2
+1594807837096	باتینګڼي	baateengúNee	purple	4	adj.																													
 1527821886	باطل	baatíl	invalid, null, revoked, futile, vain, useless	4	adj.																													2
 1577238704871	باطني	baatinee	inside, inner; pertaining to inner things (as opposed to outward appearances)	4	adj.																													
 1527820433	باتور	baatóor	courageous, brave, valiant	4	adj.																													2
@@ -2518,7 +2518,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1592559895632	واز	waaz	open	4	adj.																													3
 1527821259	واضح	waazíh	clear, plain, evident, obvious	4	adj.																													3
 1708355873005	واضحه	waazíha	clear, plain, evident, obvious	4	adj.																													3
-1527816608	ودان	wadaan	prosperous, built, established, populated (کور دې ودان)	4	adj.																													2
+1527816608	ودان	wadáan	prosperous, built, established, populated (کور دې ودان)	4	adj.																													2
 1527816266	وفادار	wafaadáar	faithful, loyal	4	adj.																													3
 1527815398	وفات	wafáat	dead, deceased, passed away	4	adj.																													2
 1621933529991	وحشتناک	wahshatnáak	dreadful, terrifying, frightful, awful	4	adj.																													3
@@ -2531,14 +2531,14 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811747	ور د غاړې	war du gháaRe	belonging to, used in cases of accountability, blame, owning up to something etc. (ie. مسوليت اوس دولت ته ور د غاړې دی -- The responsibility now belongs to the government)	4	adj.																													3
 1527812232	ور په غاړه	war pu gháaRa	belonging to, used in cases of accountability, blame, owning up to something etc. (i.e.. مسوليت اوس دولت ته ور په غاړه دی -- The responsibility now belongs to the government)	4	adj.																													1
 1582335515390	وړین	waRéen	woollen	4	adj.																													
-1527818617	وړیا	waRiyáa	free, free of charge	4	adj.																													
+1527818617	وړیا	waRiyáa, waRyáa	free, free of charge	4	adj.																													2
 1527823715	وړکوټی	waRkóTay	small, little; (also as a child)	3	adj.																													
-1527815403	وړوکی	waRóokay	little, small	4	adj.																													1
-1701935319359	وړوکی کول	waRookay kawúl	to shrink, make small	4	v. stat. comp. trans.	1527815403	shrink, shrinks, shrinking, shrunk, shrunken																											1
-1701935323586	وړوکی کېدل	waRookay kedúl	to shrink, become small	4	v. stat. comp. intrans.	1527815403	shrink, shrinks, shrinking, shrunk, shrunken																											1
+1527815403	وړوکی	waRóokay	little, small	4	adj.																													3
+1701935319359	وړوکی کول	waRookay kawúl	to shrink, make small	4	v. stat. comp. trans.	1527815403	shrink, shrinks, shrinking, shrunk, shrunken																											3
+1701935323586	وړوکی کېدل	waRookay kedúl	to shrink, become small	4	v. stat. comp. intrans.	1527815403	shrink, shrinks, shrinking, shrunk, shrunken																											3
 1527815404	ورته	wárta	similar, alike, comparable (ته ورته)	4	adj.																													2
 1527823714	وړکی	waRÚkay, waRUkáy	small, little; (also as a child)	4	adj.																													3
-1584518589450	ورزووند	warzowánd	hateful	2	adj.																													2
+1584518589450	ورزووند	warzowánd, warzwánd	hateful	2	adj.																													2
 1527821671	وسپنیز	waspanéez, ospanéez	iron	4	adj.																													3
 1527822835	وټیز	waTéez	economic (اقتصادي)	2	adj.																													3
 1675436853063	ویډیویي	weeDiyoyée	video ..., pertaining to video		adj.																													3
@@ -2546,14 +2546,15 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816017	ویجاړ	weejáaR	destroyed, demolished	4	adj.																													3
 1617991474774	ویلې	wéele	melted	4	adj.																													3
 1715720833190	ویلې کول	weele kawúl	to melt (causative)		v. stat. comp. trans.	1617991474774	melt																											3
-1715720835726	ویلې کېدل	weelé kedul	to melt		v. stat. comp. intrans.	1617991474774	melt																											1
-1527822633	ویلي	weelee	melted	4	adj.																													
+1715720835726	ویلې کېدل	weele kedúl	to melt		v. stat. comp. intrans.	1617991474774	melt																											3
+1527822633	ویلي	wéelee, wáylee	melted	4	adj.																													2
 1715720954509	ویلي کول	weelee kawúl, waylee kawúl	to melt (causative)		v. stat. comp. trans.	1527822633	melt																											3
 1715720960097	ویلي کېدل	weelee kedúl, waylee kedúl	to melt		v. stat. comp. intrans.	1527822633	melt																											3
 1527814036	ویړ	weeR	open, wide-open, gaping	4	adj.																													2
 1623687946876	ویرجن	weerjún	tragic, sad, mournful, regrettable	4	adj.																													3
 1527823179	ویت	weet	open, gaping, ajar	2	adj.																													3
-1527817048	ویت خوله	weet khoolá	open-mouthed, stunned, amazed, inquiring	4	adj.																													3
+1527817048	ویت خوله	weet khoolá	open-mouthed, stunned, amazed, inquiring	4	adj. / adv.								TRUE																					3
+1732782629215	ویته خوله	weeta khoolá	open-mouthed, stunned, amazed, inquiring	4	adj. / adv.								TRUE																					2
 1527817873	ویښ	weex	awake, awoken, alert, watchful, vigilant	4	adj.																													3
 1527816455	وېشلی	weshúlay	separated, divided	3	adj.																													2
 1527818913	وېزار	wezáar	fed up with, tired of, displeased with, lukewarm with	4	adj.																													2
@@ -2611,29 +2612,29 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713866542513	ښه کېدل	xu kedúl	to get well, improve		v. stat. comp. intrans.	1527812796	improve																											3
 1527820752	ښځینه	xudzeená	women’s, female, lady’s	4	adj.																													3
 1527818182	ښخ	xukh	buried, entombed; stuck in, thrust into, plunged into	4	adj.																													3
-1527819905	ښویند	xwayúnd, xwayúnd	slippery	4	adj.																													1
+1527819905	ښویند	xwayúnd, xwayúnd	slippery	4	adj.																													3
 1527819906	ښویندار	xwayundáar, xwayundáar	slippery	4	adj.																													3
-1527819904	ښوی	xwáy	smooth, slippery; fake, counterfeit, hypocritical, fraudulent; sneakily, stealthily	1	adj. / adv.																													1
-1527815498	یاد	yaad	aforementioned	3	adj.																													
-1527819950	یهودي	yahoodée	Jewish; Jew	4	adj. / n. m. anim.																													1
+1527819904	ښوی	xwáy	smooth, slippery; fake, counterfeit, hypocritical, fraudulent; sneakily, stealthily	1	adj. / adv.																													3
+1527815498	یاد	yaad	aforementioned	3	adj.																													2
+1527819950	یهودي	yahoodée	Jewish; Jew	4	adj. / n. m. anim.																													3
 1527818331	یکړ	yakáR	single, only	2	adj.																													2
-1527823757	یکي	yakee	only, just	4	adj.																													
-1527818332	یکي یو	yakee yo	sole, only, single	4	adj.				یکي یوه	yakee yawu	یکي یو	yakee yaw																						
-1527820246	یرغه	yarghá	ambling (horse or mule)	4	adj.																													
-1579831625395	یوازینی	yawaazeenáy	only, sole, single	4	adj.																													1
-1527818328	یوازېنی	yawaazenáy	only, sole, single	4	adj.																													
+1527823757	یکي	yakée	only, just	4	adj.																													2
+1527818332	یکي یو	yakee yo	sole, only, single	4	adj.				یکي یوه	yakee yawu	یکي یو	yakee yaw																						2
+1527820246	یرغه	yarghá	ambling (horse or mule)	4	adj.																													2
+1579831625395	یوازینی	yawaazeenáy	only, sole, single	4	adj.																													3
+1527818328	یوازېنی	yawaazenáy	only, sole, single	4	adj.																													2
 1527815430	یوازنی	yawaazunáy	only, unique, sole	4	adj.																													3
 1573151668550	یوکسیز	yawkaséez	for a single person	4	adj.																													2
 1527820581	یولاس	yawláas	uniting, single homogeneous, uniform, identical, agreed	4	adj.																													3
-1527811344	یومخی	yawmukhay	sincere, true, genuine; truthful person	4	adj.																													
-1590839057909	یوویشتم	yawweeshtúm	twenty-first	4	adj.																												true	2
+1527811344	یومخی	yawmúkhay	sincere, true, genuine; truthful person	4	adj.																													2
+1590839057909	یوویشتم	yawweeshtúm, yaweeshtúm	twenty-first	4	adj.																												true	2
 1586618968254	یو اوونیز	yo ownéez	weekly	3	adj.																													3
-1527820536	یوناني	yoonaanée	Greek	4	adj.																													1
+1527820536	یوناني	yoonaanée	Greek	4	adj.																													3
 1527818333	یووزری	yowazáray, yowzáray	alone, lacking a friend or partner, solitary, companion-less	4	adj.																													2
 1586429021523	ظاهري	zaahirée	external, surface	4	adj.																													3
 1527811491	ذاتي	zaatée	personal, individual; pertaining to caste	4	adj.																													3
 1527815438	ضایع	zaayí', zaay, zaayá	spoiled, wasted, lost	3	adj.																													3
-1578318352731	زایل	zaayúl	errased, self-effacing	3	adj.																													3
+1578318352731	زایل	zaayúl, zaayíl	errased, self-effacing	3	adj.																													3
 1527813379	زبان زد	zabaan zád	on everyone's lips	2	adj.																													3
 1527813378	زباني	zabaanée	oral, spoken	4	adj.																													3
 1578618090895	زبردست	zabardást	remarkable, great, splendid, lofty, immense, powerful, authoritative, skillful	2	adj.																													3
@@ -2650,8 +2651,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811628	زخمي	zakhmée	wounded, injured	4	adj.																													3
 1527815918	زلند	zalánd, záland	vicious, nasty, malicious, spiteful, tyrannical	3	adj.																													3
 1527817940	ذلیل	zaléel	disgraced, degraded, humiliated, contemptible	4	adj.																													3
-1527819650	زمیني	zameenée	of the land, terrestrial	4	adj.																													1
-1578319123789	زمنه پوهی	zamna póhay	intelligent, comprehending, conscientious	3	adj.																													1
+1527819650	زمیني	zameenée	of the land, terrestrial	4	adj.																													3
+1578319123789	زمنه پوهی	zamna póhay, zmana póhay	intelligent, comprehending, conscientious	3	adj.																													3
 1527814026	زرین	zaréen	golden	4	adj.																													3
 1527817116	زرغون	zarghóon	green, flourishing, flowering, growing; immature, unripe	3	adj.																													3
 1609780002621	زرخیز	zarkhéez	fruitful, rich (as in soil), fertile	4	adj.																													3
@@ -2676,11 +2677,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813924	زغمېدونکی	zghamedóonkay	bearable, tolerable	3	adj.																													3
 1527816774	زغرد	zghard	outspoken, frank, brave	4	adj.																													3
 1577816286639	زغروال	zghurawáal	armoured	3	adj.																													3
-1610621303111	ضدي	zidée	obstinate, stubborn, opposing, spiteful	4	adj.																													3
+1610621303111	ضدي	zidée, ziddée	obstinate, stubborn, opposing, spiteful	4	adj.																													3
 1527814790	ذهني	zihnée	mental, intellectual, psychological	4	adj.																													3
-1595517359454	زله	zilá	weary, tired	4	adj.																													1
-1527812158	ذمه بردار	zima bardáar	accountable, responsible, taking responsibility	3	adj.																													1
-1664030993279	ضمني	zimnée	implied, indirect, collateral, fortuitous, detailed	4	adj.																													1
+1595517359454	زله	zilá, zalá	weary, tired	4	adj.																													3
+1527812158	ذمه بردار	zima bardáar, zama bardáar	accountable, responsible, taking responsibility	3	adj.																													3
+1664030993279	ضمني	zimnée, zamanée	implied, indirect, collateral, fortuitous, detailed	4	adj.																													3
 1527813879	زنده	zindá	living	4	adj.																													3
 1527821143	زراعتي	ziraa'atée	agricultural, agrarian; agronomy	3	adj.																													3
 1527816903	زره پوښ	zuri póx, zura póx	armoured	3	adj.																													3
@@ -2688,9 +2689,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1584528578172	زیانمن	ziyaanmún	suffering, damaged	4	adj.																													3
 1527812093	زمنی	zmánay, zmanáy	dutiful	2	adj.																													3
 1611421327243	زموخ	zmokh, zmookh	sharp, rough, harsh, rude	2	adj.																													
-1527818800	زموخت	zmokht	rude, coarse, harsh, grumpy	3	adj.																													1
-1611421329527	زموخت	zmokht, zmookht	sharp, rough, harsh, rude	2	adj.																													
-1527821534	زمول	zmol	faded, withered, tarnished, dull, weak, powerless, helpless, numb, bed-ridden	2	adj.																													2
+1527818800	زموخت	zmokht, zamókht	rude, coarse, harsh, grumpy	3	adj.																													3
+1611421329527	زموخت	zmokht, zmookht, zamókht	sharp, rough, harsh, rude	2	adj.																													2
+1527821534	زمول	zmol, zamól	faded, withered, tarnished, dull, weak, powerless, helpless, numb, bed-ridden	2	adj.																													2
 1591870719458	زود رنجه	zood ránja	quick-tempered, hot-tempered, tochy	4	adj.																													3
 1527815451	زوړ	zoR	old	4	adj.				زاړه	zaaRu	زړ	zaR																						3
 1527816811	زورور	zorawúr	strong, mighty, powerful	4	adj.																													3
@@ -2703,18 +2704,18 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813136	زړه تورن	zRu torún	dissatisfied, indifferent, apathetic	3	adj.																													3
 1527811259	زهروي	zahrawée, zUhrawée	poisonous, toxic, venereal	3	adj.																													3
 1527814016	زلال	zuláal, ziláal	clear, pure, translucent	2	adj.																													3
-1571946216213	ظلم رسیده	zUlum raseedá	oppressed, persecuted	3	adj.																													3
+1571946216213	ظلم رسیده	zUlum raseedá, zilum raaseedá	oppressed, persecuted	3	adj.																													3
 1527820012	زړه ور	zuRa wár	brave, courageous, bold, fearless, bold	4	adj.																													3
 1527820014	زړور	zuRawár	brave, courageous (actually زړه ور)	4	adj.																													3
 1668757664361	زوړند	zwáRund	hanging	4	adj.																													3
 1527820180	زیارکښ	zyaarkáx	hard-working, industrious, laborious, painful, heavy	3	adj.																													3
-1527813053	آهسته	aahista	slow, quiet; slowly, quietly	3	adj. / adv.																													3
+1527813053	آهسته	aahistá	slow, quiet; slowly, quietly	3	adj. / adv.																													3
 1650297924157	عاجزانه	aajizaaná	humble, humbly	4	adj. / adv.																													2
 1527819818	آخر	aakhír, aakhúr	last, final; lately, at last, in recently	4	adj. / adv.																													3
 1527820764	عاقلانه	aaqilaaná	wise, sensible, intelligent, prudent	3	adj. / adv.																													3
 1527820499	عاریتاً	aariyatan	for a time, for temporary use, for rent	2	adj. / adv.																													1
-1585821362480	اکثره	aksára	most, the majority, mostly	4	adj. / adv.																													1
-1527820921	علیحده	alayhida, alaayda	separate, separately	4	adj. / adv.																													
+1585821362480	اکثره	aksára	most, the majority, mostly	4	adj. / adv.																													3
+1527820921	علیحده	alayhida, alaayda, a'liháda	separate, separately	4	adj. / adv.																													2
 1527814109	اول	awúl, awwúl	first, at first	4	adj. / adv.																													3
 1527818644	برحال	barháal	existing, current; currently, on the present	4	adj. / adv.																													2
 1527820126	برملا	barmaláa, barmláa	public, flagrant, evident; publicly	4	adj. / adv.																													2
@@ -2722,17 +2723,17 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1713817981824	بې ځای	be dzáay	out of place, improperly, incorrectly, irrelevant, incorrect, impertinent	4	adj.																													3
 1617989716527	بېځایه	bedzáaya	out of place, improperly, incorrectly, irrelevant, incorrect	4	adj. / adv.																													3
 1678446884891	بیاځلي	byaadzálee	repeat, repeatedly		adj. / adv.																													3
-1527813591	دوستانه	dostaaná	friendly, in a friendly manner	3	adj. / adv.																													1
-1527814452	ایسته	eesta	at the side of something, yonder, over there	3	adj. / adv.																													
+1527813591	دوستانه	dostaaná	friendly, in a friendly manner	3	adj. / adv.																													3
+1527814452	ایسته	éesta	at the side of something, yonder, over there	3	adj. / adv.																													2
 1623688539364	ګانګوړ	gaangóR, gaangwÚR	nasal (speaking through the nose)	3	adj. / adv.																													1
-1623688507454	ګنګوړ	gangóR, gangwÚR	nasal (speaking through the nose)	4	adj. / adv.																													1
-1527818642	غبرګ	ghbarg	double, twin, duplicate, twofold, duplex, both at once	4	adj. / adv.																													1
+1623688507454	ګنګوړ	gangóR, gangwÚR	nasal (speaking through the nose)	4	adj. / adv.																													3
+1527818642	غبرګ	ghbarg	double, twin, duplicate, twofold, duplex, both at once	4	adj. / adv.																													3
 1527816581	غیر مستقیم	ghayr-i-mUstaqéem, ghayr mUstaaqéem	indirect	3	adj. / adv.																													3
 1527820416	حاکمانه	haakimaaná	commanding, authoritative	3	adj. / adv.																													3
 1527822366	حق ناحق	haq naaháq	willy-nilly	3	adj. / adv.																													3
-1527818306	هرورځنی	harwradzanáy	daily, everyday	4	adj. / adv.																													3
-1620041996603	هوائي	hawaa`ée	air, pertaining to air/aviation; by air (adv. ie. هوایي راغلې - you came by flying)	4	adj. / adv.																													1
-1527811657	هوایي	hawaayée	air, pertaining to air/aviation; by air (adv. ie. هوایي راغلې - you came by flying)	4	adj. / adv.																													1
+1527818306	هرورځنی	harwradzanáy, harwradzináy	daily, everyday	4	adj. / adv.																													3
+1620041996603	هوائي	hawaa`ée, hawaayée	air, pertaining to air/aviation; by air (adv. ie. هوایي راغلې - you came by flying)	4	adj. / adv.																													3
+1527811657	هوایي	hawaayée	air, pertaining to air/aviation; by air (adv. ie. هوایي راغلې - you came by flying)	4	adj. / adv.																													3
 1678367487677	جابرانه	jaabiraaná	forcibly, by force, forceful		adj. / adv.																													3
 1527815475	جبري	jabrée, jibrée	forcibly, compulsory	4	adj. / adv.																													3
 1527811712	کابو	kaabóo	near, close, basically, approximately; control, check	2	adj. / adv.																													2
@@ -2759,52 +2760,52 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820490	نیمکاره	neemkaará	half-and-half, rented on a metayage basis	4	adj. / adv.																													3
 1527818245	نهایت	nihaayát, nahaayát	extremely, bound, limit; extreme, excessive	4	adj. / adv.																													3
 1579462935759	نور	noor	more, other, still, yet, various, remaining	4	adj. / adv.																													3
-1527811691	نورمال	normáal	normal	3	adj. / adv.																													3
+1527811691	نورمال	normáal, noormáal	normal	3	adj. / adv.																													3
 1678971245199	پیامبرانه	payaambaraaná	prophetic, prophetically		adj. / adv.																													3
 1527814256	پوره	poorá	full, complete, total, totally, entire	4	adj. / adv.																													3
 1527814437	په شریکه	pu sharéeka	shared, together	4	adj. / adv.																													3
 1591382269266	قابو	qaabóo	near, close, basically, approximately; control, check	3	adj. / adv. / n. f.																													3
 1578191355725	رټ	raT, ruT	obvious, evident; bold, impertinent, rude; complex, confused; completely, quite	4	adj. / adv.																													3
-1527815225	رشتیا	rishtyáa, rushtyáa	right, true, truly	4	adj. / adv.																													2
-1527815224	رښتیا	rixtyáa, ruxtyáa	right, true, truly	4	adj. / adv.																													3
-1527815228	رو	roo	slow; slowly	4	adj. / adv.																													3
+1527815225	رشتیا	rishtyáa, rushtyáa, rUshtyáa	right, true, truly	4	adj. / adv.																													2
+1527815224	رښتیا	rixtyáa, ruxtyáa, rUxtyáa	right, true, truly	4	adj. / adv.																													3
+1527815228	رو	roo, ro	slow; slowly	4	adj. / adv.																													3
 1527811327	صمیمانه	sameemaaná	sincere; sincerely, in a heartfelt manner	2	adj. / adv.																													3
 1527821877	شفاهي	shafaahée	verbal, oral; verbally, orally	3	adj. / adv.																													3
 1527815306	ستړی	stúRay	tired	4	adj. / adv.																													3
 1527811873	تار په تار	taar pu taar	seperately, apart, scattered, strew about	4	adj. / adv.																													3
 1527819029	تصادفي	tasaadUfée	by chance, coincidental, coincidentally, accidental, accidentally	3	adj. / adv.																													3
 1527811894	ټینګ	Teeng	firm, thick, strong, tough, rigid	4	adj. / adv.																													3
-1527822351	تېر و بېر	ter-U-ber	more or less suitable, approximate, changing, alternating, sooner or later	4	adj. / adv.																													
-1595515640766	تېر و بېر	ter-U-bér	more or less (suitable), sooner or later, approximate, changing	4	adj. / adv.																													1
+1527822351	تېر و بېر	ter-U-bér	more or less suitable, approximate, changing, alternating, sooner or later	4	adj. / adv.																													2
+1595515640766	تېر و بېر	ter-U-bér	more or less (suitable), sooner or later, approximate, changing	4	adj. / adv.																													3
 1527815358	ټول	Tol	all / the whole; gathered, collected; gross (as opposed to net)	4	det. / adj. / adv.																													3
 1527814904	تش	tush, tash	empty, hollow; just	4	adj. / adv.																													3
 1527813109	واقعي	waaq'ée, waaqée	really, truly, real, true	4	adj. / adv.																													3
 1527821764	وحشیانه	wahshiyaaná	wild, savage, barbaric	4	adj. / adv.																													3
-1527814561	وظیفتاً	wazeefatan	duty bound, answering the call of duty	4	adj. / adv.																													1
-1527816301	یله	yalá	free, wandering, loose, open, not serious; with nonsense, foolishly	4	adj. / adv.																													1
-1527818646	یو په دوه	yaw pu dwá	double, twofold	4	adj. / adv.																													1
+1527814561	وظیفتاً	wazeefatán	duty bound, answering the call of duty	4	adj. / adv.																													3
+1527816301	یله	yalá	free, wandering, loose, open, not serious; with nonsense, foolishly	4	adj. / adv.																													3
+1527818646	یو په دوه	yaw pu dwá	double, twofold	4	adj. / adv.																													3
 1527815428	یوازې	yawaaze	alone, only	4	adj. / adv.																													1
 1527820103	یوموټ	yawmóoT	required (as of a payment or penalty), at once, immediately, forthwith	4	adj. / adv.																													2
 1527819156	ظالمانه	zaalimaaná	cruel, cruelly, evil	4	adj. / adv.																													3
 1527818003	ضرور	zaróor	obligatory, necessary; definitely, surely	4	adj. / adv.																													3
 1527815456	زیات	zyaat	really, lots, tons, maximum, more; much, more, many, excess, most	4	adj. / adv.																													3
 1527814254	بس	bus, bas	enough, adequate, suficcient; enough, sufficient, OK, all right, that’ll do, filler word	4	adj. / interj.								TRUE																					3
-1594909066356	خوا و شا	khwaa-U-shaa	around, in the area	4	adj. / loc. adv.																													3
-1702927284023	خواوشا	khwáa`oo`shaa	around, in the area	4	adj. / loc. adv.																													3
-1527819438	لېرې	lére	far, distant, removed	3	adj. / loc. adv.																													1
-1527814605	لرې	lúre	far, distant	4	adj. / loc. adv.																													1
+1594909066356	خوا و شا	khwaa-U-sháa	around, in the area	4	adj. / loc. adv.																													3
+1702927284023	خواوشا	khwaa`oo`sháa	around, in the area	4	adj. / loc. adv.																													3
+1527819438	لېرې	lére	far, distant, removed	3	adj. / loc. adv.																													3
+1527814605	لرې	lúre	far, distant	4	adj. / loc. adv.																													3
 1527814911	نږدې	naGdé	near, close to, almost	4	adj. / loc. adv.																													1
 1527814708	نژدې	nijzdé, najzdé	close, near, soon, almost	4	adj. / loc. adv.																													1
 1702972031957	نژدې کېدل	nijzde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1527814708	approach																											1
-1527821253	نزدې	nizdé, nazdé	near, close (نژدې)	4	adj. / loc. adv.																													1
-1702972090132	نزدې کېدل	nizde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1527821253	approach																											1
-1702971971790	نېزدې	nezdé	near, close (نژدې)	4	adj. / loc. adv.																													1
-1702972103118	نېزدې کېدل	nezde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1702971971790	approach																											1
+1527821253	نزدې	nizdé, nazdé	near, close (نژدې)	4	adj. / loc. adv.																													3
+1702972090132	نزدې کېدل	nizde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1527821253	approach																											3
+1702971971790	نېزدې	nezdé	near, close (نژدې)	4	adj. / loc. adv.																													3
+1702972103118	نېزدې کېدل	nezde kedúl	to approach, come near to	4	v. stat. comp. intrans.	1702971971790	approach																											3
 1527812375	واپس	waapús	back (as in return)	4	loc. adv.																													3
 1714727245271	واپس کول	waapus kawúl	to return, give back	4	v. stat. comp. trans.	1527812375	return																											3
 1714727247558	واپس کېدل	waapus kedúl	to return, be given back, rebound	4	v. stat. comp. intrans.	1527812375	return																											3
-1579824262965	یو ځای	yo dzaay	together, in one place; at the same time	4	adj. / loc. adv.								TRUE																					1
-1527817302	یوځای	yodzáay	together, in one place	4	adj. / loc. adv.																													1
+1579824262965	یو ځای	yo dzáay	together, in one place; at the same time	4	adj. / loc. adv.								TRUE																					3
+1527817302	یوځای	yodzáay	together, in one place	4	adj. / loc. adv.																													3
 1527814716	آماده	aamaadá	ready, willing, available, prepared; fit, ripe; lending, loan	4	adj. / n. f.																													3
 1713872024023	آماده کول	aamaada kawúl	to prepare, make ready		v. stat. comp. trans.	1527814716	prepare																											3
 1713872027098	آماده کېدل	aamaada kedúl	to get ready, be prepared		v. stat. comp. intrans.	1527814716	get	ready																										3
@@ -2816,8 +2817,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1702918700883	فناه کېدل	fanaah kedúl	to pass away, to be anihilated, to perish, to be destroyed	3	v. stat. comp. intrans.	1702918058902	perish																											3
 1702918071562	فناه کول	fanaah kawúl	to anihilate	3	v. stat. comp. trans.	1702918058902	anihilate																											2
 1527811537	غوره	ghwúra	chosen, select, best, great, leading, special, top; bragging, boasting	3	adj. / n. f.																													3
-1584691050578	احاطه	ihaatá	surrounded, enclosed, encircled; encirclement, yard, courtyard	4	adj. / n. f.																													
-1527818343	اتفاقي	itifaaqée	allied, unified, in alliance, in agreement; coincidentally; unity, agreement, alliance	4	adj. / n. f.																													1
+1584691050578	احاطه	ihaatá	surrounded, enclosed, encircled; encirclement, yard, courtyard	4	adj. / n. f.																													2
+1527818343	اتفاقي	itifaaqée	allied, unified, in alliance, in agreement; coincidentally; unity, agreement, alliance	4	adj. / n. f.																													3
 1675434847665	کمیډي	kameeDée	comedy		adj. / n. f.																													2
 1527817172	ماشیني	maasheenée	mechanical, mechanized; factory; industrial	3	adj. / n. f.																													3
 1527813396	نادوده	naadóda	out of style, out of fashion, unconventional; indecency; badness, problem ??; indecent, rude, uncouth	2	adj. / n. f.																													3
@@ -2826,7 +2827,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816769	قاطع	qaatí'	decisive, categorical, crucial, outspoken, frank; intersection	4	adj. / n. f.																													2
 1576612137112	رډ	ruD	protruding (of eyes), the bugging-out, sticking out of eyes when looking wide in amazement or in insolence/stubbornness	4	adj. / n. f.																													3
 1527812338	شاهي	shaahée	kingly, royal, regal; kingdom, monarchy, sultanate, reign	4	adj. / n. f.																													3
-1577065499642	یرغه	yurgha	ambling, fast; amble	4	adj. / n. f.																													
+1577065499642	یرغه	yurghá	ambling, fast; amble	4	adj. / n. f.																													2
 1527821509	آوازدار	aawaazdáar	ringing, sounding, having sound, vowel (sound)	4	adj. / n. m.																													3
 1527823606	اځل	adzál	dead, extinct, gone; fate, doom, fortune	1	adj. / n. m.																													3
 1582316707368	عجیب	ajéeb	strange, surprising, parculiar, weird, odd	3	adj. / n. m.									عجایب	ajaayib																			3
@@ -2834,20 +2835,20 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819936	امي	amée, ammée	illiterate, uneducated	4	adj. / n. m.																													3
 1527816380	اړنګ بړنګ	aRang baRang	anxious or nervous person, worried, insecure, wavering	3	adj. / n. m.																													3
 1527814156	اشنا	ashnáa	acquaintance, friend; familiar, known	4	adj. / n. m.																													3
-1712933400228	اشنا کول	ashnaa kawúl	to familiarize, acquaint	4	v. stat. comp. trans.	1527814156	familiarize																											1
+1712933400228	اشنا کول	ashnaa kawúl	to familiarize, acquaint	4	v. stat. comp. trans.	1527814156	familiarize																											3
 1712933403345	اشنا کېدل	ashnaa kedúl	to be familiarized, acquanited, get to know	4	v. stat. comp. intrans.	1527814156	be	familiarized																										3
 1702628258973	اشنایي	ashnaayée, ashnaa`ée	acquaintance, knowledge of, familiarity with	4	adj.																													3
 1527813454	عیار	ayáar, iyáar	astute, crafty, clever, shrewd; adjustment, tweaking, tightening; assay (of precious metals); touchstone (of a jewler); standard, criterion	3	adj. / n. m.																												TRUE	3
 1595417597863	بانجاني	baanjaanée	purple, violet	4	adj. / n. m.																													3
 1527821496	بډا	baDáa	rich person, well-off, affluent	4	adj. / n. m.																													2
-1527821323	بدبین	badbéen	pessimist, distrustful, mistrustful; enemy	4	adj. / n. m.																													3
-1527818794	بدمزاجه	badmizáaja	grumbler, grumpy, aggressive, belligerent, quarrelsome person	4	adj. / n. m.																													3
+1527821323	بدبین	badbéen	pessimist, distrustful, mistrustful; enemy	4	adj. / n. m. anim. unisex																													3
+1527818794	بدمزاجه	badmizáaja, badmazáaja	grumbler, grumpy, aggressive, belligerent, quarrelsome person	4	adj. / n. m. anim. unisex																													3
 1527812166	بهر	bahár, buhár	outside	4	adj. / n. m.																													2
 1708465413541	بهر کېدل	bahar kedúl	to go outside	4	v. stat. comp. intrans.	1527812166																												3
 1708465470570	بهر وتل	bahar watúl	to go outside			1527812166																												3
 1617948732919	بېلتونپال	beltoonpáal	separatist	4	adj. / n. m. anim. unisex																													3
-1527821495	بډا	bUDáa	old, old person, aged, senior, elderly, advanced in years	4	adj. / n. m. anim. unisex																													
-1527823383	بزدل	bUzdíl	cowardly, coward	4	adj. / n. m.																													3
+1527821495	بډا	bUDáa, buDáa	old, old person, aged, senior, elderly, advanced in years	4	adj. / n. m. anim. unisex																													2
+1527823383	بزدل	bUzdíl	cowardly, coward	4	adj. / n. m. anim. unisex																													3
 1527821859	چاڼ	chaaN	subdued, soft, refined, fine; strainer, sieve	4	adj. / n. m.																													3
 1527820748	چوټ	chooT	sufficient; chintz, printed cotton	1	adj. / n. m.																													2
 1527816727	داخل	daakhíl	entering, internal, included; participation	3	adj. / n. m.																													3
@@ -2860,21 +2861,21 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817949	درینګ	dreeng	hard; firm soil, forest	2	adj. / n. m.																													3
 1527821371	دوه ګونی	dwa góonay	double-faced, two-faced; double, two-fold; two Afghanis banknote	3	adj. / n. m.																													3
 1579051083691	فاعل	faa'íl	active, doing; subject (grammar)	3	adj. / n. m.																													1
-1527822061	فاسق	faasíq	depraved, immoral, a bad Muslim, profligate, libertine	2	adj. / n. m.																													3
-1527817989	فقیر	faqéer	poor, beggar; dervish	4	adj. / n. m.																													3
-1578683981019	فدایي	fidaayée	a man sacrificing his life for something important or sacred, dedicated	3	adj. / n. m.																													3
+1527822061	فاسق	faasíq	depraved, immoral, a bad Muslim, profligate, libertine	2	adj. / n. m. anim. unisex																													3
+1527817989	فقیر	faqéer	poor, beggar; dervish	4	adj. / n. m. anim. unisex																													3
+1578683981019	فدایي	fidaayée	a man sacrificing his life for something important or sacred, dedicated	3	adj. / n. m. anim. unisex																													3
 1527819531	غیرملکي	ghayrmUlkée, ghayrimUlkée	foreign (adjective), foreigner	4	adj. / n. m.																													3
 1576374257427	غریو	ghreew	sorrowful, sorrow, poor, pathetic	2	adj. / n. m.																													1
 1527818768	ګړند	guRúnd	smart, bright, quick; oscillation	4	adj. / n. m.																													1
 1527821159	هم آهنګ	ham aaháng	harmonious, melodious; in agreement, in unity, in accord; consonant	4	adj. / n. m.																													2
 1527820886	حقپال	haqpáal	lover of truth/justice, seeker of truth/justice	4	adj. / n. m. anim. unisex																													3
 1527811529	عبارت	ibaarát	phrase, wording, expression, passage; consisting, made up of, including; meaning, term	4	adj. / n. m.																													3
-1527818281	جمهوریپال	jUmhooreepáal	republican	4	adj. / n. m. anim. unisex																													3
-1527823177	کاغ	kaagh	wise, intelligent; wise person, sensible, well-behaved	1	adj. / n. m.																													2
+1527818281	جمهوریپال	jUmhooreepáal, jumhooreepáal	republican	4	adj. / n. m. anim. unisex																													3
+1527823177	کاغ	kaagh	wise, intelligent; wise person, sensible, well-behaved	1	adj. / n. m. anim. unisex																													2
 1527822700	کنډو	kanDáw	chipped, cracked; crack, fracture	2	adj. / n. m.																													3
 1527812769	ختیځ	khatéedz	east	4	adj. / n. m.																													3
 1527814219	خپل	khpul	relative; one's own, farmiliar	4	adj. / n. m.																													1
-1527822806	خوارکی	khwaarukáy	poor, miserable, poor thing, helpless (like بې چاره)	4	adj. / n. m.																													2
+1527822806	خوارکی	khwaarukáy, khwaarakáy	poor, miserable, poor thing, helpless (like بې چاره)	4	adj. / n. m.																													2
 1527812810	خوښ	khwux, khwax	glad, pleasing, happy; pleasure, liking	4	adj. / n. m.																													3
 1527819352	کشر	kúshur, kúshar, kíshur, kíshar	younger, junior (opposite of مشر)	4	adj. / n. m. anim. unisex																													3
 1527820540	لکه دار	laka dáar	spotted, speckled, soiled; shamed; fever; typhus	3	adj. / n. m. anim. unisex																													3
@@ -2885,7 +2886,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579041804943	مفعول	maf'óol	article, item, topic, object (grammar), subject	3	adj. / n. m.																													3
 1527816571	مکار	makáar	deceitful, sly, cunning, trickster	4	adj. / n. m. anim. unisex																													3
 1527811979	معلول	malóol	disabled person, invalid, unwell, diseased; consequence, reprecussion	2	adj. / n. m.																													3
-1616270287056	منزوي	manzawée, munzawée	isolated, solitary, cloistered; recluse, hermit	4	adj. / n. m.																													
+1616270287056	منزوي	manzawée, munzawée	isolated, solitary, cloistered; recluse, hermit	4	adj. / n. m.																													2
 1527814741	مقطوع	maqto' 	cut off, amputated, felled; final, decisive (Arabic); amputee	3	adj. / n. m.																													3
 1614169856772	مزید	mazéed	more, additional, increased, added; addition, inrease	3	adj. / n. m.																													3
 1527815522	مظلوم	mazlóom	oppressed, victim	4	adj. / n. m. anim. unisex																													3
@@ -2896,14 +2897,14 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817548	محافظ	mUhaafíz	guarding, protecting, guard	4	adj. / n. m. anim. unisex																													3
 1527813969	محرر	mUharír	written up, drawn up; writer, author	4	adj. / n. m.																													3
 1527823088	مجمل	mUjmál, mUjamál	brief, concise, summary	3	adj. / n. m.																													3
-1527814360	مخالف	mUkhaalíf	opposed, opponent	3	adj. / n. m. anim. unisex																													1
+1527814360	مخالف	mUkhaalíf	opposed, opponent	3	adj. / n. m. anim. unisex																													3
 1527812023	مخاطب	mUkhaatáb, mUkaatíb	addressing (someone); the one being addressed; second-person (grammar)	4	adj. / n. m.																													3
 1527812937	مخلوط	mukhlóot	blended, mixture	2	adj. / n. m.																													3
 1527819831	ممکن	mUmkín	possible; possibility	3	adj. / n. m.									ممکنات	mUmkináat																			3
 1527821650	منحرف	mUnharíf	deviated, distracted, diverted, mislead, bent, distorted, corrupted, unhealthy, perverted; trapezium (geom.)	4	adj. / n. m.																													3
 1661534809167	منسجم	mUnsajám	coordinate, consistent	2	adj. / n. m.																													3
-1527822227	مروج	mUrawwáj, mUrawwíj	widespread, usual, common, in vogue; spreading, promoting	3	adj. / n. m.																													3
-1571526777991	مشاهد	mUshaahíd	observer, observant, watcher, witness	4	adj. / n. m.																													3
+1527822227	مروج	mUrawwáj, mUrawwíj, mUrawáj	widespread, usual, common, in vogue; spreading, promoting	3	adj. / n. m.																													3
+1571526777991	مشاهد	mUshaahíd	observer, observant, watcher, witness	4	adj. / n. m. anim. unisex.																													3
 1527817152	مشترک	mUshtarák	common, shared; partner, participator	4	adj. / n. m. anim. unisex									مشترکین	mUshtarakéen																			3
 1527812003	مصلح	mUslih	reconciling, peace-loving, improving; correcter, peace-maker, reformer	4	adj. / n. m. anim. unisex									مصلحین	mUslihéen																			
 1527815541	مسلم	mUslím	Muslim	3	adj. / n. m. anim. unisex																													3
@@ -2920,7 +2921,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821443	پیوسته ابرو	paywasta abróo	having eyebrows that are joined, unibrow	4	adj. / n. m.																													3
 1527815181	پوځي	podzée	military, army	4	adj. / n. m. anim. unisex																													3
 1527814506	قبول	qabóol	accepted, agreed, consent, acceptance, agreement	4	adj. / n. m.																													2
-1527819319	رقیق	raqéeq	fine, delicate, thin, slender; finely, delicately, elegantly; finish, stop-point	3	adj. / n. m.																													1
+1527819319	رقیق	raqéeq	fine, delicate, thin, slender; finely, delicately, elegantly; finish, stop-point	3	adj. / n. m.																													3
 1573684745428	روډه مست	roDa mást	indignant, begging, beggar	2	adj. / n. m. anim. unisex																													1
 1527818175	صادر	saadír	outstanding, issued, given, sent, dispatched, pronounced, promulgated; exported	4	adj. / n. m.									صادرات	saadiráat																			3
 1527821653	سرسپارلی	sarspaarúlay	devoted, devotee	3	adj. / n. m. anim. unisex																													3
@@ -2938,14 +2939,14 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817327	تباه کوونکی	tabaah kawóonkay	destroying, destructive, annihilating	4	adj. / n. m.																													3
 1527818799	توند خوی	toond khóoy	grumbler, grouchy, grumpy	4	adj. / n. m. anim. unisex																													3
 1527823756	تورت	toort	direct, frank or candid person	3	adj. / n. m. anim. unisex																													1
-1527822340	تورتم	tortám	darkness, complete and utter darkness, completely black	4	adj. / n. m.																													1
+1527822340	تورتم	tortám	darkness, complete and utter darkness, completely black	4	adj. / n. m.																													3
 1527813270	تروش	troosh	sour, bitter; sarcastic	4	adj.				تراشه	traashú	ترش	trash																						3
 1527822858	څپول	tsapól	curly, wavy; winnow	2	adj. / n. m.																													2
 1527814414	واحد	waahíd	one, single, sole (Arabic); unity	4	adj. / n. m.																													3
 1527820994	وهمي	wahmée	imaginary, mock, hypothetical, concoction; paranoid, worry-wart, hypochondriac	4	adj. / n. m.																													3
-1573149703220	وسله وال	wasla wáal	armed (person, fighter)	4	adj. / n. m.																													
-1527815493	وسلوال	waslawaal	armed, fighter	4	adj. / n. m. anim. unisex																													
-1527815130	وچ	wuch, wUch	dry, land, ground, arid	4	adj. / n. m.																													1
+1573149703220	وسله وال	wasla wáal	armed (person, fighter)	4	adj. / n. m. anim. unisex																													2
+1527815493	وسلوال	waslawaal	armed, fighter	4	adj. / n. m. anim. unisex																													2
+1527815130	وچ	wuch, wUch	dry, land, ground, arid	4	adj. / n. m.																													3
 1527821801	ښکېل	xkel	involved, implicated, caught; hobble	4	adj. / n. m.																													3
 1574808545774	ضابط	zaabít	orderly, self-controlled; leader, ruler, officer	4	adj. / n. m.																													3
 1714811695968	ظاهر	zaahír	revealed, evident, obvious, apparent; external, surface		adj. / n. m.									ظواهر	zawaahír																			3
@@ -2955,7 +2956,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1714811821399	ظاهره کول	zaahira kawúl	to reveal, make clear		v. stat. comp. trans.	1702926629168	reveal																											3
 1714811823565	ظاهره کېدل	zaahira kedúl	to be revealed, made clear, to appear		v. stat. comp. intrans.	1702926629168	be	revealed																										3
 1527812188	ضد	zid	opposite, against, opposed, anti, counter	2	adj. / n. m.																													3
-1527812091	ذمه وار	zima wáar	responsible person, responsible	4	adj. / n. m.																													3
+1527812091	ذمه وار	zima wáar	responsible person, responsible	4	adj. / n. m. anim. unisex																													3
 1527822551	اهل	áhul, ahl	fit, capable, worthy, proper; respectful, considerate; a member, resident, citizen, occupant (used as a prefix for Arabic religious words connecting people to certain things or belief systems)	4	adj. / n. m. / pref.																													3
 1714386960715	اهل کېدل	ahul kedúl	to qualify, become qualified		v. stat. comp. intrans.	1527822551	qualify																											3
 1622374362157	بدلمنی	badlamúnay	adulterous, adulterer, unfaithful, infedelity	4	adj. / n. m. anim. unisex																													3
@@ -2968,14 +2969,14 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1678362238519	لرغونپال	larghoonpáal	conservative, traditionalist		adj. / n. m. anim. unisex																													3
 1527814445	مامور	maamóor	officer, clerk (as in government worker); assigned, appointed, given orders or istructions (Arabic), authorized, sent on business	4	adj. / n. m. anim. unisex																													3
 1527820758	مسوول	mas'óol	responsible, accountable, in charge, person responsible, official	3	adj. / n. m. anim. unisex									مسوولین	mas'ooleen																		TRUE	3
-1586682209639	مسئول	mas'óol	responsible, person responsible, accountable, in charge, official	4	adj. / n. m. anim. unisex									مسئولین	mas'ooleen																			1
-1527816583	مسول	masóol	responsible, person responsible, accountable, in charge, official	4	adj. / n. m. anim. unisex									مسولین	masooleen																			1
-1627156157285	میین	mayeen	enamoured, in love; someone in love		adj. / n. m. anim. unisex																													
-1610541340944	ملتپال	millatpáal	nationalist	4	adj. / n. m. anim. unisex																													3
-1527820610	مسکین	miskéen, mUskéen	poor, needy, destitute, wretched	4	adj. / n. m. anim. unisex									مساکین	mUsaakéen																			3
+1586682209639	مسئول	mas'óol	responsible, person responsible, accountable, in charge, official	4	adj. / n. m. anim. unisex									مسئولین	mas'ooleen																			3
+1527816583	مسول	masóol	responsible, person responsible, accountable, in charge, official	4	adj. / n. m. anim. unisex									مسولین	masooleen																			3
+1627156157285	میین	mayeen, mayín	enamoured, in love; someone in love		adj. / n. m. anim. unisex																													2
+1610541340944	ملتپال	millatpáal, milatpáal	nationalist	4	adj. / n. m. anim. unisex																													3
+1527820610	مسکین	miskéen, mUskéen, maskéen	poor, needy, destitute, wretched	4	adj. / n. m. anim. unisex									مساکین	mUsaakéen																			3
 1593793275078	معترض	mU'taríz, mU'ataríz	objecting, opposing, interposing; protestor	4	adj. / n. m. anim. unisex									معترضین	mU'tarizéen																			3
 1527812921	مشر	máshur, múshur	elder	4	adj. / n. m. anim. unisex																													3
-1578013455681	نانی	naanáy	tiny, teensy-weensy	2	adj. / n. m. anim. unisex																													1
+1578013455681	نانی	naanáy	tiny, teensy-weensy	2	adj. / n. m. anim. unisex																													3
 1527818289	نوماند	noomáand	famous, well-known, reputed, nominated; candidate	4	adj. / n. m. anim. unisex																													3
 1527820196	پلانی	pulaanáy, plaanáy	so-and-so, such-and-such, ambiguous pronoun (فلان)	4	adj. / n. m. anim. unisex																													3
 1527820194	پلانکی	pulaankáy	so-and-so, such-and-such, ambiguous pronoun (فلان)	4	adj. / n. m. anim. unisex																													2
@@ -2986,14 +2987,14 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1585474628276	توبه ګار	toba gáar	repentant	4	adj. / n. m. anim. unisex																													3
 1527812124	وظیفه دار	wazeefa dáar	fulfilling one's duty, responsible, authorized employee, employee	4	adj. / n. m. anim. unisex																													3
 1584530715084	زندیق	zandéeq, zindíq	non-beliver (in Islam)	4	adj. / n. m. anim. unisex																													3
-1664030864502	الوتونکی	alwutóonkay	flying, something that flies, bird	4	adj. / n. m. anim. unisex.																													1
+1664030864502	الوتونکی	alwutóonkay	flying, something that flies, bird	4	adj. / n. m. anim. unisex.																													3
 1527815300	سپور	spor	mounted, rider, riding	4	adj.				سپاره	spaaru	سپر	spar																						2
 1527812559	ډېر	Der	very, lots, many	3	adj. / quant. adv.																													3
 1527818938	زده	zadá	beaten down, beaten, oppressed	4	adj. / suffix.																													1
-1527819724	زیېړ	zyeR	yellow, scab, yellowy; bronze; bile, gall, petulance, spleen	3	adj. and n. m.																													1
+1527819724	زیېړ	zyeR	yellow, scab, yellowy; bronze; bile, gall, petulance, spleen	3	adj. and n. m.																													3
 1527819225	نارینه	naareená	male, masculine, men	3	adj. and n. m. pl.																													3
-1527814253	ګډ وډ	gaD waD	mixed, intermingled, disordered, confused	4	adj. doub.																													1
-1715153766504	ګډوډول	gaDwaDawúl	to mix up, shuffle, confuse, mess up	4	v. stat. comp. trans.	1527814253	mix	up																										1
+1527814253	ګډ وډ	gaD waD	mixed, intermingled, disordered, confused	4	adj. doub.																													3
+1715153766504	ګډوډول	gaDwaDawúl	to mix up, shuffle, confuse, mess up	4	v. stat. comp. trans.	1527814253	mix	up																										3
 1715153770079	ګډوډېدل	gaDwaDedúl	to be mixed up, shuffled, confused, messed up	4	v. stat. comp. intrans.	1527814253	be	mixed up																										3
 1662621348155	خپ خپ	khap khap	stained, spotted, speckled	4	adj. doub.																													2
 1527823689	لت پت	lat pát	soiled, polluted, splashed, besmirched, defiled	4	adj. doub.																													3
@@ -3002,8 +3003,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1574867531681	پوخ	pokh	cooked, mature, ripe, ready, able, skillful, experienced, tried, tested, true	4	adj. irreg.				پاخه	paakhu	پخ	pakh																						3
 1527812899	مین	mayín	enamoured, in love (په چا باندې); someone in love	4	adj., n. m. anim. unisex																													1
 1527813110	د	du	of, 's, third person possessive / genitive marker	4	adpos.																													
-1527813550	د لاسه	du láasa	because of, on account of	4	adpos.																													1
-1527812580	د پاره	du paara	for (د ... د پاره, du … du para)	4	adpos.																													1
+1527813550	د لاسه	du láasa	because of, on account of	4	adpos.																													3
+1527812580	د پاره	du páara	for (د ... د پاره, du … du para)	4	adpos.																													3
 1527812586	دپاره	dupáara	for (د ... دپاره, du … dupara)	4	adpos.																													3
 1527812753	کې	ke	in, at په ... کې, pa … ke	1	adpos.																													3
 1578009689827	کښې	kxe	in, at په ... کې, pa … ke (کې)	4	adpos.																													3
