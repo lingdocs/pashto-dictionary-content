@@ -3016,1006 +3016,1010 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815096	نه	na	from, د ... نه, du … na	4	adpos.																													3
 1527815141	په	pu	by, for, by means of, because of, by means of, with	4	adpos.																													3
 1527813949	په لحاظ	pu liháaz	in terms of, from the viewpoint of	4	adpos.																													3
-1527814443	په مطابق	pu mUtaabíq	according to (د ... په مطابق)	4	adpos.																													1
-1527822685	په نسبت	pu nisbat	in comparison, in this connection, likening to	4	adpos.																													
-1527814319	په وړاندې	pu wRaande	in front of, opposite, before, against	4	adpos.																													
-1527813549	په وجه	pu wúja	because of, on account of	4	adpos.																													1
+1527814443	په مطابق	pu mUtaabíq	according to (د ... په مطابق)	4	adpos.																													3
+1527822685	په نسبت	pu nisbát	in comparison, in this connection, likening to	4	adpos.																													2
+1527814319	په وړاندې	pu wRáande	in front of, opposite, before, against	4	adpos.																													2
+1527813549	په وجه	pu wúja	because of, on account of	4	adpos.																													3
 1527815250	سره	sara	with, له ... سره, la … sara; together; with each other; from each other	4	adpos.																													1
 1527815320	ته	ta	to	4	adpos.																													
-1527819624	ترمنځ	tarmandz	between, among	4	adpos.																													
-1527815379	څخه	tsukha	from	3	adpos.																													
+1527819624	ترمنځ	tarmándz	between, among	4	adpos.																													2
+1527815379	څخه	tsúkha	from	3	adpos.																													2
 1527812136	تر	tur	up to, until; from; than, compared to	4	adpos.																													
-1527815384	تر ... پورې	tur ... pore	until, up to, up until	4	adpos.																													
-1527815053	ترمنځ	turmandz	between	4	adpos.																													
-1527812361	پورې	póre	up to, until, beyond, over, across, on the other side; attached; closed, shut	4	adpos. / adj.																													1
-1703659459308	پورې کول	pore kawúl	to attach, to make cross over; to shut, close	4	v. stat. comp. trans.	1527812361	attach																											1
-1614083674358	عاجلانه	aajilaana	hurridly, urgently	4	adv.																													
+1527815384	تر ... پورې	tur ... póre	until, up to, up until	4	adpos.																													2
+1527815053	ترمنځ	turmándz	between	4	adpos.																													2
+1527812361	پورې	póre	up to, until, beyond, over, across, on the other side; attached; closed, shut	4	adpos. / adj.																													3
+1703659459308	پورې کول	pore kawúl	to attach, to make cross over; to shut, close	4	v. stat. comp. trans.	1527812361	attach																											3
+1614083674358	عاجلانه	aajilaaná	hurridly, urgently	4	adv.																													2
 1527823176	آخود	aakhwad	surely, naturally, independently	1	adv.																													
-1527821666	آمرانه	aamuraana	magisterial, authoritative	4	adv.																													
+1527821666	آمرانه	aamuraaná, aamraaná	magisterial, authoritative	4	adv.																													2
 1527811244	آن	aan	even, even up to, as far as, right up to, precisely	4	adv.																													3
-1576439306974	ابرومندانه	abroomandaana	honourably	4	adv.																													
+1576439306974	ابرومندانه	abroomandaaná	honourably	4	adv.																													2
 1527823047	اچانک	achaanak	suddenly, unexpectedly, all of a sudden	4	adv.																													1
-1527817953	اګاهانه	agaahaana	consciously, (doing something) while being informed	4	adv.																													
-1527823634	احیاناً	ahiyaanan	if it so happens that..., possibly	3	adv.																													
-1527822184	اخلاقاً	akhlaaqan	morally, ethically	3	adv.																													
+1527817953	اګاهانه	agaahaaná	consciously, (doing something) while being informed	4	adv.																													2
+1527823634	احیاناً	ahiyáanan	if it so happens that..., possibly	3	adv.																													2
+1527822184	اخلاقاً	akhlaaqan	morally, ethically	3	adv.																													2
 1671209066809	علانیه	aláaniya	publicly, openly		adv.																													
-1645041265197	علناً	alanan	publicly, openly	4	adv.																													
-1527812448	البته	albatta	of course, certainly	4	adv.																													
-1527823390	عمداً	amadan	deliberately, intentionally, on purpose	2	adv.																													
-1566476668924	عملاً	amalán	practically, in practice	3	adv.																													
+1645041265197	علناً	alanan	publicly, openly	4	adv.																													2
+1527812448	البته	albátta, albáta	of course, certainly	4	adv.																													2
+1527823390	عمداً	amadan	deliberately, intentionally, on purpose	2	adv.																													2
+1566476668924	عملاً	amalán	practically, in practice	3	adv.																													2
 1527811243	ان	an	even, even up to, as far as, right up to, precisely	4	adv.																													1
-1527818655	عن	an	right up to, even; exactly, directly	2	adv.																													
-1584515639723	اقلاً	aqalan	at least	4	adv.																													
-1527822699	اساساً	asaasan	actually, in fact	3	adv.																													
-1527812457	اصلاً	aslan	actually	4	adv.																													
+1527818655	عن	a'n	right up to, even; exactly, directly	2	adv.																													2
+1584515639723	اقلاً	aqalan	at least	4	adv.																													2
+1527822699	اساساً	asaasan	actually, in fact	3	adv.																													2
+1527812457	اصلاً	aslan	actually	4	adv.																													2
 1527812462	او	aw	yes	4	adv.																													1
-1527818438	با عزت	baa izzat	with dignity, respectfully	4	adv.																													
-1527812472	بار بار	baar baar	again and again, often	4	adv.																													1
-1575239139152	باره	baara	again	4	adv.																													
-1527823364	باوجود	baawujood	in spite of, despite, notwithstading	4	adv.																													
-1527812474	باید	baayid, baayad	must, have to, need to	4	adv.																													
+1527818438	با عزت	baa i'zzát	with dignity, respectfully	4	adv.																													2
+1527812472	بار بار	baar baar	again and again, often	4	adv.																													3
+1575239139152	باره	baará	again	4	adv.																													2
+1527823364	باوجود	baawujóod, baawUjóod	in spite of, despite, notwithstading	4	adv.																													2
+1527812474	باید	baayid, baayad	must, have to, need to	4	adv.																													2
 1527812477	بعد	bad	after	4	adv.																													1
-1578330078760	بدبد	badbad, budbud	badly, bad	4	adv.																													
-1527815997	بدبختانه	badbakhtaana	unfortunately	4	adv.																													
-1527823024	بغیر	bagháyr	besides, except for, without (د دې نه بغير)	4	adv.																													1
+1578330078760	بدبد	badbad, budbud	badly, bad	4	adv.																													2
+1527815997	بدبختانه	badbakhtaaná	unfortunately	4	adv.																													2
+1527823024	بغیر	bagháyr	besides, except for, without (د دې نه بغير)	4	adv.																													3
 1527812498	بلې	băle	yes (from Farsi)	4	adv.																													
-1527823029	برالا	baraalaa	evident, open, manifestly, frankly	4	adv.																													
-1585835393077	برایي	baraayée	last night	2	adv.																													
-1527819392	برسېره	barséra	moreover, besides, in addition to, apart from, over, above, more than, on top of	4	adv.																													
-1527813061	بې درنګه	be diranga	quickly, without delay	3	adv.																													
-1527813034	بې ځنډه	be dzunDa	without delay, quickly	3	adv.																													
-1527813043	بې له ټاله	be la Taala	without delay, immediately	2	adv.																													
-1527815532	بې شک	be shák	undoubtably, absolutely, without doubt, of course	4	adv.																													1
-1527815533	بې شکه	be sháka	undoubtably, absolutely, without doubt, of course	4	adv.																													1
-1527818774	بې شبهه	be shÚbha	without a doubt, undoubtedly, certain	4	adv.																													
-1527818439	بېګا	begaa	last night, yesterday evening; this evening, dusk	4	adv.																													
+1527823029	برالا	baraaláa	evident, open, manifestly, frankly	4	adv.																													2
+1585835393077	برایي	baraayée	last night	2	adv.																													2
+1527819392	برسېره	barséra	moreover, besides, in addition to, apart from, over, above, more than, on top of	4	adv.																													2
+1527813061	بې درنګه	be diránga	quickly, without delay	3	adv.																													2
+1527813034	بې ځنډه	be dzúnDa	without delay, quickly	3	adv.																													2
+1527813043	بې له ټاله	be la Táala	without delay, immediately	2	adv.																													2
+1527815532	بې شک	be shák	undoubtably, absolutely, without doubt, of course	4	adv.																													3
+1527815533	بې شکه	be sháka	undoubtably, absolutely, without doubt, of course	4	adv.																													3
+1527818774	بې شبهه	be shUbhá	without a doubt, undoubtedly, certain	4	adv.																													2
+1527818439	بېګا	begáa	last night, yesterday evening; this evening, dusk	4	adv.																													2
 1527822788	بېګاته	begáata	tonight, this evening	4	adv.																													
-1527812496	بېخي	bekhee	completely, totally	3	adv.																													
-1527812504	بېرته	berta	back (as in go back, give back etc.)	4	adv.																													
-1527818586	بلا استثنیٰ	bilaa istisnaa	without exception	3	adv.																													
-1527813259	بالاخره	bilaakhira	finally, at last (Arabic)	4	adv.																													
+1527812496	بېخي	bekhée	completely, totally	3	adv.																													2
+1527812504	بېرته	bérta	back (as in go back, give back etc.)	4	adv.																													2
+1527818586	بلا استثنیٰ	bilaa istisnáa	without exception	3	adv.																													2
+1527813259	بالاخره	bilaakhirá	finally, at last (Arabic)	4	adv.																													2
 1527823633	بالفرض	bilfárz	let’s suppose, supposing, supposedly	4	adv.																													
-1527819385	بالخصوص	bilkhUsóos	especially, in particular	4	adv.																													
-1527823385	بزدلانه	bUzdilaana	cowardly	4	adv.																													
-1527812520	بیا	byaa	again	4	adv.																													1
-1527816043	بیا هم	byaa hum, byaa ham	still, even so	4	adv.																													1
-1527818081	بیاهم	byaahum	still, even so, yet	4	adv.																													
-1527816310	چاپېر	chaapér	round about, around	3	adj. / adv.																													
-1716309894032	چاپېرول	chaaperawúl	to surround, encircle, wind around		v. stat. comp. trans.	1527816310	surround																											
-1716309899152	چاپېرېدل	chaaperedúl	to be surrounded, encircled, wound around		v. stat. comp. intrans.	1527816310	be	surrounded																										
-1527817350	چاپېره	chaapéra	around, surrounding, encompassing	3	adj. / adv.																													
-1716309903980	چاپېره کول	chaapera kawúl	to surround, encircle, wind around		v. stat. comp. trans.	1527817350	surround																											1
-1716309909927	چاپېره کېدل	chaapera kedúl	to be surrounded, encircled, wound around		v. stat. comp. intrans.	1527817350	be	surrounded																										
-1588781449015	چار چاپېره	chaar chaapéra	around, surrounding, encompassing	4	adv.																													1
-1527813595	چندان	chandaan	such, as much, so much, much, as much as, until	2	adv.																													
-1660566212207	چورلټ	choorláT	completely, totally, wholly	4	adv.																													
-1527820750	چوټ انداز	choT andaaz, chooT andaaz ??	at random, haphazardly	2	adv.																													
-1527811233	ډاګه	Daaga	openly, frankly	3	adv.																													
-1593176318060	ډانګ پېیلی	Daang pe`yúlay	openly, direct	4	adv.																													
-1527812321	داسې	dáase	such, like this, like that, in that way	4	adv. / det.																													1
-1588073608418	دفعتاً	daf'atan	suddenly, immediately, at once, currently	4	adv.																													
-1527817032	دغومره	daghaoomra	that much, so much, so much as	3	adv.																													
-1527813653	دغسې	daghase	just such, just like this, just like that, in just that way	3	adv. / det.																													
-1662099972424	دلې	dalé	here	2	adv.																													
+1527819385	بالخصوص	bilkhUsóos	especially, in particular	4	adv.																													2
+1527823385	بزدلانه	bUzdilaaná	cowardly	4	adv.																													2
+1527812520	بیا	byaa	again	4	adv.																													3
+1527816043	بیا هم	byaa hum, byaa ham	still, even so	4	adv.																													3
+1527818081	بیاهم	byaahum	still, even so, yet	4	adv.																													2
+1527816310	چاپېر	chaapér	round about, around	3	adj. / adv.																													2
+1716309894032	چاپېرول	chaaperawúl	to surround, encircle, wind around		v. stat. comp. trans.	1527816310	surround																											2
+1716309899152	چاپېرېدل	chaaperedúl	to be surrounded, encircled, wound around		v. stat. comp. intrans.	1527816310	be	surrounded																										2
+1527817350	چاپېره	chaapéra	around, surrounding, encompassing	3	adj. / adv.																													2
+1716309903980	چاپېره کول	chaapera kawúl	to surround, encircle, wind around		v. stat. comp. trans.	1527817350	surround																											3
+1716309909927	چاپېره کېدل	chaapera kedúl	to be surrounded, encircled, wound around		v. stat. comp. intrans.	1527817350	be	surrounded																										2
+1588781449015	چار چاپېره	chaar chaapéra	around, surrounding, encompassing	4	adv.																													3
+1527813595	چندان	chandáan	such, as much, so much, much, as much as, until	2	adv.																													2
+1660566212207	چورلټ	choorláT	completely, totally, wholly	4	adv.																													2
+1527820750	چوټ انداز	choT andáaz, chooT andáaz	at random, haphazardly	2	adv.																													2
+1527811233	ډاګه	Dáaga	openly, frankly	3	adv.																													2
+1593176318060	ډانګ پېیلی	Daang pe`yúlay	openly, direct	4	adv.																													2
+1527812321	داسې	dáase	such, like this, like that, in that way	4	adv. / det.																													3
+1588073608418	دفعتاً	dáf'atan	suddenly, immediately, at once, currently	4	adv.																													2
+1527817032	دغومره	daghaóomra	that much, so much, so much as	3	adv.																													2
+1527813653	دغسې	dághase	just such, just like this, just like that, in just that way	3	adv. / det.																													2
+1662099972424	دلې	dalé	here	2	adv.																													2
 1662100000870	دلې دورې	dale doore	here and there	4	adv.																													
-1527815959	دم درحال	dam dărhaal	in an instant, in a flash, at once	2	adv.																													
-1527815963	دم دستي	dam dastee	now, at this moment	3	adv.																													
-1527822405	دم په دم	dám pu dam	every moment, constantly	3	adv.																													
-1527816658	دم په دستي	dam pu dastee	immediately, at once, right away	2	adv.																													
-1527815951	دم پدم	dam pudam	constantly, every instant	4	adv.																													
-1527819158	دقیقاً	daqeeqan	exactly, precisely	4	adv.																													
-1527817376	درڅخه	dărtsukha	from you	4	adv.																													
-1527821332	دست بسته	dast bastá	respectfully	3	adv.																													
-1667316280185	ډېر کله	Der kala	often	4	adv.																													
-1527823755	دوباره	doobaará	again, once more	4	adv.																													1
-1714728942265	دوباره کول	doobaara kawúl	to redo, repeat, do again, do over again	4	v. dyn. comp. trans.	1527823755	redo,redoes,redoing,redid,redone																											1
+1527815959	دم درحال	dam darháal	in an instant, in a flash, at once	2	adv.																													2
+1527815963	دم دستي	dam dastée	now, at this moment	3	adv.																													2
+1527822405	دم په دم	dam pu dam	every moment, constantly	3	adv.																													2
+1527816658	دم په دستي	dam pu dastée	immediately, at once, right away	2	adv.																													2
+1527815951	دم پدم	dam pudam	constantly, every instant	4	adv.																													2
+1527819158	دقیقاً	daqeeqan	exactly, precisely	4	adv.																													2
+1527817376	درڅخه	dartsukha	from you	4	adv.																													2
+1527821332	دست بسته	dast bastá	respectfully	3	adv.																													2
+1667316280185	ډېر کله	Der kala	often	4	adv.																													2
+1527823755	دوباره	doobaará	again, once more	4	adv.																													3
+1714728942265	دوباره کول	doobaara kawúl	to redo, repeat, do again, do over again	4	v. dyn. comp. trans.	1527823755	redo,redoes,redoing,redid,redone																											3
 1575236274891	دوري	dóoree	this way, here, over there	3	adv.																													
 1527814268	درېغی	dreghay	unfortunately, regretfully	2	adv.																													
-1527812572	د ... په شان	du ... pu shaan	like ... (in comparison)	4	adv.																													
-1527813772	د بېلګې په توګه	du belge pu toga	for example	4	adv.																													
-1527818039	د بده مرغه	du buda murgha	unfortunately	4	adv.																													
-1527819455	د دې له کبله	du de la kabala	because of this	3	adv.																													
-1527819899	د استدراج په توګه	du istidraaj pu toga	gradually	2	adv.																													
-1527822222	د پاسه	du páasa	above	4	adv.																													1
-1527813588	د ساري په توګه	du saaree pu toga	for instance, for example	2	adv.																													
-1527818040	د ښه مرغه	du xu murgha	fortunately	4	adv.																													
-1527816912	دباندي	dubaandee	outside, outside of, beyond	3	adv.																													
-1664091923484	دمخه	dumúkha	in front of, before, previously	4	adv.																													
-1527821919	دستي	dustée	immediately, right away, instantly	3	adv.																													
-1527813038	دواره	duwaara	at once, suddenly, all of a sudden	3	adv.																													
-1527819269	ځانله	dzaanla	individually, separately, apart	4	adv.																													
-1527817342	ځیر	dzeer	scrutiny, deliberation, intent; carefully, watchfully, intently (as in looking at somebody intently – چا ته په ځير کتل)	3	adv.																													
-1527823758	ایکي	eekee	only, just	4	adv.																													
-1527818323	ایله	eelá	barely, just, scarcely, only, merely	4	adv.																													
-1527821224	فقط	faqát	only, just, uniquely, that’s all, the end	3	adv.																													
-1527818697	فراموش	faraamosh, faraamoosh	forgotten	3	adv.																													
-1527818056	فی الحال	fi lháal	now, presently, currently, right now, for now, at once, immediately	3	adv.																												true	
-1527816656	فعلاً	fi'lan	now, presently, currently, right now, for now	3	adv.																													
-1527823722	فوراً	foran, fauran	right away, immediately, at once, urgently	4	adv.																													1
-1527814881	فوري	foree, fauree	urgently, sudden	3	adv.																													
+1527812572	د ... په شان	du ... pu shaan	like ... (in comparison)	4	adv.																													2
+1527813772	د بېلګې په توګه	du belge pu toga	for example	4	adv.																													2
+1527818039	د بده مرغه	du buda murgha	unfortunately	4	adv.																													2
+1527819455	د دې له کبله	du de la kabala	because of this	3	adv.																													2
+1527819899	د استدراج په توګه	du istidraaj pu toga	gradually	2	adv.																													2
+1527822222	د پاسه	du páasa	above	4	adv.																													3
+1527813588	د ساري په توګه	du saaree pu toga	for instance, for example	2	adv.																													2
+1527818040	د ښه مرغه	du xa murgha	fortunately	4	adv.																													2
+1527816912	دباندي	dubáandee	outside, outside of, beyond	3	adv.																													2
+1664091923484	دمخه	dumúkha	in front of, before, previously	4	adv.																													2
+1527821919	دستي	dustée	immediately, right away, instantly	3	adv.																													2
+1527813038	دواره	duwaara	at once, suddenly, all of a sudden	3	adv.																													2
+1527819269	ځانله	dzáanla	individually, separately, apart	4	adv.																													2
+1527817342	ځیر	dzeer	scrutiny, deliberation, intent; carefully, watchfully, intently (as in looking at somebody intently – چا ته په ځير کتل)	3	adv.																													2
+1527823758	ایکي	eekée, yakée	only, just	4	adv.																													2
+1527818323	ایله	eelá	barely, just, scarcely, only, merely	4	adv.																													2
+1527821224	فقط	faqát	only, just, uniquely, that’s all, the end	3	adv.																													2
+1527818697	فراموش	faraamósh	forgotten	3	adv.																													2
+1527818056	فی الحال	fi lhaal	now, presently, currently, right now, for now, at once, immediately	3	adv.																												true	2
+1527816656	فعلاً	fi'lan	now, presently, currently, right now, for now	3	adv.																													2
+1527823722	فوراً	foran, fauran	right away, immediately, at once, urgently	4	adv.																													3
+1527814881	فوري	forée, faurée	urgently, sudden	3	adv.																													2
 1527818671	ګاهې	gaahe	once, ever, anytime, sometimes, now and then	4	adv.																													
 1610800612067	ګنې	gane	as if, like, seemingly; or else, otherwise	4	adv.																													
 1610800613765	ګڼې	gaNe	as if, like, seemingly; or else, otherwise	4	adv.																													
 1591984859456	ګڼې	gaNé	perhaps, really?	4	adv.																													
 1527817351	ګرد چاپېره	gard chaapera	around, surrounding, encompassing	4	adv.																													
 1527818049	غافلانه	ghaafilaana	foolishly, ignorantly, carelessly (often religious, ignoring eternal consequences)	3	adv.																													
-1527818524	غالباً	ghaaliban	probably, in all probability, most likely	2	adv.																													1
-1576103092146	غیر اختیاري	ghayr ikhtiyaaree	involuntarily, unintentionally	4	adv.																													
-1576104020648	غیر ارادي	ghayr iraadee	involuntarily, unintentionally	3	adv.																													
+1527818524	غالباً	ghaaliban	probably, in all probability, most likely	2	adv.																													3
+1576103092146	غیر اختیاري	ghayr ikhtiyaarée	involuntarily, unintentionally	4	adv.																													2
+1576104020648	غیر ارادي	ghayr iraadée	involuntarily, unintentionally	3	adv.																													2
 1527817895	ګوندې	goonde	maybe, perhaps, possibly, apparently	4	adv.																													
-1527822392	ګوټ ګوټ	gooT gooT	all over, in every corner	4	adv.																													
-1527818249	ګویا	goyaa, gooyaa	as if, as though, like, as if it was, it seems, perhaps	4	adv.																													
-1527823338	هاغومره	haaghoomra	that much, so much (هغومره)	3	adv.																													
+1527822392	ګوټ ګوټ	gooT gooT	all over, in every corner	4	adv.																													2
+1527818249	ګویا	goyáa, gooyáa	as if, as though, like, as if it was, it seems, perhaps	4	adv.																													2
+1527823338	هاغومره	haaghóomra	that much, so much (هغومره)	3	adv.																													2
 1527812322	هاسې	haase	just, just because; in vain, for no reason, to no avail	3	adv.																													
-1527812324	هاسې په هاسې	haase pu haase	in vain, to no avail	3	adv.																													
-1586340494373	حد اقل	had-i-aqul	at least, minimum (from Farsi)	3	adv.																													
-1527812419	هډو	haDo	fully, quite	2	adv.																													
-1527823533	هغلته	haghalta	there, in that place, thence	4	adv.																													
+1527812324	هاسې په هاسې	haase pu haase	in vain, to no avail	3	adv.																													2
+1586340494373	حد اقل	had-i-aqúl	at least, minimum (from Farsi)	3	adv.																													2
+1527812419	هډو	haDó, haDóo	fully, quite	2	adv.																													2
+1527823533	هغلته	haghalta	there, in that place, thence	4	adv.																													2
 1527820737	هغسې	haghase	in that way, just like that, just such	4	adv. / det.																													1
-1527823339	هغومره	haghoomra	that much, so much	4	adv.																													
-1527813261	هله	hala	at that time (used in correspondence with کله), in that case, then	4	adv.																													
-1527811360	هم مهاله	ham maháala	at the same time, simultaneous	3	adv.																													1
-1527812278	هماغه	hamaagha	exactly that	4	adv.																													
+1527823339	هغومره	haghóomra	that much, so much	4	adv.																													2
+1527813261	هله	hála	at that time (used in correspondence with کله), in that case, then	4	adv.																													2
+1527811360	هم مهاله	ham maháala	at the same time, simultaneous	3	adv.																													3
+1527812278	هماغه	hamáagha	exactly that	4	adv.																													2
 1527811781	هماغومره	hamaaghaoomra, humaaghaoomra	in the same degree, insofar as, in the same measure	4	adv.																													
-1527814067	همدا	hamdaa	this very	4	adv.																													
-1527815719	همدارنګه	hamdaaranga	in this way, in the same way, in just this way	3	adv.																													
-1527817157	همداسې	hamdaase	just like that, in just that manner	4	adv.																													
+1527814067	همدا	hamdáa	this very	4	adv.																													2
+1527815719	همدارنګه	hamdáaranga	in this way, in the same way, in just this way	3	adv.																													2
+1527817157	همداسې	hamdáase	just like that, in just that manner	4	adv.																													2
 1527813200	همدومره	hamdoomra	just so much, exactly this much, only	4	adv.																													
-1571626944932	همېش	hamésh	always, forever	4	adv.																													
-1527821252	همېشه	hamesha	always, constantly, eternally	4	adv.																													
+1571626944932	همېش	hamésh	always, forever	4	adv.																													2
+1527821252	همېشه	hameshá	always, constantly, eternally	4	adv.																													2
 1527816088	همیشه	hamayshá	always, at all times	4	adv.																													1
-1585489925980	هنوز	hanóoz	yet, still, hitherto	3	adv.																													
-1527812665	هر کله	hăr kala	any time	4	adv.																													1
-1527818185	هرچرته	hărcharta	wherever	4	adv.																													
-1527818118	هرځای	hărdzaay	everywhere, every place	4	adv.																													
-1527821294	هرګز	hărgíz	never, not at all	3	adv.																													
-1572991416788	هرو مرو	haroo maroo	definately, for sure, I'll bet, certainly	4	adv.																													
-1527812670	هسې	háse	just, basically; like that, such	3	adv. / det.																													1
-1527812671	حتماً	hatman	definitely	4	adv.																													
-1575642923868	حتیٰ	hattaa	even, in fact	3	adv.																													
-1527822114	هیله بیله	heela beela	barely, scarcely, just, hardly ever; just, so much; in vain, for naught, for no reason	3	adv.																													
-1527812371	هیڅ کله	heets kala	never	3	adv.																													
+1585489925980	هنوز	hanóoz	yet, still, hitherto	3	adv.																													2
+1527812665	هر کله	hár kala	any time	4	adv.																													3
+1527818185	هرچرته	hárcharta	wherever	4	adv.																													2
+1527818118	هرځای	hárdzaay	everywhere, every place	4	adv.																													2
+1527821294	هرګز	hárgíz	never, not at all	3	adv.																													2
+1572991416788	هرو مرو	haroo maroo	definately, for sure, I'll bet, certainly	4	adv.																													2
+1527812670	هسې	háse	just, basically; like that, such	3	adv. / det.																													3
+1527812671	حتماً	hatmán	definitely	4	adv.																													2
+1575642923868	حتیٰ	hattáa	even, in fact	3	adv.																													2
+1527822114	هیله بیله	heela beela	barely, scarcely, just, hardly ever; just, so much; in vain, for naught, for no reason	3	adv.																													2
+1527812371	هیڅ کله	héets kala	never	3	adv.																													2
 1675148946323	هېڅکله	hetskala	never		adv.																													
-1527816949	هومره	hoomra	as much as	4	adv.																													
-1586453865821	هم مهاله	hum mahaala	at the same time	4	adv.																													
-1527812683	هم	hum, ham, hUm	also, too, as well, even more	4	adv.																													1
+1527816949	هومره	hóomra	as much as	4	adv.																													2
+1586453865821	هم مهاله	hum maháala	at the same time	4	adv.																													2
+1527812683	هم	hum, ham, hUm	also, too, as well, even more	4	adv.																													3
 1588758395153	همغسې	humaghase	just like that (abrev. of هم هغسې)	4	adv.																													
-1527811986	همداراز	humdaaraaz	similarly	3	adv.																													
-1622875116871	همدغسې	humdaghase	just like that/this (abrev of هم دغسې)	4	adv.																													
-1527811735	هنرمندانه	hUnarmandaana	artistically, skillfully	4	adv.																													
-1527821743	ابتداً	ibtidán	at first	3	adv.																													
-1585821444042	اتفاقاً	itifáaqan	accidentally, by chance; unanimously, by consensus	4	adv.																													1
-1566477540941	جمعاً	jam'an	totally, wholly, all together	4	adv.																													
-1611401028364	جسماً	jismán	physically	4	adv.																													
-1527812721	ژر	jzur	quickly, fast	4	adv.																													
-1527812138	ژر تر ژره	jzur tur jzura	as fast as possible, as quickly as possible, immediately	4	adv.																													
-1527819758	کاملاً	kaamilan	totally, fully, completely	4	adv.																													
-1527822679	کامیابانه	kaamyaabaana	successfully	4	adv.																													
-1571526377164	کډن	kaDún	with a family, having a family	2	adv.																													
-1527812743	کله	kála	when, sometimes	4	adv.																													1
-1527820205	کله ناکله	kála naakala	sometimes	4	adv.																													1
-1527823027	کم از کم	kam az kam	at least	3	adv.																													
-1527817845	کټ مټ	kaT maT, kuT muT	exactly, precisely, as is	4	adv.																													
-1527812428	کټمټ	kaTmaT, kuTmuT	exactly, precisely, as is	4	adv.																													
-1527819967	خامخا	khaamakhaa	definitely, for sure, whether someone wants or not, willy-nilly (this last use more in Urdu)	3	adv.																													
-1527821015	خاصکر	kháaskar	especially, in particular	4	adv.																													1
-1527821734	خاصتاً	kháassatan	especially	3	adv.																													1
+1527811986	همداراز	humdáaraaz	similarly	3	adv.																													2
+1622875116871	همدغسې	humdághase	just like that/this (abrev of هم دغسې)	4	adv.																													2
+1527811735	هنرمندانه	hUnarmandaaná	artistically, skillfully	4	adv.																													2
+1527821743	ابتداً	ibtidán, abtadán	at first	3	adv.																													2
+1585821444042	اتفاقاً	itifáaqan	accidentally, by chance; unanimously, by consensus	4	adv.																													3
+1566477540941	جمعاً	jam'án	totally, wholly, all together	4	adv.																													2
+1611401028364	جسماً	jismán	physically	4	adv.																													2
+1527812721	ژر	jzur	quickly, fast	4	adv.																													2
+1527812138	ژر تر ژره	jzúr tur jzura	as fast as possible, as quickly as possible, immediately	4	adv.																													2
+1527819758	کاملاً	kaamilán	totally, fully, completely	4	adv.																													2
+1527822679	کامیابانه	kaamyaabaaná	successfully	4	adv.																													2
+1571526377164	کډن	kaDún	with a family, having a family	2	adv.																													2
+1527812743	کله	kála	when, sometimes	4	adv.																													3
+1527820205	کله ناکله	kála naakala	sometimes	4	adv.																													3
+1527823027	کم از کم	kam az kam	at least	3	adv.																													2
+1527817845	کټ مټ	kaT maT, kuT muT	exactly, precisely, as is	4	adv.																													2
+1527812428	کټمټ	kaTmaT, kuTmuT	exactly, precisely, as is	4	adv.																													2
+1527819967	خامخا	khaamakhaa	definitely, for sure, whether someone wants or not, willy-nilly (this last use more in Urdu)	3	adv.																													2
+1527821015	خاصکر	kháaskar, khaaskár	especially, in particular	4	adv.																													3
+1527821734	خاصتاً	kháassatan	especially	3	adv.																													3
 1527811333	خلاملا	khalaamaláa	sincere, frank, open	1	adv.																													1
-1527822660	خود به خود	khood ba khood	automatically, on one’s own, on it’s own	3	adv.																													
-1527818710	خوشبختانه	khooshbakhtaana	fortunately, luckily, thankfully	4	adv.																													
-1527813323	خوشبختانه	khoshbakhtaana	fortunately, luckily	4	adv.																													
-1527818709	خصوصاً	khUsoosan	in particular, especially	4	adv.																													
-1527814166	خوا په خوا	khwaa pu khwaa	side by side	3	adv.																													
+1527822660	خود به خود	khood ba khood	automatically, on one’s own, on it’s own	3	adv.																													2
+1527818710	خوشبختانه	khooshbakhtaaná	fortunately, luckily, thankfully	4	adv.																													2
+1527813323	خوشبختانه	khoshbakhtaaná	fortunately, luckily	4	adv.																													2
+1527818709	خصوصاً	khUsóosan	in particular, especially	4	adv.																													2
+1527814166	خوا په خوا	khwaa pu khwaa	side by side	3	adv.																													2
 1527819360	خواته	khwaata	towards (د چا خوا ته)	4	adv.																													
 1527822286	کلاً	kUllan	totally, entirely	1	adv.																													
-1527814270	له بده مرغه	la buda margha, la buda murgha	unfortunately, regretfully	4	adv.																													
-1527822765	له واره	la waara	suddenly, immediately, instantly, at once	3	adv.																													
-1527811270	له ورا	la wráa	from a distance, from afar, distantly	4	adv.																													1
-1527811269	له ورایه	la wráaya, la weráya	from afar, clearly, apparent	4	adv.																													1
-1527819419	لاهم	laahum	still	4	adv.																													
+1527814270	له بده مرغه	la buda margha, la buda murgha	unfortunately, regretfully	4	adv.																													2
+1527822765	له واره	la wáara	suddenly, immediately, instantly, at once	3	adv.																													2
+1527811270	له ورا	la wráa	from a distance, from afar, distantly	4	adv.																													3
+1527811269	له ورایه	la wráaya, la weráya	from afar, clearly, apparent	4	adv.																													3
+1527819419	لاهم	laahúm	still	4	adv.																													2
 1527811423	لاندې	láande	below, beneath	4	adv.																													1
-1527820440	لاپسې	laapasé	all the more, still more	4	adv.																													
-1527813650	لکه	lăka	like, as, similar to; spot, stain	4	adv.																													1
-1527814711	لنډ پر لنډه	lanD par lanDa	soon, very soon, shortly	4	adv.																													
-1573149071525	لروبر	larobar	up and down, all over, encompassing the whole geographic range (of a country/land)	4	adv.																													
-1527812866	لږترلږه	luGturluGa	at least	4	adv.																													
-1527818669	ماشومانه	maashoomaana, maashoomaana	childishly, childish	3	adv. / adj.																													
-1527821752	ماسوا	maasiwáa	except for, excepting, with the exception of	3	adv.																													
+1527820440	لاپسې	laapasé	all the more, still more	4	adv.																													2
+1527813650	لکه	láka	like, as, similar to; spot, stain	4	adv.																													3
+1527814711	لنډ پر لنډه	lanD par lanDa	soon, very soon, shortly	4	adv.																													2
+1573149071525	لروبر	larobar	up and down, all over, encompassing the whole geographic range (of a country/land)	4	adv.																													2
+1527812866	لږترلږه	luGturlúGa	at least	4	adv.																													2
+1527818669	ماشومانه	maashoomaaná, maashoomaaná	childishly, childish	3	adv. / adj.																													2
+1527821752	ماسوا	maasiwáa	except for, excepting, with the exception of	3	adv.																													2
 1527818054	مازې	máaze	merely, only, just (محض)	3	adv.																													
-1527815514	مخصوصاً	makhsoosan	especially, particularly	4	adv.																													
-1527812890	معمولاً	mamoolan	usually	3	adv.																													
+1527815514	مخصوصاً	makhsóosan	especially, particularly	4	adv.																													2
+1527812890	معمولاً	mamoolan	usually	3	adv.																													2
 1527818411	منتقاً	mantiqan	logically	4	adv.																													
-1527813773	مثلاً	maslan	for example	4	adv.																													
-1527821616	مظلومانه	mazloomaana	victimly, pitiful	4	adv.																													
-1527811618	منحیث	minhays	as	4	adv.																													
-1584691547040	مودبانه	mUaddabaana	politely, with courtesy, nicely	4	adv.																													
-1527822198	مدام	mUdáam	continually, perpetually, permanently, always	4	adv.																													1
-1527822329	مفصلاً	mUfasalan	in a detailed fashion, thoroughly	4	adv.																													
-1527821127	مشخصاً	mUshakhkhasan	specifically, especially, in particular	4	adv.																													
-1527819016	مستقیماً	mUstaqeeman	directly	4	adv.																													
-1527821074	مستقلانه	mUstaqilaana	independently	3	adv.																													
-1527814269	متاسفانه	mUtaasafaana	unfortunately, regretfully	3	adv.																													
+1527813773	مثلاً	maslan, masalan	for example	4	adv.																													2
+1527821616	مظلومانه	mazloomaaná	victimly, pitiful	4	adv.																													2
+1527811618	منحیث	minháys, munháys	as	4																														2
+1584691547040	مودبانه	mUaddabaaná	politely, with courtesy, nicely	4	adv.																													2
+1527822198	مدام	mUdáam	continually, perpetually, permanently, always	4	adv.																													3
+1527822329	مفصلاً	mUfasalan, mUfsalan	in a detailed fashion, thoroughly	4	adv.																													2
+1527821127	مشخصاً	mUshakhkhasan	specifically, especially, in particular	4	adv.																													2
+1527819016	مستقیماً	mUstaqeeman	directly	4	adv.																													2
+1527821074	مستقلانه	mUstaqilaaná	independently	3	adv.																													2
+1527814269	متاسفانه	mUtaasafaana	unfortunately, regretfully	3	adv.																													2
 1527820198	مطلقاً	mUtlaqán	completely, totally, absolutely	3	adv.																													
-1527822241	ناببره	naabUbúra	sudden, suddenly, unexpected, unexpectedly, unforeseen (ناڅاپه)	2	adv.																													
+1527822241	ناببره	naabUbúra	sudden, suddenly, unexpected, unexpectedly, unforeseen (ناڅاپه)	2	adv.																													2
 1527823589	ناداره	naadaará	poorly, miserably, thinly, sparsely	3	adv.																													
-1584549648579	ناګهانه	naagaháana	suddenly, at once, all of a sudden	3	adv.																													
-1584689085630	نامستقیماً	naamUstaqeeman	indirectly	3	adv.																													
-1527813711	ناڅاپه	naatsáapa	sudden, suddenly, unexpected, unexpectedly, unforeseen	4	adv.																													1
-1527814710	نژدې پر نژدې	najzde par najzde	soon, very soon, shortly	3	adv.																													
+1584549648579	ناګهانه	naagaháana, naagahaaná	suddenly, at once, all of a sudden	3	adv.																													2
+1584689085630	نامستقیماً	naamUstaqeeman	indirectly	3	adv.																													2
+1527813711	ناڅاپه	naatsáapa	sudden, suddenly, unexpected, unexpectedly, unforeseen	4	adv.																													3
+1527814710	نژدې پر نژدې	najzde par najzde	soon, very soon, shortly	3	adv.																													2
 1578006215294	نوکی	nawakáy	beginner, new, inexperienced; a little bit	2	adv.																													
-1566476674338	نظراً	nazarán	theoretically, in theory	2	adv.																													
-1622369722256	نېغ په نېغه	negh pu negha	directly	4	adv.																													
-1527819335	نهار نهور	niháar nUhóor	on an empty stomach, not having eaten	4	adv.																													
-1527820706	نهایتاً	nihaayatan	extremely, ultimately	3	adv.																													
-1527819271	نسبتاً	nisbatan	relatively	4	adv.																													
-1527815123	نن	nun	today, these days	4	adv.																													1
-1527815124	نن سبا	nun sabaa	these days	4	adv.																													1
-1527815135	اوس	oos	now	4	adv.																													1
-1527815136	اوسمهال	oosmahaal	presently	4	adv.																													
-1527817155	پرله پسې	parla pase	continuous, back to back, uninterrupted, constant, unceasing	4	adv.																													
-1527817156	پرلپسې	parlapasé	continuous, back to back, uninterrupted, constant, unceasing	4	adv.																													1
-1527815160	پرون	paróon	yesterday, (fig.) in the recent past	4	adv.																													1
-1527818408	پروسه کال	parosa kaal	last year	4	adv.																													
-1527812983	پس	pas	after, later, afterwards, susequently	4	adv.																													1
-1527812987	پس صبا	pas sabaa	the day after tomorrow	4	adv.																													
+1566476674338	نظراً	nazarán, názran	theoretically, in theory	2	adv.																													2
+1622369722256	نېغ په نېغه	negh pu negha	directly	4	adv.																													2
+1527819335	نهار نهور	niháar nUhóor, naháar nuhóor	on an empty stomach, not having eaten	4	adv.																													2
+1527820706	نهایتاً	nihaayatán	extremely, ultimately	3	adv.																													2
+1527819271	نسبتاً	nísbatan	relatively	4	adv.																													2
+1527815123	نن	nun	today, these days	4	adv.																													3
+1527815124	نن سبا	nun sabáa	these days	4	adv.																													3
+1527815135	اوس	oos, os	now	4	adv.																													3
+1527815136	اوسمهال	oosmaháal, osmaháal	presently	4	adv.																													2
+1527817155	پرله پسې	parla pase	continuous, back to back, uninterrupted, constant, unceasing	4	adv.																													2
+1527817156	پرلپسې	parlapasé	continuous, back to back, uninterrupted, constant, unceasing	4	adv.																													3
+1527815160	پرون	paróon	yesterday, (fig.) in the recent past	4	adv.																													3
+1527818408	پروسه کال	parosa kaal	last year	4	adv.																													2
+1527812983	پس	pas	after, later, afterwards, susequently	4	adv.																													3
+1527812987	پس صبا	pas sabáa	the day after tomorrow	4	adv.																													2
 1527819344	پسه	pása	after	3	adv.																													
-1527820143	پسته	pasta	after, later, afterwards	4	adv.																													
-1577390288042	پې	pe	colloqiual/dialectical contraction of the adverb پرې (thereupon, thereon)	4	adv.	1577390207734																												
-1527822215	پېدل	pedál	by foot, on foot, walking	4	adv.																													
+1527820143	پسته	pásta	after, later, afterwards	4	adv.																													
+1577390288042	پې	pe	colloqiual/dialectical contraction of the adverb پرې (thereupon, thereon)	4	adv.	1577390207734																												2
+1527822215	پېدل	pedál, pedúl	by foot, on foot, walking	4	adv.																													2
 1586262008294	پېټ	peT	never, not at all	4	adv.																													
-1527822216	پیاده پا	piyaada paa	by foot, on foot, walking	4	adv.																													
-1527822217	پیاده پای	piyaada paay	by foot, on foot, walking	4	adv.																													
+1527822216	پیاده پا	pyaada páa	by foot, on foot, walking	4	adv.																													2
+1527822217	پیاده پای	pyaada páay	by foot, on foot, walking	4	adv.																													2
 1527822218	پیاده روي	piyaada rawee	by foot, on foot, walking	4	adv.																													
-1577390207734	پرې	pre	thereupon, thereon, په plus something previously mentioned	4	adv.																													
-1527816897	پروسږکال	parósaGkaal, paróskaal	last year	4	adv.																													1
-1527811508	په بشپړه توګه	pu bushpuRa toga	completely, totally	4	adv.																													
+1577390207734	پرې	pre	thereupon, thereon, په plus something previously mentioned	4	adv.																													2
+1527816897	پروسږکال	parósaGkaal, paróskaal	last year	4	adv.																													3
+1527811508	په بشپړه توګه	pu búshpuRa toga	completely, totally	4	adv.																													2
 1527813778	په چپه پښه	pu chapa pxa	barefoot	4	adv.																													
-1527811234	په ډاګه	pu Dáaga	openly, frankly	4	adv.																													1
-1527820344	په داوطلب ډول	pu daawtaláb Dawul	voluntarily	4	adv.																													
-1527813790	په دې خاطر	pu de khaatur	because of this, for this reason	4	adv.																													
-1527815193	په ګډه	pu guDa	together, combined	4	adv.																													
-1595517249765	په جلتۍ	pu jaltúy	quickly	4	adv.																													
-1527823231	په جڼه جڼه	pu jaNa jaNa	evasively	4	adv.																													
-1568927284353	په کراتو	pu karaato	again and again, again, over and over (څو ځلې)	4	adv.																													
-1527813692	په خاطر	pu khaatir	for the sake of, because of, out of deference to	4	adv.																													
-1527816045	په خپله	pu khpúla	itself, himself, herself, etc.	4	adv.																													1
-1527814568	په خوښه	pu khwáxa, pu khwúxa	willingly, voluntarily	4	adv.																													1
-1584688791272	په لوی لاس	pu looy laas	on purpose, intentionally (قصداً)	4	adv.																													
-1527821125	په منطقي ډول	pu mantiqee Dawul	logically	4	adv.																													
-1593173323555	په مجمله توګه	pu mUjmala toga	in summary, briefly	3	adv.																													
+1527811234	په ډاګه	pu Dáaga	openly, frankly	4	adv.																													3
+1527820344	په داوطلب ډول	pu daawtaláb Dawul	voluntarily	4	adv.																													2
+1527813790	په دې خاطر	pu de khaatúr	because of this, for this reason	4	adv.																													2
+1527815193	په ګډه	pu gúDa	together, combined	4	adv.																													2
+1595517249765	په جلتۍ	pu jaltúy	quickly	4	adv.																													2
+1527823231	په جڼه جڼه	pu jáNa jáNa	evasively	4	adv.																													2
+1568927284353	په کراتو	pu karáato	again and again, again, over and over (څو ځلې)	4	adv.																													2
+1527813692	په خاطر	pu khaatír, pu khaatúr	for the sake of, because of, out of deference to	4	adv.																													2
+1527816045	په خپله	pu khpúla	itself, himself, herself, etc.	4	adv.																													3
+1527814568	په خوښه	pu khwáxa, pu khwúxa	willingly, voluntarily	4	adv.																													3
+1584688791272	په لوی لاس	pu looy laas	on purpose, intentionally (قصداً)	4	adv.																													2
+1527821125	په منطقي ډول	pu mantiqee Dáwul	logically	4	adv.																													2
+1593173323555	په مجمله توګه	pu mUjmala toga	in summary, briefly	3	adv.																													2
 1527818324	په مټې	pu múTe	barely, just, scarcely, only, merely	4	adv.																													
-1527821715	په موازي ډول	pu mUwaazee Dawul	accordingly, appropriately, in parallel	4	adv.																													
-1527821736	په موقت ډول	pu mUwaqqat Dawul	temporarily	4	adv.																													
-1527819870	په ناحقه	pu naahaqa	unfaily, unjustly, falsely, undeservingly	4	adv.																													
-1527813881	په نامه	pu naama	by name, called, so-called	4	adv.																													
-1579389575376	په نامه	pu naama	in name, by name only	4	adv.																													
-1577408435617	په نه زړه	pu nu zRu	unwillingly, grudingly	4	adv.																													
-1527811604	په قصد	pu qasd	intentionally, purposefully	4	adv.																													
-1527818714	په تدریجي ډول	pu tadreejee Dawul	gradually	4	adv.																													
-1600075984510	په تېره بیا	pu tera byaa	especially, specifically	3	adv.																													
-1527813586	په توګه	pu toga	as	4	adv.																													
-1527811222	په څېر	pu tser	like, similar to, in this style, manner	4	adv.																													1
-1527817230	په زور	pu zór	by force, roughly	4	adv.																													1
-1527815195	په زوره	pu zóra	by force, roughly	4	adv.																													1
+1527821715	په موازي ډول	pu mUwaazee Dáwul	accordingly, appropriately, in parallel	4	adv.																													2
+1527821736	په موقت ډول	pu mUwaqqát Dáwul	temporarily	4	adv.																													2
+1527819870	په ناحقه	pu naaháqa	unfaily, unjustly, falsely, undeservingly	4	adv.																													2
+1527813881	په نامه	pu náama, pu naamu	by name, called, so-called	4	adv.																													2
+1579389575376	په نامه	pu náama, pu naamu	in name, by name only	4	adv.																													2
+1577408435617	په نه زړه	pu nu zRu	unwillingly, grudingly	4	adv.																													2
+1527811604	په قصد	pu qasd	intentionally, purposefully	4	adv.																													2
+1527818714	په تدریجي ډول	pu tadreejee Dawul	gradually	4	adv.																													2
+1600075984510	په تېره بیا	pu tera byaa	especially, specifically	3	adv.																													2
+1527813586	په توګه	pu tóga	as	4	adv.																													2
+1527811222	په څېر	pu tser	like, similar to, in this style, manner	4	adv.																													3
+1527817230	په زور	pu zór	by force, roughly	4	adv.																													3
+1527815195	په زوره	pu zóra	by force, roughly	4	adv.																													3
 1527814073	پکې	puké	therein	4	adv.																													1
-1527819612	پخپل	pukhpul	one’s own (misspelling of په خپل - cf. پخپله)	4	adv.																													
-1527818237	پخپله	pukhpúla	(doing something) himself, herself, myself, ourself etc., used to indicate actions that the subject does himself	4	adv.																													1
-1527815198	پخوا	pukhwáa	formerly, before	4	adv.																													1
+1527819612	پخپل	pukhpul	one’s own (misspelling of په خپل - cf. پخپله)	4	adv.																													2
+1527818237	پخپله	pukhpúla	(doing something) himself, herself, myself, ourself etc., used to indicate actions that the subject does himself	4	adv.																													3
+1527815198	پخوا	pukhwáa	formerly, before	4	adv.																													3
 1578014249199	پکښې	pukxe	therein	4	adv.																													
-1527818276	پرمهال	purmahaal	at the time of, during (د ... پر مهال)	4	adv.																													
-1662621657720	پړمخ	púRmukh	face-down, upside-down	4	adv.																													1
-1662621676988	پړمخې	puRmúkhe	face-down, upside-down	4	adv.																													
-1527819500	پرضد	purzid	against (د ... پر ضد)	4	adv.																													
-1527814278	قصداً	qasdan	on purpose, intentionally	4	adv.																													
-1527819160	قطعاً	qattan	absolutely, decisively, categorically	4	adv.																													
-1527818595	قدرتاً	qUdratan	by nature, naturally	4	adv.																													
-1527814453	را ایسته	raa eesta	over here, this side	4	adv.																													
-1527820456	راباندې	raabaande	on me, on us (باندې with 1st person directive pronoun)	4	adv.																													
-1527815215	راپدېخوا	raapudekhwaa	since  (له ... راپدېخوا)	4	adv.																													
-1527816767	رډ رډ	raD raD	obvious, openly, boldly, immodestly	3	adv.																													
-1527811405	رسماً	rásman	officially	4	adv.																													1
-1586363985796	روزانه	rozaaná	daily, each day	4	adv.																													1
-1527819294	سهر وختي	sahar wakhtee	in the morning	4	adv.																													
-1527823222	سلابلا	salaabaláa	without rhyme or reason, for no reason at all	4	adv.																													
-1527812415	سم دلاسه	sam dulaasa	immediately, at once, instantly	4	adv.																													
-1527819243	سمدلاسه	samdalaasa	immediately, right away, quickly	4	adv.																													
-1527819293	سملاسي	samlaasee	immediately, right away, quickly	3	adv.																													
-1527818326	صرفاً	sarfan	merely, only	4	adv.																													
+1527818276	پرمهال	purmaháal	at the time of, during (د ... پر مهال)	4	adv.																													2
+1662621657720	پړمخ	púRmukh	face-down, upside-down	4	adv.																													3
+1662621676988	پړمخې	puRmúkhe, puRmukhé	face-down, upside-down	4	adv.																													2
+1527819500	پرضد	purzíd	against (د ... پر ضد)	4	adv.																													2
+1527814278	قصداً	qásdan	on purpose, intentionally	4	adv.																													2
+1527819160	قطعاً	qattá'n	absolutely, decisively, categorically	4	adv.																												TRUE	2
+1527818595	قدرتاً	qÚdratan	by nature, naturally	4	adv.																													2
+1527814453	را ایسته	raa eesta	over here, this side	4	adv.																													2
+1527820456	راباندې	raabaande	on me, on us (باندې with 1st person directive pronoun)	4	adv.																													2
+1527815215	راپدېخوا	raapudékhwaa	since  (له ... راپدېخوا)	4	adv.																													2
+1527816767	رډ رډ	raD raD	obvious, openly, boldly, immodestly	3	adv.																													2
+1527811405	رسماً	rásman	officially	4	adv.																													3
+1586363985796	روزانه	rozaaná	daily, each day	4	adv.																													3
+1527819294	سهر وختي	sahar wakhtée	in the morning	4	adv.																													2
+1527823222	سلابلا	salaabaláa	without rhyme or reason, for no reason at all	4	adv.																													2
+1527812415	سم دلاسه	sam duláasa	immediately, at once, instantly	4	adv.																													2
+1527819243	سمدلاسه	samdaláasa	immediately, right away, quickly	4	adv.																													2
+1527819293	سملاسي	samlaasée	immediately, right away, quickly	3	adv.																													2
+1527818326	صرفاً	sárfan, sírfan	merely, only	4	adv.																													2
 1527814145	سوکه	sawka	slowly, gently, quietly, softly	3	adv.																													
-1527814146	سوکه سوکه	sawka sawka	slowly, gently, quietly, softly	2	adv.																													
-1527822165	سیده	seedá	straight, level, right away, direct, frank	3	adv.																													1
-1702810329175	سیده کول	seeda kawúl	to straighten, align, make level, make right	3	v. stat. comp. trans.	1527822165	straighten																											1
-1702810331482	سیده کېدل	seeda kedúl	to be straightened, aligned, made level, made right	3	v. stat. comp. intrans.	1527822165	be	straightened																										
-1527815260	شاوخوا	shaawkhwaa	around, approximately	4	adv.																													
-1527815261	شاوخوا	shaawkhwaa, shaa-U-khwaa	around, all around, approximately	4	adv.																													
-1527818717	شاید	shaayad	probably, perhaps, possibly, maybe	4	adv.																													
+1527814146	سوکه سوکه	sawka sawka, soka soka	slowly, gently, quietly, softly	2	adv.																													2
+1527822165	سیده	seedá	straight, level, right away, direct, frank	3	adv.																													3
+1702810329175	سیده کول	seeda kawúl	to straighten, align, make level, make right	3	v. stat. comp. trans.	1527822165	straighten																											3
+1702810331482	سیده کېدل	seeda kedúl	to be straightened, aligned, made level, made right	3	v. stat. comp. intrans.	1527822165	be	straightened																										2
+1527815260	شاوخوا	shaawkhwáa	around, approximately	4	adv.																													2
+1527815261	شاوخوا	shaawkhwaa, shaa-U-khwaa	around, all around, approximately	4	adv.																													2
+1527818717	شاید	sháayad, sháayid	probably, perhaps, possibly, maybe	4	adv.																													2
 1527820539	شرافتمندانه	sharaafatmandaana	honourably, with dignity	3	adv.																													
-1527822183	شرعاً	sharan	according to Sharia law	4	adv.																													
-1527818507	شریفانه	shareefaana	noble, well-known, nobly, with dignity and honour	4	adv.																													
-1527815962	شومه دم	shooma dam	in the middle of the night	2	adv.																													
-1527815291	صرف	sirf	only, just	3	adv.																													1
+1527822183	شرعاً	shar'án	according to Sharia law	4	adv.																													2
+1527818507	شریفانه	shareefaaná	noble, well-known, nobly, with dignity and honour	4	adv.																													2
+1527815962	شومه دم	shooma dám	in the middle of the night	2	adv.																													2
+1527815291	صرف	sirf	only, just	3	adv.																													3
 1527814075	سوچ	sooch	pure, unmixed; entirely, totally, completely		adj. / adv.																													
 1574354759066	سوکه	sooka	slowly, gently, quietly, softly	4	adv.																													
-1574354762646	سوکه سوکه	sooka sooka	slowly, gently, quietly, softly	2	adv.																													
+1574354762646	سوکه سوکه	sawka sawka, soka soka	slowly, gently, quietly, softly	2	adv.																													2
 1661753167820	ستوني ستاک	stoonee stáak	on one's back, supine, prostrate	3	adv.																													
-1661753188652	ستوني ستغ	stoonee stágh	on one's back, supine, prostrate	4	adv.																													
-1527814690	سږکال	súGkaal	this year, current year	4	adv.																													1
-1527815317	سمدستي	sumdustée	immediately, instantly	4	adv.																													1
-1527815318	سملاستي	sumlaastee	immediately, urgently, instantly	3	adv.																													
+1661753188652	ستوني ستغ	stoonee stágh	on one's back, supine, prostrate	4	adv.																													2
+1527814690	سږکال	súGkaal	this year, current year	4	adv.																													3
+1527815317	سمدستي	sumdustée	immediately, instantly	4	adv.																													3
+1527815318	سملاستي	sumlaastee	immediately, urgently, instantly	3	adv.																													2
 1527813874	تاوراتاو	taawraataaw	crooked, winding, twisted	4	adv.																													
-1527820609	ټایټ	TaayT	tight, good, well, firmly (انګليسي یې ښه ټايټه زده دا - he’s learn’t English really well)	4	adv.																													1
-1527818594	طبعاً	tab'án	naturally, by nature, of course	3	adv.																													
-1527813618	طبعاً	taban	by nature, naturally	3	adv.																													
-1527818596	طبیعتاً	tabiy'atan	naturally, by one’s nature	3	adv.																													
-1527818716	تدریجاً	tadreejan	gradually	4	adv.																													
-1527822388	ټک په ټک	Tak pu Tak	immediately, instantly, right away	4	adv.																													
-1527816312	تخمیناً	takhmeenan	about, estimated	4	adv.																													
-1584518205499	تکراراً	takraaran	repeatedly	4	adv.																													
-1527813260	تماماً	tamaaman	finally, totally, completely, all together, in full	4	adv.																													
-1527815029	تنها	tanháa	alone, lone, solitary, only; desolate	4	adv.																													1
-1702811149949	تنهایي	tanhaayée	solitude, lonliness, being alone	4	n. f.																													
-1527822464	تقلیداً	taqleedan	in imitation, in manner of copying	4	adv.																													
-1527822465	تقلیفاً	taqleefan	with trouble, with difficulty, strained	0	adv.																													
-1527816311	تقریباً	taqréeban	approximately, about	4	adv.																													1
-1527819031	تصادفاً	tasaadUfan	by chance, coincidentally, accidentally	3	adv.																													
-1527815347	تېرکال	terkaal	last year	4	adv.																													
-1674545710320	ټول ټال	Tol Taal	all together, in total, entirely		adv.																													1
-1527813516	څنګه	tsánga, tsúnga	how	4	adv.																													1
-1527818174	څرنګه	tsuranga	how, like	4	adv.																													
-1527815069	تکې تنها	tuke tanhaa	on one's own, single handed	4	adv.																													
-1527821531	تل	tul	always, forever, constantly	4	adv.																													1
-1527812137	تل تر تله	tul tur tula	eternal, everlasting, forever	4	adv.																													1
-1527818051	تر ابده	tur abada	eternally, forever, constantly, for eternity	4	adv.																													
+1527820609	ټایټ	TaayT	tight, good, well, firmly (انګليسي یې ښه ټايټه زده دا - he’s learn’t English really well)	4	adv.																													3
+1527818594	طبعاً	tab'án	naturally, by nature, of course	3	adv.																													2
+1527813618	طبعاً	tabán	by nature, naturally	3	adv.																													2
+1527818596	طبیعتاً	tabiy'atan	naturally, by one’s nature	3	adv.																													2
+1527818716	تدریجاً	tadreejan	gradually	4	adv.																													2
+1527822388	ټک په ټک	Tak pu Tak	immediately, instantly, right away	4	adv.																													2
+1527816312	تخمیناً	takhmeenan	about, estimated	4	adv.																													2
+1584518205499	تکراراً	takraaran, tikraaran	repeatedly	4	adv.																													2
+1527813260	تماماً	tamáaman	finally, totally, completely, all together, in full	4	adv.																													2
+1527815029	تنها	tanháa	alone, lone, solitary, only; desolate	4	adv.																													3
+1702811149949	تنهایي	tanhaayée	solitude, lonliness, being alone	4	n. f.																													2
+1527822464	تقلیداً	taqleedan	in imitation, in manner of copying	4	adv.																													2
+1527822465	تقلیفاً	taqleefan	with trouble, with difficulty, strained	0	adv.																													2
+1527816311	تقریباً	taqreeban	approximately, about	4	adv.																													3
+1527819031	تصادفاً	tasaadUfan	by chance, coincidentally, accidentally	3	adv.																													2
+1527815347	تېرکال	térkaal	last year	4	adv.																													2
+1674545710320	ټول ټال	Tol Taal	all together, in total, entirely		adv.																													3
+1527813516	څنګه	tsánga, tsúnga, tsínga	how	4	adv.																													3
+1527818174	څرنګه	tsúranga	how, like	4	adv.																													2
+1527815069	تکې تنها	tuke tanháa	on one's own, single handed	4	adv.																													2
+1527821531	تل	tul	always, forever, constantly	4	adv.																													3
+1527812137	تل تر تله	tul tur tula	eternal, everlasting, forever	4	adv.																													3
+1527818051	تر ابده	tur abáda	eternally, forever, constantly, for eternity	4	adv.																													2
 1586265891338	تر اوسه	tur óosa, tur ósa	until now, up until now, yet	4	adv.																													3
-1527815385	تر پایه	tur paaya	until the end, until the finish	4	adv.																													
-1527814590	تر څنګ	tur tsang	alongside, along with this	4	adv.																													
-1527820016	ترهغه	turhaghú	until	4	adv.																													
-1527817130	ترخوا	turkhwaa	alongside, beside	4	adv.																													
-1527817002	ترڅنګ	turtsang	along with, alongside of	4	adv.																													
-1527811453	ترڅو	turtso	until, as much, so that, in order that	4	adv.																													
-1593683680743	عموماً	Umóoman	in general, in broad areas, usually, normally	4	adv.																													1
-1527820289	واقعاً	waaqi'an, waaqiyan	truly, really, actually	4	adv.																													
-1659635397088	واقعیاً	waaqiyan	really, indeed, definately, truly	4	adv.																												true	
-1527822766	وار له واره	waar la waara	suddenly, immediately, instantly, at once	4	adv.																													
-1527811459	وار په وار	waar pu waar	gradually, in turns	4	adv.																													
+1527815385	تر پایه	tur páaya	until the end, until the finish	4	adv.																													2
+1527814590	تر څنګ	tur tsang	alongside, along with this	4	adv.																													2
+1527820016	ترهغه	turhaghú	until	4	adv.																													2
+1527817130	ترخوا	turkhwáa	alongside, beside	4	adv.																													2
+1527817002	ترڅنګ	turtsáng	along with, alongside of	4	adv.																													2
+1527811453	ترڅو	turtso	until, as much, so that, in order that	4	adv.																													2
+1593683680743	عموماً	Umóoman	in general, in broad areas, usually, normally	4	adv.																													3
+1527820289	واقعاً	waaqi'an, waaqiyan	truly, really, actually	4	adv.																													2
+1659635397088	واقعیاً	waaqiyan	really, indeed, definately, truly	4	adv.																												true	2
+1527822766	وار له واره	waar la waara	suddenly, immediately, instantly, at once	4	adv.																													2
+1527811459	وار په وار	waar pu waar	gradually, in turns	4	adv.																													2
 1527820087	وخت ناوخت	wakht naawakht	time and again, sometimes, occasionally	4	adv.																													
-1527819298	وختي	wakhtee	early, soon	4	adv.																													
-1527815410	ولې	wále	why	4	adv.																													1
-1527812183	ورپام	wărpaam	aware of, thinking of	4	adv.																													
-1527815418	ورو	wro, wroo	slow	4	adv.																													
-1527817261	وچ په وچه	wuch pu wucha	without reason, for no reason	4	adv.																													
-1662099888515	ورې	wÚre	down there, under there, there	2	adv.																													
-1527814324	ښایي	xaayee	probably, possibly	4	adv.																													
-1674715255888	یک لخت	yak lakht	immediately, instantly, at once, fully, as a whole		adv.																													
-1674715276343	یک لخته	yak lakhta	immediately, instantly, at once, fully, as a whole		adv.																													
-1527823349	یقیناً	yaqéenan	certainly, surely, definitely	4	adv.																													1
-1527819835	یواریځ	yawaaréedz	all at once, straight away, right away; quite, completely	4	adv.																													
-1527820827	یوځل	yawdzal	one time, once	4	adv.																													
-1527820017	یوناڅاپه	yawnaatsáapa	suddenly, at once, unexpectedly, by chance	3	adv.																													
-1527815433	یو یو	yo yo	one each	4	adv.																													
-1645130994575	ظاهراً	zaahiran	apparently, visibly, ostensibly, by appearance, outwardly	4	adv.																													
-1621018588552	ذاتاً	zaatan	by nature, naturally	4	adv.																													
-1527813064	ذره	zára	just, only	3	adv.																													
-1527815454	زر	zur	quickly, fast	4	adv.																													
-1588786919406	زر تر زره	zur tur zura	as fast as possible, as quickly as possible, immediately	4	adv.																													1
-1527811773	زښت	zuxt	very much, exceedingly	3	adv.																													
+1527819298	وختي	wakhtée	early, soon	4	adv.																													2
+1527815410	ولې	wále	why	4	adv.																													3
+1527812183	ورپام	warpáam	aware of, thinking of	4	adv.																													2
+1527815418	ورو	wro, wroo	slow	4	adv.																													2
+1527817261	وچ په وچه	wuch pu wucha	without reason, for no reason	4	adv.																													2
+1662099888515	ورې	wUre, Uré	down there, under there, there	2	adv.																													2
+1527814324	ښایي	xaayee	probably, possibly	4	adv.																													2
+1674715255888	یک لخت	yak lakht	immediately, instantly, at once, fully, as a whole		adv.																													2
+1674715276343	یک لخته	yak lakhta	immediately, instantly, at once, fully, as a whole		adv.																													2
+1527823349	یقیناً	yaqéenan	certainly, surely, definitely	4	adv.																													3
+1527819835	یواریځ	yawaaréedz	all at once, straight away, right away; quite, completely	4	adv.																													2
+1527820827	یوځل	yawdzál	one time, once	4	adv.																													2
+1527820017	یوناڅاپه	yawnaatsáapa	suddenly, at once, unexpectedly, by chance	3	adv.																													2
+1527815433	یو یو	yo yo	one each	4	adv.																													2
+1645130994575	ظاهراً	záahiran	apparently, visibly, ostensibly, by appearance, outwardly	4	adv.																													2
+1621018588552	ذاتاً	záatan	by nature, naturally	4	adv.																													2
+1527813064	ذره	zára	just, only	3	adv.																													2
+1527815454	زر	zur	quickly, fast	4	adv.																													2
+1588786919406	زر تر زره	zur tur zura	as fast as possible, as quickly as possible, immediately	4	adv.																													3
+1527811773	زښت	zuxt, zikht	very much, exceedingly	3	adv.																													2
 1586626956539	درست	drust, drast	all, everything, everyone	3	adv. ??																													
-1622374915074	اغلب	aghláb	probably, likely, presumptively, having preference/advantage	2	adv. / adj.																													
-1527821618	احمقانه	ahmaqaana	stupidly, foolishly, stupid, foolish; stupid, foolish	4	adv. / adj.																													
-1527822230	باقاعده	baaqaa'ida	regular, regularly; repaired, restored	4	adv. / adj.																													
-1527813686	برعکس	baraks, barakis	opposite, on the contrary	4	adv. / adj.																													
-1595233263437	بې واره	be wáara	suddenly, unexpectedly, out of turn, embarrassed	4	adv. / adj.																													
-1527823077	بېهوده	behoodá	vainly, in vain	4	adv. / adj.																													
+1622374915074	اغلب	aghláb	probably, likely, presumptively, having preference/advantage	2	adv. / adj.																													2
+1527821618	احمقانه	ahmaqaaná	stupidly, foolishly, stupid, foolish; stupid, foolish	4	adv. / adj.																													2
+1527822230	باقاعده	baaqaa'idá	regular, regularly; repaired, restored	4	adv. / adj.																													2
+1527813686	برعکس	baráks, barakís	opposite, on the contrary	4	adv. / adj.																													2
+1595233263437	بې واره	be wáara	suddenly, unexpectedly, out of turn, embarrassed	4	adv. / adj.																													2
+1527823077	بېهوده	behoodá	vainly, in vain	4	adv. / adj.																													2
 1527821368	بلاشرط	bilaashárt	unconditional	4	adv. / adj.																													
-1527813590	جادوګرانه	jaadoogaraana	magical	4	adv. / adj.																													
-1527819764	ماهانه	maahaaná	monthly, every month	3	adv. / adj.																													
-1527817550	محافظه کارانه	mUhaafiza kaaraana	conservatively, conservative	3	adv. / adj.																													
-1620904454896	مخلصانه	mUkhlisaana	sincerely, sincere	4	adv. / adj.																													
-1527811328	صادقانه	saadiqaaná	sincerely, truthfully, faithfully	3	adv. / adj.																													1
-1527816034	تر شا	tur shaa	behind	4	adv. / adj.																													
-1527815070	یک تنها	yak tanhaa	all alone, alone	4	adv. / adj.																													
-1527811637	زیاتره	zyaatara	most, the majority, predominating	4	adv. / adj.																													
+1527813590	جادوګرانه	jaadoogaraaná	magical	4	adv. / adj.																													2
+1527819764	ماهانه	maahaaná	monthly, every month	3	adv. / adj.																													2
+1527817550	محافظه کارانه	mUhaafiza kaaraaná	conservatively, conservative	3	adv. / adj.																													2
+1620904454896	مخلصانه	mUkhlisaana	sincerely, sincere	4	adv. / adj.																													2
+1527811328	صادقانه	saadiqaaná	sincerely, truthfully, faithfully	3	adv. / adj.																													3
+1527816034	تر شا	tur sháa	behind	4	adv. / adj.																													2
+1527815070	یک تنها	yak tanháa	all alone, alone	4	adv. / adj.																													2
+1527811637	زیاتره	zyaatára	most, the majority, predominating	4	adv. / adj.																													2
 1527812952	غلامانه	ghUlaamaana	slave-like, slavish, servant-like, servile	4	adv. / adv.																													
-1527817080	بالکل	bilkUl	totally, absolutely, entirely, wholly; that’s right, yep	4	adv. / interj.																													
-1527815420	وروسته	wroosta	later, after, behind	4	adv. / loc. adv.																													
-1703747595362	وروسته کېدل	wroosta kedúl	to go back	3	v. stat. comp. intrans.	1527815420																												1
-1527822214	پیاده	piyaada	by foot, on foot, walking; pedestrian, infantry	4	adv. / n. f.																													
-1610443940798	اخیر	akhéer	finally, end	4	adv. / n. m.																													1
+1527817080	بالکل	bílkUl	totally, absolutely, entirely, wholly; that’s right, yep	4	adv. / interj.																													2
+1527815420	وروسته	wróosta	later, after, behind	4	adv. / loc. adv.																													2
+1703747595362	وروسته کېدل	wroosta kedúl	to go back	3	v. stat. comp. intrans.	1527815420																												3
+1527822214	پیاده	pyaadá	by foot, on foot, walking; pedestrian, infantry	4	adv. / n. f.																													2
+1610443940798	اخیر	akhéer	finally, end	4	adv. / n. m.																													3
 1527821995	اخر	akhúr, akhír	finally, end	4	adv. / n. m.																													
 1527818313	پنځلس ورځنی	pindzúlas wradzanáy	bi-weekly, every two weeks, fortnightly pay	4	adv. / n. m.																													
-1653363833604	بنډۍ	binDúy	okra, ladyfinger	2	b. f.																													
-1527821430	آفرین	áafareen	well done, good job	4	conj.																													1
-1527812437	آیا	aayaa	is? Question word	4	conj.																													
-1527812450	اما	amaa	but	4	conj.																													
+1653363833604	بنډۍ	binDúy	okra, ladyfinger	2	b. f.																													2
+1527821430	آفرین	áafareen	well done, good job	4	conj.																													3
+1527812437	آیا	aayaa	is? Question word	4	conj.																													2
+1527812450	اما	amaa	but	4	conj.																													2
 1527812325	او	aw	and	4	conj.																													1
-1527813649	بلکې	bălke	but, but rather, also, however, adversative conjunction	4	conj.																													
+1527813649	بلکې	bálke	but, but rather, also, however, adversative conjunction	4	conj.																													2
 1527817272	بلکه	balki	but, but rather, also, however, adversative conjunction	4	conj.																													
 1527813151	چې	che	that, so, so that, if, connecting particle	4	conj.																													
 1527817724	لاکن	laakin	however, but, on the other hand, (contrastive particle, Arabic)	4	conj.																													
-1527817521	لېکن	lekin	but, yet, however, moreover, nevertheless	4	conj.																													
-1527818322	لیکن	laykin	but, yet, however, moreover, nevertheless	4	conj.																													
-1527811279	مګر	magár	but, however, only	4	conj.																													1
-1527815121	نو	no	so, then	4	conj.																													1
-1527812290	یا	yaa	or	4	conj.																													1
+1527817521	لېکن	lekín	but, yet, however, moreover, nevertheless	4	conj.																													
+1527818322	لیکن	laykín	but, yet, however, moreover, nevertheless	4	conj.																													2
+1527811279	مګر	magár	but, however, only	4	conj.																													3
+1527815121	نو	no	so, then	4	conj.																													3
+1527812290	یا	yaa	or	4	conj.																													3
 1527814766	یانې	yaane	that is to say, in other words, namely	3	conj.																													
 1527811700	یعنې	yane	that is to say, in other words, namely	4	conj.																													
-1527812327	ځکه	dzuka	because, due to the fact, for, since	4	conj. / adv.																													1
-1611400737161	حیف	hayf	what a pity! what a shame! that's too bad!	3	exclam.																													
-1527822235	اخ	akh	interjection used in joy or satisfaction; great! bravo!; used to sigh	4	interj.																													
-1527815520	الحمدالله	alhamdUlillah	Alhamdulillah, praise God (Arabic)	4	interj.																												true	
-1527818458	درېغه	drégha	alas! oh! pity!	2	interj.																													
-1527815712	ای	ay	ay, oh, interjection	4	interj.																													
-1527818496	های های	haay haay	alas! woe! oh!	4	interj.																													
-1527813264	هله هله	hala hala	faster!, get a move on	4	interj.																													
-1527812679	هو	ho	yes	4	interj.																													
-1571840499420	کنه	kana	Isn't it? (که نه)	4	interj.																													
-1527813913	خبردار	khabardáar	beware, watch out, look out	4	interj.																													1
-1527821310	خدانخواسته	khUdaanakhaasta	God forbid!	4	interj.																													
-1527816579	خدای ناخواسته	khUdaay naakhaasta	God forbid!	4	interj.																													
-1527819103	لبیک	labbayk	at your service! I obey! (Arabic)	4	interj.																													
-1527812870	لطفاً	lUtfan	please	3	interj.																													
-1527821312	مبادا	mabaadáa	God forbid! lest, what if	4	interj.																													
-1527822576	مړه	maRa, maNa	dude! bro!	3	interj.																													
-1527813883	مرده باد	mUrda baad	death to …!	4	interj.																													
-1527815097	نه	na	no	4	interj.																													1
-1527817859	نعوذبالله	na'oozUbillah	I seek refuge in Allah, something said almost like “God forbid” or “Lord forgive” when mentioning something really bad or heretical	4	interj.																												true	
-1527823565	اوف	oof	interjection, expression of frustration	4	interj.																													
-1527817788	رحمه الله	rahimah Ullah	may God have mercy on him (Arabic), used after mentioning Islamic personalities that came after the companions of Muhammad	2	interj.																												true	
-1527819123	سهار دې په خیر	sahaar de pu khayr	good morning	4	interj.																													
-1527819124	سهار مو په خیر	sahaar mo pu khayr	good morning	4	interj.																													
-1527811590	شاباس	shaabaas	good job, well done, hurrah, wow	4	interj.																													
-1527811591	شاباش	sháabaash	good job, well done, hurrah, wow	4	interj.																													1
-1527815346	تشکر	tashukkUr	thank you, thanks (from Farsi)	4	interj.																													
+1527812327	ځکه	dzúka	because, due to the fact, for, since	4	conj. / adv.																													3
+1611400737161	حیف	hayf	what a pity! what a shame! that's too bad!	3	exclam.																													2
+1527822235	اخ	akh	interjection used in joy or satisfaction; great! bravo!; used to sigh	4	interj.																													2
+1527815520	الحمدالله	alhamdUlilláh	Alhamdulillah, praise God (Arabic)	4	interj.																												true	2
+1527818458	درېغه	drégha	alas! oh! pity!	2	interj.																													2
+1527815712	ای	ay, aay	ay, oh, interjection	4	interj.																													2
+1527818496	های های	haay haay	alas! woe! oh!	4	interj.																													2
+1527813264	هله هله	hala hala	faster!, get a move on	4	interj.																													2
+1527812679	هو	ho	yes	4	interj.																													2
+1571840499420	کنه	kaná	Isn't it? (که نه)	4	interj.																													2
+1527813913	خبردار	khabardáar	beware, watch out, look out	4	interj.																													3
+1527821310	خدانخواسته	khUdaanakhaastá, khUdaaynaakhwaastá	God forbid!	4	interj.																													2
+1527816579	خدای ناخواسته	khUdaay naakhaastá, khUdaay naakhwaastá	God forbid!	4	interj.																													2
+1527819103	لبیک	labbáyk, labáyk	at your service! I obey! (Arabic)	4	interj.																													2
+1527812870	لطفاً	lÚtfan	please	3	interj.																													2
+1527821312	مبادا	mabaadáa, mUbaadáa	God forbid! lest, what if	4	interj.																													2
+1527822576	مړه	máRa, máNa	dude! bro!	3	interj.																													2
+1527813883	مرده باد	mUrda baad	death to …!	4	interj.																													2
+1527815097	نه	na	no	4	interj.																													3
+1527817859	نعوذبالله	na'oozUbilláh	I seek refuge in Allah, something said almost like “God forbid” or “Lord forgive” when mentioning something really bad or heretical	4	interj.																												true	2
+1527823565	اوف	oof	interjection, expression of frustration	4	interj.																													2
+1527817788	رحمه الله	rahimah Ulláh, raheem Ulláh	may God have mercy on him (Arabic), used after mentioning Islamic personalities that came after the companions of Muhammad	2	interj.																												true	2
+1527819123	سهار دې په خیر	sahaar de pu khayr	good morning	4	interj.																													2
+1527819124	سهار مو په خیر	sahaar mo pu khayr	good morning	4	interj.																													2
+1527811590	شاباس	shaabaas	good job, well done, hurrah, wow	4	interj.																													2
+1527811591	شاباش	sháabaash	good job, well done, hurrah, wow	4	interj.																													3
+1527815346	تشکر	tashukÚr	thank you, thanks (from Farsi)	4	interj.																													2
 1577231889397	افوه	Úfooh	ugh!	4	interj.																													
-1527819529	والله	wallah	I swear to God, I promise	4	interj.																												true	
+1527819529	والله	wallah	I swear to God, I promise	4	interj.																												true	2
 1566121009379	زره	zára	just (used sort of like a filler word)	2	interj.																													
-1527813882	زنده باد	zinda baad	long live ...!	4	interj.																													
-1527818842	ادې	adé	mommy! mother, mom; grandmother	4	interj. / n. f.																													
-1527815247	سلام	saláam	hello, hi, greetings, peace	4	interj. / n. m.																													1
-1713695127681	سلام کول	saláam kawúl	to greet, say hello	4	v. dyn. comp. trans.	1527815247	greet																											1
-1713695169702	سلام اچول	saláam achawúl	to greet, say hello	4	v. dyn. comp. trans.	1527815247	greet																											1
+1527813882	زنده باد	zinda baad	long live ...!	4	interj.																													2
+1527818842	ادې	adé	mommy! mother, mom; grandmother	4	interj. / n. f.																													2
+1527815247	سلام	saláam	hello, hi, greetings, peace	4	interj. / n. m.																													3
+1713695127681	سلام کول	saláam kawúl	to greet, say hello	4	v. dyn. comp. trans.	1527815247	greet																											3
+1713695169702	سلام اچول	saláam achawúl	to greet, say hello	4	v. dyn. comp. trans.	1527815247	greet																											3
 1527813915	مخکې	múkhke	before, in front of, forward	4	loc adv.																													1
-1702632661929	مخکې کېدل	mukhke kedúl	to go forward, to get ahead, to advance	4	v. stat. comp. intrans.	1527813915	advance																											1
-1702632670541	مخکې کول	mukhke kawúl	to put forward, to put ahead, to advance	4	v. stat. comp. trans.	1527813915	advance																											1
-1527814163	اخوا	ákhwaa	that side, across	4	loc. adv.																													1
-1703677663870	آخوا	áakhwaa	that side, across	4	loc. adv.																													1
-1702628405691	بل طرف ته	búl taraf ta	to the other side, across																															1
-1702628450155	پورې غاړې ته	póre ghaaRe ta	to the other side, across																															1
-1527813690	بر	bar	above, on top	4	loc. adv.																													
-1527823145	بېرون	beróon	outside, from without, on the outside; abroad (as in out of country)	4	loc. adv.																													
-1610454983695	دغلته	daghalta	at this place, at that place, here	4	loc. adv.																													
-1527812558	دلته	dălta	here	4	loc. adv.																													
-1527818186	درپسې	dărpase	after you (sing and plural)	4	loc. adv.																													
-1527819393	درپورې	darpore	over/across to you/there	4	loc. adv.																													
-1527812293	درسره	dărsara	with you	4	loc. adv.																													
-1527822852	دېخوا هاخوا	dekhwaa haakhwaa	this way and that way, here and there	3	loc. adv.																													
-1578080952673	دباندې	dubaande	outside, outside of, beyond	3	loc. adv.																													
-1527813122	دننه	dunúna, dúnna	inside, within, interior	4	loc. adv.																													1
-1708465305957	دننه کول	dununa kawúl	to bring inside	4	v. stat. comp. trans.	1527813122	bring	inside																										1
-1708465310676	دننه کېدل	dununa kedúl	to come insinde, go in	4	v. stat. comp. intrans.	1527813122	come	inside																										1
-1527817710	ها خوا	haa khwaa	that side, across	4	loc. adv.																													
-1527812449	هلته	hálta, álta	there	4	loc. adv.																													1
-1527820805	هماغلته	hamáaghalta	right there, in the same place, in the very same place	4	loc. adv.																													
-1527813928	همدلته	hamdalta	right here, in this very place	4	loc. adv.																													
-1577999518050	هورې	hooré	there, over there, thither	4	loc. adv.																													
-1578015603537	له پاسه	la paasa	above	3	loc. adv.																													
-1610796256372	مخ په وړاندې	mukh pu wRaande	forward	4	loc. adv.																													
-1610796249240	مخ پر وړاندې	mukh pur wRaande	forward	4	loc. adv.																													
+1702632661929	مخکې کېدل	mukhke kedúl	to go forward, to get ahead, to advance	4	v. stat. comp. intrans.	1527813915	advance																											3
+1702632670541	مخکې کول	mukhke kawúl	to put forward, to put ahead, to advance	4	v. stat. comp. trans.	1527813915	advance																											3
+1527814163	اخوا	ákhwaa, íkhwaa	that side, across	4	loc. adv.																													3
+1703677663870	آخوا	áakhwaa	that side, across	4	loc. adv.																													3
+1702628405691	بل طرف ته	búl taraf ta	to the other side, across																															3
+1702628450155	پورې غاړې ته	póre ghaaRe ta	to the other side, across																															3
+1527813690	بر	bar	above, on top	4	loc. adv.																													2
+1527823145	بېرون	beróon	outside, from without, on the outside; abroad (as in out of country)	4	loc. adv.																													2
+1610454983695	دغلته	dághalta	at this place, at that place, here	4	loc. adv.																													2
+1527812558	دلته	dálta, dílta	here	4	loc. adv.																													2
+1527818186	درپسې	darpase	after you (sing and plural)	4	loc. adv.																													2
+1527819393	درپورې	darpóre	over/across to you/there	4	loc. adv.																													2
+1527812293	درسره	darsara	with you	4	loc. adv.																													2
+1527822852	دېخوا هاخوا	dékhwaa háakhwaa	this way and that way, here and there	3	loc. adv.																													
+1732865955258	دېخوا هېخوا	dékhaa hékhwaa	this way and that way, here and there	3	loc. adv.																													2
+1578080952673	دباندې	dubáande	outside, outside of, beyond	3	loc. adv.																													2
+1527813122	دننه	dunúna, dúnna	inside, within, interior	4	loc. adv.																													3
+1708465305957	دننه کول	dununa kawúl	to bring inside	4	v. stat. comp. trans.	1527813122	bring	inside																										3
+1708465310676	دننه کېدل	dununa kedúl	to come insinde, go in	4	v. stat. comp. intrans.	1527813122	come	inside																										3
+1527817710	ها خوا	háa khwaa	that side, across	4	loc. adv.																													2
+1527812449	هلته	hálta, álta	there	4	loc. adv.																													3
+1527820805	هماغلته	hamáaghalta	right there, in the same place, in the very same place	4	loc. adv.																													2
+1527813928	همدلته	hamdálta, hamdílta	right here, in this very place	4	loc. adv.																													2
+1577999518050	هورې	hooré, horé	there, over there, thither	4	loc. adv.																													2
+1578015603537	له پاسه	la páasa	above	3	loc. adv.																													2
+1610796256372	مخ په وړاندې	mukh pu wRáande	forward	4	loc. adv.																													2
+1610796249240	مخ پر وړاندې	mukh pur wRáande	forward	4	loc. adv.																													2
 1527814318	مخکښې	mukhkxe	in front, forward, before; already	4	loc. adv.																													
-1527813279	مخته	mukhta	in front of, forward, ahead of	2	loc. adv.																													
-1588780597931	نېږدې	neGdé	near, close to, almost	3	loc. adv.																													
-1527817294	پاس	paas	up, above	4	loc. adv.																													1
-1527817154	پسې	pase	after (as in going after), in pursuit, behind (د چا پسې  خبرې کول – to talk bad about someone, gossip, or talk bad behind their back)	4	loc. adv.																													
-1581189430959	پېش	pesh	ahead, in front; earlier, first, before	4	loc. adv.																													
-1527811221	پورته	pórta	above, overhead	4	loc. adv.																													1
-1527814912	رانږدې	raanaGde	near, close to	3	loc. adv.																													
-1527812413	راپسې	raapase	after oneself	4	loc. adv.																													
-1527822042	راپورته	raaporta	above, overhead	3	loc. adv.																													
-1527815457	سراسري	săraasaree	all over, throughout	4	loc. adv.																													
-1527820292	شاته	sháata	behind, back	4	loc. adv.																													1
-1714743830394	شاته کول	shaata kawúl	to push back, repulse, rewind, put behind	4	v. stat. comp. trans.	1527820292	push	back																										1
-1714743832180	شاته کېدل	shaata kedúl	to go back, be repulsed, be rewound, go behind	4	v. stat. comp. intrans.	1527820292	go	back																										
-1588758935200	وراخوا	wăraakhwaa	that way, direction, over there	3	loc. adv.																													
-1527819388	وردننه	wardunúna	inside, in	3	loc. adv.																													
-1527818064	ورپسې	warpasé	after him/her/it/them, behind	4	loc. adv.																													1
+1527813279	مخته	múkhta	in front of, forward, ahead of	2	loc. adv.																													2
+1588780597931	نېږدې	neGdé	near, close to, almost	3	loc. adv.																													2
+1527817294	پاس	paas	up, above	4	loc. adv.																													3
+1527817154	پسې	pasé	after (as in going after), in pursuit, behind (د چا پسې  خبرې کول – to talk bad about someone, gossip, or talk bad behind their back)	4	loc. adv.																													2
+1581189430959	پېش	pesh	ahead, in front; earlier, first, before	4	loc. adv.																													2
+1527811221	پورته	pórta	above, overhead	4	loc. adv.																													3
+1527814912	رانږدې	raanaGdé	near, close to	3	loc. adv.																													2
+1527812413	راپسې	raapasé	after oneself	4	loc. adv.																													2
+1527822042	راپورته	raapórta	above, overhead	3	loc. adv.																													2
+1527815457	سراسري	saraasarée	all over, throughout	4	loc. adv.																													2
+1527820292	شاته	sháata	behind, back	4	loc. adv.																													3
+1714743830394	شاته کول	shaata kawúl	to push back, repulse, rewind, put behind	4	v. stat. comp. trans.	1527820292	push	back																										3
+1714743832180	شاته کېدل	shaata kedúl	to go back, be repulsed, be rewound, go behind	4	v. stat. comp. intrans.	1527820292	go	back																										2
+1588758935200	وراخوا	waráakhwaa	that way, direction, over there	3	loc. adv.																													2
+1527819388	وردننه	wardunúna	inside, in	3	loc. adv.																													2
+1527818064	ورپسې	warpasé	after him/her/it/them, behind	4	loc. adv.																													3
 1527815416	وړاندې	wRáande	ahead, forward, before, earlier	4	loc. adv.																													1
 1527812780	ښکته	xkúta	down, beneath	4	loc. adv.																													1
-1527822803	هیسته	héesta	far, distantly, a bit further, to the side, back, away, direction	3	loc. adv. / adj.																													
-1527813688	کوز	kooz	lower, below, down	3	loc. adv. / adj.																													1
-1527812935	مخامخ	múkhaamukh, mákhaamakh	face to face, across from, opposite; straight	4	loc. adv. / adj.																													1
-1708738328629	مخامخ کول	mukhaamukh kawul	to confront, to make face	4	v. stat. comp. trans.	1527812935	confront																											1
-1708738332713	مخامخ کېدل	mukhaamukh kedul	to face, come to face with, encounter	4	v. stat. comp. intrans.	1527812935	encounter																											1
-1527822780	ورمخته	wărmukhta	forward, towards	4	loc. adv. / adj.																													
-1527814913	ورنږدې	warnaGde	near, close to	4	loc. adv. / adj.																													
-1527818069	وروړاندې	wărwRaande	in front of him/her/it/them	4	loc. adv. / adj.																													
-1527819321	کښته	kxúta	down, below; slope	4	loc. adv. / n. m.																													
-1527814164	دېخوا	dekhwaa	this side, on this side	4	loc.adv.																													
-1664028299000	ښنګ	xung	blood clot; frozen earth	4	n m.																													
-1592559534666	پخ	pakh	sniffing (of a cat etc.); laugh, exclamation	4	n. .m																													
-1527820603	پایګاه	paaygáa	foot (of a mountain), military bridgehead/beachhead, place or springboard for attack	4	n. f.		foot	feet																										
-1527816124	پښه	pxa	foot	4	n. f.		foot	feet																										
-1527815156	پاڼه	páaNa	leaf	4	n. f.		leaf	leaves																										1
-1527816016	پښتو	puxtó, paxtó	Pashto, Pashtunwali	4	n. f.		Pashto																											1
-1527823620	بزه	bza	patch (in a garment)	1	n. f.		patch	patches																										
-1527822437	تاخچه	taakhchá	shelf, niche	4	n. f.		shelf	shelves																										1
-1527822792	توشک	toshák	narrow mattress used as a bed or a couch, reversible rug	4	n. f.		toshak																											
-1527812797	ښځه	xúdza	woman, wife	4	n. f.		woman	women																										1
-1527820736	اعشاریه	a'shaariya	(decimal) point	4	n. f.																													
-1527820285	آب بازي	aab baazee	swimming	3	n. f.																													
+1527822803	هیسته	héesta	far, distantly, a bit further, to the side, back, away, direction	3	loc. adv. / adj.																													2
+1527813688	کوز	kooz	lower, below, down	3	loc. adv. / adj.																													3
+1527812935	مخامخ	mukhaamukh, mukhaamakh	face to face, across from, opposite; straight	4	loc. adv. / adj.																													3
+1708738328629	مخامخ کول	mukhaamukh kawul	to confront, to make face	4	v. stat. comp. trans.	1527812935	confront																											3
+1708738332713	مخامخ کېدل	mukhaamukh kedúl	to face, come to face with, encounter	4	v. stat. comp. intrans.	1527812935	encounter																											3
+1527822780	ورمخته	warmúkhta	forward, towards	4	loc. adv. / adj.																													2
+1527814913	ورنږدې	warnaGdé	near, close to	4	loc. adv. / adj.																													2
+1527818069	وروړاندې	warwRáande	in front of him/her/it/them	4	loc. adv. / adj.																													2
+1527819321	کښته	kxúta	down, below; slope	4	loc. adv. / n. m.																													2
+1527814164	دېخوا	dékhwaa	this side, on this side	4	loc.adv.																													2
+1664028299000	ښنګ	xung	blood clot; frozen earth	4	n m.																													2
+1592559534666	پخ	pakh	sniffing (of a cat etc.); laugh, exclamation	4	n. .m																													2
+1527820603	پایګاه	paaygáa	foot (of a mountain), military bridgehead/beachhead, place or springboard for attack	4	n. f.		foot	feet																										2
+1527816124	پښه	pxa	foot	4	n. f.		foot	feet																										2
+1527815156	پاڼه	páaNa	leaf	4	n. f.		leaf	leaves																										3
+1527816016	پښتو	puxtó, paxtó	Pashto, Pashtunwali	4	n. f.		Pashto																											3
+1527823620	بزه	bza	patch (in a garment)	1	n. f.		patch	patches																										2
+1527822437	تاخچه	taakhchá	shelf, niche	4	n. f.		shelf	shelves																										3
+1527822792	توشک	toshák	narrow mattress used as a bed or a couch, reversible rug	4	n. f.		toshak																											2
+1527812797	ښځه	xúdza	woman, wife	4	n. f.		woman	women																										3
+1527820736	اعشاریه	a'shaariya', i'shaariyá	(decimal) point	4	n. f.																												TRUE	2
+1527820285	آب بازي	aab baazée	swimming	3	n. f.																													2
 1527820771	آباداني	aabaadaanee	population, number of settlers; prosperity, well-being; organization of public services and amenities; construction	1	n. f.																													
-1587319094935	آبادونه	aabaadawúna	population; tilling, cultivation (of land); building, construction; prosperity, well-being	3	n. f.																													
-1527820777	آبادېدنه	aabaadedúna	population; tilling, cultivation (of land)	4	n. f.																													
-1527820772	آبادي	aabaadee	populated place, dwelling, village; population (from Urdu); the condition of thriving, flourishing; fertileness; construction, act of building	4	n. f.																													
-1594809128933	آبیاري	aabyaaree	irrigation	4	n. f.																													
-1527812260	آدینه	aadeena	Friday	1	n. f.																													
-1527822249	آغې	aaghé	light, illumination, daylight, shine, glow; lightness, joy, happiness	2	n. f.																													
-1527815872	آغېزه	aagheza	influence, effect	4	n. f.																													
-1527815652	عاجزي	aajizee	humility, weakness	4	n. f.																													
-1527821758	آجرپزي	aajurpazée	kilning bricks, firing	1	n. f.																													
-1527819251	آنه بهانه	aaná bahaaná	excuse, evasion, trick	4	n. f.																													
-1527813075	آرامي	aaraamee	peace, tranquility; the Armenian language	4	n. f.																													
-1591873079335	آراستګي	aaraastagée	beauty, adornment, decoration	4	n. f.																													
+1587319094935	آبادونه	aabaadawúna	population; tilling, cultivation (of land); building, construction; prosperity, well-being	3	n. f.																													2
+1527820777	آبادېدنه	aabaadedúna	population; tilling, cultivation (of land)	4	n. f.																													2
+1527820772	آبادي	aabaadée	populated place, dwelling, village; population (from Urdu); the condition of thriving, flourishing; fertileness; construction, act of building	4	n. f.																													2
+1594809128933	آبیاري	aabyaarée	irrigation	4	n. f.																													2
+1527812260	آدینه	aadeená	Friday	1	n. f.																													2
+1527822249	آغې	aaghé	light, illumination, daylight, shine, glow; lightness, joy, happiness	2	n. f.																													2
+1527815872	آغېزه	aaghéza	influence, effect	4	n. f.																													2
+1527815652	عاجزي	aajizée	humility, weakness	4	n. f.																													2
+1527821758	آجرپزي	aajurpazée	kilning bricks, firing	1	n. f.																													2
+1527819251	آنه بهانه	aaná bahaaná	excuse, evasion, trick	4	n. f.																													2
+1527813075	آرامي	aaraamée	peace, tranquility; the Armenian language	4	n. f.																													2
+1591873079335	آراستګي	aaraastagée	beauty, adornment, decoration	4	n. f.																													2
 1527817533	آرموني	aarmoonée	(musical) harmony	1	n. f.																													
-1527811856	آرزو	aarzóo	wish, desire; hope, expectancy	3	n. f.																													1
-1527820239	آس ځغلونه	aas dzghulawána	horse race	4	n. f.																													
-1527814061	آساني	aasaanee	ease	4	n. f.																													
-1527820240	آسمنډه	aasmánDa	horse race	4	n. f.																													
-1527811857	آسوده ګي	aasooda gee	rest, calm, peace; prosperity, wellbeing	4	n. f.																													
-1527822023	آسیا	aasyaa	Asia	4	n. f.																													
-1527820349	آتش خانه	aatash khaaná	focus; center (ie. of an infection); pocket; shelf, lock, bolt, block; fuse, detonator	3	n. f.																													
-1527811792	آتش پرستي	aatash parastee	Zoroastrianism, fire worship	4	n. f.																													
-1527823528	عاطفه	aatifa	affection, sentiment, sympathy	2	n. f.									عواطف	awaatif																			
-1527821378	آتیه	aatiyá	future	1	n. f.																													
-1573056042029	ایډیالژي	aayDiyaalajzee	ideology	4	n. f.																													
-1527819548	عایله	aayilá	family, wife and children, household, kin	2	n. f.																													
-1527814540	آینه	aayna	mirror, glass; icing, frosting	3	n. f.																													
-1527815020	آینه	aayna	mirror, glass; icing, frosting	4	n. f.																													
-1527813939	آزادي	aazaadee	freedom, independence	4	n. f.																													
-1527818579	ابادونه	abaadawuna	the act of building houses, settling, constructing, fattening	4	n. f.																													
-1649101004970	ابادي	abaadée	populated place, dwelling, village; population (from Urdu); the condition of thriving, flourishing; fertileness; construction, act of building	4	n. f.																													1
-1594833584240	ابۍ	abúy	mommy, mom (way of addressing elderly woman), nanny, servant	4	n. f.																													
-1527811661	اډه	aDá	base, army post, (air) port	4	n. f.																													1
-1527818029	ادا	adáa	setting forth, giving, fulfilling, execution, fulfillment, implementation, utterance, expression, rendering	4	n. f.																													
-1527822363	عدالتي	adaalatee	justice, fairness	3	n. f.																													
-1527823483	اډانه	aDaana	schedule, outline, scheme; the cover or jacket of a book	3	n. f.																													
-1527820445	ادیره	adeerá	graveyard, cemetery	3	n. f.																													1
-1527815046	عدلیه	adliya	court, tribunal	3	n. f.																													
-1527812440	افغانۍ	afghaanúy	Afghani, the currency of Afghanistan	4	n. f.																													1
-1527817268	افریقه	afreeqá	Africa	4	n. f.																													1
-1527820097	افریقا	afreeqaa	Africa	4	n. f.																													
-1527813303	افسانه	afsaaná	myth, legend, fairy tale	3	n. f.																													1
-1527816758	عفوه	afwa	forgiveness, pardon, amnesty	4	n. f.																													
-1527812441	افواه	afwáah	rumour, hearsay	4	n. f.									افواهات	afwaahaat																			1
-1527813432	افزارداني	afzaardaanee	box, bag for tools	4	n. f.																													
-1527816212	اګاهي	agaahee	information, notification, awareness	4	n. f.																													
-1527813417	اغېزه	agheza	influence, effect, affect, action	3	n. f.																													
-1610539003852	اغوا	aghwáa	kidnapping, abduction	4	n. f.																													
-1527819405	عهد شکني	ahd shikanee	breaking or violation of a treaty, covenant, promise, or obligation	3	n. f.																													
-1527822547	اهلیت نامه	ahliyat naama	driver’s license	4	n. f.																													
-1662619883398	عجله	ajalá	rush, hurry	4	n. f.																													
-1614083533098	اجنډه	ajanDa	agenda	4	n. f.																													
-1566652353002	اجړا	ajRáa, ijRáa	hemaphrodite, she-male	4	n. f.																													
-1527816439	اکاني	akaanee	aunt; gay, queer, pansy, homosexual (slang)	4	n. f.																													
-1527812444	عکاسي	akaasee	photography	4	n. f.																													
-1527820167	اکېډمي	akeDamee	academy	4	n. f.																													
-1527823760	عکس برداري	aks bardaaree	photography, taking photographs	3	n. f.																													
+1527811856	آرزو	aarzóo	wish, desire; hope, expectancy	3	n. f.																													3
+1527820239	آس ځغلونه	aas dzghulawúna	horse race	4	n. f.																													2
+1527814061	آساني	aasaanée	ease	4	n. f.																													2
+1527820240	آسمنډه	aasmánDa	horse race	4	n. f.																													2
+1527811857	آسوده ګي	aasooda gée	rest, calm, peace; prosperity, wellbeing	4	n. f.																													2
+1527822023	آسیا	aasyáa	Asia	4	n. f.																													2
+1527820349	آتش خانه	aatash khaaná	focus; center (ie. of an infection); pocket; shelf, lock, bolt, block; fuse, detonator	3	n. f.																													2
+1527811792	آتش پرستي	aatash parastée	Zoroastrianism, fire worship	4	n. f.																													2
+1527823528	عاطفه	aatifá	affection, sentiment, sympathy	2	n. f.									عواطف	awaatif																			2
+1527821378	آتیه	aatiyá	future	1	n. f.																													2
+1573056042029	ایډیالژي	aayDiyaalajzée, iyDiyaalajzée	ideology	4	n. f.																													2
+1527819548	عایله	aayilá	family, wife and children, household, kin	2	n. f.																													2
+1527814540	آینه	aayná	mirror, glass; icing, frosting	3	n. f.																													2
+1527815020	آینه	aayná, ayiná	mirror, glass; icing, frosting	4	n. f.																													2
+1527813939	آزادي	aazaadée	freedom, independence	4	n. f.																													2
+1527818579	ابادونه	abaadawúna	the act of building houses, settling, constructing, fattening	4	n. f.																													2
+1649101004970	ابادي	abaadée	populated place, dwelling, village; population (from Urdu); the condition of thriving, flourishing; fertileness; construction, act of building	4	n. f.																													3
+1594833584240	ابۍ	abúy	mommy, mom (way of addressing elderly woman), nanny, servant	4	n. f.																													2
+1527811661	اډه	aDá	base, army post, (air) port	4	n. f.																													3
+1527818029	ادا	adáa	setting forth, giving, fulfilling, execution, fulfillment, implementation, utterance, expression, rendering	4	n. f.																													2
+1527822363	عدالتي	adaalatée	justice, fairness	3	n. f.																													2
+1527823483	اډانه	aDaaná	schedule, outline, scheme; the cover or jacket of a book	3	n. f.																													2
+1527820445	ادیره	adeerá	graveyard, cemetery	3	n. f.																													3
+1527815046	عدلیه	adliya	court, tribunal	3	n. f.																													2
+1527812440	افغانۍ	afghaanúy	Afghani, the currency of Afghanistan	4	n. f.																													3
+1527817268	افریقه	afreeqá	Africa	4	n. f.																													3
+1527820097	افریقا	afreeqáa	Africa	4	n. f.																													2
+1527813303	افسانه	afsaaná	myth, legend, fairy tale	3	n. f.																													3
+1527816758	عفوه	á'fwa	forgiveness, pardon, amnesty	4	n. f.																													2
+1527812441	افواه	afwáah, ifwáah	rumour, hearsay	4	n. f.									افواهات	afwaahaat																			3
+1527813432	افزارداني	afzaardaanée	box, bag for tools	4	n. f.																													
+1527816212	اګاهي	agaahée	information, notification, awareness	4	n. f.																													2
+1527813417	اغېزه	aghéza	influence, effect, affect, action	3	n. f.																													2
+1610539003852	اغوا	aghwáa	kidnapping, abduction	4	n. f.																													2
+1527819405	عهد شکني	ahd shikanée, ahud shikanéé	breaking or violation of a treaty, covenant, promise, or obligation	3	n. f.																													2
+1527822547	اهلیت نامه	ahliyat naamá	driver’s license	4	n. f.																													2
+1662619883398	عجله	ajalá	rush, hurry	4	n. f.																													2
+1614083533098	اجنډه	ajanDá	agenda	4	n. f.																													2
+1566652353002	اجړا	ajRáa, ijRáa	hemaphrodite, she-male	4	n. f.																													2
+1527816439	اکاني	akaanée	aunt; gay, queer, pansy, homosexual (slang)	4	n. f.																													2
+1527812444	عکاسي	akaasée	photography	4	n. f.																													2
+1527820167	اکېډمي	akeDamée, akaDUmée	academy	4	n. f.																													2
+1527823760	عکس برداري	aks bardaarée	photography, taking photographs	3	n. f.																													2
 1527820163	اله	ala	instrument, tool آلت	4	n. f.	1527814921																												
-1527820156	اله بله	alá balá	cry, howl	4	n. f.																													
-1527820154	اله ګوله	alá goolá	riot, revolt, disturbances, noise	4	n. f.																													
+1527820156	اله بله	alá balá	cry, howl	4	n. f.																													2
+1527820154	اله ګوله	alá goolá	riot, revolt, disturbances, noise	4	n. f.																													2
 1527820155	اله ګله	alá gÚla	riot, revolt, disturbances, noise	4	n. f.																													
-1612113510009	علامه	alaamá	sign, symbol, mark	4	n. f.									علامات	alaamaat																			
-1527821770	علاقه	alaaqá	interest, concern, connection, affection; region, district, zone, territory	3	n. f.																													1
-1527821772	علاقه داري	alaaqa daaree	interest, concern; region, area, precint, section of a city	4	n. f.																													
-1527821774	علاقه مندي	alaaqa mandee	interest, concern	3	n. f.																													
-1527813802	الغه	algha	ring, hoop	3	n. f.																													
-1602179757779	الف بې	alif be	alphabet	4	n. f.																													
-1602179787173	الف و بې	alif-U-be	alphabet	4	n. f.																													
-1527822448	الفبا	alifbaa	alphabet	4	n. f.																													
-1527814931	المارۍ	almaarúy	cupboard, cabinet, wardrobe	4	n. f.																													1
-1584885212687	الوچه	aloochá	plum	4	n. f.																													
-1577816185726	الوتکه	alwatáka	plane, airplane	4	n. f.																													
-1527813055	الوتنه	alwutúna, alwatúna, alootúna	flight, flying; explosion; take-off	4	n. f.																													1
-1527816429	عمه	ama	paternal aunt	3	n. f.																													
-1527821293	امادګي	amaadagee	preparation, readiness, planning	4	n. f.																													
-1527822548	عمل نامه	amal naama	protocol, written record, deed of property/land; in Islam, the book where you good and bad deeds are written	4	n. f.																													
-1527820878	عمله	amalá	staff, workers, crew 	2	n. f.																													1
-1527814677	امنیه	amnya	security, police force	4	n. f.																													
-1577232915386	امپراتوري	amparaatoree	empire	4	n. f.																													
-1527815039	امریکه	amreeká	America, the U.S.A.	4	n. f.																													1
-1527816907	امریکا	amreekaa	America, the U.S.A.	4	n. f.																													
-1527818119	امسا	amsáa	stick, walking staff, walking stick, crutch	4	n. f.																													1
+1612113510009	علامه	alaamá	sign, symbol, mark	4	n. f.									علامات	alaamaat																			2
+1527821770	علاقه	alaaqá	interest, concern, connection, affection; region, district, zone, territory	3	n. f.																													3
+1527821772	علاقه داري	alaaqa daarée	interest, concern; region, area, precint, section of a city	4	n. f.																													2
+1527821774	علاقه مندي	alaaqa mandée	interest, concern	3	n. f.																													2
+1527813802	الغه	alghá	ring, hoop	3	n. f.																													2
+1602179757779	الف بې	alif bé, alif-U-bé	alphabet	4	n. f.																													2
+1602179787173	الف و بې	alif-U-bé	alphabet	4	n. f.																													2
+1527822448	الفبا	alifbáa	alphabet	4	n. f.																													2
+1527814931	المارۍ	almaarúy	cupboard, cabinet, wardrobe	4	n. f.																													3
+1584885212687	الوچه	aloochá, alwúcha	plum	4	n. f.																													2
+1577816185726	الوتکه	alwatáka	plane, airplane	4	n. f.																													2
+1527813055	الوتنه	alwutúna, alwatúna, alootúna	flight, flying; explosion; take-off	4	n. f.																													3
+1527816429	عمه	a'má	paternal aunt	3	n. f.																													2
+1527821293	امادګي	amaadagée	preparation, readiness, planning	4	n. f.																													2
+1527822548	عمل نامه	amal naama	protocol, written record, deed of property/land; in Islam, the book where you good and bad deeds are written	4	n. f.																													2
+1527820878	عمله	amalá	staff, workers, crew 	2	n. f.																													3
+1527814677	امنیه	amnyá	security, police force	4	n. f.																													2
+1577232915386	امپراتوري	amparaatorée	empire	4	n. f.																													2
+1527815039	امریکه	amreeká	America, the U.S.A.	4	n. f.																													3
+1527816907	امریکا	amreekáa	America, the U.S.A.	4	n. f.																													2
+1527818119	امسا	amsáa	stick, walking staff, walking stick, crutch	4	n. f.																													3
 1527816440	امکه	amuka	aunt; gay, queer, pansy, homosexual (slang)	4	n. f.																													
-1527816260	امیاني	amyaanee	wallet, purse, handbag	3	n. f.																													
-1527817553	عنعنه	an'aná	tradition (Arabic)	3	n. f.									عنعنات	an'anáat																			
-1527812451	انا	anaa	grandmother	4	n. f.																													
-1527822494	انانګه	anaangá	cheek		n. f.																													
-1527811706	انرژي	inarjzée, anarjzée	energy, power	4	n. f.																													1
-1527817225	اندازه	andaazá	measure, dimension, extent, scale	4	n. f.																													1
-1527817228	اندازه ګیري	andaaza geeree	measuring, measurement	4	n. f.																													
-1527813759	اندېښنه	andexná	worry, concern, fear	4	n. f.																													1
-1527820626	انځورګري	andzoorguree	the art of drawing, painting (art)	4	n. f.																													
-1595516844401	انګاره	angaará	stubble, straw	2	n. f.																													
-1527814914	انګازه	angaazá	rumour, common talk, babble, hearsay; murmur; echo	4	n. f.																													1
-1527815653	انګېرنه	angeruna	assumption, notion, imagination, calculation	4	n. f.																													
-1527814797	انګېزه	angeza	motive, reason, cause, idea; morale, motivation	4	n. f.																													
-1527823452	انګولا	angoláa	crying, wailing, weeping, howling	4	n. f.																													
-1527813796	انګریزي	angreezée	English	4	n. f.																													1
-1527812181	انګرېزي	angrezee	English	4	n. f.																													
-1527819474	انګروزه	angrozá	rumour, hearsay	3	n. f.																													
-1610797303583	انتوشي	antooshee	sneeze	4	n. f.																													
+1527816260	امیاني	amyaanée	wallet, purse, handbag	3	n. f.																													2
+1527817553	عنعنه	an'aná	tradition (Arabic)	3	n. f.									عنعنات	an'anáat																			2
+1527812451	انا	anáa	grandmother	4	n. f.																													2
+1527822494	انانګه	anaangá, anáanga	cheek		n. f.																													2
+1527811706	انرژي	inarjzée, anarjzée	energy, power	4	n. f.																													3
+1527817225	اندازه	andaazá	measure, dimension, extent, scale	4	n. f.																													3
+1527817228	اندازه ګیري	andaaza geerée	measuring, measurement	4	n. f.																													2
+1527813759	اندېښنه	andexná	worry, concern, fear	4	n. f.																													3
+1527820626	انځورګري	andzoorgurée	the art of drawing, painting (art)	4	n. f.																													2
+1595516844401	انګاره	angaará	stubble, straw	2	n. f.																													2
+1527814914	انګازه	angaazá	rumour, common talk, babble, hearsay; murmur; echo	4	n. f.																													3
+1527815653	انګېرنه	angerúna	assumption, notion, imagination, calculation	4	n. f.																													2
+1527814797	انګېزه	angezá	motive, reason, cause, idea; morale, motivation	4	n. f.																													2
+1527823452	انګولا	angoláa	crying, wailing, weeping, howling	4	n. f.																													2
+1527813796	انګریزي	angreezée	English (language)	4	n. f.																													3
+1527812181	انګرېزي	angrezée	English (language)	4	n. f.																													2
+1527819474	انګروزه	angrozá	rumour, hearsay	3	n. f.																													2
+1610797303583	انتوشي	antooshée	sneeze	4	n. f.																													2
 1527816422	انکه	anuka	granny, grandma (children's speech)	4	n. f.																													
-1527816423	انۍ	anúy	granny, grandma, grandmother	4	n. f.																													
-1527811793	عقیده	aqeedá	faith, religion, creed	4	n. f.									عقائد	aqaaíd																			1
-1527811553	اړه	áRa	relation, connection; need	3	n. f.																													1
-1527821380	اره	ará	saw (the tool)	4	n. f.																													1
-1527821382	اره کشي	ara kashee	sawing (lumber)	4	n. f.																													
-1527819843	اړه تړه	áRa táRa	collusion	3	n. f.																													
-1674054375128	ارایه	araayá	presentation, producing, showing (of documents etc.)		n. f.																													
-1527817947	اړایي	aRaayée	bad harvest, crop failure	1	n. f.																													
-1576724261523	اراضي	araazée	earth, land; district, locality	4	n. f.																													
-1527811463	اربه	araba	cart, wagon, carriage	3	n. f.																													
-1527816381	اړنګ نیونه	aRang neewuna	protest, outcry, appeal, furor	2	n. f.																													
-1527821826	اړنګۍ	aRangúy	step, running board,	2	n. f.																													
-1527818752	ارچه	archá	Archa, Juniperus semiglobosa, a kind of coniferous tree	2	n. f.																													
+1527816423	انۍ	anúy	granny, grandma, grandmother	4	n. f. anim.																													2
+1527811793	عقیده	aqeedá	faith, religion, creed	4	n. f.									عقائد	aqaaíd																			3
+1527811553	اړه	áRa, aRá	relation, connection; need	3	n. f.																													3
+1527821380	اره	ará	saw (the tool)	4	n. f.																													3
+1527821382	اره کشي	ara kashée	sawing (lumber)	4	n. f.																													2
+1527819843	اړه تړه	áRa táRa	collusion	3	n. f.																													2
+1732867845046	اره تره	ára tára	horror		n. f.																													2
+1674054375128	ارایه	araaya	presentation, producing, showing (of documents etc.)		n. f.																													2
+1527817947	اړایي	aRaayée	bad harvest, crop failure	1	n. f.																													2
+1576724261523	اراضي	araazée	earth, land; district, locality	4	n. f.																													2
+1527811463	اربه	arabá	cart, wagon, carriage	3	n. f.																													2
+1527816381	اړنګ نیونه	aRang neewúna	protest, outcry, appeal, furor	2	n. f.																													2
+1527821826	اړنګۍ	aRangúy	step, running board,	2	n. f.																													2
+1527818752	ارچه	archá	Archa, Juniperus semiglobosa, a kind of coniferous tree	2	n. f.																													2
 1527818750	ارچه کاري	archa kaaree	wood panelling, plank panelling, cabinet making work, carpentry work	2	n. f.																													
-1527814070	اړیکه	aReeka	connection, relation, bridge	4	n. f.																													
-1631826679145	اړینتیا	aReentyáa	necessity, importance	4	n. f.																													
-1527822821	عریضه	areezá	petition, request, lawsuit	4	n. f.																													
-1527822097	ارکاره	arkaará	frying pan, a children’s game, casserole	4	n. f.																													
-1595252919385	ارماني	armaanee	desirable, ideal	4	n. f.																													
-1527816359	ارمټه	armaTa	widow, poor woman	2	n. f.																													
+1527814070	اړیکه	aRéeka	connection, relation, bridge	4	n. f.																													2
+1631826679145	اړینتیا	aReentyáa	necessity, importance	4	n. f.																													2
+1527822821	عریضه	areezá	petition, request, lawsuit	4	n. f.																													2
+1527822097	ارکاره	arkaará	frying pan, a children’s game, casserole	4	n. f.																													2
+1595252919385	ارماني	armaanée	desirable, ideal	4	n. f.																													2
+1527816359	ارمټه	armáTa	widow, poor woman	2	n. f. anim.																													2
 1527820174	ارمونیه	armooniya	harmonium	4	n. f.																													
-1527817208	اروپا	aroopaa	Europe	4	n. f.																													
-1527816486	ارتینه	arteena	wife, woman (can be negative)	3	n. f.																													
-1527812456	اړتیا	aRtiyáa, aRtyáa	need, necessity	4	n. f.																													
-1527812954	اروا درملنه	arwaa darmaluna	psychiatry	3	n. f.																													
-1527812945	اروا پوهنه	arwaa pohana	pshychology	3	n. f.																													
+1527817208	اروپا	aroopáa, Uroopáa	Europe	4	n. f.																													2
+1527816486	ارتینه	arteená	wife, woman (can be negative)	3	n. f.																													2
+1527812456	اړتیا	aRtyáa	need, necessity	4	n. f.																													2
+1527812954	اروا درملنه	arwaa darmalúna	psychiatry	3	n. f.																													2
+1527812945	اروا پوهنه	arwaa pohúna	pshychology	3	n. f.																													2
 1527816487	اروته	arwata	wife, woman	3	n. f.																													
-1575235366415	اریاني	aryaanee	surprise, alarm, amazement (حيراني)	4	n. f.																													
-1527814639	عرضه	arza	supply (of goods)	2	n. f.																													
-1527814310	ارزونه	arzawuna	evaluation, appraisal, assessment	2	n. f.																													
-1672305639199	عصا	asáa	cane, baton, stick		n. f.																													
-1527814060	اساني	asaanee	ease	4	n. f.																													
-1527818026	اسانتیا	asaantyáa	ease, facility, easiness	4	n. f.																													1
-1527813013	عصب پوهنه	asab pohuna	neurology	3	n. f.																													
-1678446947826	اسمبلي	asamblee	assembly (political)		n. f.																													
-1527816620	اشا	ashaa	misfortune, disaster, danger	3	n. f.																													
-1527820869	اشاریه	ashaariya	(decimal) point	4	n. f.																													
-1527821749	اشپزي	ashpazee	cookery, cooking	4	n. f.																													
-1678796022540	اشرافیه	ashraafiya	aristocracy		n. f.																													
-1527816619	اسکېرنه	askeruna	misfortune, disaster, bad luck	1	n. f.																													
-1527822842	اسمان لار	asmaan laar	Milky Way	3	n. f.																													
-1610012325799	اثنا	asnáa	moment, interval, space (in time)	3	n. f.																													
-1527822277	اسپه	aspa	mare, female horse; fever	4	n. f.																													
-1527817039	استازي	astaazee	representation, ambassadorship	3	n. f.																													
-1527819108	استازوالي	astaazwaalee	representation, official mission	4	n. f.																													
-1527816971	استوګه	astogá	residence, stay	3	n. f.																													
-1527816972	استوګنه	astogna	residence, stay	4	n. f.																													
-1527820201	استرالیا	astraaliyaa	Australia	4	n. f.																													
-1675269163515	اسیا	asyáa, asiyáa	Asia		n. f.																													
-1527814326	عتا	ataa	ability, skill; gift, donation, grant; endowment, natural talent	1	n. f.																													
-1527818403	اتلوالي	atalwaalée	championship; courage	4	n. f.																													
-1527818402	اتلولي	atalwalée	championship; courage	4	n. f.																													
-1527816420	اتکو	atko	mother, grandmother (affectionate form of address)	3	n. f.																													
-1527816421	اتکۍ	atkúy	mother, grandmother (affectionate form of address)	3	n. f.																													
-1527816148	اڅه	atsa	endeavor, attempt, effort, aspiration, movement, advance	2	n. f.																													
-1527818017	اټۍ	aTúy	store, shop	4	n. f.																													
-1527819475	اوازه	awaazá	rumour, hearsay	4	n. f.																													
-1578343584088	اوغانۍ	awghaanúy	Afghani (money) colloqual speech (افغانۍ)	4	n. f.																													
-1527818530	اوره	áwra	small cloud, cloudlet	3	n. f.																													
-1527818495	اوسېلنه	awselúna	sighing, whining, deep breathing	3	n. f.																													
-1527819354	عیاشي	ayaashee	partying, loose living, enjoying life, immorality and free living	3	n. f.																												TRUE	
+1575235366415	اریاني	aryaanée	surprise, alarm, amazement (حيراني)	4	n. f.																													2
+1527814639	عرضه	arzá	supply (of goods)	2	n. f.																													2
+1527814310	ارزونه	arzawúna	evaluation, appraisal, assessment	2	n. f.																													2
+1672305639199	عصا	asáa	cane, baton, stick		n. f.																													2
+1527814060	اساني	asaanée	ease	4	n. f.																													2
+1527818026	اسانتیا	asaantyáa	ease, facility, easiness	4	n. f.																													3
+1527813013	عصب پوهنه	asab pohúna	neurology	3	n. f.																													2
+1678446947826	اسمبلي	asamblée	assembly (political)		n. f.																													2
+1527816620	اشا	asháa	misfortune, disaster, danger	3	n. f.																													2
+1527820869	اشاریه	ashaariyá, ishaariyá	(decimal) point	4	n. f.																													2
+1527821749	اشپزي	ashpazée	cookery, cooking	4	n. f.																													2
+1678796022540	اشرافیه	ashraafiya	aristocracy		n. f.																													2
+1527816619	اسکېرنه	askeruná, askerná	misfortune, disaster, bad luck	1	n. f.																													2
+1527822842	اسمان لار	asmaan laar	Milky Way	3	n. f.																													2
+1610012325799	اثنا	asnáa	moment, interval, space (in time)	3	n. f.																													2
+1527822277	اسپه	aspá	mare, female horse; fever	4	n. f.																													2
+1527817039	استازي	astaazée	representation, ambassadorship	3	n. f.																													2
+1527819108	استازوالي	astaazwaalée	representation, official mission	4	n. f.																													2
+1527816971	استوګه	astogá	residence, stay	3	n. f.																													2
+1527816972	استوګنه	astogúna	residence, stay	4	n. f.																													2
+1527820201	استرالیا	astraaliyaa	Australia	4	n. f.																													2
+1675269163515	اسیا	asyáa, asiyáa	Asia		n. f.																													2
+1527814326	عتا	atáa	ability, skill; gift, donation, grant; endowment, natural talent	1	n. f.																													2
+1527818403	اتلوالي	atalwaalée	championship; courage	4	n. f.																													2
+1527818402	اتلولي	atalwalée	championship; courage	4	n. f.																													2
+1527816420	اتکو	atkó, atUkó	mother, grandmother (affectionate form of address)	3	n. f. anim.																													2
+1527816421	اتکۍ	atkúy	mother, grandmother (affectionate form of address)	3	n. f. anim.																													2
+1527816148	اڅه	atsa	endeavor, attempt, effort, aspiration, movement, advance (هڅه)	2	n. f.																													
+1527818017	اټۍ	aTúy	store, shop	4	n. f.																													2
+1527819475	اوازه	awaazá	rumour, hearsay	4	n. f.																													2
+1578343584088	اوغانۍ	awghaanúy	Afghani (money) colloqual speech (افغانۍ)	4	n. f.																													2
+1527818530	اوره	áwra, awrá	small cloud, cloudlet	3	n. f.																													2
+1527818495	اوسېلنه	awselúna	sighing, whining, deep breathing	3	n. f.																													2
+1527819354	عیاشي	ayaashée	partying, loose living, enjoying life, immorality and free living	3	n. f.																												TRUE	2
 1527816687	اینکه	aynaka	glasses, spectacles (usually plural اينکې)	3	n. f.																													
 1588782166073	عینکه	aynaká	(looking) glass, spectacle (usually plural عینکې)	3	n. f.																												TRUE	
-1675275383469	ازادي	azaadée	freedom		n. f.																													1
+1675275383469	ازادي	azaadée	freedom		n. f.																													3
 1610617234788	ازانګه	azaangá	echo	2	n. f.																													
-1527819296	عضله	azalá	muscle, sinew, tissue	4	n. f.																													
-1527819994	عزیزداري	azeezdaaree	relationship through marriage	3	n. f.																													
-1527819062	اضحیٰ	azháa	religious sacrifice, sacrificial offering (from Arabic, used for festival of sacrifice)	3	n. f.																													
-1527816065	ازماینه	azmaayna	trial, testing, difficulty, temptation	3	n. f.																													
-1527811606	ازموینه	azmoyúna	attempt, try; experiment, test	3	n. f.																													1
-1623687085120	اذوقه	azooqá	provisions, stock, food	4	n. f.																													
-1527817173	ازوتي	azotee	nitrogen	1	n. f.																													
+1527819296	عضله	azalá	muscle, sinew, tissue	4	n. f.																													2
+1527819994	عزیزداري	azeezdaarée	relationship through marriage	3	n. f.																													2
+1527819062	اضحیٰ	azháa	religious sacrifice, sacrificial offering (from Arabic, used for festival of sacrifice)	3	n. f.																													2
+1527816065	ازماینه	azmaayná	trial, testing, difficulty, temptation	3	n. f.																													2
+1527811606	ازموینه	azmoyúna	attempt, try; experiment, test	3	n. f.																													3
+1623687085120	اذوقه	azooqá	provisions, stock, food	4	n. f.																													2
+1527817173	ازوتي	azotée	nitrogen	1	n. f.																													2
 1527812364	بابونه	baabawuna	spreading, dissemination	4	n. f.																													
-1527816490	بابۍ	baabúy	brother's wife; general term of address for an alder woman, mother, aunty	4	n. f.																													
-1527821022	باده	baadá	wine, alcoholic drink, anything intoxicating	4	n. f.																													
-1527820035	باداري	baadaaree	dominion, holding sway over someone	4	n. f.																													
-1527819712	باډاسکه	baaDáaska	wave	4	n. f.																													
-1527812330	بادشاهي	baadshaahee	kingly, royal, regal; kingdom, monarchy, sultanate, reign	4	n. f.																													
-1527823190	باغچه	baaghichá	flower bead, flower garden, vegetable garden, little garden (from باغ)	4	n. f.	1527816268																												1
-1527814626	باغواني	baaghwaanée	gardening, market gardening	4	n. f.																													1
-1527816491	باجه	baaja	music, brass band; wife's sister's husband	4	n. f.																													
-1577238270133	باجي	baajee	older sister (from Urdu / Pakistan)	4	n. f.																													
-1527813309	باخو	baakhoo	a fairy tale witch	2	n. f.																													
-1527820712	باکۍ	baakúy	vomit, puke	4	n. f.																													
-1527818575	بالاخانه	baalaakhaana	upstairs, upper floors of a building	4	n. f.																													
-1527817264	بالټۍ	baalTúy	bucket	4	n. f.																													1
-1527814400	بامبوره	baamboora	toy (the toy)	4	n. f.																													
-1527815591	بانډه	baanDá	pen for cattle, fence for animals; small village, camp of nomads	4	n. f.																													1
-1527822272	باڼو	baaNoo, baaNo	eyelash	4	n. m.																													
-1527822231	باقاعده ګي	baaqaa'ida gee	regularity, agreement, harmony, state of good repair	4	n. f.																													
-1527820486	باړه	baaRá	rent, freight charge	4	n. f.																													
-1527816309	باره	báara	fortification, large dam, barrier, obstacle	3	n. f.																													
+1527816490	بابۍ	baabúy	brother's wife; general term of address for an alder woman, mother, aunty	4	n. f. anim.																													2
+1527821022	باده	baadá	wine, alcoholic drink, anything intoxicating	4	n. f.																													2
+1527820035	باداري	baadaarée	dominion, holding sway over someone	4	n. f.																													2
+1527819712	باډاسکه	baaDáaska, baaDaasuka	wave	4	n. f.																													2
+1527812330	بادشاهي	baadshaahée	kingly, royal, regal; kingdom, monarchy, sultanate, reign	4	n. f.																													2
+1527823190	باغچه	baaghichá, baaghchá	flower bead, flower garden, vegetable garden, little garden (from باغ)	4	n. f.	1527816268																												3
+1527814626	باغواني	baaghwaanée	gardening, market gardening	4	n. f.																													3
+1527816491	باجه	baajá	music, brass band; wife's sister's husband	4	n. f.																													2
+1577238270133	باجي	baajée	older sister (from Urdu / Pakistan)	4	n. f. anim.																													2
+1527813309	باخو	baakhoo, baakhó	a fairy tale witch	2	n. f. anim.																													2
+1527820712	باکۍ	baakúy	vomit, puke	4	n. f.																													2
+1527818575	بالاخانه	baalaakhaaná	upstairs, upper floors of a building	4	n. f.																													2
+1527817264	بالټۍ	baalTúy	bucket	4	n. f.																													3
+1527814400	بامبوره	baamboorá	toy (the toy)	4	n. f.																													2
+1527815591	بانډه	baanDá	pen for cattle, fence for animals; small village, camp of nomads	4	n. f.																													3
+1527822272	باڼو	baaNóo, baaNó	eyelash	4	n. m.																													2
+1527822231	باقاعده ګي	baaqaa'ida gée	regularity, agreement, harmony, state of good repair	4	n. f.																													2
+1527820486	باړه	baaRá	rent, freight charge	4	n. f.																													2
+1527816309	باره	báara, baará	fortification, large dam, barrier, obstacle	3	n. f.																													2
 1527820485	باړه	báaRa	temporary fence; built up of rocks; enclosure (for cattle)	4	n. f.																													
 1527814468	بارانۍ	baaraanúy	farming land without artificial irrigation; umbrella, raincoat	4	n. f.																													
-1586634360276	بارجامه	baarjaamá	sailcloth, duck (the cloth)	2	n. f.																													
-1527816346	باټه	baaTa	boasting, bragging	3	n. f.																													
-1611420723227	باورچي خانه	baawarchee khaana	kitchen	4	n. f.																													
-1527823298	باښه	baaxá	sparrow-hawk, eagle	4	n. f.																													
-1611063974469	باښه	baaxá	falcon, hawk	4	n. f.																													
-1527820814	بازي	baazee	game, playing	4	n. f.																													
-1527814399	بازیچه	baazeecha	toy	4	n. f.																													
+1586634360276	بارجامه	baarjaamá	sailcloth, duck (the cloth)	2	n. f.																													2
+1527816346	باټه	baaTá	boasting, bragging	3	n. f.																													2
+1611420723227	باورچي خانه	baawarchee khaaná	kitchen	4	n. f.																													2
+1527823298	باښه	baaxá	sparrow-hawk, eagle	4	n. f. anim.																													2
+1611063974469	باښه	baaxá	falcon, hawk	4	n. f. anim.																													2
+1527820814	بازي	baazée	game, playing	4	n. f.																													2
+1527814399	بازیچه	baazeechá	toy	4	n. f.																													2
 1527822532	بچه بازي	bacha baazee	pedophilia, paedophilia, pederastry (with young boys)	4	n. f.																													
 1713802717954	هلک باز	haluk báaz	pedophile, paedophile, pederast (with young boys)		n. m. anim. unisex																													1
 1713802740567	هلک بازي	haluk baazée	pedophilia, paedophilia, pederastry (with young boys)	4	n. f.																													
-1527816024	بچه ګوته	bacha gwuta	ring finger	3	n. f.																													
-1527820828	بچۍ	bachúy	daughter, girl	4	n. f.																													
+1527816024	بچه ګوته	bacha gwuta, bacha goota	ring finger	3	n. f.																													2
+1527820828	بچۍ	bachúy	daughter, girl	4	n. f.																													2
 1527822083	بد اخلاقي	bad akhlaaqee	immorality	4	n. f.																													
-1527815993	بد بختي	bud bakhtee	bad luck, misforture	4	n. f.																													
-1588150634560	بد تمیزي	bad tameezee	rudeness (Urdu)	4	n. f.																													
-1622874694531	بډه	báDa	the upper part with the cord of the traditional loose trousers; disappearance, wane (of the moon in the last days of the lunar month)	4	n. f.																													
-1527822521	بدنۍ	badnúy, badanúy	a watering container with a spout (usually metal)	4	n. f.																													
-1527817732	بدبختي	budbakhtée	misfortune, difficulty	4	n. f.																													
-1527822611	بډبولتیا	baDboltiyaa	truthfulness, righteousness	1	n. f.																													
-1527817345	بدي	badee	enmity; badness, a bad deed	4	n. f.																													
-1527816109	بدګوماني	badgoomaanee	suspicion, distrust	4	n. f.																													
-1527812512	بدله	badlá	exchange, return, compensation, reward, recompense, revenge	4	n. f.																													1
-1708559381630	بدله ورکول	badlá warkawul	to compensate, reward, pay back		v. dyn. comp. trans.	1527812512																												1
+1527815993	بد بختي	bud bakhtée	bad luck, misforture	4	n. f.																													2
+1588150634560	بد تمیزي	bad tameezée	rudeness (Urdu)	4	n. f.																													2
+1622874694531	بډه	báDa	the upper part with the cord of the traditional loose trousers; disappearance, wane (of the moon in the last days of the lunar month)	4	n. f.																													2
+1527822521	بدنۍ	badnúy, badanúy	a watering container with a spout (usually metal)	4	n. f.																													2
+1527817732	بدبختي	budbakhtée	misfortune, difficulty	4	n. f.																													2
+1527822611	بډبولتیا	baDboltyáa	truthfulness, righteousness	1	n. f.																													
+1527817345	بدي	badée	enmity; badness, a bad deed	4	n. f.																													2
+1527816109	بدګوماني	badgoomaanée	suspicion, distrust	4	n. f.																													2
+1527812512	بدله	badlá	exchange, return, compensation, reward, recompense, revenge	4	n. f.																													3
+1708559381630	بدله ورکول	badlá warkawúl	to compensate, reward, pay back		v. dyn. comp. trans.	1527812512																												3
 1527811928	بدلغامي	badlaghaamee	prostitution	3	n. f.																													
-1588786872582	بدنامي	badnaamée	shame, disrepute, dishonour	4	n. f.																													1
-1650297394423	بدنصیبي	badnaseebee	bad luck, misfortune	4	n. f.																													
-1527813651	بدرګه	badraga	escort, accompaniment	4	n. f.																													
-1527811242	بدتري	badtarée	awfulness, getting worse	4	n. f.																													1
-1527817599	بغل ګیري	baghal geerée	embrace, hugging	4	n. f.																													
-1527817598	بغل کشي	baghal kashée	embrace, hugging	4	n. f.																													
-1527822140	بغرۍ	baghrúy	mortar, mortar for threshing rice	4	n. f.																													
+1588786872582	بدنامي	badnaamée	shame, disrepute, dishonour	4	n. f.																													3
+1650297394423	بدنصیبي	badnaseebée	bad luck, misfortune	4	n. f.																													2
+1527813651	بدرګه	badragá	escort, accompaniment	4	n. f.																													2
+1527811242	بدتري	badtarée, budtarée	awfulness, getting worse, the worst	4	n. f.																													3
+1527817599	بغل ګیري	baghal geerée	embrace, hugging	4	n. f.																													2
+1527817598	بغل کشي	baghal kashée	embrace, hugging	4	n. f.																													2
+1527822140	بغرۍ	baghrúy	mortar, mortar for threshing rice	4	n. f.																													2
 1566468399630	بغره	baghúra	a rabbit's hole/burrow	4	n. f.																													
-1527817914	بګوړا	bagoRaa	curds, cottage cheese	3	n. f.																													
-1527811906	بګړۍ	bagRúy	turban	3	n. f.																													
-1527822974	بګۍ	bagúy	cart, buggy, stroller, carriage	3	n. f.																													1
-1527821306	بهادري	bahaadurée	bravery, courage	4	n. f.																													1
-1527819250	بهانه	bahaaná	excuse, pretext	4	n. f.																													1
-1527820357	بهنه	bahná	top (toy)	1	n. f.																													
-1527823759	بهره برداري	bahra bardaaree	use; operation; exploitation; utilization	4	n. f.																													
+1527817914	بګوړا	bagoRáa	curds, cottage cheese	3	n. f.																													2
+1527811906	بګړۍ	bagRúy	turban	3	n. f.																													2
+1527822974	بګۍ	bagúy	cart, buggy, stroller, carriage	3	n. f.																													3
+1527821306	بهادري	bahaadurée	bravery, courage	4	n. f.																													3
+1527819250	بهانه	bahaaná	excuse, pretext	4	n. f.																													3
+1527820357	بهنه	bahná	top (toy)	1	n. f.																													2
+1527823759	بهره برداري	bahra bardaarée	use; operation; exploitation; utilization	4	n. f.																													2
 1527820356	بهنه	bahúna	a lock of hair left with children as a vow or promise	1	n. f.																													
 1527812479	بجه	baja	hour; o'clock	4	n. f.																													
-1527814825	بکا	bakaa	frog	4	n. f.																													
+1527814825	بکا	bakáa	frog	4	n. f.																													2
 1527818235	بخوله	bakhóla	tragedy (literary), calamity, catastrophe	3	n. f.																													
-1527819195	بخشه	bakhsha	forgiveness, pardon	4	n. f.																													
-1527815579	بخښنه	bakhxúna	forgiveness, pardon	4	n. f.																													1
-1713260255137	بخښنه کول	bakhxúna kawul	to forgive, pardon	4	v. dyn. comp. trans.	1527815579	forgive, forgives, forgiving, forgave, forgiven																											1
-1702925293948	بخښنه غوښتل	bakhxúna ghwUxtul	to apologize, ask forgiveness	4	v. dyn. comp. trans.	1527815579	apologise																											1
-1527811905	بلا	baláa	misfortune, disaster; monster	4	n. f.																													1
-1670563662968	بلدتیا	baladtyáa	knowledge, familiarity	3	n. f.																													1
-1527811574	بلنه	balúna	calling	4	n. f.																													1
-1576113420711	بلۍ	balúy	roof, rooftop, pole (for pushing a boat); eaves, cornice; bar, bolt	3	n. f.																													
-1622358627292	بلوا	balwáa	insurrection, revolt, rebellion	4	n. f.																													
-1594131219639	بمبه	bambá	pump	3	n. f.																													1
-1527822579	بمباري	bambaarée	bombardment, bombing	4	n. f.																													1
-1527811938	بڼه	búNa	appearance, shape, form, aspect, angle	3	n. f.																													1
-1527822593	بڼه	báNa	feather, fin	4	n. f.																													
-1627298216333	بنفشه	banafshá	violet (color), flowers with purple leaves		n. f.																													
-1527819641	بنډه	banDá	part, portion, share	2	n. f.																													
-1527814668	بنده کوڅه	banda kootsa	dead end, impasse	4	n. f.																													
-1527819384	بندګي	bandagée	slavery, servant-hood	4	n. f.																													
-1527821561	بندیخانه	bandeekhaaaná	jail	4	n. f.																													1
-1588784498203	بڼکه	baNúka	feather (د واورې بڼکې - snowflakes)	4	n. f.																													
-1566477866591	بنۍ	banúy	bellows (of a blacksmith)	4	n. f.																													
-1527818754	بقا	baqáa	duration, length, continuation, existence, immortality	4	n. f.																													
-1527822425	برابرتیا	baraabartyáa	equality, evenness	4	n. f.																													1
-1527817355	برابري	baraaburée	equality, evenness, parallel direction	4	n. f.																													1
+1527819195	بخشه	bakhshá	forgiveness, pardon	4	n. f.																													2
+1527815579	بخښنه	bakhxúna	forgiveness, pardon	4	n. f.																													3
+1713260255137	بخښنه کول	bakhxúna kawúl	to forgive, pardon	4	v. dyn. comp. trans.	1527815579	forgive, forgives, forgiving, forgave, forgiven																											3
+1702925293948	بخښنه غوښتل	bakhxúna ghwUxtúl	to apologize, ask forgiveness	4	v. dyn. comp. trans.	1527815579	apologise																											3
+1527811905	بلا	baláa	misfortune, disaster; monster	4	n. f.																													3
+1670563662968	بلدتیا	baladtyáa	knowledge, familiarity	3	n. f.																													3
+1527811574	بلنه	balúna	calling	4	n. f.																													3
+1576113420711	بلۍ	balúy	roof, rooftop, pole (for pushing a boat); eaves, cornice; bar, bolt	3	n. f.																													2
+1622358627292	بلوا	balwáa	insurrection, revolt, rebellion	4	n. f.																													2
+1594131219639	بمبه	bambá	pump	3	n. f.																													3
+1527822579	بمباري	bambaarée	bombardment, bombing	4	n. f.																													3
+1527811938	بڼه	búNa	appearance, shape, form, aspect, angle	3	n. f.																													3
+1527822593	بڼه	báNa	feather, fin	4	n. f.																													2
+1627298216333	بنفشه	banafshá	violet (color), flowers with purple leaves		n. f.																													2
+1527819641	بنډه	banDá	part, portion, share	2	n. f.																													2
+1527814668	بنده کوڅه	banda kootsá	dead end, impasse	4	n. f. doub.																													2
+1527819384	بندګي	bandagée	slavery, servant-hood	4	n. f.																													2
+1527821561	بندیخانه	bandeekhaaaná	jail	4	n. f.																													3
+1588784498203	بڼکه	baNúka	feather (د واورې بڼکې - snowflakes)	4	n. f.																													2
+1566477866591	بنۍ	banúy	bellows (of a blacksmith)	4	n. f.																													2
+1527818754	بقا	baqáa	duration, length, continuation, existence, immortality	4	n. f.																													2
+1527822425	برابرتیا	baraabartyáa	equality, evenness	4	n. f.																													3
+1527817355	برابري	baraaburée	equality, evenness, parallel direction	4	n. f.																													3
 1605093236690	برکه	baráka	a fabric made from camel fur	2	n. f.																													
-1579294091093	برنډه	baranDá	balcony, veranda, porch	4	n. f.																													1
-1577584084745	برچه	bărchá	bayonet	4	n. f.																													
-1672387452072	برف جنګي	barf jangee	snow ball fighting (Farsi)		n. f.																													
-1527811566	برفي	barfée	A kind of ice cream that comes in little bars, popsicles	4	n. f.																													1
+1579294091093	برنډه	baranDá	balcony, veranda, porch	4	n. f.																													3
+1577584084745	برچه	barchá	bayonet	4	n. f.																													2
+1672387452072	برف جنګي	barf jangée	snow ball fighting (Farsi)		n. f.																													2
+1527811566	برفي	barfée	A kind of ice cream that comes in little bars, popsicles	4	n. f.																													3
 1527812001	برخه	bárkha	poriton, part, share	4	n. f.																													1
-1527821688	برمه	barmá	auger (for drilling)	4	n. f.																													1
-1705179194985	برمه کول	barma kawúl	to auger, drill		v. stat. comp. trans.	1527821688	drill																											1
-1705179198004	برمه کېدل	barma kedúl	to be augered, drilled		v. stat. comp. intrans.	1527821688	be	drilled																										
-1527821689	برمه کاري	barma kaaree	drilling	4	n. f.																													
-1579907648537	برمه کاري	barma kaaree	drilling	4	n. f.																													
-1527816994	برنامه	barnaama	program	4	n. f.																													
-1527818321	برقي جارو	barqee jaaroo	vacuum cleaner	4	n. f.																													
-1527819283	برقي زینه	barqee zeená	elevator, lift	4	n. f.																													
-1527812353	برتانیه	bartaanya	Great Britian, England	4	n. f.																													
-1527812354	برطانیه	bartaanya	Great Britian	4	n. f.																													
-1527812236	برطرفي	bartarafee	firing, dismissal (from a job)	4	n. f.																													
+1527821688	برمه	barmá	auger (for drilling)	4	n. f.																													3
+1705179194985	برمه کول	barma kawúl	to auger, drill		v. stat. comp. trans.	1527821688	drill																											3
+1705179198004	برمه کېدل	barma kedúl	to be augered, drilled		v. stat. comp. intrans.	1527821688	be	drilled																										2
+1527821689	برمه کاري	barma kaarée	drilling	4	n. f.																													2
+1579907648537	برمه کاري	barma kaarée	drilling	4	n. f.																													2
+1527816994	برنامه	barnaamá	program	4	n. f.																													2
+1527818321	برقي جارو	barqee jaaróo	vacuum cleaner	4	n. f.																													2
+1527819283	برقي زینه	barqee zeená	elevator, lift	4	n. f.																													2
+1527812353	برتانیه	bartaanyá	Great Britian, England	4	n. f.																													2
+1527812354	برطانیه	bartaanyá	Great Britian, England	4	n. f.																													2
+1732869278462	برطانیا	bartaanyáa	Great Britian, England		n. f.																													2
+1527812236	برطرفي	bartarafée	firing, dismissal (from a job)	4	n. f.																													2
 1527817837	بړوا خانه	baRwaa khaana	whorehouse, brothel	4	n. f.																													
-1527812486	بریا	baryaa	success	4	n. f.																													
-1527821404	بسېره	baserá	nest, perch, roost; twilight (when birds return to their nest)	4	n. f.																													
-1574188090133	بسپنه	baspuna	contribution, donation, gift, charity	4	n. f.																													
-1527821331	بسته	bastá	enough, will do; bunch, bundle, pack, leather briefcase	4	n. f.																													1
-1527821337	بسته کاري	basta kaaree	assembly, installation	3	n. f.																													
-1527821336	بسته کارخانه	basta kaarkhaana	assembly shop	4	n. f.																													
-1527816591	بستیا	bastyaa	sufficiency, to have enough or get by	4	n. f.																													
-1527816590	بسنه	basuna	sufficiency, to have enough or get by	3	n. f.																													
-1594908629506	بطحه	batá	duck	0	n. f.																												true	
-1586634412756	بطه	báta	duck	4	n. f.																													
-1527822192	بټۍ	baTúy	stove, oven, furnace	4	n. f.																													
-1566476931206	بتۍ	batúy	lamp, light	4	n. f.																													
+1527812486	بریا	baryáa	success	4	n. f.																													2
+1527821404	بسېره	baserá, baséra	nest, perch, roost; twilight (when birds return to their nest)	4	n. f.																													2
+1574188090133	بسپنه	báspuna	contribution, donation, gift, charity	4	n. f.																													2
+1527821331	بسته	bastá	enough, will do; bunch, bundle, pack, leather briefcase	4	n. f.																													3
+1527821337	بسته کاري	basta kaarée	assembly, installation	3	n. f.																													2
+1527821336	بسته کارخانه	basta kaarkhaaná	assembly shop	4	n. f.																													2
+1527816591	بستیا	bastyáa	sufficiency, to have enough or get by	4	n. f.																													2
+1527816590	بسنه	basúna	sufficiency, to have enough or get by	3	n. f.																													2
+1594908629506	بطحه	bathá, batá	duck	0	n. f. anim.																												true	2
+1586634412756	بطه	báta, batá	duck	4	n. f.																													2
+1527822192	بټۍ	baTúy	stove, oven, furnace	4	n. f.																													2
+1566476931206	بتۍ	batúy	lamp, light	4	n. f.																													2
 1527816261	بټوه	baTwá	wallet, purse	4	n. f.																													1
-1590053924393	بورا	bawráa	moth, butterfly, bumblebee; basement, cellar	3	n. f.																													
-1527811294	بښنه	baxána, baxúna	forgiveness, pardon, sorry	4	n. f.																													1
+1590053924393	بورا	bawráa, boráa	moth, butterfly, bumblebee; basement, cellar	3	n. f.																													2
+1527811294	بښنه	baxána, baxúna	forgiveness, pardon, sorry	4	n. f.																													3
 1527816621	بښکوله	baxkola	misfortune, disaster, unpleasantness	2	n. f.																													
 1527818236	بښکوله	baxkóla	tragedy (literary), calamity, catastrophe	2	n. f.																													
 1527816264	بیع	bay	deed of purchase, document of sale	3	n. f.																													
-1527819152	بیعانه	bay'aaná	deposit, advance	4	n. f.																													
-1527813413	بیه	báya	price, cost	4	n. f.																													1
-1703836115688	بیه کول	baya kawul	to bargain		v. dyn. comp. trans.	1527813413	bargain																											1
-1713698359219	بیه جوړول	báya joRawúl	to bargain		v. dyn. comp. trans.	1527813413	bargain																											1
-1703836085806	بیعه	báya	price, cost	4	n. f.																													1
-1703836119982	بیعه کول	baya kawul	to bargain																															1
+1527819152	بیعانه	bay'aaná	deposit, advance	4	n. f.																													2
+1527813413	بیه	báya	price, cost	4	n. f.																													3
+1703836115688	بیه کول	báya kawúl	to bargain		v. dyn. comp. trans.	1527813413	bargain																											3
+1713698359219	بیه جوړول	báya joRawúl	to bargain		v. dyn. comp. trans.	1527813413	bargain																											3
+1703836085806	بیعه	báy'a	price, cost	4	n. f.																													3
+1703836119982	بیعه کول	báy'a kawúl	to bargain																															3
 1527817520	بیانیه	bayaaniya	statement	3	n. f.																													
 1527821295	بینه	bayina	irrefutable proof	2	n. f.																													
 1527823617	بزه	bazá	crime, offense, sin, guilt, fault	1	n. f.																													
-1527814471	بزګري	bazgaree	farming, share-cropping	4	n. f.																													
-1527813622	بزمي	bazmee	lyric (of poetry)	4	n. f.																													
-1527821041	بې عزتي	be 'izatée	humiliation, disgrace, dishonour	4	n. f.																													1
-1527822823	بې عدالتي	be adaalatee	injustice	3	n. f.																													
-1527822909	بې ادبي	be adubée, be adbée	rudeness, impoliteness, poor upbrining, disrespect	4	n. f.																													1
-1610541047518	بې چارګي	be chaaragee, be chaarigee	helplessness	4	n. f.																													
-1527814062	بې دیني	be deenee	atheism, godlessness	4	n. f.																													
-1527814089	بې فکري	be fikree	lightheartedness, lack of concern; neglect, inattentiveness, disregard	4	n. f.																													
-1527822977	بې غوري	be ghawree, be ghoree	carelessness, negligence, rashness, inattentiveness	4	n. f.																													
-1527822924	بې غیرتي	be ghayratee	dishonourable bahaviour, dishonour, being a scoundrel, cowardice	4	n. f.																													
-1527811292	بې ګناهي	be gUnaahée	sinlessness, innocence	4	n. f.																													1
-1527817195	بې حوصله	be hawsala, be hausala	lack of patience, lack of courage	3	n. f.																													
-1612114401489	بې حرمتي	be hUrmatée	disrespect, disgrace	4	n. f.																													
-1527818814	بې احتیاطي	be ihtiyaatée	carelessness, lack of caution	4	n. f.																													1
-1527818344	بې اتفاقي	be itifaaqée	disunity, discord, disharmony, disagreement	4	n. f.																													1
-1709334076421	بې اتفاقي کول	be itifaaqée kawul	to disagree, be in disunity	4	v. dyn. comp. trans.	1527818344	disagree																											1
-1527820995	بې اعتمادي	be itimaadee	mistrust, lack of trust, lack of confidence	3	n. f.																													
-1527816763	بې کفایتي	be kafaayatee	insufficiency, inadequacy, incompetence	2	n. f.																													
-1527819528	بې کسي	be kasee	the state of having no relatives, being alone, having no guardian	4	n. f.																													
-1527819856	بې خوبي	be khobée	insomnia, sleeplessness	4	n. f.																													1
-1527813615	بې ننګي	be nangee	shamelessness, honorlessness, cowardice	4	n. f.																													
+1527814471	بزګري	bazgarée	farming, share-cropping	4	n. f.																													2
+1527813622	بزمي	bazmée	lyric (of poetry)	4	n. f.																													2
+1527821041	بې عزتي	be 'izatée	humiliation, disgrace, dishonour	4	n. f.																													3
+1527822823	بې عدالتي	be adaalatée	injustice	3	n. f.																													2
+1527822909	بې ادبي	be adubée, be adbée	rudeness, impoliteness, poor upbrining, disrespect	4	n. f.																													3
+1610541047518	بې چارګي	be chaaragée, be chaarigée	helplessness	4	n. f.																													2
+1527814062	بې دیني	be deenée	atheism, godlessness	4	n. f.																													2
+1527814089	بې فکري	be fikrée	lightheartedness, lack of concern; neglect, inattentiveness, disregard	4	n. f.																													2
+1527822977	بې غوري	be ghawrée, be ghorée	carelessness, negligence, rashness, inattentiveness	4	n. f.																													2
+1527822924	بې غیرتي	be ghayratée	dishonourable bahaviour, dishonour, being a scoundrel, cowardice	4	n. f.																													2
+1527811292	بې ګناهي	be gUnaahée	sinlessness, innocence	4	n. f.																													3
+1527817195	بې حوصله	be hawsalá, be hausalá	lack of patience, lack of courage	3	n. f.																													2
+1612114401489	بې حرمتي	be hUrmatée	disrespect, disgrace	4	n. f.																													2
+1527818814	بې احتیاطي	be ihtiyaatée	carelessness, lack of caution	4	n. f.																													3
+1527818344	بې اتفاقي	be itifaaqée	disunity, discord, disharmony, disagreement	4	n. f.																													3
+1709334076421	بې اتفاقي کول	be itifaaqée kawúl	to disagree, be in disunity	4	v. dyn. comp. trans.	1527818344	disagree																											3
+1527820995	بې اعتمادي	be i'timaadée	mistrust, lack of trust, lack of confidence	3	n. f.																													2
+1527816763	بې کفایتي	be kafaayatée, be kifaayatée	insufficiency, inadequacy, incompetence	2	n. f.																													2
+1527819528	بې کسي	be kasée	the state of having no relatives, being alone, having no guardian	4	n. f.																													2
+1527819856	بې خوبي	be khobée	insomnia, sleeplessness	4	n. f.																													3
+1527813615	بې ننګي	be nangée	shamelessness, honorlessness, cowardice	4	n. f.																													2
 1527811907	بې نصیبي	be naseebee	haplessness, lack of success	4	n. f.																													
-1588153053407	بې نظمي	be nazmee	disorder, lack of rule or order	4	n. f.																													
-1527819958	بې پلوي	be palawee	neutrality, impartiality	4	n. f.																													
-1527812500	بې پردګي	be pardagee	failure to wear a veil, open face, dishonor	3	n. f.																													
-1527818380	بې پروایي	be parwaayee	lack of concern, indifference, apathy, carelessness, lack of attention or courtesy	3	n. f.																													
-1713871497935	لا پروایي	laa parwaayée	lack of concern, indifference, apathy, carelessness, lack of attention or courtesy	3	n. f.																													1
-1591805322267	بې پتي	be patée	disloyalty, disgrace, dishonour, treachery	4	n. f.																													
-1527820959	بې قراري	be qaraaree	uneasiness, anxiety, instability, inconsistency, changeableness	4	n. f.																													
-1584640784156	بې رحمي	be rahmee	heartlessness, cruelty, lack of mercy	4	n. f.																													
-1527819452	بې ثباتي	be sabaatée, be sUbaatée	instability, inconsistency	4	n. f.																													
-1578617946103	بې شرمي	be sharmee	shamelessness, immodesty	4	n. f.																													
-1527816267	بې وفایي	be wafaayee	unfaithfulness, disloyalty, infidelity	4	n. f.																													
-1527816756	بې وسي	be wusée	poverty, lack of means or ability	4	n. f.																													1
-1527822362	بېعدالتي	be'adaalatee	injustice, unfairness	4	n. f.																													
-1610541043090	بېچارګي	bechaaragee, bechaarigee	helplessness	4	n. f.																													
-1661516891869	بېډۍ	beDúy	knucklebone (from animal, used in games)	2	n. f.																													
-1527821566	بېدیا	bedyáa	desert, outdoors	4	n. f.																													
-1527823694	بیجلي	beejlée	ankle bone	2	n. f.																													1
-1527811385	بیمه	beemá	insurance, assurance	4	n. f.																													1
-1713880492727	بیمه کول	beema kawúl	to insure	4	v. stat. comp. trans.	1527811385	insure																											1
-1713880504754	بیمه کېدل	beema kedúl	to be insured	4	v. stat. comp. intrans.	1527811385	be	insured																										
-1573682378816	بیماري	beemaarée	sickness, illness	3	n. f.																													1
-1653363882851	بینډۍ	beenDúy	okra, ladyfinger (dialect vers. of بنډۍ)	4	n. f.																													
-1527820867	بیروکراسي	beerookraasee	bureaucracy	4	n. f.																													
+1588153053407	بې نظمي	be nazmée	disorder, lack of rule or order	4	n. f.																													2
+1527819958	بې پلوي	be palawée	neutrality, impartiality	4	n. f.																													2
+1527812500	بې پردګي	be pardagée	failure to wear a veil, open face, dishonor	3	n. f.																													2
+1527818380	بې پروایي	be parwaayée	lack of concern, indifference, apathy, carelessness, lack of attention or courtesy	3	n. f.																													2
+1713871497935	لا پروایي	laa parwaayée	lack of concern, indifference, apathy, carelessness, lack of attention or courtesy	3	n. f.																													3
+1591805322267	بې پتي	be patée	disloyalty, disgrace, dishonour, treachery	4	n. f.																													2
+1527820959	بې قراري	be qaraarée	uneasiness, anxiety, instability, inconsistency, changeableness	4	n. f.																													2
+1584640784156	بې رحمي	be rahmée	heartlessness, cruelty, lack of mercy	4	n. f.																													2
+1527819452	بې ثباتي	be sabaatée, be sUbaatée	instability, inconsistency	4	n. f.																													2
+1578617946103	بې شرمي	be sharmée	shamelessness, immodesty	4	n. f.																													2
+1527816267	بې وفایي	be wafaayée	unfaithfulness, disloyalty, infidelity	4	n. f.																													2
+1527816756	بې وسي	be wusée	poverty, lack of means or ability	4	n. f.																													3
+1527822362	بېعدالتي	be'adaalatée	injustice, unfairness	4	n. f.																													2
+1610541043090	بېچارګي	bechaaragée, bechaarigée	helplessness	4	n. f.																													2
+1661516891869	بېډۍ	beDúy	knucklebone (from animal, used in games)	2	n. f.																													2
+1527821566	بېدیا	bedyáa	desert, outdoors	4	n. f.																													2
+1527823694	بیجلي	beejlée, beejúlee	ankle bone	2	n. f.																													3
+1527811385	بیمه	beemá	insurance, assurance	4	n. f.																													3
+1713880492727	بیمه کول	beema kawúl	to insure	4	v. stat. comp. trans.	1527811385	insure																											3
+1713880504754	بیمه کېدل	beema kedúl	to be insured	4	v. stat. comp. intrans.	1527811385	be	insured																										2
+1573682378816	بیماري	beemaarée	sickness, illness	3	n. f.																													3
+1653363882851	بینډۍ	beenDúy	okra, ladyfinger (dialect vers. of بنډۍ)	4	n. f.																													2
+1527820867	بیروکراسي	beerookraasée	bureaucracy	4	n. f.																													2
 1566468038374	بیزو	beezó	monkey, ape	4	n. f. anim.																													
-1527818598	بېکاري	bekaaree	unemployment, idleness	3	n. f.																													
-1527822564	بېخ کني	bekh kanée	ruin, destruction, extermination	4	n. f.																													
-1527819857	بېخوابي	bekhwaabee	insomnia, sleeplessness	3	n. f.																													
-1527814859	بېله	bela	trough, gutter, branch (of a river), small island; whistle	4	n. f.																													
+1527818598	بېکاري	bekaarée	unemployment, idleness	3	n. f.																													2
+1527822564	بېخ کني	bekh kanée	ruin, destruction, extermination	4	n. f.																													2
+1527819857	بېخوابي	bekhwaabée	insomnia, sleeplessness	3	n. f.																													2
+1527814859	بېله	bela	trough, gutter, branch (of a river), small island; whistle	4	n. f.																													2
 1527823172	بېله	belá	swamp, marsh	3	n. f.																													
-1527812028	بېلچه	belchá	shovel	4	n. f.																													
-1715153449925	بېلچه وهل	belchá wahúl	to shovel		v. dyn. comp. trans.	1527812028	shovel																											1
-1527812499	بېلګه	belga	example, model, clue	4	n. f.																													
-1527811641	بېلتیه	beltiya	separation	0	n. f.																													
-1527815862	بېړه	béRa	speed, rush, hurry, urgency, haste	3	n. f.																													1
-1713816725434	بېړه کول	béRa kawúl	to hurry, rush, make haste	3	v. dyn. comp. trans.	1527815862	hurry																											1
-1593852212828	بېره	béra	fear, fright	3	n. f.																													
-1527817489	بېراني	beraanee	loss of consciousness, fainting??, stupor	2	n. f.																													
-1527813873	بېړکۍ	beRukúy	boat	4	n. f.																													
-1527813872	بېړۍ	beRúy	boat, ship, vessel; shackles, chains	3	n. f.																													
-1527822964	بېړۍ	beRúy	boat, ship, canoe; shackles, fetters	4	n. f.																													
-1575236348486	بېسدي	besudee	fainting, unconsciousness	3	n. f.																													
-1527819959	بېطرفي	betarafee	neutrality, impartiality	3	n. f.																													
-1527816368	بېوه	bewa	widow (Urdu)	4	n. f.																													
-1527820739	بېوزلي	bewazlee	poor, needy, destitute, helpless, poverty, need, helplessness	4	n. f.																													
-1571607895925	بیت الخلا	bayt Ulkhalaa	bathroom, toilet (Arabic)	3	n. f.																													
-1622873088561	بېزه	beza	she-goat (dialectical variant of وزه)	4	n. f.																													
-1566468054028	بېزو	bezó	monkey, ape	4	n. f. anim.																													
-1527818629	بغرګه	bghárga	valley between two mountains; woman who has had twinns	4	n. f.																													
-1527812205	بهبودي	bihboodee	health, well-being, prosperity; large knife, dagger	4	n. f.																													
-1527811239	بهتري	bihtarée	improvement, getting better, prosperity	4	n. f.																													1
-1527823693	بجلکه	bijláka, bajilaka	ankle	4	n. f.																													
-1527819115	بستر سازي	bistar saazee	making a bed, creating the conditions or pretext for something	4	n. f.																													
-1527818310	بستره	bistará	bed, bed-roll	4	n. f.																													
-1527811206	بیولوژي	biyolojzee	biology	4	n. f.																													
-1527819247	بلندره	blándra	invitation, entertainment (by a host)	3	n. f.																													
-1527813176	بلوده	blawda, balooda	stumbling, getting stuck	3	n. f.																													
+1527812028	بېلچه	belchá	shovel	4	n. f.																													2
+1715153449925	بېلچه وهل	belchá wahúl	to shovel		v. dyn. comp. trans.	1527812028	shovel																											3
+1527812499	بېلګه	bélga	example, model, clue	4	n. f.																													2
+1527811641	بېلتیه	beltiyá	separation	0	n. f.																													2
+1527815862	بېړه	béRa	speed, rush, hurry, urgency, haste	3	n. f.																													3
+1713816725434	بېړه کول	béRa kawúl	to hurry, rush, make haste	3	v. dyn. comp. trans.	1527815862	hurry																											3
+1593852212828	بېره	béra	fear, fright	3	n. f.																													2
+1527817489	بېراني	beraanée	loss of consciousness, fainting??, stupor	2	n. f.																													2
+1527813873	بېړکۍ	beRukúy	boat	4	n. f.																													2
+1527813872	بېړۍ	beRúy	boat, ship, vessel; shackles, chains	3	n. f.																													2
+1527822964	بېړۍ	beRúy	boat, ship, canoe; shackles, fetters	4	n. f.																													2
+1575236348486	بېسدي	besudée	fainting, unconsciousness	3	n. f.																													2
+1527819959	بېطرفي	betarafée	neutrality, impartiality	3	n. f.																													2
+1527816368	بېوه	bewá	widow (Urdu)	4	n. f. anim.																													2
+1527820739	بېوزلي	bewazlée	poor, needy, destitute, helpless, poverty, need, helplessness	4	n. f.																													2
+1571607895925	بیت الخلا	bayt Ulkhaláa	bathroom, toilet (Arabic)	3	n. f.																													2
+1622873088561	بېزه	beza	she-goat (dialectical variant of وزه)	4	n. f.																													2
+1566468054028	بېزو	bezó	monkey, ape	4	n. f. anim.																													2
+1527818629	بغرګه	bghárga, bughargá	valley between two mountains; woman who has had twinns	4	n. f.																													2
+1527812205	بهبودي	bihboodée	health, well-being, prosperity; large knife, dagger	4	n. f.																													2
+1527811239	بهتري	bihtarée	improvement, getting better, prosperity	4	n. f.																													3
+1527823693	بجلکه	bijláka, bajilaka	ankle	4	n. f.																													2
+1527819115	بستر سازي	bistar saazée	making a bed, creating the conditions or pretext for something	4	n. f.																													2
+1527818310	بستره	bistará, bistirá	bed, bed-roll	4	n. f.																													2
+1527811206	بیولوژي	biyolojzée	biology	4	n. f.																													2
+1527819247	بلندره	blándra, balundúra	invitation, entertainment (by a host)	3	n. f.																													2
+1527813176	بلوده	blawda, baloodá	stumbling, getting stuck	3	n. f.																													2
 1527818436	بوکه	boka	Aquarius constellation; water carrier	4	n. f.																													
-1527816029	بوختیا	bokhtiyaa	occupation, pursuit, busy-ness, business	4	n. f.																													
-1527816464	بوله	bola	female relative's of bride giving groom's relatives rice	2	n. f.																													
-1527819889	بوده	booda	quadruped animal (horse, donkey, cow); simpleton, silly; gain, attainment	4	n. f.																													
-1527815875	بودجه	boodja	budget, financial plan	4	n. f.																													
-1527823152	بوغه	boogha	intoxication/buzz from smoking hashish/pot or strong tobacco	2	n. f.																													
-1527822775	بوغاره	boogháara	crying, whining, wailing, scream, bleating	4	n. f.																													
-1527819808	بوجه	booja	stopper, plug, gap	2	n. f.																													
-1527816287	بوجۍ	bojúy	bag, purse	4	n. f.																													1
-1527822648	بوکره	bookra	veil, burka (برقع)	3	n. f.																													
-1527816356	بوره	bóora, boorá	a woman whose son died	4	n. f.																													
+1527816029	بوختیا	bokhtyáa	occupation, pursuit, busy-ness, business	4	n. f.																													2
+1527816464	بوله	bola, boola	female relative's of bride giving groom's relatives rice	2	n. f.																													2
+1527819889	بوده	booda	quadruped animal (horse, donkey, cow); simpleton, silly; gain, attainment	4	n. f. anim.																													2
+1527815875	بودجه	boodjá, boodijá	budget, financial plan	4	n. f.																													2
+1527823152	بوغه	booghá, boghá	intoxication/buzz from smoking hashish/pot or strong tobacco	2	n. f.																													2
+1527822775	بوغاره	boogháara	crying, whining, wailing, scream, bleating	4	n. f.																													2
+1527819808	بوجه	boojá, bojá	stopper, plug, gap	2	n. f.																													2
+1527816287	بوجۍ	bojúy	bag, purse	4	n. f.																													3
+1527822648	بوکره	bookrá	veil, burka (برقع)	3	n. f.																													2
+1527816356	بوره	bóora, boorá	a woman whose son died	4	n. f. anim.																													2
 1527818538	بوره	bóora, boorá	granulated sugar, sawdust, fillings	4	n. f.																													
-1661756597518	بوړبکۍ	booRbUkúy	whirlwind, swirl, tornado, twister, storm, sandstorm	4	n. f.																													
+1661756597518	بوړبکۍ	booRbUkúy	whirlwind, swirl, tornado, twister, storm, sandstorm	4	n. f.																													2
 1672305902063	بوسه	boosa	kiss (Urdu)		n. f.																													
-1588786388043	بوساړه	boosaaRá, boosáaRa	straw stack, a hut like structure made from a stack of straw and plastered clay, a hollow object; (fig. lazy, puffed up)	4	n. f.																													1
-1584639241244	بوړۍ	boRúy	a ball (of yarn, hair, etc.)	2	n. f.																													
-1584889134904	بوښته	bóxta	mire, bog, swamp	4	n. f.																													
-1577397158534	برجوره کلا	brajawara kalaa	fortified castle	4	n. f.																													
-1527820442	برمته	bramatá	driving away of cattle, seizing of property	4	n. f.																													
-1527814147	بړستن	bRastún	blanket, coving, quilt	4	n. f.																													1
-1527812510	برېښنا	brexnáa	electricity, lightning	4	n. f.																													
-1527819507	برتانیا	britaanyaa	Great Britain, England	4	n. f.																													
+1588786388043	بوساړه	boosaaRá, boosáaRa	straw stack, a hut like structure made from a stack of straw and plastered clay, a hollow object; (fig. lazy, puffed up)	4	n. f.																													3
+1584639241244	بوړۍ	boRúy, bóRuy	a ball (of yarn, hair, etc.)	2	n. f.																													2
+1584889134904	بوښته	bóxta, boxtá	mire, bog, swamp	4	n. f.																													2
+1577397158534	برجوره کلا	brajawara kaláa, barjora kaláa	fortified castle	4	n. f.																													2
+1527820442	برمته	bramatá, baramtá	driving away of cattle, seizing of property	4	n. f.																													2
+1527814147	بړستن	bRastún	blanket, coving, quilt	4	n. f.																													3
+1527812510	برېښنا	brexnáa	electricity, lightning	4	n. f.																													2
+1527819507	برتانیا	britaanyaa, bartaanyáa	Great Britain, England	4	n. f.																													2
 1527814355	بدکاري	budkaarée	adultery, fornication, sinning	4	n. f.																													1
-1527817365	بغاره	bUghaará	wail, mourning, cry	4	n. f.																													
-1566468433901	بغره	bUghrá	veil, shawl	4	n. f.																													
-1527822851	بخارۍ	bUkhaarúy	furnace, heater	4	n. f.																													
-1527811479	بللګۍ	bulalgúy	a woman that gives birth every year; cattle that give increase each year	3	n. f.																													1
-1527821971	بن	bun	second wife of own husband	4	n. f.																													
-1527816392	بنځۍ	bundzúy	stepdaughter, daughter of one wife (under polygamy)	4	n. f.																													
-1661756556591	بړبوکۍ	buRbookúy	whirlwind, swirl, tornado, twister, storm, sandstorm	4	n. f.																													
-1527822647	برقعه	bUrq'á	veil, burka	4	n. f.																													1
-1715987100030	برقع	bUrq'á	veil, burka	4	n. f.																													1
-1578009902092	برقه	bUrqá	veil, burka	4	n. f.																													
-1527811794	بت پرستي	bUt parastée	idolatry, idol-worshipping	4	n. f.																													1
-1591026261598	بزه	buza	she-goat	4	n. f.																													
-1527823619	بزه	bUzá	moth	4	n. f.																													
-1527823384	بزدلي	bUzdilée	cowardice	4	n. f.																													1
-1584533419063	بزکشي	bUzkashee	buzkashi (the Afghan national sport played with horses and a dead goat)	4	n. f.																													
-1672160461927	بزرګي	bUzUrgée	greatness, mightiness		n. f.																													
-1672160438354	بزرګواري	bUzUrgwaarée	greatness, mightiness		n. f.																													
-1527820475	بیارغاونه	byaaraghaawúna	rebuilding, restoration, rehabilitation, reconstruction	3	n. f.																													
-1592558936200	بیاتي	byaatée	(pair of) scissors	4	n. f.																													
-1527813458	چابي	chaabee	key (Urdu)	4	n. f.																													
-1527821563	چابکي	chaabukée	quickness, swiftness	3	n. f.																													
-1527816449	چاچي	chaachée	aunt (paternal uncle's wife)	3	n. f.																													1
-1527813390	چادري	chaadaree	veil	3	n. f.																													
-1566478686505	چالاکي	chaalaakée	craftiness, cunning-ness, cleverness	4	n. f.																													1
-1527812244	چاندمارۍ	chaandmaarúy	firing, shooting, execution by shooting	3	n. f.																													
-1527816680	چاپه	chaapa	pattern, composition (Archaeology), printing	4	n. f.																													
-1631221830768	چاپي	chaapee	massage, rubbing or kneading	4	n. f.																													
-1527813414	چاره	chaara	solution, way out, cure; work, act, deed, duty; method, way	4	n. f.																													
-1527811622	چاره سازي	chaara saazée	assistance, aid, healing, cure	4	n. f.																													
+1527817365	بغاره	bUghaara	wail, mourning, cry	4	n. f.																													2
+1566468433901	بغره	bUghrá, bughrá	veil, shawl	4	n. f.																													2
+1527822851	بخارۍ	bUkhaarúy	furnace, heater	4	n. f.																													2
+1527811479	بللګۍ	bulalgúy	a woman that gives birth every year; cattle that give increase each year	3	n. f.																													3
+1527821971	بن	bun	second wife of own husband	4	n. f. anim.																													2
+1527816392	بنځۍ	bundzúy	stepdaughter, daughter of one wife (under polygamy)	4	n. f. anim.																													2
+1661756556591	بړبوکۍ	buRbookúy	whirlwind, swirl, tornado, twister, storm, sandstorm	4	n. f.																													2
+1527822647	برقعه	bUrq'á	veil, burka	4	n. f.																													3
+1715987100030	برقع	bUrq'á	veil, burka	4	n. f.																													3
+1578009902092	برقه	bUrqá, burqá	veil, burka	4	n. f.																													2
+1527811794	بت پرستي	bUt parastée	idolatry, idol-worshipping	4	n. f.																													3
+1591026261598	بزه	buza, bza	she-goat	4	n. f. anim.																													2
+1527823619	بزه	bUzá	moth	4	n. f.																													2
+1527823384	بزدلي	bUzdilée	cowardice	4	n. f.																													3
+1584533419063	بزکشي	bUzkashée, buzkashée	buzkashi (the Afghan national sport played with horses and a dead goat)	4	n. f.																													2
+1672160461927	بزرګي	bUzUrgée, buzurgée	greatness, mightiness		n. f.																													2
+1672160438354	بزرګواري	bUzUrgwaarée	greatness, mightiness		n. f.																													2
+1527820475	بیارغاونه	byaaraghaawúna	rebuilding, restoration, rehabilitation, reconstruction	3	n. f.																													2
+1592558936200	بیاتي	byaatée	(pair of) scissors	4	n. f.																													2
+1527813458	چابي	chaabée	key (Urdu)	4	n. f.																													2
+1527821563	چابکي	chaabukée, chaabúkee	quickness, swiftness	3	n. f.																													2
+1527816449	چاچي	chaachée	aunt (paternal uncle's wife)	3	n. f.																													3
+1527813390	چادري	chaadarée	veil	3	n. f.																													2
+1566478686505	چالاکي	chaalaakée	craftiness, cunning-ness, cleverness	4	n. f.																													3
+1527812244	چاندمارۍ	chaandmaarúy	firing, shooting, execution by shooting	3	n. f.																													2
+1527816680	چاپه	chaapá	pattern, composition (Archaeology), printing	4	n. f.																													2
+1631221830768	چاپي	chaapée	massage, rubbing or kneading	4	n. f.																													2
+1527813414	چاره	chaará	solution, way out, cure; work, act, deed, duty; method, way	4	n. f.																													2
+1527811622	چاره سازي	chaara saazée	assistance, aid, healing, cure	4	n. f.																													2
 1527813465	چاړه	chaaRú	knife	3	n. f.																													1
 1527812254	چارشنبه	chaarshamba	Wednesday	3	n. f.																													
-1527812032	چارۍ	chaarúy	shovel	4	n. f.																													
-1527821403	چارزانو	chaarzaanóo	sitting with crossed legs	3	n. f.																													
-1527814546	چاودنه	chaawdúna	explosion, blast, bomb	4	n. f.																													1
-1527812527	چاینکه	chaaynika	teapot	4	n. f.																													
-1527818368	چغانغه	chagháangha	mint	1	n. f.																													
-1527821033	چغنه	chaghana	wine press, press, extraction	2	n. f.																													
-1588075539331	چغزۍ	chaghzúy	walnut kernel	4	n. f.																													
-1675268228412	چهارشنبه	chahaarshambá, chaarshambá	Wednesday		n. f.																													
-1527823002	چجه	chajá	fishing weir; ribs; leafy tops (of carrots); fencing; eaves; splints (medicine)	4	n. f.																													
-1527817913	چکه	chaká	semi-sold cheese curds, cottage cheese; hand	3	n. f.																													1
+1527812032	چارۍ	chaarúy	shovel	4	n. f.																													2
+1527821403	چارزانو	chaarzaanóo	sitting with crossed legs	3	n. f.																													2
+1527814546	چاودنه	chaawdúna	explosion, blast, bomb	4	n. f.																													3
+1527812527	چاینکه	chaayníka, chaanúka	teapot	4	n. f.																													2
+1527818368	چغانغه	chagháangha, chaghaanghá	mint	1	n. f.																													2
+1527821033	چغنه	chaghúna	wine press, press, extraction	2	n. f.																													2
+1588075539331	چغزۍ	chaghzúy, chaghazúy	walnut kernel	4	n. f.																													2
+1675268228412	چهارشنبه	chahaarshanbá, chaaharshambá, chaarshambá	Wednesday		n. f.																													2
+1527823002	چجه	chajá	fishing weir; ribs; leafy tops (of carrots); fencing; eaves; splints (medicine)	4	n. f.																													2
+1527817913	چکه	chaká	semi-sold cheese curds, cottage cheese; hand	3	n. f.																													3
 1527814403	چکلۍ	chaklúy	whirlpool; cogwheel in Persian water-wheel; top (the toy)	2	n. f.																													
-1527811838	چکۍ	chakúy	small piece, morsel, scrap; fat tail (sheep)	1	n. f.																													
-1527811415	چل بازي	chal baazée	cunning, deceit, trickery	4	n. f.																													1
-1527815706	چله	chala	flood, inundation	2	n. f.																													
-1527811413	چلبازي	chalbaazée	cunning, deceit, trickery	4	n. f.																													1
-1527819041	چلیپا	chaleepaa	cross, crucifix	3	n. f.																													
-1576101632183	چلښت لیکه	chaluxt leeka	direction, course	3	n. f.																													
-1527821320	چمبه	chamba	paw, claws (bird’s); tambourine; circle, rim	2	n. f.																													
-1527815802	چمچه	chamácha, chamchá	spoon, ladle	3	n. f.																													1
-1527821992	چمچه ګیري	chamcha geeree	sucking up, flattery	4	n. f.																													
-1650882378868	چمپل	champál	slipper	0	n. f.																													
-1573768760729	چنه	chaná	bartering, bargaining (for a price)	3	n. f.																													
-1589464494651	چڼچڼه	chaNchaNa, chUNchÚNa	sparrow, small bird	4	n. f.																													
-1589465641304	چڼچڼکه	chaNchaNáka	sparrow, small bird	4	n. f.																													
-1527816294	چنده	chandá	offering, collection of donations, collection	3	n. f.																													1
-1527816669	چنډه	chanDa	part, piece, portion, share	2	n. f.																													
-1527813779	چپه	chapa	wave; gust; oar	4	n. f.																													
-1574808712109	چپه لاره	chapa laara	the wrong way	4	n. f.																													
-1594383159190	چپلکه	chapláka	slipper	4	n. f.																													
-1527820055	چپلۍ	chaplúy	sandals (څپلۍ)	4	n. f.																													
-1527822920	چره	chará	irrigation ditch, drainage ditch; shotgun	4	n. f.																													
-1527812307	چرده	charda	color of the face, complexion, color of skin or fur	2	n. f.																													
-1527812033	چرۍ	charúy	shovel, dark red plum, cooking stove, ditch	3	n. f.																													
-1527823125	چشم بندي	chashm bandee	misdirection, illusion, hypnotic suggestion	3	n. f.																													
-1527815648	چشمه	chashmá	spring, source, small stream of drinkable water; eye (poetic/Farsi); single glass (in glasses)	4	n. f.																													
+1527811838	چکۍ	chakúy	small piece, morsel, scrap; fat tail (sheep)	1	n. f.																													2
+1527811415	چل بازي	chal baazée	cunning, deceit, trickery	4	n. f.																													3
+1527815706	چله	chalá	flood, inundation	2	n. f.																													2
+1527811413	چلبازي	chalbaazée	cunning, deceit, trickery	4	n. f.																													3
+1527819041	چلیپا	chaleepáa	cross, crucifix	3	n. f.																													2
+1576101632183	چلښت لیکه	chaluxt léeka	direction, course	3	n. f.																													2
+1527821320	چمبه	chambá	paw, claws (bird’s); tambourine; circle, rim	2	n. f.																													2
+1527815802	چمچه	chamácha, chamchá	spoon, ladle	3	n. f.																													3
+1527821992	چمچه ګیري	chamcha geerée	sucking up, flattery	4	n. f.																													2
+1650882378868	چمپل	champál	slipper	0	n. f.																													2
+1573768760729	چنه	chaná	bartering, bargaining (for a price)	3	n. f.																													2
+1589464494651	چڼچڼه	chaNcháNa, chUNchÚNa	sparrow, small bird	4	n. f.																													2
+1589465641304	چڼچڼکه	chaNchaNáka	sparrow, small bird	4	n. f.																													2
+1527816294	چنده	chandá	offering, collection of donations, collection	3	n. f.																													3
+1527816669	چنډه	chanDá	part, piece, portion, share	2	n. f.																													2
+1527813779	چپه	chapá	wave; gust; oar	4	n. f.																													2
+1574808712109	چپه لاره	chapa láara	the wrong way	4	n. f. doub.																													2
+1732870910641	چپه لار	chapa laar	the wrong way	4	n. f. doub.																													2
+1594383159190	چپلکه	chapláka	slipper	4	n. f.																													2
+1527820055	چپلۍ	chaplúy	sandals (څپلۍ)	4	n. f.																													2
+1527822920	چره	chará	irrigation ditch, drainage ditch; shotgun	4	n. f.																													2
+1527812307	چرده	chardá	color of the face, complexion, color of skin or fur	2	n. f.																													2
+1527812033	چرۍ	charúy	shovel, dark red plum, cooking stove, ditch	3	n. f.																													2
+1527823125	چشم بندي	chashm bandée	misdirection, illusion, hypnotic suggestion	3	n. f.																													2
+1527815648	چشمه	chashmá, chishmá	spring, source, small stream of drinkable water; eye (poetic/Farsi); single glass (in glasses)	4	n. f.																													2
 1527811232	چټکي	chaTakee	speed, swiftness	4	n. f.																													
 1527821601	چټکتیا	chaTaktiyáa	speed, quickness	4	n. f.																													
 1527817716	چټلي	chaTalée	filth, dirt, scum, impurity, foulness	4	n. f.																													
@@ -18509,5 +18513,5 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1732599365300	بې موراله	be moráala	demoralized		adj.																													
 1732599382215	بې موراله کول	be moraala kawúl	to demoralize		v. stat. comp. trans.	1732599365300	demoralize																											
 1732599385516	بې موراله کېدل	be moraala kedúl	to be demoralized		v. stat. comp. intrans.	1732599365300	be	demoralized																										
-1732599511646	بالمثل	bilmisl	similar, the same		adj. / adv.								TRUE																					
-1732617662243	زرغونتیا	zarghoontyáa	greenery		n. f.																													
+1732599511646	بالمثل	bilmisl	similar, the same		adj. / adv.																													
+1732876501903	غرامت	gharaamát	compensation, indemnification		n. m.																													
