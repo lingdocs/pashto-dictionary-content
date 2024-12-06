@@ -450,7 +450,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815782	درنده	daranda	predatory, savage	3	adj.																													
 1527816744	دربدر	darbadár	poor, destitute, impoverished, ruined homeless	3	adj.																													2
 1527814118	دردوونکی	dardawóonkay	painful, hurtful, agonizing	4	adj.																													2
-1614170170569	دردمن	dărdmán	troubled, sad, pained	4	adj.																													
+1614170170569	دردمن	dardmán	troubled, sad, pained	4	adj.																													
 1614170176230	دردمند	dardmánd, dardamánd	troubled, sad, pained	4	adj.																													3
 1527821280	درهم برهم	darhám barhám	confused, tangled up, mixed up	4	adj.																													2
 1527822349	درمند	dármund	level, smooth (of the earth)	2	adj.																													2
@@ -2147,7 +2147,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1662631080337	سرخرېیلی	sarkhre`yúlay	with a shaved head	4	adj.																													3
 1527816596	سرکوب	sarkób	towering above, overseeing, dominating, overseen, supervisor, supervised	4	adj.																													3
 1527814900	سرلوړی	sarlwáRay, sarlóRay	respectable, honorable	4	adj.																													2
-1573767094577	سرلوړی	sarlwáRay, sărlóRay	respectable, honorable	3	adj.																													2
+1573767094577	سرلوړی	sarlwáRay, sarlóRay	respectable, honorable	3	adj.																													2
 1527813729	سروتن	sarootán	identical, equal	2	adj.																													3
 1527823748	سرپټی	sarpúTay	shelter ??, with covered head	3	adj.																													3
 1527821777	سرسبز	sarsábz	green, turning green, blooming; fertile	4	adj.																													3
@@ -3058,7 +3058,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1578330078760	بدبد	badbad, budbud	badly, bad	4	adv.																													2
 1527815997	بدبختانه	badbakhtaaná	unfortunately	4	adv.																													2
 1527823024	بغیر	bagháyr	besides, except for, without (د دې نه بغير)	4	adv.																													3
-1527812498	بلې	băle	yes (from Farsi)	4	adv.																													
+1527812498	بلې	bale	yes (from Farsi)	4	adv.																													
 1527823029	برالا	baraaláa	evident, open, manifestly, frankly	4	adv.																													2
 1585835393077	برایي	baraayée	last night	2	adv.																													2
 1527819392	برسېره	barséra	moreover, besides, in addition to, apart from, over, above, more than, on top of	4	adv.																													2
@@ -5523,1006 +5523,1010 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588695809959	مولۍ	moolúy	radish	4	n. f.																													3
 1527821997	موم جامه	moom jaamá	oilskin, oilcloth	2	n. f.																													
 1527821105	موندره	moondrá	earring	2	n. f.																													2
-1527816868	موندنه	moondúna	finding	4	n. f.																													
-1527821910	موښنه	mooxúna	rubbing, friction, drag, scrubbing	4	n. f.																													
-1527816513	مورا	moraa	wife of a mullah, mother	2	n. f.																													
-1527818904	مورچه	morchá, moorchá	rust, termite; trench, position, entrenchment	4	n. f.																													
-1527822975	مورکۍ	morkúy	mommy, mom (children’s speech)	4	n. f.																													
-1527822976	مورکۍ	morukúy	mommy, mom (children’s speech)	4	n. f.																													
-1527816557	مورۍ	morúy	clay, edge of a roof, eaves, chimney, gutter; swear word	4	n. f.																													
-1527812929	موسیقي	moseeqee	music	4	n. f.																													
-1527820879	موسسه	mosisá	institution, foundation, company, NGO, organization	4	n. f.																													
-1527818477	موټه	moTá	tumor, gold thread knot	2	n. f.																													
-1527818817	موټرواني	moTurwaanee	driving (the job)	4	n. f.																													
-1527822577	مړه	mRa	shawl, blanket, lap rope	3	n. f.																													
-1527812931	مرسته	mrásta	help, assistance, aid	4	n. f.																													1
-1527814784	مړینه	mReena	death	4	n. f.																													
-1527820394	مړینه	mReená	death	3	n. f.																													
+1527816868	موندنه	moondúna	finding	4	n. f.																													2
+1527821910	موښنه	mooxúna	rubbing, friction, drag, scrubbing	4	n. f.																													2
+1527816513	مورا	moraa	wife of a mullah, mother	2	n. f. anim.																													
+1527818904	مورچه	morchá, moorchá	rust, termite; trench, position, entrenchment	4	n. f.																													2
+1527822975	مورکۍ	morkúy	mommy, mom (children’s speech)	4	n. f. anim.																													2
+1527822976	مورکۍ	morukúy, morkúy	mommy, mom (children’s speech)	4	n. f. anim.																													2
+1527816557	مورۍ	morúy	clay, edge of a roof, eaves, chimney, gutter; swear word	4	n. f.																													2
+1527812929	موسیقي	moseeqée	music	4	n. f.																													2
+1527820879	موسسه	mosisá	institution, foundation, company, NGO, organization	4	n. f.																													2
+1527818477	موټه	moTá	tumor, gold thread knot	2	n. f.																													2
+1527818817	موټرواني	moTurwaanée	driving (the job)	4	n. f.																													2
+1527822577	مړه	mRa	shawl, blanket, lap rope	3	n. f.																													2
+1527812931	مرسته	mrásta	help, assistance, aid	4	n. f.																													3
+1527814784	مړینه	mRéena	death	4	n. f.																													2
+1527820394	مړینه	mRéena	death	3	n. f.																													2
 1527822794	مروړه	mroRá	oil soaked rag (for cleaning guns)	3	n. f.																													
 1527822793	مروړه	mróRa	bump, swelling (from an insect bite)	4	n. f.																													
 1527821909	مروړنه	mroRuna	rubbing, friction, scrubbing, ruffling, creasing	4	n. f.																													
-1610615993762	معاهده	mU'aahadá, mU'aahidá	agreement (formal agreement)	4	n. f.																													1
-1527818825	معامله	mU'aamala, maamilá, maamalá	transaction, dealing, business, issue	4	n. f.																													
-1619276910300	معاوضه	mU'aawizá	exchange, compensation, barter	4	n. f.																													
-1527820782	معاینه خانه	mU'aayaná khaana	outpatient clinic	4	n. f.																													
-1527820781	معاینه	mU'aayaná, maayná	examination (ie. medical examination etc.), inspection, observation	4	n. f.									معاینات	mU'aayanáat																			1
-1708189464427	معاینه کول	mU'aayana kawúl, maayna kawul	to examine, inspect	4	v. stat. comp. trans.	1527820781	examine																											1
-1579289097783	معرفي	mU'arrifée, marrifée, marifée	introduction, recommendation, acquaintance	3	n. f.																													
-1669827653209	معضله	mU'azalá	difficulty, problem, impasse		n. f.																													
-1527818259	معجزه	mU'jizá	miracle, wonder	4	n. f.									معاجزه	m'aajUza																			
+1610615993762	معاهده	mU'aahadá, mU'aahidá, m'aahidá	agreement (formal agreement)	4	n. f.																													3
+1527818825	معامله	mU'aamala, maamilá, maamalá	transaction, dealing, business, issue	4	n. f.																													2
+1619276910300	معاوضه	mU'aawizá	exchange, compensation, barter	4	n. f.																													2
+1527820782	معاینه خانه	mU'aayaná khaaná	outpatient clinic	4	n. f.																													2
+1527820781	معاینه	mU'aayaná, maayná	examination (ie. medical examination etc.), inspection, observation	4	n. f.									معاینات	mU'aayanáat																			3
+1708189464427	معاینه کول	mU'aayana kawúl, maayna kawul	to examine, inspect	4	v. stat. comp. trans.	1527820781	examine																											3
+1579289097783	معرفي	mU'arrifée, marrifée	introduction, recommendation, acquaintance	3	n. f.																													2
+1669827653209	معضله	mU'azalá, mU'azilá	difficulty, problem, impasse		n. f.																													2
+1527818259	معجزه	mU'jizá	miracle, wonder	4	n. f.									معاجزه	m'aajUza																			2
 1732599665080	معجزه ناک	mU'jiza náak	miraculous		adj.																													
-1527812119	معافي	mUaafée	exemption	3	n. f.																													1
-1527814282	معلمه	mUalima	female teacher, instructor	4	n. f.																													
+1527812119	معافي	mU'aafée	exemption	3	n. f.																													3
+1527814282	معلمه	mUallíma	female teacher, instructor	4	n. f.																													2
 1527814284	معلمي	mUalimee, maalimee	teaching	4	n. f.																													
-1579289283854	معطلي	ma'talée, mUatalée	delay, adjourment, deferment, suspension	3	n. f.																													1
-1527823416	مباحثه	mUbaahisa	debate, discussion, argument	4	n. f.																													
-1527823104	مبالغه	mUbaalighá	exaggeration, overstatement	3	n. f.																													
-1527816057	مبارکي	mUbaarakée	congratulations	4	n. f.																													1
-1708738746534	مبارکي ورکول	mUbaarakée warkawul	to congratulate	4	v. dyn. comp. trans.	1527816057	congratulate																											1
-1527814629	مبارزه	mUbaaraza	fight, struggle	3	n. f.																													
-1610615401760	مبتدا	mUbtadáa	subject, matter, essence, subject of an equative sentence; beginning, starting	2	n. f.																													
+1579289283854	معطلي	ma'talée, mUatalée	delay, adjourment, deferment, suspension	3	n. f.																													3
+1527823416	مباحثه	mUbaahisá	debate, discussion, argument	4	n. f.																													2
+1527823104	مبالغه	mUbaalighá	exaggeration, overstatement	3	n. f.																													2
+1527816057	مبارکي	mUbaarakée	congratulations	4	n. f.																													3
+1708738746534	مبارکي ورکول	mUbaarakée warkawúl	to congratulate	4	v. dyn. comp. trans.	1527816057	congratulate																											3
+1527814629	مبارزه	mUbaarazá, mUbaarizá	fight, struggle	3	n. f.																													2
+1610615401760	مبتدا	mUbtadáa	subject, matter, essence, subject of an equative sentence; beginning, starting	2	n. f.																													2
 1527819915	مچرۍ	mUcharúy	mosquito net, mosquito netting	2	n. f.																													
 1527819914	مچرۍ	muchrúy	mosquito net, mosquito netting	2	n. f.																													
-1527814134	مداخله	mUdaakhala	interference	4	n. f.																													
+1527814134	مداخله	mUdaakhalá, mUdaakilá	interference	4	n. f.																													2
 1527812993	مده	mUdda	time, period	3	n. f.																													
-1671707293637	مدعا	mUdda'áa	claim, assertion, demand, subject of argument		n. f.																													
-1527815907	مفاهمه	mUfaahíma, mUfaaháma	mutual understanding	3	n. f.																													
-1527821486	مږک رانه	mUGak ráana	mouse-hole; mouse burrow	3	n. f.																													
-1527812135	محاسبه	mUhaasiba	accounting, calculation, calculated, computation	4	n. f.																													
-1527811613	محاصره	mUhaasira	sanctions, blockade, siege, surrounded	4	n. f.																													
-1527822566	مهر کندي	mUhr kandee	the craft of engraving	2	n. f.																													
-1527822565	مهر کني	mUhr kanee	the craft of engraving	2	n. f.																													
-1648997533771	محتوا	mUhtawáa	content, subject	4	n. f.																													
-1576887902183	مجادله	mUjaadilá	argument, dispute, squabble, conflict	3	n. f.																													
-1527819673	مجله	mUjalá	magazine, journal	3	n. f.																													
-1527820129	مجسمه	mUjasimá	statue	4	n. f.																													
-1595233544225	مژه	mUjza	eyelashes (poetic)	2	n. f.											مژګان	mUjzgaan																	
-1527818673	مکالمه	mUkaalamá	conversation, talk, interview	3	n. f.																													
-1527820368	مخ تولي	mukh tolée	(a lock or ringlet of hair) falling down over the face	2	n. f.																													
-1579187477763	مخه	múkha	direction; way, path; basis; way; foundation	4	n. f.																													
-1527821386	مخه ښه	mukha xá	farewell, parting, leave-taking	4	n. f.																													
-1527823560	مخابره	mUkhaabira	radio, wireless, communication	4	n. f.																													
-1527821200	مخفف نویسي	mUkhaffaf naweesée	cursive (writing)	3	n. f.																													
-1674934867657	مخکتنه	mukhkatúna, makhkatána	book-interview, attention to someone		n. f.																													
-1527822519	ملاحظه	mUlaahizá	consideration, regard, remark, argument, prudence, caution	3	n. f.									ملاحظات	mUlaahizaat																			
-1578329978867	ملایي	mUllaayée	the job/rank of being a mullah	3	n. f.																													1
+1671707293637	مدعا	mUdda'áa, muda'áa	claim, assertion, demand, subject of argument		n. f.																													2
+1527815907	مفاهمه	mUfaahíma, mUfaaháma, mUfaahimá	mutual understanding	3	n. f.																													2
+1527821486	مږک رانه	mUGak ráana	mouse-hole; mouse burrow	3	n. f.																													2
+1527812135	محاسبه	mUhaasibá	accounting, calculation, calculated, computation	4	n. f.																													2
+1527811613	محاصره	mUhaasirá	sanctions, blockade, siege, surrounded	4	n. f.																													2
+1527822566	مهر کندي	mUhr kandée	the craft of engraving	2	n. f.																													2
+1527822565	مهر کني	mUhr kanée	the craft of engraving	2	n. f.																													2
+1648997533771	محتوا	mUhtawáa	content, subject	4	n. f.																													2
+1576887902183	مجادله	mUjaadilá	argument, dispute, squabble, conflict	3	n. f.																													2
+1527819673	مجله	mUjalá, mUjallá	magazine, journal	3	n. f.																													2
+1527820129	مجسمه	mUjasimá	statue	4	n. f.																													2
+1595233544225	مژه	mUjzá	eyelashes (poetic)	2	n. f.											مژګان	mUjzgaan																	2
+1527818673	مکالمه	mUkaalamá, mUkaalimá	conversation, talk, interview	3	n. f.																													2
+1527820368	مخ تولي	mukh tolée	(a lock or ringlet of hair) falling down over the face	2	n. f.																													2
+1579187477763	مخه	múkha	direction; way, path; basis; way; foundation	4	n. f.																													2
+1527821386	مخه ښه	mukha xá, mukha xú	farewell, parting, leave-taking	4	n. f.																													2
+1527823560	مخابره	mUkhaabirá	radio, wireless, communication	4	n. f.																													2
+1527821200	مخفف نویسي	mUkhaffaf naweesée	cursive (writing)	3	n. f.																													2
+1674934867657	مخکتنه	mukhkatúna, makhkatána	book-interview, attention to someone		n. f.																													2
+1527822519	ملاحظه	mUlaahizá	consideration, regard, remark, argument, prudence, caution	3	n. f.									ملاحظات	mUlaahizaat																			2
+1578329978867	ملایي	mUllaayée	the job/rank of being a mullah	3	n. f.																													3
 1678365356589	ملوک الوایفي	mUlook alwaayfee	feudalism		n. f.																													
-1527822052	ممثله	mUmassila	actress	4	n. f.																													
-1527817774	مناظره	mUnaazará	debate, discussion, controversy	4	n. f.																													
-1527815805	منډه	múnDa	run, running	4	n. f.																													1
-1714821787845	منډه کول	múnDa kawúl	to run	4	v. dyn. comp. trans.	1527815805	run,runs,running,ran,run																											1
+1527822052	ممثله	mUmassíla	actress	4	n. f.																													2
+1527817774	مناظره	mUnaazará, mUnaazirá	debate, discussion, controversy	4	n. f.																													2
+1527815805	منډه	múnDa	run, running	4	n. f.																													3
+1714821787845	منډه کول	múnDa kawúl	to run	4	v. dyn. comp. trans.	1527815805	run,runs,running,ran,run																											3
 1527821140	منجیله	munjeelá	see منجله	4	n. f.																													
-1527821139	منجله	munjulá	support, ring or pillow place on the head when carrying a jug/load, intertwined wheat stalks	4	n. f.																													
-1571626622642	مننه	munúna	acceptance, agreement, obedience	4	n. f.																													
+1527821139	منجله	munjulá	support, ring or pillow place on the head when carrying a jug/load, intertwined wheat stalks	4	n. f.																													2
+1571626622642	مننه	munúna, manúna	acceptance, agreement, obedience	4	n. f.																													2
 1571626625953	منښته	munúxta	acceptance, agreement, obedience	4	n. f.																													
-1527816223	مقابله	mUqaabalá, mUqaablá	comparison; resistance, competition, confronting	4	n. f.																													1
-1586448678433	مقاوله	mUqaawalá	agreement, contract, convention, transaction	2	n. f.																													
+1527816223	مقابله	mUqaabalá, mUqaablá, mUqaabilá	comparison; resistance, competition, confronting	4	n. f.																													3
+1586448678433	مقاوله	mUqaawalá	agreement, contract, convention, transaction	2	n. f.																													2
 1527822011	مقاومه	mUqaawamá	resistance, opposition, hostility, animosity	3	n. f.																													
-1527816216	مقایسه	mUqaayasa	comparison, juxtaposition	4	n. f.																													
-1527816076	مقدمه	mUqaddamá	introduction, preface, preamble	2	n. f.																													1
-1566647744593	مقتدا	mUqtadáa	clergyman, leader (Arabic)	2	n. f.																													
+1527816216	مقایسه	mUqaayasá, mUqaayisá	comparison, juxtaposition	4	n. f.																													2
+1527816076	مقدمه	mUqaddamá, mUqadimá	introduction, preface, preamble	2	n. f.																													3
+1566647744593	مقتدا	mUqtadáa	clergyman, leader (Arabic)	2	n. f.																													2
 1527814738	مرافعه	mUraafa'a	appeal (Arabic, legal term)	2	n. f.																													
 1527816958	مراجعه	mUraaja'a	turning to, recourse, reference, resort	4	n. f.																													
-1586957574526	مراقبه	mUraaqibá	meditiation, reflection, contemplation	4	n. f.																													
-1585474740972	مربع	mUrabá'	square, exponent of two	3	n. f.																													1
-1527822783	مربا	mUrabáa	jam, preserve, marmalade	3	n. f.																													
-1584530920680	مریدي	mUreedee	the practive of being a مرید (spiritual or religious student), discipleship	3	n. f.																													
-1578344232094	مریضي	mureezee	sickness (the state of a person being in sickness)	4	n. f.																													
-1586634286177	مرغابۍ	mUrghaabúy	duck	4	n. f.																													
-1527821635	مرغلره	murghalúra	pearl	4	n. f.																													
-1527818625	مرغۍ	murghúy	sparrow, small bird	4	n. f.																													1
-1585487773078	مرلۍ	mUrlúy	reed pipe (instrument used by snake charmer)	2	n. f.																													
-1675138061058	مسابقه	mUsaabiqá	competition, race		n. f.																													
-1527814436	مصافحه	mUsaafaha	handshake (Arabic)	3	n. f.																													
-1527811518	مسافري	mUsaafiree	the state/life of being an expat, living away from home / abroad; travelling	4	n. f.																													
-1527813707	مسافرخانه	mUsaafirkhaana	guest house, inn, hotel	4	n. f.																													
+1586957574526	مراقبه	mUraaqibá, muraaqibá	meditiation, reflection, contemplation	4	n. f.																													2
+1585474740972	مربع	mUrabá', mUrabí'	square, exponent of two	3	n. f.																													3
+1527822783	مربا	mUrabáa	jam, preserve, marmalade	3	n. f.																													2
+1584530920680	مریدي	mUreedée, mureedée	the practive of being a مرید (spiritual or religious student), discipleship	3	n. f.																													2
+1578344232094	مریضي	mureezée	sickness (the state of a person being in sickness)	4	n. f.																													2
+1586634286177	مرغابۍ	mUrghaabúy, murghaabúy	duck	4	n. f.																													2
+1733379157953	مرغابي	mUrghaabée, murghaabée	duck	4	n. f.																													2
+1527821635	مرغلره	murghalúra	pearl	4	n. f.																													2
+1527818625	مرغۍ	murghúy	sparrow, small bird	4	n. f.																													3
+1585487773078	مرلۍ	mUrlúy, murlúy	reed pipe (instrument used by snake charmer)	2	n. f.																													2
+1675138061058	مسابقه	mUsaabiqá	competition, race		n. f.																													2
+1527814436	مصافحه	mUsaafahá, mUsaafihá	handshake (Arabic)	3	n. f.																													2
+1527811518	مسافري	mUsaafirée, mUsaafurée	the state/life of being an expat, living away from home / abroad; travelling	4	n. f.																													2
+1527813707	مسافرخانه	mUsaafirkhaaná, mUsaafurkhaaná	guest house, inn, hotel	4	n. f.																													2
 1664025308773	مصاحبه	mUsaahiba	interview	4	n. f.																													
-1527822981	مصالحه	mUsaalahá	reconciliation, compromise	4	n. f.																													
-1527821652	مساپري	mUsaapiree	the life of an expat, living away from home / abroad, travelling	3	n. f.																													
+1527822981	مصالحه	mUsaalahá, mUsaalihá	reconciliation, compromise	4	n. f.																													2
+1527821652	مساپري	mUsaapirée, mUsaapurée	the life of an expat, living away from home / abroad, travelling	3	n. f.																													2
 1578015518297	مصله	mUsalá, masalá	prayer mat	3	n. f.																													
-1617442505484	مشابهه	mUshaabahá	resemblence, similarity, likeness	4	n. f.																													
-1674054230642	مشاهده	mUshaahidá, mUshaahadá	observation, examination		n. f.																													
-1527813633	مشاعره	mUshaaira	poetry event, poetry contest	4	n. f.																													
-1527813248	مشکله	mUshkila	difficulty, trouble	3	n. f.																													
-1527820415	مشري	mushrée	seniority, leadership, management, position of authority, supervision	4	n. f.																													
-1715612661946	مشري کول	mushrée kawúl	to lead, supervise, manage, oversee	4	v. dyn. comp. trans.	1527820415	lead,leads,leading,led																											1
-1527815686	مسکه	muska	butter	4	n. f.																													
-1527817093	مسکا	muskáa, mUskáa	smile	4	n. f.																													1
-1527817095	مسکتیا	musktiyaa	kind smile	2	n. f.																													
-1527814739	مصوبه	mUssawaba	decree, resolution, decision	2	n. f.																													
+1617442505484	مشابهه	mUshaabahá, mUshaabihá	resemblence, similarity, likeness	4	n. f.																													2
+1674054230642	مشاهده	mUshaahidá, mUshaahadá	observation, examination		n. f.																													2
+1527813633	مشاعره	mUshaairá	poetry event, poetry contest	4	n. f.																													2
+1527813248	مشکله	mUshkíla, mUshkúla	difficulty, trouble	3	n. f.																													2
+1527820415	مشري	mushrée, mushurée	seniority, leadership, management, position of authority, supervision	4	n. f.																													2
+1715612661946	مشري کول	mushrée kawúl, mushurée kawúl	to lead, supervise, manage, oversee	4	v. dyn. comp. trans.	1527820415	lead,leads,leading,led																											3
+1527815686	مسکه	muská	butter	4	n. f.																													2
+1527817093	مسکا	muskáa, mUskáa	smile	4	n. f.																													3
+1527817095	مسکتیا	musktyáa, mUsktyáa	kind smile	2	n. f.																													2
+1527814739	مصوبه	mUssawaba, musawbá	decree, resolution, decision	2	n. f.																													2
 1527819930	مستعفي	mUstafée	retiring, going into retirement, resigination, sending in one’s resignation	3	n. f.																													
-1527817017	مستعمره	mUstamara, mUst'amira	colony		n. f.																													
-1527819933	مستمري	mUstamirrée	retirement, benefit, pension	2	n. f.																													
-1527812430	مټه	muTa	hand, forearm, force	4	n. f.																													
-1527821203	مطابقت نامه	mUtaabiqat naama	mandate, instruction (given by voters to an elected official)	4	n. f.																													
-1527811675	معتادي	mUtaadee	addiction	4	n. f.																													
-1527816950	مطالعه	mUtaali'a, mUtaaliya, mUtaalaa	study, research	4	n. f.									مطالعات	mUtaaliaat																			
-1527813315	مواسه	muwaasa	fairy tale	2	n. f.																													
-1527816722	موازنه	mUwaazana	balance, equilibrium, balancing	4	n. f.																													
-1527821237	مۍ	múy	mung beans, kidney beans	4	n. f.																													
-1527823187	مظاهره	mUzaahirá	demonstration, protest	4	n. f.																													1
-1592559190837	میانه	myaaná	pass, passing mark (in school)	4	n. f.																													
+1527817017	مستعمره	mUsta'mará, mUsta'mirá	colony		n. f.																													2
+1527819933	مستمري	mUstamirrée, mUstamarée	retirement, benefit, pension	2	n. f.																													2
+1527812430	مټه	múTa	hand, forearm, force	4	n. f.																													2
+1527821203	مطابقت نامه	mUtaabiqat naamá	mandate, instruction (given by voters to an elected official)	4	n. f.																													2
+1527811675	معتادي	mU'taadée	addiction	4	n. f.																													2
+1527816950	مطالعه	mUtaali'á, mUtaaliyá, mUtaaláa	study, research	4	n. f.									مطالعات	mUtaaliaat																			2
+1527813315	مواسه	muwaasá	fairy tale	2	n. f.																													2
+1527816722	موازنه	mUwaazaná, mUwaaziná	balance, equilibrium, balancing	4	n. f.																													2
+1527821237	مۍ	múy	mung beans, kidney beans	4	n. f.																													2
+1527823187	مظاهره	mUzaahirá	demonstration, protest	4	n. f.																													3
+1592559190837	میانه	myaaná	pass, passing mark (in school)	4	n. f.																													2
 1527813357	مینځه ګته	myandza gUta	middle finger	3	n. f.																													
-1586449464276	نا امني	naa aamnée	unrest, disturbances, lack of peace (as in a geographical area), alarming or worrisome situation	4	n. f.																													
-1673632067615	نا دولتي موسسه	naa dawlatee mosisa	NGO (non-governmental orginization)		n. f.																													
-1527816472	نا سکه مور	naa saka mor	stepmother, mother in law	4	n. f.																													
-1674546037783	ناعدالتي	naa`adaalatée	injustice		n. f.																													
-1675281714777	ناامني	naa`amanee	lack of peace, unrest, disturbance		n. f.																												true	
-1674546403285	ناانصافي	naa`insaafee	injustice		n. f.																												true	
-1527821994	نابودي	naaboodee	extinction, annihilation, destruction, uselessness	2	n. f.																													
-1527822090	ناداري	naadaaree	poverty, need, want	3	n. f.																													
-1527821629	ناځواني	naadzwaanée	cowardice, faintheartedness	4	n. f.																													
-1527821251	نافرماني	naafarmaanée	disobedience, rebellion, noncompliance	4	n. f.																													1
-1527815100	ناغه	naagha	fine, penalty	4	n. f.																													
-1591712373663	ناغېړي	naagheRée	idleness, slacking off, loafing, evasion, ignoring, shirking	2	n. f.																													
-1527822365	ناحقي	naahaqee, naahaqqee	injustice, unfairness, inappropriateness	4	n. f.																													
-1527819493	ناهیلي	naaheelee	disappointment	4	n. f.																													
-1527821457	ناحیه	naahiyá	district, region, area, province, zone	4	n. f.									نواحي	nawaahée																			
-1527820420	ناجوړي	naajoRee	sickness, illness, disease	4	n. f.																													
-1617781446945	ناجوړتیا	naajoRtyáa	sickness, illness	4	n. f.																													1
-1588151088797	ناکه	naaká	crocidile	2	n. f.																													
-1527817884	ناکامي	naakaamée	failure, downfall	3	n. f.																													1
-1527819064	ناله	naalá	brook, small stream, ravine, hollow; moaning, wailing	3	n. f.																													
-1594204222857	نالي	naalée	mattress, straw-filled pallet	2	n. f.																													
+1586449464276	نا امني	naa aamnée	unrest, disturbances, lack of peace (as in a geographical area), alarming or worrisome situation	4	n. f.																													2
+1673632067615	نا دولتي موسسه	naa dawlatee mosisá	NGO (non-governmental orginization)		n. f.																													2
+1733379615895	نا دولتي	naa dawlatée	non-governmental		adj.																													2
+1527816472	نا سکه مور	naa saka mór	stepmother, mother in law	4	n. f. anim.																													2
+1674546037783	ناعدالتي	naa`adaalatée	injustice		n. f.																													2
+1675281714777	ناامني	naa`amanée, naa`amnée	lack of peace, unrest, disturbance		n. f.																												true	2
+1674546403285	ناانصافي	naa`insaafée	injustice		n. f.																												true	2
+1527821994	نابودي	naaboodée	extinction, annihilation, destruction, uselessness	2	n. f.																													2
+1527822090	ناداري	naadaarée	poverty, need, want	3	n. f.																													2
+1527821629	ناځواني	naadzwaanée	cowardice, faintheartedness	4	n. f.																													2
+1527821251	نافرماني	naafarmaanée	disobedience, rebellion, noncompliance	4	n. f.																													3
+1527815100	ناغه	naaghá	fine, penalty	4	n. f.																													2
+1591712373663	ناغېړي	naagheRée	idleness, slacking off, loafing, evasion, ignoring, shirking	2	n. f.																													2
+1527822365	ناحقي	naahaqée, naahaqqée	injustice, unfairness, inappropriateness	4	n. f.																													2
+1527819493	ناهیلي	naaheelée	disappointment	4	n. f.																													2
+1527821457	ناحیه	naahiyá	district, region, area, province, zone	4	n. f.									نواحي	nawaahée																			2
+1527820420	ناجوړي	naajoRée	sickness, illness, disease	4	n. f.																													2
+1617781446945	ناجوړتیا	naajoRtyáa	sickness, illness	4	n. f.																													3
+1588151088797	ناکه	naaká	crocidile	2	n. f.																													2
+1527817884	ناکامي	naakaamée	failure, downfall	3	n. f.																													3
+1527819064	ناله	naalá	brook, small stream, ravine, hollow; moaning, wailing	3	n. f.																													2
+1594204222857	نالي	naalée	mattress, straw-filled pallet	2	n. f.																													2
 1527819216	نالوستي	naalwastée, naalwustée	lack of education, illiteracy	4	n. f.																													
-1527821078	نام بدي	naam badée	disgrace, dishonour	3	n. f.																													
-1527821080	نام وري	naam warée	glory, fame, renown	3	n. f.																													
+1527821078	نام بدي	naam badée, naam bádee	disgrace, dishonour	3	n. f.																													2
+1527821080	نام وري	naam warée, naam wáree	glory, fame, renown	3	n. f.																													2
 1527818359	نامېندګي	naamendagee	despair	2	n. f.																													
-1527821379	ناموسي وژنه	naamoosee wajzuna	honour killing	2	n. f.																													
-1527820033	ناندرۍ	naandrúy	argument, quarrel, fight, altercation	4	n. f.																													
-1527814402	نانځکه	naandzuka	toy, doll, puppet	4	n. f.																													
-1621884099330	نانوایي	naanwáayee	bread bakery, bread baking	4	n. f.																													
-1586449503968	ناپاکي	naapaakée	uncleanliness, unholiness, filthiness	4	n. f.																													1
-1527823059	ناپامي	naapaamee	carelessness, lack of attention	4	n. f.																													
-1527819957	ناپلوي	naapalawee	impartiality, neutrality	4	n. f.																													
-1527819408	ناپېینه	naape`yúna	disorder, violation of order	4	n. f.																													
-1527817135	ناپوهي	naapohee	lack of knowledge, ignorance	4	n. f.																													
-1527817368	ناره	naará	shout, crying out, chant, slogan	4	n. f.																													1
-1709129353096	نارې وهل	naaré wahúl	to shoul, cry out, chant	4	v. dyn. comp. trans.	1527817368	shout																											1
-1609780143962	ناراستي	naaraastée	crookedness, unevenness; lie, deceit; laziness, idleness	4	n. f.																													
+1527821379	ناموسي وژنه	naamoosee wajzúna	honour killing	2	n. f.																													2
+1527820033	ناندرۍ	naandrúy	argument, quarrel, fight, altercation	4	n. f.																													2
+1527814402	نانځکه	naandzúka	toy, doll, puppet	4	n. f.																													2
+1621884099330	نانوایي	naanwáayee, naanwaayée	bread bakery, bread baking	4	n. f.																													2
+1586449503968	ناپاکي	naapaakée	uncleanliness, unholiness, filthiness	4	n. f.																													3
+1527823059	ناپامي	naapaamée	carelessness, lack of attention	4	n. f.																													2
+1527819957	ناپلوي	naapalawée	impartiality, neutrality	4	n. f.																													2
+1527819408	ناپېینه	naape`yúna	disorder, violation of order	4	n. f.																													2
+1527817135	ناپوهي	naapohée	lack of knowledge, ignorance	4	n. f.																													2
+1527817368	ناره	naará	shout, crying out, chant, slogan	4	n. f.																													3
+1709129353096	نارې وهل	naaré wahúl	to shoul, cry out, chant	4	v. dyn. comp. trans.	1527817368	shout																											3
+1609780143962	ناراستي	naaraastée	crookedness, unevenness; lie, deceit; laziness, idleness	4	n. f.																													2
 1527817082	ناراضي	naaraazee	displeased, dissatisfied, displeasure, discontent, malcontent	3	n. f.																													
-1527814550	ناروغي	naaroghée	sickness, illness, ailment	4	n. f.																													
-1527817286	ناروغي	naarooghee	sickness, illness	4	n. f.																													
-1619508712118	ناروښانتیا	naaroxaantyaa, naaroxaantiyaa	uncertainty, unclarity	4	n. f.																													
-1588696102087	ناشپاتۍ	naashpaatúy	pear	4	n. f.																													
-1527819327	ناشته	naashtá	breakfast	4	n. f.																													1
+1527814550	ناروغي	naaroghée	sickness, illness, ailment	4	n. f.																													2
+1527817286	ناروغي	naarooghée	sickness, illness	4	n. f.																													2
+1619508712118	ناروښانتیا	naaroxaantyáa	uncertainty, unclarity	4	n. f.																													2
+1588696102087	ناشپاتۍ	naashpaatúy	pear	4	n. f.																													2
+1527819327	ناشته	naashtá	breakfast	4	n. f.																													3
 1527812228	ناسته	naasta	sitting, session; diarrhea, pooping	4	n. f.																													
-1527812226	ناسته پاڅه	naasta paatsa	contact, dealing with, spending time with, having association or communication (literally sitting and getting up)	3	n. f.																													
-1527812227	ناسته ولاړه	naasta walaaRa	contact, dealing with, spending time with, having association or communication (literally sitting and standing)	4	n. f.																													
+1527812226	ناسته پاڅه	naasta páatsa	contact, dealing with, spending time with, having association or communication (literally sitting and getting up)	3	n. f.																													2
+1733380484939	ناسته پاسته	naasta páasta	contact, dealing with, spending time with, having association or communication (literally sitting and getting up)	3	n. f.																													2
+1527812227	ناسته ولاړه	naasta waláaRa	contact, dealing with, spending time with, having association or communication (literally sitting and standing)	4	n. f.																													2
 1527821173	ناتواني	naatwaanée	weakness, powerlessness, debilitation, lack of strength, inability	4	n. f.																													
-1601459079633	ناوه	naawá	drain, gutter, chute, spout; valley, avalanche; province, district	4	n. f.																													1
-1649828217167	ناوکۍ	naawakúy	doll	3	n. f.																													
-1527818506	ناوړه	naawáRa	unpleasantness, indecency, inappropriateness	4	n. f.																													
-1527816136	ناوې	náawe	bride, daughter in law	4	n. f.																													1
-1527812977	نایڼه	naayuNa, naayaNa	the wife of a barber or hairdresser	4	n. f.																													
-1527817882	نازله	naazila	misfortune, disaster, bad-luck	2	n. f.																													
-1527818169	نبات پېژندنه	nabaat pejzandúna	botany	3	n. f.																													
-1527818170	نباتي	nabaatee	vegetable, herbal	3	n. f.																													
-1579041957559	ندا	nadáa	call, appeal, shout, summoning	4	n. f.																													
-1527821978	نفعه	náf'a, náfa	profit, benefit, advantage, gain, yield	4	n. f.																													
-1527814342	نفع	náf'a, náfa	profit, benefit, advantage, gain, yield	3	n. f.																													1
-1716310782405	نفع رسول	náfa rasawúl	to benefit, profit, yield		v. dyn. comp. trans.	1527814342	benefit																											1
-1527821698	نفقه	nafaqá	means of subsistence, honest wages, alimony, maintenance	4	n. f.																													
-1527821975	نفي	nafée	rejected, turned away, negation	2	n. f.																													
-1527811814	نفس پرستي	nafs parastee	hedonism, profligacy, debauchery	4	n. f.																													
-1527818117	نفسي	nafsee	mental, psychological	2	n. f.																													
-1574784019072	نغاره	naghaará	kettledrum, drum	4	n. f.																													
-1527822689	نغمه	naghmá	song, tune, motif, melody	4	n. f.																													1
-1527812257	نهه	naha	Tuesday	4	n. f.																													
-1527817071	نحو	nahwa	syntax, grammar	2	n. f.																												true	
-1579463046963	نهیه	náhya	prohibition, forbidding	2	n. f.																													
-1577822434268	نجاري	najaaree	carpentry	4	n. f.																													
-1527823453	نخره	nakhra	playfulness, airs, flirting, pretense, joking around	4	n. f.																													
-1527822797	نکټایي	năkTaayee	necktie, tie	4	n. f.																													
-1649787681222	نلدواني	naldawaanee	plumbing	4	n. f.																													
-1582335905125	نلکه	nalká	water pipe, straw (drinking), tube	4	n. f.																													1
-1582335907159	نلکۍ	nalkúy	water pipe	4	n. f.																													
-1527822481	نلۍ	nalúy	pipe, tubing, empty cartridge, spool	4	n. f.																													
-1527817192	نمک حلالي	namak halaalee	gratefulenss, decency, thankfulness, faithfulness	4	n. f.																													
-1527811990	نمونه	namooná	sample, type, example, model, specimen	4	n. f.																													1
-1527816815	نعناع	nanaa	mint	2	n. f.																													
-1527815986	ننداره	nandaará	a spectacle, show, sight, production, presentation	4	n. f.																													1
+1601459079633	ناوه	naawá	drain, gutter, chute, spout; valley, avalanche; province, district	4	n. f.																													3
+1649828217167	ناوکۍ	naawakúy	doll	3	n. f.																													2
+1527818506	ناوړه	naawáRa	unpleasantness, indecency, inappropriateness	4	n. f.																													2
+1527816136	ناوې	náawe	bride, daughter in law	4	n. f.																													3
+1527812977	نایڼه	naayúNa, naayáNa	the wife of a barber or hairdresser	4	n. f.																													2
+1527817882	نازله	naazíla	misfortune, disaster, bad-luck	2	n. f.																													2
+1527818169	نبات پېژندنه	nabaat pejzandúna	botany	3	n. f.																													2
+1527818170	نباتي	nabaatée	vegetable, herbal	3	n. f.																													2
+1579041957559	ندا	nadáa, nidáa	call, appeal, shout, summoning	4	n. f.																													2
+1527821978	نفعه	náf'a, náfa	profit, benefit, advantage, gain, yield	4	n. f.																													2
+1527814342	نفع	náf'a, náfa	profit, benefit, advantage, gain, yield	3	n. f.																													3
+1716310782405	نفع رسول	náfa rasawúl	to benefit, profit, yield		v. dyn. comp. trans.	1527814342	benefit																											3
+1527821698	نفقه	nafaqá	means of subsistence, honest wages, alimony, maintenance	4	n. f.																													2
+1527821975	نفي	nafée	rejected, turned away, negation	2	n. f.																													2
+1527811814	نفس پرستي	nafs parastée, nafas parastée	hedonism, profligacy, debauchery	4	n. f.																													2
+1527818117	نفسي	nafsée	mental, psychological	2	n. f.																													2
+1574784019072	نغاره	naghaará	kettledrum, drum	4	n. f.																													2
+1527822689	نغمه	naghmá	song, tune, motif, melody	4	n. f.																													3
+1527812257	نهه	nahá	Tuesday	4	n. f.																													2
+1527817071	نحو	náhwa	syntax, grammar	2	n. f.																												true	2
+1579463046963	نهیه	náhya, nahyá	prohibition, forbidding	2	n. f.																													2
+1577822434268	نجاري	najaarée, nijaarée	carpentry	4	n. f.																													2
+1527823453	نخره	nakhrá	playfulness, airs, flirting, pretense, joking around	4	n. f.																													2
+1527822797	نکټایي	nakTaayée, nikTaayée	necktie, tie	4	n. f.																													2
+1649787681222	نلدواني	naldawaanée	plumbing	4	n. f.																													2
+1582335905125	نلکه	nalká	water pipe, straw (drinking), tube	4	n. f.																													3
+1582335907159	نلکۍ	nalkúy	water pipe	4	n. f.																													2
+1527822481	نلۍ	nalúy	pipe, tubing, empty cartridge, spool	4	n. f.																													2
+1527817192	نمک حلالي	namak halaalée	gratefulenss, decency, thankfulness, faithfulness	4	n. f.																													2
+1527811990	نمونه	namooná	sample, type, example, model, specimen	4	n. f.																													3
+1527816815	نعناع	nanáa	mint	2	n. f.																													2
+1527815986	ننداره	nandaará	a spectacle, show, sight, production, presentation	4	n. f.																													3
 1527815985	نندره	nandra	a collection of goods or gifts for a wedding	4	n. f.																													
-1584640124080	ننګه	nanga	honor, sense of honor, reputation	3	n. f.																													
-1527814542	ننګونه	nangawúna	challenge	2	n. f.																													
-1527820631	نقاشي	naqaashée	painting (the art of), depiction, description, portrayal	4	n. f.																													
-1527816321	نقادي	naqqaadee	literary criticism	2	n. f.																													
-1527812140	نقشه	naqshá	map, scheme, plan, diagram, blueprint	4	n. f.																													1
+1584640124080	ننګه	nánga	honor, sense of honor, reputation	3	n. f.																													2
+1527814542	ننګونه	nangawúna	challenge	2	n. f.																													2
+1527820631	نقاشي	naqaashée	painting (the art of), depiction, description, portrayal	4	n. f.																													2
+1527816321	نقادي	naqqaadée, naqaadée	literary criticism	2	n. f.																													2
+1527812140	نقشه	naqshá	map, scheme, plan, diagram, blueprint	4	n. f.																													3
 1527823071	نر تخمه	nar tUkhma	sperm	4	n. f.																													
-1527815114	نرخنامه	narkhnaama	price list	4	n. f.																													
-1527815846	نرمي	narmee	gentleness, kindness, meekness, softness	4	n. f.																													
-1527812349	نړۍ	naRúy	world, earth	4	n. f.																													1
-1588696290296	نرۍ غوښه	narúy ghwáxa	mutton	4	n. f.																													
-1527814137	نس ناسته	nas naasta	diarrhea	4	n. f.																													
-1527814238	نشه	nashá	intoxication, buzz, drunkenness, high, substance that causes highness or drunkenness	4	n. f.																													1
+1527815114	نرخنامه	narkhnaamá	price list	4	n. f.																													2
+1527815846	نرمي	narmée	gentleness, kindness, meekness, softness	4	n. f.																													2
+1527812349	نړۍ	naRúy	world, earth	4	n. f.																													3
+1588696290296	نرۍ غوښه	narúy ghwáxa	mutton	4																														2
+1527814137	نس ناسته	nas náasta	diarrhea	4	n. f.																													2
+1527814238	نشه	nashá	intoxication, buzz, drunkenness, high, substance that causes highness or drunkenness	4	n. f.																													3
 1527811488	نشره	nashra	public prayer service on the third day after a child is born (Islam)	2	n. f.																													
-1527816329	نشر	náshur, náshar	publication, diffusion, propagation	4	n. f.																													
-1527814138	نسناسته	nasnaasta	diarrhea	4	n. f.																													
-1527821107	نته	náta	nostril pendant, large earning; wooden pin or plug in the nose of a camel with a rope attached for leading it	4	n. f.																													
-1527813694	نتیجه	nateejá	result	4	n. f.									نتائج	nataaij																			1
-1527816023	نتکۍ	natkúy	nose ring, decoration like a jewel word in a pierced nostril	4	n. f.																													
-1527819369	نڅا	natsáa	dance, dancing, swaying, quivering; agitation	4	n. f.																													
-1527823081	نوع	náw'a	kind, type, sort, species (Farsi version of ډول)	4	n. f.																													
+1527816329	نشر	náshur, náshar	publication, diffusion, propagation	4	n. f.																													2
+1527814138	نسناسته	nasnáasta	diarrhea	4	n. f.																													2
+1527821107	نته	náta	nostril pendant, large earning; wooden pin or plug in the nose of a camel with a rope attached for leading it	4	n. f.																													2
+1527813694	نتیجه	nateejá	result	4	n. f.									نتائج	nataaij																			3
+1527816023	نتکۍ	natkúy	nose ring, decoration like a jewel word in a pierced nostril	4	n. f.																													2
+1527819369	نڅا	natsáa	dance, dancing, swaying, quivering; agitation	4	n. f.																													2
+1527823081	نوع	náw'a	kind, type, sort, species (Farsi version of ډول)	4	n. f.																													2
 1527817499	نوه	nawá	famine, starvation, hunger; (tradition) a sort of hunger fast until a serious, pressing issue is solved	2	n. f.																													
-1527823302	نوشته	nawishta	writing, handwriting	4	n. f.																													
-1527820371	نوسه	nawsá	moist soil	2	n. f.																													
-1527815110	نښه	núxa, níxa	sign, mark, indication	4	n. f.																													1
-1527812081	نښژبه	naxjzaba	sign language	2	n. f.																													
-1527823099	نظر بندي	nazar bandee	internment, detention, house arrest; magic, charms, illusion; charm fascination	4	n. f.																													
-1527811955	نظریه	nazariyá	theory, ideology, outlook	4	n. f.									نظریات	nazariyaat																			1
-1611400813823	نظرپوښتنه	nazarpoxtúna	poll	2	n. f.																													
-1527819965	نذرانه	nazraaná	gift, offering	4	n. f.																													1
-1527823705	نیمه وچه	neema wacha	sub-continent	3	n. f.																													
-1527813806	نیمایي	neemaayee	half	4	n. f.																													
-1527811740	نیمګړتیا	neemguRtiyaa	incompleteness, default, shortcoming	4	n. f.																													
+1527823302	نوشته	nawishtá	writing, handwriting	4	n. f.																													2
+1527820371	نوسه	nawsá	moist soil	2	n. f.																													2
+1527815110	نښه	núxa, níxa	sign, mark, indication	4	n. f.																													3
+1527812081	نښژبه	naxjzába, nuxjzúba	sign language	2	n. f.																													2
+1527823099	نظر بندي	nazar bandée	internment, detention, house arrest; magic, charms, illusion; charm fascination	4	n. f.																													2
+1527811955	نظریه	nazariyá, nazaryá	theory, ideology, outlook	4	n. f.									نظریات	nazariyaat																			3
+1611400813823	نظرپوښتنه	nazarpoxtúna	poll	2	n. f.																													2
+1527819965	نذرانه	nazraaná	gift, offering	4	n. f.																													3
+1527823705	نیمه وچه	neema wúcha	sub-continent	3	n. f. doub.																													2
+1527813806	نیمایي	neemaayée	half	4	n. f.																													2
+1527811740	نیمګړتیا	neemguRtyáa	incompleteness, default, shortcoming	4	n. f.																													2
 1527823704	نیموچه	neemwacha	sub-continent	3	n. f.																													
 1589465731614	نینکۍ	neenakúy	sparrow, small bird	2	n. f.																													
-1527811728	نیوکه	neewaka	criticism, disaproval, critique	4	n. f.																													
+1527811728	نیوکه	neewúka	criticism, disaproval, critique	4	n. f.																													2
 1527815879	نیوکه	neewaka	seizure, capture; leasing, rental; bride-to-be, fiancee	3	n. f.																													
-1713347572750	نېکبختي	nekbakhtee	good luck, good fortune, success	4	n. f.																													
-1527816007	نېک مرغي	nek marghee	good luck, good fortune, success	3	n. f.																													
-1527811492	نېک ذاتي	nek zaatee	nobility, noble birth	4	n. f.																													
-1527817344	نېکي	nekee	goodness, a good deed	4	n. f.																													
+1713347572750	نېکبختي	nekbakhtée	good luck, good fortune, success	4	n. f.																													2
+1527816007	نېک مرغي	nek marghée	good luck, good fortune, success	3	n. f.																													2
+1527811492	نېک ذاتي	nek zaatée	nobility, noble birth	4	n. f.																													2
+1527817344	نېکي	nekée	goodness, a good deed	4	n. f.																													2
 1594834190242	نېخۍ	nekhúy	carpt, rug (low quality)	2	n. f.																													
-1527822798	نېکټایي	nekTaayee	necktie, tie	4	n. f.																													
-1527811681	نېستي	nestee	need, poverty, destitution	4	n. f.																													
+1527822798	نېکټایي	nekTaayée	necktie, tie	4	n. f.																													2
+1527811681	نېستي	nestée	need, poverty, destitution	4	n. f.																													2
 1527813391	نېټه	neTa	date (as in time)	4	n. f.																													
-1586962994180	نیچه	naychá	straw, tube	3	n. f.																													
-1527821518	نېزه	nezá	spear, pike, harpoon (د ماهي نېزه)	3	n. f.																													
-1631342471130	نېزه بازي	neza baazee	javelin throwing (the sport)	4	n. f.																													
-1594204164253	نغاړکۍ	nghaaRakúy	old straw mattress	2	n. f.																													
-1594204182861	نغاړۍ	nghaaRúy	small straw mattress	2	n. f.																													
-1527823487	نغوته	nghóota	obedience indication, evidence; sign, signal, beckoning; advice	2	n. f.																													
-1527823486	نغوته	nghóta	obedience indication, evidence; sign, signal, beckoning; advice	2	n. f.																													
-1715611961822	نګران	nigráan	supervisor, caretaker, observer, supervising		adj. / n. m. anim. unisex																													1
-1591804149367	نګراني	nigraanée	supervision, observation, watching, surveilance	4	n. f.																													
-1715612007482	نګراني کول	nigraanée kawúl	to supervise, oversee, observe	4	v. dyn. comp. trans.	1591804149367																												1
-1594204272376	نهالي	nihaalée	mattress, straw-filled pallet	3	n. f.																													
-1578011778126	نهالي	nihaalee, niaalee	mattress, straw pallet	2	n. f.																													
-1586266254880	نژادپرستي	nijzaadparastee	racism	4	n. f.																													
-1527816519	نکاح	nikaah	marriage, matrimony, wedlock, nuptials	4	n. f.																													
-1527821190	نکاحنامه	nikaahnaama	marriage contract	4	n. f.																													
+1586962994180	نیچه	naychá	straw, tube	3	n. f.																													2
+1527821518	نېزه	nezá	spear, pike, harpoon (د ماهي نېزه)	3	n. f.																													2
+1631342471130	نېزه بازي	neza baazée	javelin throwing (the sport)	4	n. f.																													2
+1594204164253	نغاړکۍ	nghaaRakúy, naghaaRakúy	old straw mattress	2	n. f.																													2
+1594204182861	نغاړۍ	nghaaRúy	small straw mattress	2	n. f.																													2
+1527823487	نغوته	nghóota, naghootá	obedience indication, evidence; sign, signal, beckoning; advice	2	n. f.																													2
+1527823486	نغوته	nghóta	obedience indication, evidence; sign, signal, beckoning; advice	2	n. f.																													2
+1715611961822	نګران	nigráan	supervisor, caretaker, observer, supervising		adj. / n. m. anim. unisex																													3
+1591804149367	نګراني	nigraanée	supervision, observation, watching, surveilance	4	n. f.																													2
+1715612007482	نګراني کول	nigraanée kawúl	to supervise, oversee, observe	4	v. dyn. comp. trans.	1591804149367																												3
+1594204272376	نهالي	nihaalée, nahaalée	mattress, straw-filled pallet	3	n. f.																													2
+1578011778126	نهالي	nihaalée, niaalée	mattress, straw pallet	2	n. f.																													2
+1586266254880	نژادپرستي	nijzaadparastée	racism	4	n. f.																													2
+1527816519	نکاح	nikáah	marriage, matrimony, wedlock, nuptials	4	n. f.																													2
+1527821190	نکاحنامه	nikaahnaamá	marriage contract	4	n. f.																													2
 1527822952	نشاسته	nishaaistá	starch	4	n. f.																													
-1527822953	نشایسته	nishaayistá	starch (نشاسته)	4	n. f.																													
-1527813917	نښانه	nixaaná	sign, trace, indication, marker	4	n. f.																													1
-1527815120	نیا	niyáa, nyaa	grandmother	4	n. f. anim.																													1
+1527822953	نشایسته	nishaayistá	starch (نشاسته)	4	n. f.																													2
+1527813917	نښانه	nixaaná	sign, trace, indication, marker	4	n. f.																													3
+1527815120	نیا	niyáa, nyaa	grandmother	4	n. f. anim.																													3
 1578011740651	نیالي	niyaalee, nihaalee	mattress, straw pallet	4	n. f.																													
-1527820974	نیازمندي	niyaazmandee	need, dependence (material); begging, entreating	4	n. f.																													
-1527818058	نظامي	nizáamee	military, pertaining to the military or forces	3	n. f.																													
-1591804845214	نظاره	nazaará, nizaará	look, glance, sight, inspection; scene, apperance, view	4	n. f.																													1
-1527813850	نمړۍ	nmaRúy	piece of food	3	n. f.																													
-1527816252	نمسۍ	nmasúy	granddaughter	4	n. f.																													
-1527815072	نوبت خانه	nobat khaana	guardroom	2	n. f.																													
-1527812103	نوکري	nokarée	job, duty	3	n. f.																													1
-1702971567767	نوکري کول	nokarée kawul	to work, to do a job	3	v. dyn. comp. trans.	1527812103																												1
-1702971571798	نوکري ورکول	nokarée warkawul	to employ, hire, appoint, give a job	3	v. dyn. comp. trans.	1527812103																												1
-1578012457828	نوکاره	nookáara	scratching, claw, talon	4	n. f.																													
-1527813703	نوم لیکنه	noom leekuna	registration, writing one's name	3	n. f.																													
-1527818288	نومیالي	noomyaalee	fame, repute	4	n. f.																													
-1578618183678	نوراني	nooraanee	radient, resplendent, full of light, glorious	4	n. f.																													
-1527820372	نوسه	noosá	key (to a lock)	2	n. f.																													
-1527820769	نفوس شماري	nUfóos shUmaaree	census enumeration, population census	3	n. f.																													
-1527823069	نفطه	nUftá	seed, sperm, embryo	0	n. f.																													
+1527820974	نیازمندي	niyaazmandée	need, dependence (material); begging, entreating	4	n. f.																													2
+1527818058	نظامي	nizáamee, nizaamée	military, pertaining to the military or forces	3	adj.																													2
+1591804845214	نظاره	nazaará, nizaará	look, glance, sight, inspection; scene, apperance, view	4	n. f.																													3
+1527813850	نمړۍ	nmaRúy, namRúy	piece of food	3	n. f.																													2
+1527816252	نمسۍ	nmasúy, namsúy	granddaughter	4	n. f.																													2
+1527815072	نوبت خانه	nobat khaaná	guardroom	2	n. f.																													2
+1527812103	نوکري	nokarée	job, duty	3	n. f.																													3
+1702971567767	نوکري کول	nokarée kawúl	to work, to do a job	3	v. dyn. comp. trans.	1527812103																												3
+1702971571798	نوکري ورکول	nokarée warkawúl	to employ, hire, appoint, give a job	3	v. dyn. comp. trans.	1527812103																												3
+1578012457828	نوکاره	nookáara	scratching, claw, talon	4	n. f.																													2
+1527813703	نوم لیکنه	noom leekúna	registration, writing one's name	3	n. f.																													2
+1527818288	نومیالي	noomyaalée	fame, repute	4	n. f.																													2
+1578618183678	نوراني	nooraanée	radient, resplendent, full of light, glorious	4	n. f.																													2
+1527820372	نوسه	noosá, nosá	key (to a lock)	2	n. f.																													2
+1527820769	نفوس شماري	nUfoos shUmaarée, nafoos shUmaaréé	census enumeration, population census	3	n. f.																													2
+1527823069	نفطه	nUftá	seed, sperm, embryo	0	n. f.																													2
 1527817037	نماینده	namaayndá, nUmaayndá	representative	4	n. f.																													1
-1714744160761	نمایندګي	namaayndagée, nUmaayndagée	representation	4	n. f.																													
-1714744204441	نمایندګي کول	namaayndagée kawúl	to represent	4	v. dyn. comp. trans.	1527817037	represent																											1
-1527817040	نماینده ګي	namaaynda gée, nUmaaynda gée	representation	4	n. f.																													
-1527823523	ننږور	nunGor	daughter-in-law (نږور)	4	n. f.																													
-1621936407597	نقره	nUqrá	silver, silver coin, pl. silverware نقرې	4	n. f.																													
-1566469480843	نقطه	nUqtá	point; dot	4	n. f.									نقاط	nUqáat																			1
-1584444574495	نرواکي	nurwaakee	patriarchy	1	n. f.																													
-1527823628	نرښځه	nurxúdza	she-male, transgender	4	n. f.																													
-1527823688	نسخه	nUskhá	prescription, recipe, model, copy, manuscript	4	n. f.																													1
+1714744160761	نمایندګي	namaayndagée, nUmaayndagée, nimaaydagée	representation	4	n. f.																													2
+1714744204441	نمایندګي کول	namaayndagée kawúl	to represent	4	v. dyn. comp. trans.	1527817037	represent																											3
+1527817040	نماینده ګي	namaaynda gée, nUmaaynda gée	representation	4	n. f.																													2
+1527823523	ننږور	nunGor	daughter-in-law (نږور)	4	n. f. anim.																													2
+1621936407597	نقره	nUqrá	silver, silver coin, pl. silverware نقرې	4	n. f.																													2
+1566469480843	نقطه	nUqtá	point; dot	4	n. f.									نقاط	nUqáat																			3
+1584444574495	نرواکي	nurwaakée, narwaakée	patriarchy	1	n. f.																													2
+1527823628	نرښځه	nurxúdza	she-male, transgender	4	n. f. anim.																													2
+1527823688	نسخه	nUskhá	prescription, recipe, model, copy, manuscript	4	n. f.																													3
 1527813387	نښته	nuxúta	battle, skirmish, wrangle, quarrel, fighting, gluing, joining	4	n. f.																													
-1527820373	نوسه	nwása	test, trial	2	n. f.																													
-1527816255	نوسۍ	nwusúy, nwasúy	granddaughter	4	n. f.																													1
-1527821747	اوګره	ográ	groats, thin gruel	4	n. f.																													
-1527815140	اونۍ	onúy, ownúy, owunúy	week	4	n. f.																													
-1577220698157	اوبڼه	oobúNa	placenta, afterbirth	3	n. f.																													
+1527820373	نوسه	nwása, nawsá	test, trial	2	n. f.																													2
+1527816255	نوسۍ	nwusúy, nwasúy, nawsúy	granddaughter	4	n. f. anim.																													3
+1527821747	اوګره	ográ	groats, thin gruel	4	n. f.																													2
+1527815140	اونۍ	onúy, ownúy, owunúy	week	4	n. f.																													2
+1577220698157	اوبڼه	oobúNa, obúNa	placenta, afterbirth	3	n. f.																													2
 1527822929	اوده	oodá	conspiracy, charm, exorcism, witchcraft	4	n. f.																													
-1527815787	اوږه	ooGá	shoulder	4	n. f.																													1
-1527821746	اوګره	oográ	groats, thin gruel	4	n. f.																													
-1527820576	اوړدي	ooRdée	uniform, tunic	4	n. f.																													
-1527818196	اوریځ	ooreedz	cloud	4	n. f.																													
-1527813787	اوښکه	óoxka	tear (from eye), teardrop	4	n. f.																													1
-1591026295853	اوزه	ooza	she-goat	4	n. f.																													
+1527815787	اوږه	ooGá	shoulder	4	n. f.																													3
+1527821746	اوګره	oográ, ográ	groats, thin gruel	4	n. f.																													2
+1527820576	اوړدي	ooRdée	uniform, tunic	4	n. f.																													2
+1527818196	اوریځ	ooréedz, ooryádz	cloud	4	n. f.																													2
+1527813787	اوښکه	óoxka	tear (from eye), teardrop	4	n. f.																													3
+1591026295853	اوزه	oozá	she-goat	4	n. f. anim.																													2
 1527821753	اورۍ	orúy	gums (of teeth), cuticle (of nails)	4	n. f.																													
-1527819050	اوسپنه	óspuna	iron (metal)	4	n. f.																													1
-1582334723936	اوونۍ	ownúy, owunúy	week	4	n. f.																													
-1527815905	پابندي	paabandee	limitation, ban, restriction; taking control, doing well (ie. in moods etc.); linking, connection	4	n. f.																													1
-1527819495	پاچاهي	paachaahee	kingship, kingdom, rule, throne, authority	3	n. f.																													
+1527819050	اوسپنه	óspuna	iron (metal)	4	n. f.																													3
+1582334723936	اوونۍ	ownúy, owunúy	week	4	n. f.																													2
+1527815905	پابندي	paabandée	limitation, ban, restriction; taking control, doing well (ie. in moods etc.); linking, connection	4	n. f.																													3
+1527819495	پاچاهي	paachaahée	kingship, kingdom, rule, throne, authority	3	n. f.																													2
 1527812336	پاچایي	paachaayee	kingdom, monarchy, sultanate	4	n. f.																													
-1527812332	پاچهي	paachahee	kingdom, monarchy, sultanate, reign	0	n. f.																													
-1527814395	پاډه	paaDa	bandage, ribbon	4	n. f.																													
-1574786441466	پاده	paada	herd	4	n. f.																													
-1527815143	پادشاه	paadishaah	king	4	n. f.																													
-1617990414673	پاغونده	paaghoondá	bunch, mass, puffs (of smoke)	3	n. f.																													1
+1527812332	پاچهي	paachahée	kingdom, monarchy, sultanate, reign	0	n. f.																													2
+1527814395	پاډه	paaDá	bandage, ribbon	4	n. f.																													2
+1574786441466	پاده	paadá	herd	4	n. f.																													2
+1527815143	پادشاه	paadisháah, paadsháa	king	4	n. m. anim.																													2
+1617990414673	پاغونده	paaghoondá	bunch, mass, puffs (of smoke)	3	n. f.																													3
 1527814394	پاهه	paahá	gauze, cotton padding placed under bandage	4	n. f.																													
-1527816271	پاکي	paakee	cleanliness, tidiness, holiness	3	n. f.																													
-1613551175785	پاکیزګي	paakeezagee	holiness	4	n. f.																													
-1527817615	پاکنفسي	paaknafasée	purity, innocence, innocent, sincerity, honesty	3	n. f.																													
-1527816817	پاکوالي	paakwaalee	cleanliness, hygiene	4	n. f.																													
-1527817614	پاکزړی	paakzúRay	pure, innocent, chaste, modest	4	n. f.																													
-1527822879	پالنه	paalúna	development, education, instruction, training, care, looking after; suffix used to describe the act of care, attention, and dedication towards a noun, ideology etc. (مېلمه پلنه - hospitality)	4	n. f.																													1
-1715623798617	پالنه کول	paalúna kawúl	to tend, care for, develop, look after, educate	4	v. dyn. comp. trans.	1527822879	care																											1
-1527815150	پاملرنه	paamlurina	attention, care	4	n. f.																													
-1527820377	پانه	paaná	wedge (wooden); stocks (for holding people), torture rack	3	n. f.																													
-1610796775773	پانډه	páanDa	firewood basket	2	n. f.																													
-1527816575	پانګه	paanga	capital (financial)	3	n. f.																													
-1527820850	پانګونه	paangawúna	investment, capital	3	n. f.																													
-1666285673500	پاپایا	paapaayaa	papaya	2	n. f.																													
-1527821283	پاړه	paaRá	blemish, flaw (agriculture); unfinished work; baker’s paddle/shover, board/paddle for moving wash around	2	n. f.																													
-1527818296	پارلماني	paarlamaanée	parliamentary	4	n. f.																													
-1566473625858	پاړسي	paaRsee	Farsi	3	n. f.																													
-1527816755	پاته	paata	Pashto pronunciation of فاتحه, al-fatiha, a prayer for the dead.	4	n. f.																													
+1527816271	پاکي	paakée	cleanliness, tidiness, holiness	3	n. f.																													2
+1613551175785	پاکیزګي	paakeezagée	holiness	4	n. f.																													2
+1527817615	پاکنفسي	paaknafasée, paaknafsée	purity, innocence, innocent, sincerity, honesty	3	n. f.																													2
+1527816817	پاکوالي	paakwaalée	cleanliness, hygiene	4	n. f.																													2
+1527817614	پاکزړی	paakzúRay	pure, innocent, chaste, modest	4	adj.																													2
+1527822879	پالنه	paalúna	development, education, instruction, training, care, looking after; suffix used to describe the act of care, attention, and dedication towards a noun, ideology etc. (مېلمه پلنه - hospitality)	4	n. f.																													3
+1715623798617	پالنه کول	paalúna kawúl	to tend, care for, develop, look after, educate	4	v. dyn. comp. trans.	1527822879	care																											3
+1527815150	پاملرنه	paamlarúna	attention, care	4	n. f.																													2
+1527820377	پانه	paaná	wedge (wooden); stocks (for holding people), torture rack	3	n. f.																													2
+1610796775773	پانډه	páanDa	firewood basket	2	n. f.																													2
+1527816575	پانګه	páanga	capital (financial)	3	n. f.																													2
+1527820850	پانګونه	paangawúna	investment, capital	3	n. f.																													2
+1666285673500	پاپایا	paapaayáa	papaya	2	n. f.																													2
+1527821283	پاړه	paaRá	blemish, flaw (agriculture); unfinished work; baker’s paddle/shover, board/paddle for moving wash around	2	n. f.																													2
+1527818296	پارلماني	paarlamaanée	parliamentary	4	n. f.																													2
+1566473625858	پاړسي	paaRsée	Farsi	3	n. f.																													2
+1527816755	پاته	paatá	Pashto pronunciation of فاتحه, al-fatiha, a prayer for the dead.	4	n. f.																													2
 1527813861	پاتي شوني	paatee shoonee	the rest, remainder, remnant	4	n. f.																													
-1527821875	پایه	paayá	pole, post, pillar, support; wheel; inflected form of پای (end)	3	n. f.																													1
+1527821875	پایه	paayá	pole, post, pillar, support; wheel; inflected form of پای (end)	3	n. f.																													3
 1527822111	پایچه	paaycha	leg of trousers, pants	4	n. f.																													
-1527814665	پایله	páayla	conclusion, end, result	4	n. f.																													
-1668755671748	پایلوبه	paayloba	final game (sports)	3	n. f.																													
-1527819410	پایمالي	paaymaalee	destruction, infringement, violation, suppression	3	n. f.																													
-1527816521	پایڅه	paaytsa	trousers, trousers hem, hem of pants	4	n. f.																													
-1527819992	پایڅه	paaytsá	a leg of pants/trousers	4	n. f.																													
-1527822260	پازه	paazá	work, action, effect, result; courage; dim light; regard, favour	1	n. f.																													
-1527811532	پچه	pacha	a kiss	4	n. f.																													
-1527820220	پدیده	padeedá	phenomenon	3	n. f.																													
-1527813619	پګړۍ	pagRúy	turban	4	n. f.																													
-1527814396	پهه	paha	coating, ointment, bandage	4	n. f.																													
-1574867310703	پخته	pakhtá	fundamental/basic structure; training (of a falcon or a hawk)	3	n. f.																													
-1658541389964	پکوړه	pakóRa	pakora	4	n. f.																													
+1527814665	پایله	páayla	conclusion, end, result	4	n. f.																													2
+1668755671748	پایلوبه	paaylóba	final game (sports)	3	n. f.																													2
+1527819410	پایمالي	paaymaalée	destruction, infringement, violation, suppression	3	n. f.																													2
+1527816521	پایڅه	paaytsá	trousers, trousers hem, hem of pants	4	n. f.																													2
+1527819992	پایڅه	paaytsá	a leg of pants/trousers	4	n. f.																													2
+1527822260	پازه	paazá	work, action, effect, result; courage; dim light; regard, favour	1	n. f.																													2
+1527811532	پچه	pácha	a kiss	4	n. f.																													2
+1527820220	پدیده	padeedá	phenomenon	3	n. f.																													2
+1527813619	پګړۍ	pagRúy	turban	4	n. f.																													2
+1527814396	پهه	pahá	coating, ointment, bandage	4	n. f.																													2
+1574867310703	پخته	pakhtá	fundamental/basic structure; training (of a falcon or a hawk)	3	n. f.																													2
+1658541389964	پکوړه	pakóRa, pakoRá, pikóRa	pakora	4	n. f.																													2
 1527817941	پله	palá	side, edge, flank, door (as in each door in a double-door)	4	n. f.																													
 1527823261	پلیته	paleeta	fuse, primer (of a weapon); a corn ear with a husk that has just formed	4	n. f.																													
-1527815155	پلمه	palma	pretext, excuse	4	n. f.																													
-1670564043139	پلته	paltá, palitá	fuse, wick, cord		n. f.																													
-1527814030	پلوشه	palwashá	sunbeam, ray (of the sun etc.), sparkle, tongue (of a flame)	4	n. f.																													1
-1527823676	پمنه	pamúna	scab, itch	3	n. f.																													
-1527822694	پڼه	paNá	slippers (middle-eastern type)	4	n. f.																													
-1527815637	پنا	panaa	refuge, assylum, shelter	4	n. f.																													
-1527814031	پناه	panáah	refuge, assylum, shelter	4	n. f.																													1
-1713801402977	پناه کول	panaah kawúl	to hide (causative), make disappear		v. stat. comp. trans.	1527814031	hide,hides,hiding,hid,hidden																											1
-1715151125498	پناه ورکول	panáah warkawúl	to shelter, give shelter		v. dyn. comp. trans.	1527814031	shelter																											1
-1713801405398	پناه کېدل	panaah kedúl	to hide, be hidden, to dissapear, vanish		v. stat. comp. intrans.	1527814031	hide,hides,hiding,hid,hidden																											1
-1527823553	پناه ګاه	panaah gáah	shelter, place of refuge	4	n. f.																													1
-1527819677	پناهي	panaahée	shelter, asylum, protection, patronage	4	n. f.																													
-1574865121845	پنډه	pánDa	heated iron; a chunk of clay lifted by a spade;  a group of guests served in turn ??	3	n. f.																													
-1527817932	پنیرمایه	paneermaaya	clabber, curds	4	n. f.																													
-1527813341	پنجه	panjá	hand (from wrist to finger-tips), claw	4	n. f.																													1
-1527814798	پنجره	panjará	cage, lattice, window, shutter	4	n. f.																													1
-1527812259	پنجشنبه	panjshamba	Thursday	4	n. f.																													
-1566469328688	پنکه	panka	fan	4	n. f.																													
-1666285642270	پپیته	papéeta	papaya	2	n. f.																													
+1527815155	پلمه	palmá	pretext, excuse	4	n. f.																													2
+1670564043139	پلته	paltá, palitá	fuse, wick, cord		n. f.																													2
+1527814030	پلوشه	palwashá	sunbeam, ray (of the sun etc.), sparkle, tongue (of a flame)	4	n. f.																													3
+1527823676	پمنه	pamúna	scab, itch	3	n. f.																													2
+1527822694	پڼه	paNá, páNa	slippers (middle-eastern type)	4	n. f.																													2
+1527815637	پنا	panaa	refuge, assylum, shelter	4	n. f.																													2
+1527814031	پناه	panáah	refuge, assylum, shelter	4	n. f.																													3
+1713801402977	پناه کول	panaah kawúl	to hide (causative), make disappear		v. stat. comp. trans.	1527814031	hide,hides,hiding,hid,hidden																											3
+1715151125498	پناه ورکول	panáah warkawúl	to shelter, give shelter		v. dyn. comp. trans.	1527814031	shelter																											3
+1713801405398	پناه کېدل	panaah kedúl	to hide, be hidden, to dissapear, vanish		v. stat. comp. intrans.	1527814031	hide,hides,hiding,hid,hidden																											3
+1527823553	پناه ګاه	panaah gáah	shelter, place of refuge	4	n. f.																													3
+1527819677	پناهي	panaahée	shelter, asylum, protection, patronage	4	n. f.																													2
+1574865121845	پنډه	pánDa	heated iron; a chunk of clay lifted by a spade;  a group of guests served in turn ??	3	n. f.																													2
+1527817932	پنیرمایه	paneermaayá	clabber, curds	4	n. f.																													2
+1527813341	پنجه	panjá	hand (from wrist to finger-tips), claw	4	n. f.																													3
+1527814798	پنجره	panjará	cage, lattice, window, shutter	4	n. f.																													3
+1527812259	پنجشنبه	panjshambá	Thursday	4	n. f.																													2
+1566469328688	پنکه	panká	fan	4	n. f.																													2
+1666285642270	پپیته	papéeta	papaya	2	n. f.																													2
 1527819796	پره	pará	blade, paddle; edge, rim; row, line, rank, column	4	n. f.																													
-1589884500303	پړانګه	paRáanga	a thin stip (of cloth etc.)	3	n. f.																													
-1593690620347	پرنا	paranáa	drowsiness, sleepiness	2	n. f.																													
-1527823736	پرچه	parchá	piece; excerpt, clipping, issue (of a magazine/newspaper)	4	n. f.																													
-1527814450	پرده	pardá	curtain, bed-curtain, blinds; fret (ona guitar/rabab); purdah, Islamic idea of keeping women private	4	n. f.																													1
-1715989102048	پرده کول	pardá kawúl	to cover, veil		v. dyn. comp. trans.	1527814450																												1
-1621452319429	پړده	paRdá	secret, mystery, cover, curtain; regional version of پرده	4	n. f.																													
+1589884500303	پړانګه	paRáanga, pRáanga	a thin stip (of cloth etc.)	3	n. f.																													2
+1593690620347	پرنا	paranáa	drowsiness, sleepiness	2	n. f.																													2
+1527823736	پرچه	parchá	piece; excerpt, clipping, issue (of a magazine/newspaper)	4	n. f.																													2
+1527814450	پرده	pardá	curtain, bed-curtain, blinds; fret (ona guitar/rabab); purdah, Islamic idea of keeping women private	4	n. f.																													3
+1715989102048	پرده کول	pardá kawúl	to cover, veil		v. dyn. comp. trans.	1527814450																												3
+1621452319429	پړده	paRdá	secret, mystery, cover, curtain; regional version of پرده	4	n. f.																													2
 1527813306	پري	paree	fairy	4	n. f.																													
-1527817682	پرېشاني	pareshaanée	bewilderment, difficulty, sadness, despair	4	n. f.																													1
-1527813187	پرګنه	pargana	tribe, clan, sect	4	n. f.																													
-1586204619186	پرهېزګاري	parhezgaaree	righteousness, abstinence, self-control	4	n. f.																													
-1527817731	پرښته	parixta	angel	4	n. f.																													
-1593690604453	پرنا	parnáa	the Parana River	2	n. f.																													
-1527816068	پرتله	partala	comparison	4	n. f.																													
-1527819817	پروا	parwáa	care, concern	4	n. f.																													1
-1708003764985	پروا کول	parwáa kawúl	to care, have concern	4	v. dyn. comp. trans.	1527819817	care																											1
-1527815161	پرواه	parwaah	care, concern	4	n. f.																													
-1527812986	پس خورده	pas khoorda	leftovers, remainder of the meal	4	n. f.																													
+1527817682	پرېشاني	pareshaanée	bewilderment, difficulty, sadness, despair	4	n. f.																													3
+1527813187	پرګنه	parganá	tribe, clan, sect	4	n. f.																													2
+1586204619186	پرهېزګاري	parhezgaarée	righteousness, abstinence, self-control	4	n. f.																													2
+1527817731	پرښته	parixtá	angel	4	n. f. anim.																													2
+1593690604453	پرنا	parnáa	the Parana River	2	n. f.																													2
+1527816068	پرتله	partalá	comparison	4	n. f.																													2
+1527819817	پروا	parwáa	care, concern	4	n. f.																													3
+1708003764985	پروا کول	parwáa kawúl	to care, have concern	4	v. dyn. comp. trans.	1527819817	care																											3
+1527815161	پرواه	parwáah	care, concern	4	n. f.																													2
+1527812986	پس خورده	pas khoordá, pas khordá	leftovers, remainder of the meal	4	n. f.																													2
 1527819923	پشه	pasha	gnat, mosquito, spades (in cards)	3	n. f.																													
-1527820141	پستي	pastée	baseness, meanial-ness, vileness, fithiness (ځان پستي ته ورکول - to do a menial thing or base acts)	4	n. f.																													1
+1527820141	پستي	pastée	baseness, meanial-ness, vileness, fithiness (ځان پستي ته ورکول - to do a menial thing or base acts)	4	n. f.																													3
 1664030379977	پټاخه	paTaakha	cap, hat, military percussion cap; fly-swatter (dialect)	4	n. f.																													
-1527820582	پټاره	paTaara	ribbon, strap, stripe	2	n. f.																													
-1527818554	پتاسه	pataasa	piece of sugar, candy	4	n. f.																													
-1527820652	پټاټه	paTaaTa	potato	3	n. f.																													
-1527817933	پټکه	paTáka	young hen, pullet	3	n. f.																													
+1527820582	پټاره	paTaara	ribbon, strap, stripe	2	n. f.																													2
+1527818554	پتاسه	pataasá	piece of sugar, candy	4	n. f.																													2
+1527820652	پټاټه	paTaaTá	potato	3	n. f.																													2
+1527817933	پټکه	paTáka	young hen, pullet	3	n. f.																													2
 1527817936	پټکه	paTká	belt, sash, noose, lariat	4	n. f.																													
 1527819636	پټلۍ	paTlúy	rail, rails, railroad tracks	4	n. f.																													1
-1527817934	پټکه	paTuká	scolding, reprimand, threat	2	n. f.																													
-1527814388	پټۍ	paTúy	bandage; blindfold; suspenders; leash	4	n. f.																													1
-1527819288	پوړۍ	pawRúy	rank, authority, position, grade	4	n. f.																													
-1527814397	پیه	paya	dressing, eye ointment; moth; clothes	3	n. f.																													
-1527822412	پزه	páza	nose	4	n. f.																													
-1527822928	پېچلتیا	pechiltiyaa	complication, complicatedness, complexity	4	n. f.																													
-1527815054	پېچکاري	pechkaaree	injection, needle, shot	4	n. f.																													
-1527820929	پېچموزي	pechmozee	mockery, laughter	3	n. f.																													
-1527820930	پېچمۍ	pechmúy	mockery, laughter	4	n. f.																													
-1527822790	پینه	peená	patch; brace, support; trough (for dough); wooden basin	4	n. f.																													
-1527820942	پیشاړه	peesháaRa	mockery, smirking, grinning	3	n. f.																													
+1527817934	پټکه	paTuká, paTúka	scolding, reprimand, threat	2	n. f.																													2
+1527814388	پټۍ	paTúy	bandage; blindfold; suspenders; leash	4	n. f.																													3
+1527819288	پوړۍ	pawRúy	rank, authority, position, grade	4	n. f.																													2
+1527814397	پیه	payá	dressing, eye ointment; moth; clothes	3	n. f.																													2
+1527822412	پزه	páza	nose	4	n. f.																													2
+1527822928	پېچلتیا	pechiltyáa	complication, complicatedness, complexity	4	n. f.																													2
+1527815054	پېچکاري	pechkaarée	injection, needle, shot	4	n. f.																													2
+1527820929	پېچموزي	pechmozée	mockery, laughter	3	n. f.																													2
+1527820930	پېچمۍ	pechmúy	mockery, laughter	4	n. f.																													2
+1527822790	پینه	peená	patch; brace, support; trough (for dough); wooden basin	4	n. f.																													2
+1527820942	پیشاړه	peesháaRa	mockery, smirking, grinning	3	n. f.																													2
 1527823200	پیته	peetá	measuring tape, tape measure	4	n. f.																													1
-1527823603	پیڅه	peetsa	edge, border, boundary (پيڅکه)	4	n. f.																													
-1527823602	پیڅکه	peetska	edge, border, boundary	4	n. f.																													
-1527812189	پېغله	péghla	maiden, girl, miss, unmarried girl, virgin	4	n. f. anim.																													1
-1527822696	پېژندګلوي	pejzandgalawee	acquaintance, familiarization, meeting	4	n. f.																													
-1527822695	پېژندګلي	pejzandgalee	acquaintance, familiarization, meeting	4	n. f.																													
-1670430405945	پېژندپاڼه	pejzandpaaNa	ID card, identity card		n. f.																													
-1527814217	پېژندنه	pejzanduna	acquaintance; introduction	4	n. f.																													
-1527822359	پېله	pelá	cocoon	3	n. f.																													
-1584688911186	پېنډه	pénDa	the common dinner table, bowl, place where people are eating together, dinner party	4	n. f.																													
-1527811639	پېړه	peRa	time, trip, round, load	4	n. f.																													
-1527812129	پېره	pera	round, trip, shift; guard, security	2	n. f.																													
-1527822965	پېړه	peRa	lump, ball (of dough); a sweet dish made from cream and sugar	3	n. f.																													
-1527812128	پېره داري	pera daaree	guarding, carrying out security duties	4	n. f.																													
-1527813304	پېرۍ	perúy	fairy, spirit, demon, evil spirit (plural - پېريان)	4	n. f.											پېریان	periyáan																	
-1527816093	پېړۍ	peRúy	century	4	n. f.																													
-1624353089072	پېرزوینه	perzoyúna	favour, favor, well-wishing	4	n. f.																													
-1527812392	پېش بیني	pesh beenee	foresight, anticipation, prediction	4	n. f.																													
-1527814090	پېش فکري	pesh fikree	foresight	4	n. f.																													
-1527812394	پېش ګویي	pesh goyee	prediction, prophecy	4	n. f.																													
+1527823603	پیڅه	peetsá, paytsá	edge, border, boundary (پيڅکه)	4	n. f.																													2
+1527823602	پیڅکه	péetska	edge, border, boundary	4	n. f.																													2
+1527812189	پېغله	péghla	maiden, girl, miss, unmarried girl, virgin	4	n. f. anim.																													3
+1527822696	پېژندګلوي	pejzandgalawée, pejzandgalwée	acquaintance, familiarization, meeting	4	n. f.																													2
+1527822695	پېژندګلي	pejzandgalée	acquaintance, familiarization, meeting	4	n. f.																													2
+1670430405945	پېژندپاڼه	pejzandpáaNa	ID card, identity card		n. f.																													2
+1527814217	پېژندنه	pejzandúna	acquaintance; introduction	4	n. f.																													2
+1527822359	پېله	pelá, péla	cocoon	3	n. f.																													2
+1584688911186	پېنډه	pénDa	the common dinner table, bowl, place where people are eating together, dinner party	4	n. f.																													2
+1527811639	پېړه	péRa	time, trip, round, load	4	n. f.																													2
+1527812129	پېره	péra	round, trip, shift; guard, security	2	n. f.																													2
+1527822965	پېړه	péRa	lump, ball (of dough); a sweet dish made from cream and sugar	3	n. f.																													2
+1527812128	پېره داري	pera daarée, payra daarée	guarding, carrying out security duties	4	n. f.																													2
+1527813304	پېرۍ	perúy	fairy, spirit, demon, evil spirit (plural - پېريان)	4	n. f. anim.											پېریان	periyáan																	2
+1527816093	پېړۍ	peRúy	century	4	n. f.																													2
+1624353089072	پېرزوینه	perzoyúna	favour, favor, well-wishing	4	n. f.																													2
+1527812392	پېش بیني	pesh beenée	foresight, anticipation, prediction	4	n. f.																													2
+1527814090	پېش فکري	pesh fikrée	foresight	4	n. f.																													2
+1527812394	پېش ګویي	pesh goyée	prediction, prophecy	4	n. f.																													2
 1527816738	پېشه	peshá	profession, trade, craft; habit, practice; testimony, evidence (in court)	4	n. f.																													1
 1664028138019	پېشګي	peshagée, peshgée	advance (given on money/transaction)	4	n. f.																													
-1527823083	پېشي	peshée	precedent, conduct, conducting (of a trial)	3	n. f.																													
+1527823083	پېشي	peshée	precedent, conduct, conducting (of a trial)	3	n. f.																													2
 1527823084	پېشي	péshee	pee (children’s speech)	4	n. f.																													
-1527812400	پېشګویي	peshgoyée	prediction, fortelling, prophecy	4	n. f.																													1
-1713347295026	پېشګویي کول	peshgóyee kawul	to predict, fortell		v. dyn. comp. trans.	1527812400	predict																											1
+1527812400	پېشګویي	peshgoyée	prediction, fortelling, prophecy	4	n. f.																													3
+1713347295026	پېشګویي کول	peshgóyee kawúl	to predict, fortell		v. dyn. comp. trans.	1527812400	predict																											3
 1527812401	پېشنګویي	peshungóyee	prediction, fortelling, prophecy	4	n. f.																													
 1713347341019	پېشنګویي کول	peshungóyee kawul	to predict, fortell		v. dyn. comp. trans.	1527812401	predict																											
 1527812319	پېټۍ	peTúy	sword-belt, belt, girdle, pack	4	n. f.																													
-1527815166	پېښه	péxa	event, occurance, happeing, case	4	n. f.																													1
+1527815166	پېښه	péxa	event, occurance, happeing, case	4	n. f.																													3
 1527823201	پیته	payíta	deposit, film (on teeth) (usually plural پيتې)	4	n. f.																													
-1527822074	پیلامه	paylaamá	basis, foundation, base, sign; token, disposition, temper	3	n. f.																													
-1527817454	پیمانه	paymaaná	measure, scale, dimensions; a cup (of alchohol)	4	n. f.																													1
+1527822074	پیلامه	paylaamá	basis, foundation, base, sign; token, disposition, temper	3	n. f.																													2
+1527817454	پیمانه	paymaaná	measure, scale, dimensions; a cup (of alchohol)	4	n. f.																													3
 1527818316	پیره	payra	turn, trip, time, watch, guard	4	n. f.																													
-1527818187	پیروي	payrawee	following, obedience (usually of a religious teacher or leader)	4	n. f.																													
-1527816298	پیسه	paysa	money, currency (singular, usually plural)	4	n. f.																													
-1527813317	پریانه	piryaana	evil fairy, witch	4	n. f.																													
+1527818187	پیروي	payrawée	following, obedience (usually of a religious teacher or leader)	4	n. f.																													2
+1527816298	پیسه	paysá	money, currency (singular, usually plural)	4	n. f.																													2
+1527813317	پریانه	piryaaná	evil fairy, witch	4	n. f. anim.																													2
 1586204910075	پسته	pista	pistachio	4	n. f.																													
-1527815175	پیاله	piyaala	cup, glass	4	n. f.																													
+1527815175	پیاله	piyaala, pyaalá	cup, glass	4	n. f.																													2
 1527817942	پله	pla	tendon, sinew, ligament, nerve	4	n. f.																													
-1527815664	پلا	plaa	time, occasion; journey, travel, trip, voyage	4	n. f.																													
-1584444376984	پلارواکي	plaarwaakee	patriarchy	4	n. f.																													
-1527818868	پلاسنتا	plaasintaa	placenta	4	n. f.																													
-1527815178	پلازمېنه	plaazmena	capital (city)	4	n. f.																													
-1527818012	پلورنه	plorúna	selling, sale	4	n. f.																													
-1527815182	پوهه	póha	understanding, reason, intellect	4	n. f.																													1
-1527819116	پولیو	polyo	Polio	4	n. f.																													
-1527822545	پوچکه	poocháka	freshly-set melon-fruit	4	n. f.																													
-1527818941	پوکاڼه	pookaaNa	bubble, bladder, balloon	4	n. f.																													
-1594196602116	پوکڼۍ	pookaNúy	baloon, bladder, bubble	4	n. f.																													1
-1527814057	پوله	póola	border, boundary, limit; boundary fence/line in a field	4	n. f.																													1
-1527823184	پولۍ	poolúy	bump, ulcer, sore, corn, callus, sparkles	3	n. f.																													1
-1527817047	پونه	poona	light rain, light sprinkle, spraying spit from the mouth	4	n. f.																													
-1527818702	پونده	póonda	heel	4	n. f.																													1
-1527819241	پونډۍ	poonDúy	calf (part of leg)	2	n. f.																													1
-1527822057	پوڼۍ	pooNúy	skein, hank (of wollen yarn)	2	n. f.																													
-1527816445	پوپو	poopo	aunt	4	n. f.																													
-1527819285	پوړۍ	poRúy, pooRúy	step, stair, stairs, steps; packet; stratification, stratum	3	n. f.																													1
+1527815664	پلا	plaa	time, occasion; journey, travel, trip, voyage	4	n. f.																													2
+1584444376984	پلارواکي	plaarwaakée	patriarchy	4	n. f.																													2
+1527818868	پلاسنتا	plaasintáa	placenta	4	n. f.																													2
+1527815178	پلازمېنه	plaazména	capital (city)	4	n. f.																													2
+1527818012	پلورنه	plorúna	selling, sale	4	n. f.																													2
+1527815182	پوهه	póha	understanding, reason, intellect	4	n. f.																													3
+1527819116	پولیو	polyó	Polio	4	n. f.																													2
+1527822545	پوچکه	poocháka	freshly-set melon-fruit	4	n. f.																													2
+1527818941	پوکاڼه	pookaaNá	bubble, bladder, balloon	4	n. f.																													2
+1594196602116	پوکڼۍ	pookaNúy	baloon, bladder, bubble	4	n. f.																													3
+1527814057	پوله	póola	border, boundary, limit; boundary fence/line in a field	4	n. f.																													3
+1527823184	پولۍ	poolúy	bump, ulcer, sore, corn, callus, sparkles	3	n. f.																													3
+1527817047	پونه	póona, póna	light rain, light sprinkle, spraying spit from the mouth	4	n. f.																													2
+1527818702	پونده	póonda	heel	4	n. f.																													3
+1527819241	پونډۍ	poonDúy	calf (part of leg)	2	n. f.																													3
+1527822057	پوڼۍ	pooNúy	skein, hank (of wollen yarn)	2	n. f.																													2
+1527816445	پوپو	poopó	aunt	4	n. f. anim.																													2
+1527819285	پوړۍ	poRúy, pooRúy	step, stair, stairs, steps; packet; stratification, stratum	3	n. f.																													3
 1527815889	پوسکۍ	pooskúy	fart (slang)	4	n. f.																													1
-1591805634565	پوښتۍ	pooxtúy	rib	4	n. f.																													1
-1527814168	پورې خوا	pore khwaa	the other side	4	n. f.																													
-1527819145	پوسه	posá	garbage	0	n. f.																													
+1591805634565	پوښتۍ	pooxtúy	rib	4	n. f.																													3
+1527814168	پورې خوا	pore khwaa	the other side	4	n. f.																													2
+1527819145	پوسه	posá, poosá	garbage	0	n. f.																													2
 1527813441	پوسته	posta	mail, postal service	4	n. f.																													
-1586261533912	پوتکۍ	potakúy	necklace	4	n. f.																													
-1527819077	پوتلۍ	potlúy	large doll, puppet, marionette	4	n. f.																													
-1527817911	پوڅه	potsa	cheese made from curdled milk	4	n. f.																													
-1566474918242	پوڅکۍ	potsakúy	mushroom	4	n. f.																													
-1593352013970	پوټۍ	poTúy	small piece, fragment, crumb	4	n. f.																													
-1527815184	پوښتنه	poxtúna	question	4	n. f.																													1
-1527815186	پوزه	poza	nose	4	n. f.																													
-1527813565	پړه	pRa	blame, reproach	4	n. f.																													
-1527814091	پراختیا	praakhtiyaa	wideness, expansiveness	4	n. f.																													
-1527817962	پرېږه	preGá	starvation, hunger from crop failure	2	n. f.																													
-1527815192	پرېکړه	prékRa	decision	3	n. f.																													
-1678302976999	پرېماني	premaanee	abundance		n. f.																													
-1527814614	پریکړه	praykRa	decision	4	n. f.																													
-1527813481	پروژه	projza	project	4	n. f.																													
+1586261533912	پوتکۍ	potakúy, potkúy	necklace	4	n. f.																													
+1527819077	پوتلۍ	potlúy	large doll, puppet, marionette	4	n. f.																													2
+1527817911	پوڅه	potsá	cheese made from curdled milk	4	n. f.																													2
+1566474918242	پوڅکۍ	potsakúy, potskúy	mushroom	4	n. f.																													2
+1593352013970	پوټۍ	poTúy	small piece, fragment, crumb	4	n. f.																													2
+1527815184	پوښتنه	poxtúna	question	4	n. f.																													3
+1527815186	پوزه	póza	nose	4	n. f.																													2
+1527813565	پړه	pRa	blame, reproach	4	n. f.																													2
+1527814091	پراختیا	praakhtyáa, paraakhtyáa	wideness, expansiveness	4	n. f.																													2
+1527817962	پرېږه	preGá	starvation, hunger from crop failure	2	n. f.																													2
+1527815192	پرېکړه	prékRa	decision	3	n. f.																													2
+1678302976999	پرېماني	premaanée	abundance		n. f.																													2
+1527814614	پریکړه	práykRa	decision (پرېکړه)	4	n. f.																													
+1527813481	پروژه	projzá	project	4	n. f.																													2
 1527812966	پسیکولوژي	pseekolojzee	pshychology	4	n. f.																													
-1527811533	پچه	púcha	lot (as in casting lots, lottery), coin toss	4	n. f.																													1
-1527823312	پچه	púcha	dung, droppings (of goats, sheep, etc.)	4	n. f.																													1
-1527823301	پکه باښه	púka baaxa	carrion vulture, carrion eagle, buzzard	4	n. f.																													
-1658765111767	پخلاینه	pUkhlaayína	reconciliation, settlement	4	n. f.																													
-1527817944	پله پوري	púla póree	adjoining, alongside, shut, connected	3	n. f.																													
-1527821092	پلشته	pulashta	prostitute	4	n. f.																													
-1527821318	پلترۍ	pulatrúy, pultrúy	squatting on one’s hunches, sitting cross-legged	4	n. f.																													
-1527816078	پلټنه	pulaTuna	investigation, search, inquiry	4	n. f.																													
-1527821319	پلتۍ	pulatúy	squatting on one’s hunches, sitting cross-legged	4	n. f.																													
-1577391608036	پلوي	pulawee	friendship, sympathy, partiality, support	4	n. f.																													
-1527822693	پڼه	púNa	pouring, irrigation, watering	4	n. f.																													
-1594809346947	پنبه	pUnbá, pUmbá	cotton	4	n. f.																													1
-1574865049772	پنډه	púnDa	burden, bundle; alms, charity; sheaf; group of people, mob	4	n. f.																													
-1527814390	پنډکۍ	pUnDkúy	bandage, cloth for a wound	4	n. f.																													
-1527813440	پنډۍ	punDúy	iron tip, point	3	n. f.																													
-1527816395	پرکټۍ	purkaTúy	stepdaughter	4	n. f.																													
-1671884312027	پرخه	púrkha	frost, dew		n. f.																													
-1527821412	پرلترۍ	purlatrúy	sitting cross-legged (پلترۍ)	4	n. f.																													
-1620364051619	پرمختیا	purmakhtyaa	development	4	n. f.																													
-1527818409	پروسه	purosa	process	4	n. f.																													
-1566475041435	پرښه	púrxa	mushroom	4	n. f.																													1
-1591872967696	پرزه	purzá, pUrzá	part, piece, spare part (of a car etc.)	4	n. f.																													
-1709421544643	پرزې کول	purze kawúl	to dismantle			1591872967696																												1
-1603260326888	پشتي	pUshtée, pushtée	support, prop; assistance, remittance; pillow, cushion; binding, cloth, bookbinding,	4	n. f.																													
+1527811533	پچه	púcha	lot (as in casting lots, lottery), coin toss	4	n. f.																													3
+1527823312	پچه	púcha	dung, droppings (of goats, sheep, etc.)	4	n. f.																													3
+1527823301	پکه باښه	púka baaxá	carrion vulture, carrion eagle, buzzard	4																														2
+1658765111767	پخلاینه	pUkhlaayúna	reconciliation, settlement	4	n. f.																													2
+1527817944	پله پوري	púla póree	adjoining, alongside, shut, connected	3	adj.																													2
+1527821092	پلشته	pulashtá, pulishtá	prostitute	4	n. f. anim.																													2
+1527821318	پلترۍ	pulatrúy, pultarúy	squatting on one’s hunches, sitting cross-legged	4	n. f.																													2
+1527816078	پلټنه	pulaTúna	investigation, search, inquiry	4	n. f.																													2
+1527821319	پلتۍ	pulatúy	squatting on one’s hunches, sitting cross-legged	4	n. f.																													2
+1577391608036	پلوي	pulawée	friendship, sympathy, partiality, support	4	n. f.																													2
+1527822693	پڼه	púNa	pouring, irrigation, watering	4	n. f.																													2
+1594809346947	پنبه	pUnbá, pUmbá	cotton	4	n. f.																													3
+1574865049772	پنډه	púnDa	burden, bundle; alms, charity; sheaf; group of people, mob	4	n. f.																													2
+1527814390	پنډکۍ	pUnDkúy, puDakúy	bandage, cloth for a wound	4	n. f.																													2
+1527813440	پنډۍ	punDúy	iron tip, point	3	n. f.																													2
+1527816395	پرکټۍ	purkaTúy	stepdaughter	4	n. f.																													2
+1671884312027	پرخه	púrkha	frost, dew		n. f.																													2
+1527821412	پرلترۍ	purlatrúy	sitting cross-legged (پلترۍ)	4	n. f.																													2
+1620364051619	پرمختیا	purmakhtyáa	development	4	n. f.																													2
+1527818409	پروسه	purosá	process	4	n. f.																													2
+1566475041435	پرښه	púrxa	mushroom	4	n. f.																													3
+1591872967696	پرزه	purzá, pUrzá	part, piece, spare part (of a car etc.)	4	n. f.																													2
+1709421544643	پرزې کول	purze kawúl, pUrze kawúl	to dismantle			1591872967696																												3
+1603260326888	پشتي	pUshtée, pushtée	support, prop; assistance, remittance; pillow, cushion; binding, cloth, bookbinding,	4	n. f.																													2
 1527815890	پسکۍ	puskúy	fart (slang)	4	n. f.																													
-1527815204	پټه	puTá	strip, stripe, step	4	n. f.																													1
-1527817935	پټکه	puTáka	cottage cheese	3	n. f.																													
-1574867715174	پښته	pUxtá	hillock; low ridge; small hill, mountain	4	n. f.																													
-1592559321327	پښته	pUxtá	hill, low ridge	4	n. f.																													
-1527813625	پښتونخوا	puxtoonkhwaa	Pukhtunkhwa	4	n. f.																													
-1678971586714	پښتونولي	puxtoonwalée	Pashtunwali, the Pashtun traditional code of honor and ethics		n. f.																													
-1591805644630	پښتۍ	pUxtúy	rib	4	n. f.																													
-1527811303	پښېماني	pxemaanée	regret	4	n. f.																													1
-1527811304	پښېمانتیا	pxemaantiyaa	regret	4	n. f.																													
-1618473585000	پښویه	pxóya	grammar	2	n. f.																													
-1527820062	پیاګي	pyáagee	knee tendons	4	n. f.																													
-1527821056	پیاغله	pyaaghla	scarf, muffler	4	n. f.																													
-1527823535	پیاوړتیا	pyaawaRtiyaa	powerfullness, strength	4	n. f.																													
-1585837246630	قاعده	qaa'idá	order, rule, general rule, structure, grammar (when plural)	4	n. f.									قواعد	qawaa'id																			1
-1610540959598	قابله	qaabilá	midwife, obstetric assitant	4	n. f.																													
-1566478077784	قافله	qaafilá	caravan; train of troops or horses	3	n. f.																													1
-1527813635	قافیه	qaafiyá	rhyming	4	n. f.																													1
-1527822029	قائم مقامي	qaaim maqaamee	replacing, replacement (د چا قائم مقامي کول - to replace someone)	3	n. f.																													
-1527811798	قام پرستي	qaam parastee	nationalism, patriotism	3	n. f.																													
-1571526715605	قانال هاضمه	qaanaal-i-haazima	digestive tract	3	n. f.																													
-1527817270	قاره	qaarra	continent, part of the world, dry land	3	n. f.																													
-1588781800467	قاشوغه	qaashóogha	spoon	4	n. f.																													
-1527823526	قاضۍ	qaazúy	female judge	4	n. f.‌ anim																													
-1527814804	قباله	qabaala	deed, title, official papers	4	n. f.																													
-1527813145	قبیله	qabeelá	tribe	4	n. f.									قبایل	qabaayul																			1
-1527814985	قبولي	qaboolee	acceptance, agreement, consent	4	n. f.																													
-1527823410	قدرداني	qadurdaanee	appreciation	3	n. f.																													
-1527821091	قحبه	qahbá	prostitute	2	n. f.																													
-1527820923	قهقهه	qahqahá	loud laugh, guffaw, squawk (ie. from a pelican)	4	n. f.																													
-1527812742	قهرماني	qahramaanee	heroism	4	n. f.																													
-1527823478	قحطي	qahtee	famine (usually from a drought), shortage, hunger, deficiency	4	n. f.																													
-1527814447	قهوه	qahwá, qawá	coffee; tea without milk	4	n. f.																													1
-1527822434	قلعه	qal'á	castle, fort, fortress	4	n. f.																													1
-1585487002625	قلا	qaláa	castle, fort, fortress	4	n. f.																													
-1527820002	قلابندي	qalaabandee	siege	4	n. f.																													
-1527812292	قمري	qamaree	turtledove, pidgeon	4	n. f.																													
-1527823036	قمچي	qamchee	whip	2	n. f.																													
-1527823037	قمچینه	qamcheena	whip	4	n. f.																													
-1527811564	قندسازي	qandsaazee	sugar-refining	3	n. f.																													
-1527821433	قراري	qaráaree	peace, stability, rest, repose, stability, complete calm	4	n. f.																													
-1527814734	قرارنامه	qaraarnaama	decision or resolution in writing	4	n. f.																													
-1527817832	قرضه	qarza	debt, loan	4	n. f.																													
-1527818835	قطع	qat'a, qat'	chopping off, break, interruption, discontinuance	3	n. f.																													
-1527813353	قټه ګوته	qaTa goota	middle finger	0	n. f.																													
-1527819044	قطره	qatrá	drop	4	n. f.																													1
-1527821414	قواله	qawaalá	deed of sale, purchase title	4	n. f.																													
-1527822940	قواره	qawaará	external appearance, exterior, figure, build	3	n. f.																													
-1610792992848	قوالي	qawwaalee	a form of Sufi devotional music / singing	4	n. f.																													
+1527815204	پټه	puTá, púTa	strip, stripe, step	4	n. f.																													3
+1527817935	پټکه	puTáka, puTká	cottage cheese	3	n. f.																													2
+1574867715174	پښته	pUxtá, puxtá	hillock; low ridge; small hill, mountain	4	n. f.																													2
+1592559321327	پښته	pUxtá, puxtá	hill, low ridge	4	n. f.																													2
+1527813625	پښتونخوا	puxtoonkhwáa	Pukhtunkhwa	4	n. f.																													2
+1678971586714	پښتونولي	puxtoonwalée	Pashtunwali, the Pashtun traditional code of honor and ethics		n. f.																													2
+1591805644630	پښتۍ	pUxtúy, puxtúy	rib	4	n. f.																													2
+1527811303	پښېماني	pxemaanée	regret	4	n. f.																													3
+1527811304	پښېمانتیا	pxemaantyáa	regret	4	n. f.																													2
+1618473585000	پښویه	pxóya, pxooyá	grammar	2	n. f.																													2
+1527820062	پیاګي	pyáagee, pyaagée	knee tendons	4	n. f.																													2
+1527821056	پیاغله	pyáaghla	scarf, muffler	4	n. f.																													2
+1527823535	پیاوړتیا	pyaawaRtyáa	powerfullness, strength	4	n. f.																													2
+1585837246630	قاعده	qaa'idá	order, rule, general rule, structure, grammar (when plural)	4	n. f.									قواعد	qawaa'id																			3
+1610540959598	قابله	qaabilá	midwife, obstetric assitant	4	n. f.																													2
+1566478077784	قافله	qaafilá	caravan; train of troops or horses	3	n. f.																													3
+1527813635	قافیه	qaafiyá	rhyming	4	n. f.																													3
+1527822029	قائم مقامي	qaaim maqaamée	replacing, replacement (د چا قائم مقامي کول - to replace someone)	3	n. f.																													2
+1527811798	قام پرستي	qaam parastée	nationalism, patriotism	3	n. f.																													2
+1571526715605	قانال هاضمه	qaanaal-i-haazimá	digestive tract	3	n. f.																													2
+1527817270	قاره	qaarrá, qaará	continent, part of the world, dry land	3	n. f.																													2
+1588781800467	قاشوغه	qaashóogha	spoon	4	n. f.																													2
+1527823526	قاضۍ	qaazúy	female judge	4	n. f.‌ anim																													2
+1527814804	قباله	qabaalá	deed, title, official papers	4	n. f.																													2
+1527813145	قبیله	qabeelá	tribe	4	n. f.									قبایل	qabaayul																			3
+1527814985	قبولي	qaboolée	acceptance, agreement, consent	4	n. f.																													2
+1527823410	قدرداني	qadurdaanée	appreciation	3	n. f.																													2
+1527821091	قحبه	qahbá	prostitute	2	n. f.																													2
+1527820923	قهقهه	qahqahá	loud laugh, guffaw, squawk (ie. from a pelican)	4	n. f.																													2
+1527812742	قهرماني	qahramaanée	heroism	4	n. f.																													2
+1527823478	قحطي	qahtée	famine (usually from a drought), shortage, hunger, deficiency	4	n. f.																													2
+1527814447	قهوه	qahwá, qawá	coffee; tea without milk	4	n. f.																													3
+1527822434	قلعه	qala'á	castle, fort, fortress	4	n. f.																													3
+1585487002625	قلا	qaláa	castle, fort, fortress	4	n. f.																													2
+1527820002	قلابندي	qalaabandée	siege	4	n. f.																													2
+1527812292	قمري	qamarée	turtledove, pidgeon	4	n. f.																													2
+1527823036	قمچي	qamchée	whip	2	n. f.																													2
+1527823037	قمچینه	qamchéena	whip	4	n. f.																													2
+1527811564	قندسازي	qandsaazée	sugar-refining	3	n. f.																													2
+1527821433	قراري	qaráaree, qaraarée	peace, stability, rest, repose, stability, complete calm	4	n. f.																													2
+1527814734	قرارنامه	qaraarnaamá	decision or resolution in writing	4	n. f.																													2
+1527817832	قرضه	qarzá	debt, loan	4	n. f.																													2
+1527818835	قطع	qát'a, qát'	chopping off, break, interruption, discontinuance	3	n. f.																													2
+1527813353	قټه ګوته	qaTa goota	middle finger	0	n. f.																													2
+1527819044	قطره	qatrá	drop	4	n. f.																													3
+1527821414	قواله	qawaalá	deed of sale, purchase title	4	n. f.																													2
+1527822940	قواره	qawaará	external appearance, exterior, figure, build	3	n. f.																													2
+1610792992848	قوالي	qawwaalée	a form of Sufi devotional music / singing	4	n. f.																													2
 1527815659	قیسي	qaysee	type of apricot	4	n. f.																													
-1527818102	قضا	qazáa	missing, skipping, missed, skipped (of a religious duty and of fulfilling that duty later, like prayers); judgment; fate, destiny	4	n. f.																													
-1622367333469	قضیه	qaziya	cause, matter, cause; theorem, proposition; clause (grammar); syllogism (logic)	4	n. f.																													
-1571839402532	قیصه	qeesá	story, tale, history (کيسه)	4	n. f.																													1
+1527818102	قضا	qazáa	missing, skipping, missed, skipped (of a religious duty and of fulfilling that duty later, like prayers); judgment; fate, destiny	4	n. f.																													2
+1622367333469	قضیه	qaziyá	cause, matter, cause; theorem, proposition; clause (grammar); syllogism (logic)	4	n. f.																													2
+1571839402532	قیصه	qeesá	story, tale, history (کيسه)	4	n. f.																													3
 1611396205039	قینچي	qaynchée	scissors	4	n. f.																													
-1582316056411	قیزه	qayzá	bridle, halter, muzzle	4	n. f.																													
-1571839398440	قصه	qisa	story, tale, history (کيسه)	3	n. f.																													
-1566469277280	قطعه	qit'a	playing card; piece	3	n. f.																													
-1566469138603	قطعه بازي	qit'a baazee	the playing of cards	3	n. f.																													
-1566478228846	قیافه	qiyaafá	look, appearance, face, countenance	3	n. f.																													
-1527811797	قوم پرستي	qom parastee	nationalism, patriotism	4	n. f.																													
-1623688365416	قولبه	qoolbá	plow, plough (قلبه)		n. f.																													
-1527821636	قورمه	qormá	gravy, stew-type dish (meat based)	3	n. f.																													
-1527818183	قلبه	qUlbá	plow	3	n. f.																													
-1527812288	قرباني	qUrbaanée	sacrifice	4	n. f.																													1
-1714820668036	قرباني ورکول	qUrbaanée warkawúl	to sacrifice, make a sacrifice	4	v. dyn. comp. trans.	1527812288	sacrifice																											1
-1527822538	قطب نما	qUtub namáa	compass	3	n. f.																													1
-1527813437	قطۍ	qUtúy	box	2	n. f.																													
-1576947704803	قوه	qUwá	strength, force, power, might	2	n. f.																													
-1622366148895	قوا	qUwáa	force	4	n. f.																													
-1527816776	رابطه	raabitá	communication, connection, link, tie, relation	3	n. f.									روابط	rawaabit																			1
-1527822712	راډیو	raaDiyó	radio	3	n. f.																													
-1527812102	راهداري	raahdaaree	road tax, transit tax, transit duty, toll	4	n. f.																													
-1527819416	راڼۍ	raaNúy	title of nobility, princess, ladyship, wife of a raja, queen; queen in playing cards	4	n. f.																													
-1527818930	راشه درشه	ráasha dársha	contact, relations, associating	4	n. f.																													
-1619278755267	ربړنه	rabaRúna	troubling, pestering	4	n. f.																													
-1586363138557	ربیع	rabee'	spring, spring harvest (Arabic)	2	n. f.																													
-1527811246	رفع	rafa	discontinuance, elimination, getting rid of	3	n. f.																													
-1527811582	رغا	raghaa	sewing, needlework, embroidery; medical treatment	2	n. f.																													
-1527815217	رغاونه	raghaawuna	genesis, construction, development	3	n. f.																													
-1527811583	رغونه	raghawúna	mending, sewing, repairing, healing, repair, construction	3	n. f.																													
-1611396349293	رهائي	rahaa`ee	release	4	n. f.																													
-1527816752	رهبري	rahbaree	leadership, guidance, accompaniment	3	n. f.																													
-1648578999526	رهنمایي	rahnUmaayee, rahnamaayee, rahnamaa`ee	leadership, guidance	4	n. f.																													
+1582316056411	قیزه	qayzá	bridle, halter, muzzle	4	n. f.																													2
+1571839398440	قصه	qisá	story, tale, history (کيسه)	3	n. f.																													2
+1566469277280	قطعه	qit'á	playing card; piece	3	n. f.																													2
+1566469138603	قطعه بازي	qit'a baazée	the playing of cards	3	n. f.																													2
+1566478228846	قیافه	qiyaafá	look, appearance, face, countenance	3	n. f.																													2
+1527811797	قوم پرستي	qom parastée	nationalism, patriotism	4	n. f.																													2
+1623688365416	قولبه	qoolbá	plow, plough (قلبه)		n. f.																													2
+1527821636	قورمه	qormá	gravy, stew-type dish (meat based)	3	n. f.																													2
+1527818183	قلبه	qUlbá	plow	3	n. f.																													2
+1527812288	قرباني	qUrbaanée	sacrifice	4	n. f.																													3
+1714820668036	قرباني ورکول	qUrbaanée warkawúl	to sacrifice, make a sacrifice	4	v. dyn. comp. trans.	1527812288	sacrifice																											3
+1527822538	قطب نما	qUtub namáa, qUtba namáa	compass	3	n. f.																													3
+1527813437	قطۍ	qUtúy	box	2	n. f.																													2
+1576947704803	قوه	qUwá	strength, force, power, might	2	n. f.																													2
+1622366148895	قوا	qUwáa	force	4	n. f.																													2
+1527816776	رابطه	raabitá	communication, connection, link, tie, relation	3	n. f.									روابط	rawaabit																			3
+1527822712	راډیو	raaDiyó	radio	3	n. f.																													2
+1527812102	راهداري	raahdaarée	road tax, transit tax, transit duty, toll	4	n. f.																													2
+1527819416	راڼۍ	raaNúy	title of nobility, princess, ladyship, wife of a raja, queen; queen in playing cards	4	n. f.																													2
+1527818930	راشه درشه	ráasha dársha	contact, relations, associating	4	n. f.																													2
+1619278755267	ربړنه	rabaRúna	troubling, pestering	4	n. f.																													2
+1586363138557	ربیع	rabee', rabi'a	spring, spring harvest (Arabic)	2	n. f.																													2
+1527811246	رفع	ráfa	discontinuance, elimination, getting rid of	3	n. f.																													2
+1527811582	رغا	ragháa	sewing, needlework, embroidery; medical treatment	2	n. f.																													2
+1527815217	رغاونه	raghaawúna	genesis, construction, development	3	n. f.																													2
+1527811583	رغونه	raghawúna	mending, sewing, repairing, healing, repair, construction	3	n. f.																													2
+1611396349293	رهائي	rahaa`ée, rahaayée	release	4	n. f.																													2
+1527816752	رهبري	rahbarée	leadership, guidance, accompaniment	3	n. f.																													2
+1648578999526	رهنمایي	rahnUmaayée, rahnamaayée, rahnamaa`ée	leadership, guidance	4	n. f.																													2
 1610538625885	رکېبي	rakebee	small dish	3	n. f.																													
-1527812269	رمه	ramá	flock, herd, drove	4	n. f.																													1
-1576372324658	رمباړه	rambáaRa	bellowing, bleating	4	n. f.																													
-1527812272	رڼا	raNáa	light, glory, brightness, illumination	4	n. f.																													1
-1709839797770	رڼا کول	raNaa kawúl	to enlighten, illuminate, light up		v. stat. comp. trans.	1527818348	illuminate																											1
-1709839800436	رڼا کېدل	raNaa kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										1
-1527818746	رنده	randá	plane (carpenter’s tool)	4	n. f.																													
+1527812269	رمه	ramá	flock, herd, drove	4	n. f.																													3
+1576372324658	رمباړه	rambáaRa	bellowing, bleating	4	n. f.																													2
+1527812272	رڼا	raNáa	light, glory, brightness, illumination	4	n. f.																													3
+1709839797770	رڼا کول	raNaa kawúl	to enlighten, illuminate, light up		v. stat. comp. trans.	1527818348	illuminate																											3
+1709839800436	رڼا کېدل	raNaa kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										3
+1527818746	رنده	randá	plane (carpenter’s tool)	4	n. f.																													2
 1527811755	رنډۍ	ranDúy	prostitute	4	n. f.																													
-1527820298	رنګارنګي	rangaarangée	diversity, diversity of colours	3	n. f.																													
-1527823280	رنګمالي	rangmaalee	painting (the profession of painting houses etc.)	4	n. f.																													
-1582390748848	ړنګۍ	Rangúy	silk turban, silk kerchief	4	n. f.																													
-1589019559622	رسدګي	rasadagee	reaching, availability	4	n. f.																													
-1527811390	رسنۍ	rasanúy	media	3	n. f.																													
+1527820298	رنګارنګي	rangaarangée	diversity, diversity of colours	3	n. f.																													2
+1527823280	رنګمالي	rangmaalée	painting (the profession of painting houses etc.)	4	n. f.																													2
+1582390748848	ړنګۍ	Rangúy	silk turban, silk kerchief	4	n. f.																													2
+1589019559622	رسدګي	rasadagée	reaching, availability	4	n. f.																													2
+1527811390	رسنۍ	rasanúy	media	3	n. f.																													2
 1644842472803	رسولۍ	rasoolúy, raswalúy	tumor, lump, swollen gland	4	n. f.																													
-1527820634	رسامي	rassaamee	drawing, painting?? (the art of)	4	n. f.																													
-1527814565	رسۍ	rasúy	rope, string, cord	3	n. f.																													1
-1527817323	رسوایي	raswaayee	disgrace, shame	3	n. f.																													
-1586363595933	روانشناسي	rawaanshinaasee	knowledge of the tempermant, customs and life of a people; psychology	2	n. f.																													
-1527817074	رویه	rawiyá	behaviour, manner, conduct	4	n. f.																													1
-1704699142880	رویه ساتل	rawiyá saatul	to behave, treat, act	4	v. dyn. comp. trans.	1527817074																												1
-1527822055	ړینګی	Reengáy	tray or tablecloth with refreshments	2	n. f.																													
-1527822338	رینجاړه	reenjaaRa	rag, shred, tatter	3	n. f.																													
-1527814115	ریشه	reeshá	root	3	n. f.																													1
-1621959100097	ریښه	reexá	root, foundation; breed	4	n. f.																													
-1527816165	رېږدېدا	reGdedaa	shivering, trembling, shuddering	3	n. f.																													
-1588159632321	رېکشا	reksháa	rickshaw	4	n. f.																													
-1527822967	رېړه	reRá	myrobalan, cherry plum	2	n. f.																													1
-1527818545	رېوړۍ	rewRúy	a candy made from sesame oil and sugar	3	n. f.																													
-1527819491	رېښه	rexá	root, rootlet	3	n. f.																													
+1527820634	رسامي	rassaamée, rasaamée	drawing, painting?? (the art of)	4	n. f.																													2
+1527814565	رسۍ	rasúy	rope, string, cord	3	n. f.																													3
+1527817323	رسوایي	raswaayée, rUswaayée	disgrace, shame	3	n. f.																													2
+1586363595933	روانشناسي	rawaanshinaasée	knowledge of the tempermant, customs and life of a people; psychology	2	n. f.																													2
+1527817074	رویه	rawiyá, rUwiyá	behaviour, manner, conduct	4	n. f.																													3
+1704699142880	رویه ساتل	rawiyá saatúl	to behave, treat, act	4	v. dyn. comp. trans.	1527817074																												3
+1527822055	ړینګی	Reengáy	tray or tablecloth with refreshments	2	n. f.																													2
+1527822338	رینجاړه	reenjáaRa	rag, shred, tatter	3	n. f.																													2
+1527814115	ریشه	reeshá	root	3	n. f.																													3
+1621959100097	ریښه	reexá	root, foundation; breed	4	n. f.																													2
+1527816165	رېږدېدا	reGdedáa	shivering, trembling, shuddering	3	n. f.																													2
+1588159632321	رېکشا	reksháa	rickshaw	4	n. f.																													2
+1527822967	رېړه	reRá	myrobalan, cherry plum	2	n. f.																													3
+1527818545	رېوړۍ	rewRúy	a candy made from sesame oil and sugar	3	n. f.																													2
+1527819491	رېښه	rexá	root, rootlet	3	n. f.																													2
 1527819492	رېښه	réxa	embroidery on the edge of a collar (on woman’s clothing)	2	n. f.																													
-1588150102624	رېزه	rezá	small piece, bit, crumb	3	n. f.																													
-1527820567	رغۍ	rghúy	soot, lampblack	2	n. f.																													
-1588076803134	رکشا	riksháa	rickshaw	4	n. f.																													
-1527822054	ړنګی	Ringáy	tray or tablecloth with refreshments	2	n. f.																													
-1593173209481	رساله	risaalá	brochure, pamphlet, leaflet, magazine; harsh satire, roast, lampoon	4	n. f.																													
+1588150102624	رېزه	rezá	small piece, bit, crumb	3	n. f.																													2
+1527820567	رغۍ	rghúy, raghúy	soot, lampblack	2	n. f.																													2
+1588076803134	رکشا	riksháa	rickshaw	4	n. f.																													2
+1527822054	ړنګی	Ringáy, Rungáy	tray or tablecloth with refreshments	2	n. f.																													2
+1593173209481	رساله	risaalá	brochure, pamphlet, leaflet, magazine; harsh satire, roast, lampoon	4	n. f.																													2
 1577068266995	رشکه	rishká	alfalfa, lucerne	0	n. f.																													
-1584692993126	رشخندي	rishkhandee	joking, mockery	4	n. f.																													
-1577068264996	رشقه	rishqá	alfalfa, lucerne	4	n. f.																													
-1527813515	رشته	rishtá	relationship, ties, bonds, marriage proposal; profession; thread; feeler; antenna	3	n. f.																													1
-1527822311	رشته داري	rishta daaree	relations, extended family	3	n. f.																													
-1527814553	رشوت خوري	rishwat khoree	taking bribes, corruption	4	n. f.																													
-1527814555	رشوتخوري	rishwatkhoree	taking bribes, corruption	4	n. f.																													
-1527822379	رښتینوالي	rixteenwaalee	uprightness, straightness, faithfulness, righteousness	4	n. f.																													
-1527811340	ریا	riyáa	hypocrisy, insincerity, deceit	4	n. f.																													
-1527821122	رضامندي	rizaamandee	consent, agreement, satisfaction	4	n. f.																													
-1573684723561	روډه	roDa	large intestine	3	n. f.																													
-1591804635553	روغه	rógha	reconciliation	4	n. f.																													1
-1661622930544	روغانۍ	roghaanúy	cookie, cake	4	n. f.																													
-1527811696	روغتیا	roghtiyaa	health	4	n. f.																													
-1527813936	روژه	rojzá	fasting, fast	4	n. f.																													1
-1527821340	روحیه	roohiyá	morale, mentality	4	n. f.																													
-1527819323	روڼتیا	rooNtiyaa	clearness, transparency	3	n. f.																													
-1527816163	روپۍ	roopúy	rupee, money	4	n. f.																													1
-1527815231	روسیه	roosiya	Russia	4	n. f.																													
-1527823245	رویا	rooyáa	dream, vision	3	n. f.																													
-1583458923784	روټه	roTa	food, bread, barley bread	3	n. f.																													
-1583458923782	روټۍ	roTúy	food, bread (from Urdu)	3	n. f.																													1
-1527818348	روښنایي	roxnaayee	light, radiance, brilliance, brightness	4	n. f.																													
-1709839575895	روښنایي کول	roxnaayee kawúl	to enlighten, illuminate, light up		v. stat. comp. trans.	1527818348	illuminate																											1
-1709839581147	روښنایي کېدل	roxnaayee kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										
-1586363997636	روزه	roza	fast, fasting (see روژه)	4	n. f.																													
-1527817222	روزي	rozee	daily bread, livelihood, wages, living, substinance, lot, food-grant	3	n. f.																													
-1527815234	روزنه	rozúna	training, learning, education	4	n. f.																													
-1584528684178	رباعي	rUbaa'ée	quatrain	4	n. f.									رباعیاني	rUbaa'eeaanee																			
-1527817876	رجوع	rUjoo	reference, appeal, turning to	3	n. f.																													
-1527823515	رخه	rúkha	envy, jealousy, spite, ill-will	4	n. f.																													
-1588783708522	رخصتي	rUkhsatée	vacation, leave, permission, dismissal	4	n. f.																													1
-1591870702472	رنجه	rúnja	small bit of fabric, rag	2	n. f.																													
-1527813543	رسایي	rusaayée	access	4	n. f.																													1
-1586363267374	رسوایي	rUswaayee	disgrace, shame	3	n. f.																													
-1527817389	رتبه	rUtba	rank, position	4	n. f.																													
-1527818214	سا	saa	breath, breathing, respiration	4	n. f.																													
-1527818220	سابندي	saabandee	shortness of breath, trouble breathing, asthma	4	n. f.																													
-1591805582413	سابقه	saabiqá	background, history, record, prefix	4	n. f.																													1
-1527822917	ساچمه	saachma	small shot (for a shotgun - usually plural), pellet; bearing	3	n. f.																													
+1584692993126	رشخندي	rishkhandée	joking, mockery	4	n. f.																													2
+1577068264996	رشقه	rishqá	alfalfa, lucerne	4	n. f.																													2
+1527813515	رشته	rishtá	relationship, ties, bonds, marriage proposal; profession; thread; feeler; antenna	3	n. f.																													3
+1527822311	رشته داري	rishta daarée	relations, extended family	3	n. f.																													2
+1527814553	رشوت خوري	rishwat khorée	taking bribes, corruption	4	n. f.																													2
+1527814555	رشوتخوري	rishwatkhorée	taking bribes, corruption	4	n. f.																													2
+1527822379	رښتینوالي	rixteenwaalée	uprightness, straightness, faithfulness, righteousness	4	n. f.																													2
+1527811340	ریا	riyáa	hypocrisy, insincerity, deceit	4	n. f.																													2
+1527821122	رضامندي	rizaamandée	consent, agreement, satisfaction	4	n. f.																													2
+1573684723561	روډه	roDá	large intestine	3	n. f.																													2
+1591804635553	روغه	rógha	reconciliation	4	n. f.																													3
+1661622930544	روغانۍ	roghaanúy	cookie, cake	4	n. f.																													2
+1527811696	روغتیا	roghtyáa	health	4	n. f.																													2
+1527813936	روژه	rojzá	fasting, fast	4	n. f.																													3
+1527821340	روحیه	roohiyá	morale, mentality	4	n. f.																													2
+1527819323	روڼتیا	rooNtyáa	clearness, transparency	3	n. f.																													2
+1527816163	روپۍ	roopúy	rupee, money	4	n. f.																													3
+1527815231	روسیه	roosiyá, roosyá	Russia	4	n. f.																													2
+1527823245	رویا	rooyáa	dream, vision	3	n. f.																													2
+1583458923784	روټه	roTá	food, bread, barley bread	3	n. f.																													2
+1583458923782	روټۍ	roTúy	food, bread (from Urdu)	3	n. f.																													3
+1527818348	روښنایي	roxnaayée	light, radiance, brilliance, brightness	4	n. f.																													2
+1709839575895	روښنایي کول	roxnaayee kawúl	to enlighten, illuminate, light up		v. stat. comp. trans.	1527818348	illuminate																											3
+1709839581147	روښنایي کېدل	roxnaayee kedúl	to be enlightened, illuminated, lit up		v. stat. comp. intrans.	1527818348	be	illuminated																										2
+1586363997636	روزه	rozá	fast, fasting (see روژه)	4	n. f.																													2
+1527817222	روزي	rozée	daily bread, livelihood, wages, living, substinance, lot, food-grant	3	n. f.																													2
+1527815234	روزنه	rozúna	training, learning, education	4	n. f.																													2
+1584528684178	رباعي	rUbaa'ée, rubaa'ée	quatrain	4	n. f.									رباعیاني	rUbaa'eeaanee																			2
+1527817876	رجوع	rUjóo	reference, appeal, turning to	3	n. f.																													2
+1527823515	رخه	rúkha	envy, jealousy, spite, ill-will	4	n. f.																													2
+1588783708522	رخصتي	rUkhsatée	vacation, leave, permission, dismissal	4	n. f.																													3
+1591870702472	رنجه	rúnja, runjá	small bit of fabric, rag	2	n. f.																													2
+1527813543	رسایي	rasaayée	access	4	n. f.																													3
+1586363267374	رسوایي	rUswaayée	disgrace, shame	3	n. f.																													2
+1527817389	رتبه	rUtbá	rank, position	4	n. f.																													2
+1527818214	سا	saa	breath, breathing, respiration	4	n. f.																													2
+1527818220	سابندي	saabandée	shortness of breath, trouble breathing, asthma	4	n. f.																													2
+1591805582413	سابقه	saabiqá	background, history, record, prefix	4	n. f.																													3
+1527822917	ساچمه	saachmá	small shot (for a shotgun - usually plural), pellet; bearing	3	n. f.																													2
 1527815977	سعادت مني	saadat manee	hapiness, success, prosperity, well-being	3	n. f.																													
-1527812192	سادین	saadeen	plowed field, virgin soil	4	n. f.																													
-1586364268870	ساډۍ	saaDúy	a lazy and stupid woman	4	n. f.																													
-1527811300	ساه	saah	breath, breathing	3	n. f.																													1
-1707683847177	ساه اخیستل	saah akheestul	to breathe	4	v. dyn. comp. trans.	1527811300	breathe																											1
-1527821141	ساحه	saahá	space, area, field, arena, sphere, zone	3	n. f.																													1
-1527816623	ساخه	saakha	calamity, disaster; doomsday, judgment day; deafening noise	1	n. f.																													
-1527818584	ساختماني	saakhatamaanee, sakhtmaanee	construction	2	n. f.																													
-1527818226	سالنډي	saalanDee	shortness of breath, trouble breathing, asthma	3	n. f.																													
-1527821754	سالنګي	saalangée	scurvy	2	n. f.																													
-1527821867	سالګره	saalgirá	birthday, day of birth	4	n. f.																													
-1527820689	سامۍ	saamúy	the client’s side (which is paying taxes to a chief)	3	n. f.																													
-1574785921776	سانګه	saanga	branch (څانګه)	4	n. f.																													
-1527820276	ثانیه	saaniya	second (unit of time)	4	n. f.																													
-1527812946	ساپوهنه	saapohana	pshychology	2	n. f.																													
-1527821459	ساره	saara	rural area, desert	3	n. f.																													
-1674503669195	ساړي	saaRee	sari (Indian dress)		n. f.																													
-1527813114	ساتنه	saatúna	protection, custody, guardianship	4	n. f.																													1
-1527812305	سایه	saaya	shade, canopy, cover, shadow	3	n. f.																													
-1527812948	سایکالوجي	saaykaalojee	pshychology	2	n. f.																													
-1527815310	سبزي	sabzee	vegetables	4	n. f.									سبزیجات	sabzeejaat																			1
-1527818432	صدمه	sadamá	blow, damage, harm, rattling blow	4	n. f.																													1
-1527818246	صدقه	sadaqá	voluntary offering, charity, alms	4	n. f.									صدقات	sadaqaat																			1
-1661499365815	سدرۍ	sadrúy	vest, waistcoat	4	n. f.																													
-1527820829	صفاکاري	safaakaaree	purification, refining, cleaning; making more precise; explanation	4	n. f.																													
-1527817734	صفایي	safaayée	cleanliness, well-cleaning	3	n. f.																													1
-1527815034	صفحه	safha	page	3	n. f.																													
-1527815033	صفحه بندي	safha bandee	pagination	2	n. f.																													
-1527819725	صفرا	safraa	bile, gall, petulance, spleen	2	n. f.																													
-1675435840125	سګبازي	sagbaazee	dog-fighting (Farsi)		n. f.																													
+1527812192	سادین	saadéen	plowed field, virgin soil	4																														2
+1586364268870	ساډۍ	saaDúy	a lazy and stupid woman	4	n. f.																													2
+1527811300	ساه	saah	breath, breathing	3	n. f.																													3
+1707683847177	ساه اخیستل	sáah akheestúl	to breathe	4	v. dyn. comp. trans.	1527811300	breathe																											3
+1527821141	ساحه	saahá	space, area, field, arena, sphere, zone	3	n. f.																													3
+1527816623	ساخه	saakha	calamity, disaster; doomsday, judgment day; deafening noise	1	n. f.																													2
+1527818584	ساختماني	saakhatamaanée, sakhtmaanée, sakhtUmaanée	construction	2	n. f.																													2
+1527818226	سالنډي	saalanDée	shortness of breath, trouble breathing, asthma	3	n. f.																													2
+1527821754	سالنګي	saalangée	scurvy	2	n. f.																													2
+1527821867	سالګره	saalgirá	birthday, day of birth	4	n. f.																													2
+1527820689	سامۍ	saamúy	the client’s side (which is paying taxes to a chief)	3	n. f.																													2
+1574785921776	سانګه	sáanga	branch (څانګه)	4	n. f.																													2
+1527820276	ثانیه	saaniyá	second (unit of time)	4	n. f.																													2
+1527812946	ساپوهنه	saapohúna	pshychology	2	n. f.																													2
+1527821459	ساره	sáara	rural area, desert	3	n. f.																													2
+1674503669195	ساړي	saaRée	sari (Indian dress)		n. f.																													2
+1527813114	ساتنه	saatúna	protection, custody, guardianship	4	n. f.																													3
+1527812305	سایه	saayá	shade, canopy, cover, shadow	3	n. f.																													2
+1527812948	سایکالوجي	saaykaalojée	pshychology	2	n. f.																													2
+1527815310	سبزي	sabzée	vegetables	4	n. f.									سبزیجات	sabzeejaat																			3
+1527818432	صدمه	sadamá	blow, damage, harm, rattling blow	4	n. f.																													3
+1527818246	صدقه	sadaqá	voluntary offering, charity, alms	4	n. f.									صدقات	sadaqaat																			3
+1661499365815	سدرۍ	sadrúy	vest, waistcoat	4	n. f.																													2
+1527820829	صفاکاري	safaakaarée	purification, refining, cleaning; making more precise; explanation	4	n. f.																													2
+1527817734	صفایي	safaayée	cleanliness, well-cleaning	3	n. f.																													3
+1527815034	صفحه	safhá	page	3	n. f.																													2
+1527815033	صفحه بندي	safha bandée	pagination	2	n. f.																													2
+1527819725	صفرا	safráa, sUfráa	bile, gall, petulance, spleen	2	n. f.																													2
+1675435840125	سګبازي	sagbaazée	dog-fighting (Farsi)		n. f.																													2
 1664878735663	سهارنۍ	sahaaranúy	breakfast (سهارنۍ ډوډۍ)	4	n. f.																													
-1527821028	صهبابء	sahbaa	wine, alcoholic drink, anything intoxicating	0	n. f.																													
-1626764386101	صحیفه	saheefa	book, scripture, writing, testament; pages	4	n. f.									صحیفت	saheefát																			
-1527817184	سهیمه	saheema	share, part	3	n. f.																													
-1586428275357	سهمیه	sahmiya	quota, share	2	n. f.																													
-1610539711102	صحنه	sahná	scene, place, venue, locality	4	n. f.																													
-1591034128816	سهوه	sáhwa	mistake, error, blunder, fault	4	n. f.																													
+1527821028	صهبابء	sahbaabá	wine, alcoholic drink, anything intoxicating	0	n. f.																												TRUE	2
+1626764386101	صحیفه	saheefá	book, scripture, writing, testament; pages	4	n. f.									صحیفت	saheefát																			2
+1527817184	سهیمه	saheemá	share, part	3	n. f.																													2
+1586428275357	سهمیه	sahmiyá	quota, share	2	n. f.																													2
+1610539711102	صحنه	sahná	scene, place, venue, locality	4	n. f.																													2
+1591034128816	سهوه	sáhwa	mistake, error, blunder, fault	4	n. f.																													2
 1527819546	سجره	sajará	lineage, family tree, genealogical tree	3	n. f.																													
-1527814514	سجیه	sajiya	natural character, innate or inborn characteristic	1	n. f.									سجایا	sajaayaa																			
-1675281272639	سخت دریځي	sakht dareedzee	extremism, hard-lining		n. f.																													
-1527818801	سخت مزاجه	sakht mizaaj	grouchy, miserly, grumpy, facetious	4	n. f.																													
-1586374234128	سخته	sákhta	hardship	3	n. f.																													1
-1527818580	سختماني	sakhtamaanee	building, construction	3	n. f.																													
-1527816247	سختي	sakhtée	difficulty, hardship	3	n. f.																													1
+1527814514	سجیه	sajiyá	natural character, innate or inborn characteristic	1	n. f.									سجایا	sajaayaa																			2
+1675281272639	سخت دریځي	sakht dareedzée	extremism, hard-lining		n. f.																													2
+1527818801	سخت مزاجه	sakht mizáaja, sakht mazáaja	grouchy, miserly, grumpy, facetious	4	n. f.																													2
+1586374234128	سخته	sákhta	hardship	3	n. f.																													3
+1527818580	سختماني	sakhtamaanée, sakhtUmaanée	building, construction	3	n. f.																													2
+1527816247	سختي	sakhtée	difficulty, hardship	3	n. f.																													3
 1594905930980	سکته	saktá	interruption, stoppage, hitch, hesitation; comma	4	n. f.																													
-1527814732	صلا	salaa	invitation, summons, appeal	3	n. f.																													
-1527816606	سلا	saláa	advice, instructions, council, consultation	3	n. f.																													
+1527814732	صلا	saláa	invitation, summons, appeal	3	n. f.																													2
+1527816606	سلا	saláa	advice, instructions, council, consultation	3	n. f.																													2
 1708739672624	سلا کول	saláa kawul	to consult, get advice	3	v. dyn. comp. trans.	1527816606	consult																											1
-1527821144	صلاح	saláah	counsel, advice	4	n. f.																													1
-1527818682	صلاحیت نامه	salaahiyat naama	warrant, credentials, authority	3	n. f.																													
-1527813716	سلامتي	salaamatée	peace, safety, restfulness, safety	4	n. f.																													1
-1527817811	سلامتیا	salaamatiyaa	peace, restfulness, safety	4	n. f.																													
-1627318591485	سلواغه	salwaaghá	bucket, pail; 11th month of the solar calendar		n. f.																													
-1527823048	سمع	sam'a	hearing; audition; performance	3	n. f.																													
-1527819524	سما	samaa	sky, heavens, firmament, sky blue, canopy; amendment, correction, editing; enrichment; reclamation	4	n. f.																													
-1527822320	سماجي	samaajee	societal, social	4	n. f.																													
-1566471268400	سمټه	samáTa	large turban	3	n. f.																													
+1527821144	صلاح	saláah	counsel, advice	4	n. f.																													3
+1527818682	صلاحیت نامه	salaahiyat naamá	warrant, credentials, authority	3	n. f.																													2
+1527813716	سلامتي	salaamatée	peace, safety, restfulness, safety	4	n. f.																													3
+1527817811	سلامتیا	salaamatyáa	peace, restfulness, safety	4	n. f.																													2
+1627318591485	سلواغه	salwaaghá	bucket, pail; 11th month of the solar calendar		n. f.																													2
+1527823048	سمع	sám'a	hearing; audition; performance	3	n. f.																													2
+1527819524	سما	samáa	sky, heavens, firmament, sky blue, canopy; amendment, correction, editing; enrichment; reclamation	4	n. f.																													2
+1527822320	سماجي	samaajée	societal, social	4	n. f.																													2
+1566471268400	سمټه	samáTa, samTá	large turban	3	n. f.																													2
 1527822137	سمبټه	sambáTa	rice kasha, rice porridge	2	n. f.																													
-1527818777	سملاسیوالي	samlaaseewáalee	emergency, urgency	3	n. f.																													
-1527820218	سمساره	samsaará	lizard	4	n. f.																													
-1527818142	سمسورتیا	samsortyáa	ripeness, maturity; flourishing; freshness; planting (of greenery)	4	n. f.																													
-1527814882	ثنا	sanaa	praise, exaltation, worship	4	n. f.																													
-1527812059	سندله	sandala	locally made cement (of broken brick, lime, and vegetable fibers)	3	n. f.																													
-1527822777	سندلۍ	sandalúy	brazier, hearth	4	n. f.																													
-1527813430	صندوقچه	sandooqcha	small chest, trunk, box	3	n. f.																													
-1527815249	سندره	sandúra, sandára	song, poem, verse	4	n. f.																													1
-1715164916686	سندرې ویل	sandúre wayúl	to sing		v. dyn. comp. trans.	1527815249	sing,sings,singing,sang,sung																											1
-1715164945018	ګانه	gaaná	song (Urdu)		n. f.																													
-1715164965261	ګانې ویل	gaané wayúl	to sing		v. dyn. comp. trans.	1715164945018	sing,sings,singing,sang,sung																											1
+1527818777	سملاسیوالي	samlaaseewáalee, samlaaseewaalée	emergency, urgency	3	n. f.																													2
+1527820218	سمساره	samsaará	lizard	4	n. f.																													2
+1527818142	سمسورتیا	samsortyáa	ripeness, maturity; flourishing; freshness; planting (of greenery)	4	n. f.																													2
+1527814882	ثنا	sanáa	praise, exaltation, worship	4	n. f.																													2
+1527812059	سندله	sandála	locally made cement (of broken brick, lime, and vegetable fibers)	3	n. f.																													2
+1527822777	سندلۍ	sandalúy	brazier, hearth	4	n. f.																													2
+1527813430	صندوقچه	sandooqchá	small chest, trunk, box	3	n. f.																													2
+1527815249	سندره	sandúra, sandára	song, poem, verse	4	n. f.																													3
+1715164916686	سندرې ویل	sandúre wayúl	to sing		v. dyn. comp. trans.	1527815249	sing,sings,singing,sang,sung																											3
+1715164945018	ګانه	gaaná	song (Urdu)		n. f.																													2
+1715164965261	ګانې ویل	gaané wayúl	to sing		v. dyn. comp. trans.	1715164945018	sing,sings,singing,sang,sung																											3
 1527823146	سنځله	sandzúla	Oleaster, Russian olive tree	4	n. f.																													
-1527811218	سنګرېزي	sangrezee	stoning (to execute)	3	n. f.																													
-1527818515	سقاوه	saqaawá	swimming-pool, pond, cold-bath	4	n. f.																													
-1527811225	سر ښندنه	săr xunduna	sacrifice, giving one's life for	4	n. f.																													
-1527813292	سړه کۍ	saRa kúy	top, summit (of a tree or a mountain)	3	n. f.																													
-1527813291	سړه لوه	saRa luwa	fever, chill		n. f.																													
-1527820817	سربازي	sărbaazee	boldness, courage, daring, selflessness	4	n. f.																													
-1527821057	سربسته	sărbastá	closed, sealed, stopped, corked; whole, unbroken, untouched; small turban, scarf, kerchief	4	n. f.																													
-1566471200671	سربسته	sărbastá	closed, sealed, corked; whole, untouched, unbroken; scarf, kerchief; small turban	4	n. f.																													
-1527813683	سرچینه	sărcheena	source, spring, headwaters	4	n. f.																													
-1527822625	سردردي	sărdărdee	headache	4	n. f.																													
-1591871532819	سرینه	sareená	prefix (grammar)	3	n. f.																													
-1622460705077	سریزه	saréeza	preface, introduction, preamble	4	n. f.																													1
-1661753660841	صرفه	sarfá	saving, thriftiness, economizing; sparing	2	n. f.																													
-1627297940885	سرګرمي	sărgarmee	hobby, interest, amusement		n. f.																													
-1527816858	سرغړونه	sărghaRawúna	rebellion, revolt, mutiny, violation, disobedience, breaking	4	n. f.																													
-1527816860	سرغړنه	sărghaRuna	rebellion, revolt, mutiny, violation, disobedience, breaking	3	n. f.																													
+1527811218	سنګرېزي	sangrezée	stoning (to execute)	3	n. f.																													2
+1527818515	سقاوه	saqaawá, saqáawa	swimming-pool, pond, cold-bath	4	n. f.																													2
+1527811225	سر ښندنه	sar xindúna, sar xindúna	sacrifice, giving one's life for	4	n. f.																													2
+1527813292	سړه کۍ	saRa kúy	top, summit (of a tree or a mountain)	3	n. f.																													2
+1527813291	سړه لوه	saRa lúwa	fever, chill		n. f.																													2
+1527820817	سربازي	sarbaazée	boldness, courage, daring, selflessness	4	n. f.																													2
+1527821057	سربسته	sarbastá	closed, sealed, stopped, corked; whole, unbroken, untouched; small turban, scarf, kerchief	4	n. f.																													2
+1566471200671	سربسته	sarbastá	closed, sealed, corked; whole, untouched, unbroken; scarf, kerchief; small turban	4	n. f.																													2
+1527813683	سرچینه	sarcheená	source, spring, headwaters	4	n. f.																													2
+1527822625	سردردي	sardardée	headache	4	n. f.																													2
+1591871532819	سرینه	sareená	prefix (grammar)	3	n. f.																													2
+1622460705077	سریزه	saréeza	preface, introduction, preamble	4	n. f.																													3
+1661753660841	صرفه	sarfá	saving, thriftiness, economizing; sparing	2	n. f.																													2
+1627297940885	سرګرمي	sargarmée	hobby, interest, amusement		n. f.																													2
+1527816858	سرغړونه	sarghaRawúna	rebellion, revolt, mutiny, violation, disobedience, breaking	4	n. f.																													2
+1527816860	سرغړنه	sarghaRúna	rebellion, revolt, mutiny, violation, disobedience, breaking	3	n. f.																													2
 1527821298	سرکشي	sarkashée	insubordination, rebellion	4	n. f.																													1
-1664025799194	سرکښي	sărkaxée	insubordination, rebellion	4	n. f.																													
-1527820390	سرکونډۍ	sărkoonDúy	somersault	3	n. f.																													
-1573767123400	سرلوړي	sărloRee	honor, pride	3	n. f.																													
-1527813642	سرلوړي	sărlwaRee	honor, pride	4	n. f.																													
-1527813452	سرمایه	sarmaayá	capital, equity	4	n. f.																													1
-1591870535619	سرمایه ګذاري	sarmaaya gUzaaree	investment, investing	4	n. f.																													
-1527820468	سرمقاله	sărmaqaalá	editorial, lead article	4	n. f.																													
-1576440543584	سرمښکۍ	sărmUxkúy	lizard	3	n. f.																													
-1586373218267	سرپرستي	sărparastée	looking over, being responsible for, taking care of, cartaking, guardianship, management, supervising	4	n. f.																													
-1527819883	صراف خانه	sarraaf khaana	money-changing office, exchange office	4	n. f.																													
-1527813697	سرشمیرنه	sărshmayruna	census	4	n. f.																													
-1527820784	سرشماري	sărshUmaaree	census (of population)	4	n. f.																													
-1527816362	سرتوره	sartora	widow	4	n. f.																													
-1527821619	سرښندنه	sărxandúna	sacrifice, offering	3	n. f.																													
-1527821883	سرزوري	sărzoorée	stubbornness, obstinacy, wilfulness	4	n. f.																													
-1527818720	سطح	sátah	level, surface, level	4	n. f.																													
-1527818719	سطح	sátha	level, surface, level	4	n. f.																													
+1664025799194	سرکښي	sarkaxée	insubordination, rebellion	4	n. f.																													2
+1527820390	سرکونډۍ	sarkoonDúy	somersault	3	n. f.																													2
+1573767123400	سرلوړي	sarlóRee, sarlwúRee, sarloRée	honor, pride	3	n. f.																													2
+1527813642	سرلوړي	sarlóRee, sarlwúRee, sarloRée	honor, pride	4	n. f.																													2
+1527813452	سرمایه	sarmaayá	capital, equity	4	n. f.																													3
+1591870535619	سرمایه ګذاري	sarmaaya gUzaarée	investment, investing	4	n. f.																													2
+1527820468	سرمقاله	sarmaqaalá	editorial, lead article	4	n. f.																													2
+1576440543584	سرمښکۍ	sarmUxkúy	lizard	3	n. f.																													2
+1586373218267	سرپرستي	sarparastée	looking over, being responsible for, taking care of, cartaking, guardianship, management, supervising	4	n. f.																													2
+1527819883	صراف خانه	sarraaf khaaná, saraaf khaaná	money-changing office, exchange office	4	n. f.																													2
+1527813697	سرشمیرنه	sarshmayrúna	census	4	n. f.																													2
+1527820784	سرشماري	sarshUmaarée	census (of population)	4	n. f.																													2
+1527816362	سرتوره	sartóra	widow	4	n. f.																													2
+1527821619	سرښندنه	sarxandúna, sarxindúna	sacrifice, offering	3	n. f.																													2
+1527821883	سرزوري	sarzorée	stubbornness, obstinacy, wilfulness	4	n. f.																													2
+1527818720	سطح	sátah, sátha	level, surface, level	4	n. f.																													2
+1527818719	سطح	sátha	level, surface, level	4	n. f.																													2
 1527814456	ستره	satra	curtain; covering; veil	2	n. f.																													
-1527822254	سترنجي	satranjée	light fabric for covering floors, carpet	3	n. f.																													
-1527816370	ستۍ	satúy	sati, a woman who burns herself alive when her husband dies	4	n. f.																													
-1527816041	سودا	sawdáa, sodáa	shopping, buying, purchasing; anxiety, worry	4	n. f.																													1
-1527817958	سوداګري	sawdaagaree, sodaagaree	trading, business	4	n. f.																													
-1527817999	سویه	sawiyá	level, standard	4	n. f.																													
-1527815252	سیاره	sayaara	planet	4	n. f.																													
+1527822254	سترنجي	satranjée, stranjée	light fabric for covering floors, carpet	3	n. f.																													2
+1527816370	ستۍ	satúy, stuy	sati, a woman who burns herself alive when her husband dies	4	n. f. anim.																													2
+1527816041	سودا	sawdáa, sodáa	shopping, buying, purchasing; anxiety, worry	4	n. f.																													3
+1527817958	سوداګري	sawdaagarée, sodaagarée	trading, business	4	n. f.																													2
+1527817999	سویه	sawiyá	level, standard	4	n. f.																													2
+1527815252	سیاره	sayaará	planet	4	n. f.																													2
 1527818227	سیاره	sayyaará	shortness of breath, trouble breathing, asthma	3	n. f.																												TRUE	
-1527815025	سزا	sazáa	retribution (good or bad); punishment, penalty, fine	3	n. f.																													1
-1584517454357	صیغه	seeghá	formula, form, shape, type, conjugation (grammar)	4	n. f.																													
-1527819873	سیکه	seeká	lead (the metal), coin ?? (misspelling of سکه?)	0	n. f.																													
-1527819092	سیله	seela	devotion, adherence; support, backing, friendship, favour, goodwill	2	n. f.																													
-1613547937220	سیلۍ	seelúy	drift, blast, blow, gust (of wind)	4	n. f.																													1
-1527811759	سیمه	séema	area, region, zone	3	n. f.																													1
-1527811879	سیمي	seemee	metal string, wire	3	n. f.																													
-1527817587	سینه	seená	chest	4	n. f.																													1
+1527815025	سزا	sazáa	retribution (good or bad); punishment, penalty, fine	3	n. f.																													3
+1584517454357	صیغه	seeghá	formula, form, shape, type, conjugation (grammar)	4	n. f.																													2
+1527819873	سیکه	seeká	lead (the metal), coin ?? (misspelling of سکه?)	0	n. f.																													2
+1527819092	سیله	seelá	devotion, adherence; support, backing, friendship, favour, goodwill	2	n. f.																													2
+1613547937220	سیلۍ	seelúy	drift, blast, blow, gust (of wind)	4	n. f.																													3
+1527811759	سیمه	séema	area, region, zone	3	n. f.																													3
+1527811879	سیمي	seemee	metal string, wire	3	n. f.																													2
+1527817587	سینه	seená	chest	4	n. f.																													3
 1577384894272	سېکه	seká	strength	2	n. f.																													1
 1527817853	سېکړه	sekaRa	interest, percentage, lending; coarse fabric, group, society	4	n. f.																													
 1527817920	سېلۍ	selúy	rennet, starter for cheese/cheese curds	2	n. f.																													
 1649701856285	سېزني	seznée	swaddling, swaddle, a band/ribbon used for tying up babies (alternate of سوزني)	4	n. f.																													
-1527816174	شا	shaa	back	4	n. f.																													1
-1527811592	شاباسي	shaabaasee	congratulations, commendation, saying well done	4	n. f.																													
-1586374025045	شاباشي	shaabaashee	congratulations, commendation, saying well done	3	n. f.																													
-1527813107	شادي	shaadee	monkey, ape; happiness	3	n. f.																													
-1566468090556	شادو	shaadó	monkey, ape	3	n. f.																													
-1527818047	شاهدي	shaahidée	witness, testimony	4	n. f.																													
-1527813631	شاهنامه	shaahnaama	epic poetry, long narrative poem	4	n. f.																													
+1527816174	شا	shaa	back	4	n. f.																													3
+1527811592	شاباسي	shaabaasée	congratulations, commendation, saying well done	4	n. f.																													2
+1586374025045	شاباشي	shaabaashée	congratulations, commendation, saying well done	3	n. f.																													2
+1527813107	شادي	shaadée	monkey, ape; happiness	3	n. f.																													2
+1566468090556	شادو	shaadó	monkey, ape	3	n. f.																													2
+1527818047	شاهدي	shaahidée	witness, testimony	4	n. f.																													2
+1527813631	شاهنامه	shaahnaamá	epic poetry, long narrative poem	4	n. f.																													2
 1527819415	شاهزادګۍ	shaahzaadagúy	princess	4	n. f.																													
-1527819417	شاهزادۍ	shaahzaadúy	princess	4	n. f.																													
-1527813629	شاعري	shaairee	poetry	4	n. f.																													
-1527819477	شایعه	shaaiy'a	rumour, talk	2	n. f.																													
-1527819647	شاکونډۍ	shaakoonDúy	wild pear tree, wild pear	2	n. f.																													
-1527822133	شالۍ	shaalúy	rice crop, raw rice, unthreshed rice	3	n. f.																													
-1586634254813	شامکۍ	shaamakúy	swan	4	n. f.																													
-1527821623	شامته	shaamatá	noise, fuss	2	n. f.																													
-1582336612890	شامعه	shaamm'a	smell (the sense of smell)	4	n. f.																													
-1582336616053	شامه	shaamma	smell (the sense of smell)	4	n. f.																													
-1527817921	شاپیانګه	shaapyaanga	Withania, rennet plant	3	n. f.																													
-1527811291	شاټي	shaaTee	shock, current ??	3	n. f.																													
-1527820393	شبکه	shabaká	network, system	3	n. f.																													
-1622366535225	شهیدي	shaheedee	matrydom	4	n. f.																													
+1527819417	شاهزادۍ	shaahzaadúy	princess	4	n. f. anim.																													2
+1527813629	شاعري	shaairée	poetry	4	n. f.																													2
+1527819477	شایعه	shaaiy'á	rumour, talk	2	n. f.																													2
+1527819647	شاکونډۍ	shaakoonDúy	wild pear tree, wild pear	2	n. f.																													2
+1527822133	شالۍ	shaalúy	rice crop, raw rice, unthreshed rice	3	n. f.																													2
+1586634254813	شامکۍ	shaamakúy, shaamkúy	swan	4	n. f. anim.																													2
+1527821623	شامته	shaamatá, shaamtá	noise, fuss	2	n. f.																													2
+1582336612890	شامعه	sháamm'a	smell (the sense of smell)	4	n. f.																													2
+1582336616053	شامه	sháamma	smell (the sense of smell)	4	n. f.																													2
+1527817921	شاپیانګه	shaapyáanga	Withania, rennet plant	3	n. f.																													2
+1527811291	شاټي	shaaTée	shock, current ??	3	n. f.																													2
+1527820393	شبکه	shabaká	network, system	3	n. f.																													2
+1622366535225	شهیدي	shaheedée	matrydom	4	n. f.																													2
 1527811808	شهوت پرستي	shahwat parastee	lustfulness, hedonism	4	n. f.																													
-1527819488	شهزادۍ	shahzaadúy	princess	4	n. f.																													
-1527811501	شجره	shajara	geneology, family tree, list of saints (Arabic)	4	n. f.																													
-1527819547	شجره	shajará	lineage, family tree, genealogical tree	4	n. f.																													
-1566471316184	شکلۍ	shakalúy	the end of a turban	2	n. f.																													
+1527819488	شهزادۍ	shahzaadúy	princess	4	n. f. anim.																													2
+1527811501	شجره	shajará	geneology, family tree, list of saints (Arabic)	4	n. f.																													2
+1527819547	شجره	shajará	lineage, family tree, genealogical tree	4	n. f.																													2
+1566471316184	شکلۍ	shakalúy, shkUlúy	the end of a turban	2	n. f.																													2
 1527811563	شکره	shakára, shakúra	sugar	4	n. f.																													
-1527811807	شخص پرستي	shakhs parastee	personality cult	3	n. f.																													
-1527820107	شلاخه	shaláakha	whip, lash, scourge	2	n. f.																													
-1527823122	شمع	shám'a	candle	4	n. f.											شمعونه	shama`oona																	1
-1527812261	شنبه	shambá	Saturday	4	n. f.																													
-1527817132	شمله	shamlá	end part of a turban that hangs down; turban crown; honour	4	n. f.																													1
+1527811807	شخص پرستي	shakhs parastée	personality cult	3	n. f.																													2
+1527820107	شلاخه	shaláakha, shlaakhá	whip, lash, scourge	2	n. f.																													2
+1527823122	شمع	shám'a	candle	4	n. f.											شمعونه	shama`oona																	3
+1527812261	شنبه	shanbá, shambá	Saturday	4	n. f.																													2
+1527817132	شمله	shamlá	end part of a turban that hangs down; turban crown; honour	4	n. f.																													3
 1582336790902	شمه	shammá	odour, smell	2	n. f.																													
-1527820217	شمپانزه	shampaanza	chimpanzee	2	n. f.																													
-1527820216	شمپانزي	shampaanzee	chimpanzee	2	n. f.																													
-1527820430	شمسي	shamsee	solar	4	n. f.																													
+1527820217	شمپانزه	shampáanza	chimpanzee	2	n. f. anim.																													2
+1527820216	شمپانزي	shampaanzée	chimpanzee	2	n. f. anim.																													2
+1527820430	شمسي	shamsée	solar	4	n. f.																													2
 1527821998	شمشتۍ	shamshatúy	turtle, tortoise	4	n. f.																													
-1527823444	شمزۍ	shamzúy	spine, backbone, spinal cord; lower back	4	n. f.																													
-1591027455212	شمزۍ	shamzúy	spine, backbone	3	n. f.																													
+1527823444	شمزۍ	shamzúy	spine, backbone, spinal cord; lower back	4	n. f.																													2
+1591027455212	شمزۍ	shamzúy	spine, backbone	3	n. f.																													2
 1584689614699	شرع	shár'a	Sharia, Islamic law	4	n. f.																													
-1527814551	شراب خوري	sharaab khoree	drunkenness, drinking, alcoholism	3	n. f.																													
-1527821183	شراکت نامه	sharaakat naama	agreement of fellowship, agreement or contract of shareholders	3	n. f.																													
-1527823310	شرح	sharh	explanation, description, interpretation, elucidation	2	n. f.																													
-1527823311	شرحه	sharha	explanation, description, interpretation, elucidation	2	n. f.																													
-1527817808	شرمندګي	sharmandagee	shame, shyness, embarrassment, disgrace	4	n. f.																													
-1527817809	شرمندتیا	sharmandtiyaa	shame, shyness, embarrassment, disgrace	4	n. f.																													
-1527813744	شړونتیا	shaRoontyaa	exile, banishment	1	n. f.																													
-1527821090	شتایه	shatáaya	prostitute, impudent woman	1	n. f.																													
-1527821089	شتاهه	shattáaha	prostitute, impudent woman	1	n. f.																													
+1527814551	شراب خوري	sharaab khorée	drunkenness, drinking, alcoholism	3	n. f.																													2
+1527821183	شراکت نامه	sharaakat naamá	agreement of fellowship, agreement or contract of shareholders	3	n. f.																													2
+1527823310	شرح	sharh, shárha	explanation, description, interpretation, elucidation	2	n. f.																													2
+1527823311	شرحه	shárha	explanation, description, interpretation, elucidation	2	n. f.																													2
+1527817808	شرمندګي	sharmindagée, sharmandagée	shame, shyness, embarrassment, disgrace	4	n. f.																													2
+1527817809	شرمندتیا	sharmandtyáa	shame, shyness, embarrassment, disgrace	4	n. f.																													
+1527813744	شړونتیا	shaRoontyáa	exile, banishment	1	n. f.																													2
+1527821090	شتایه	shatáaya, shtaayá	prostitute, impudent woman	1	n. f.																													2
+1527821089	شتاهه	shattáaha, shtaahá	prostitute, impudent woman	1	n. f. anim.																													2
 1527820063	شتۍ	shatúy	knee, point (arrow, sword); badminton	3	n. f.																													1
-1527812991	شېبه	sheba	instant, second, twinkling	4	n. f.																													
-1588162422920	شیمه	sheema	power, vigour, energy	4	n. f.																													
-1527813352	شین غټه	sheen ghaTa	index finger	1	n. f.																													
-1576948581471	شیره	sheerá	sap, juice (from a plant)	4	n. f.																													
-1527813375	شیرین بویه	sheereen booya	licorice	1	n. f.																													
-1527813373	شیریني	sheereenée	candy, sweets (slang for bribe)	4	n. f.																													1
-1527815267	شیشه	sheeshá	glass	4	n. f.																													1
-1527813307	شیشکه	sheeshaka	witch	4	n. f.																													
-1610617583597	شیشکه	sheesháka	witch, sorceress	4	n. f.																													
+1527812991	شېبه	shebá	instant, second, twinkling	4	n. f.																													2
+1588162422920	شیمه	sheemá	power, vigour, energy	4	n. f.																													2
+1527813352	شین غټه	sheen ghaTa	index finger	1	n. f.																													2
+1576948581471	شیره	sheerá	sap, juice (from a plant)	4	n. f.																													2
+1527813375	شیرین بویه	sheereen bóoya	licorice	1	n. f.																													2
+1527813373	شیریني	sheereenée	candy, sweets (slang for bribe)	4	n. f.																													3
+1527815267	شیشه	sheeshá	glass	4	n. f.																													3
+1527813307	شیشکه	sheesháka	witch	4	n. f.																													2
+1610617583597	شیشکه	sheesháka	witch, sorceress	4	n. f.																													2
 1527813310	شیشکه	sheeshka	twig, shoot; narrow stripe, pattern	1	n. f.																													
 1578608338355	شېله	shela	low place, gully, canyon	4	n. f.																													
 1527820578	شېلاوه	shelaawá	uniform irrigation of land	2	n. f.																													
-1527822394	شېوه	shewá	method, plan of action; way, fashion, style	2	n. f.																													
-1671707909006	شعارپاڼه	shi'aarpáaNa	placard (protest sign)		n. f.																													
-1527817273	شفا	shifáa	healing, cure, health, recovery	3	n. f.																													
-1713793244918	شفا موندل	shifáa moondul	to heal, get well, get better, recover	4	v. dyn. comp. trans.	1527817273	heal																											1
-1713793298759	شفا ورکول	shifaa warkawúl	to heal (causitive)	4	v. dyn. comp. trans.	1527817273	heal																											
-1527822164	شفاخانه	shifaakhaana	hospital	4	n. f.																													
+1527822394	شېوه	shewá	method, plan of action; way, fashion, style	2	n. f.																													2
+1671707909006	شعارپاڼه	shi'aarpáaNa, shU'aarpáaNa	placard (protest sign)		n. f.																													2
+1527817273	شفا	shifáa, shafáa	healing, cure, health, recovery	3	n. f.																													2
+1713793244918	شفا موندل	shifáa moondúl, shafáa moondúl	to heal, get well, get better, recover	4	v. dyn. comp. trans.	1527817273	heal																											3
+1713793298759	شفا ورکول	shifáa warkawúl, shafaa warkawúl	to heal (causitive)	4	v. dyn. comp. trans.	1527817273	heal																											2
+1527822164	شفاخانه	shifaakhaaná, shafaakhaaná	hospital	4	n. f.																													2
 1527818542	شکره	shikrá	the female kind of a hawk	1	n. f.																													
-1527823644	شکڼه	shkaNá	female porcupine; barren woman	4	n. f.																													
-1594284811305	شکنه	shkaná	a thick, onion-based soup	4	n. f.																													
-1527817505	شکنجه	shkanjá	torture	3	n. f.																													
-1527819598	شخړه	shkhúRa	dispute, conflict, litigation; clash, battle, gang, band	4	n. f.																													
-1527820985	شلومبه	shlombá, shloombá	ayran, skim milk, sour milk	3	n. f.																													
-1582664494985	شماره	shmaara	number, count	4	n. f.																													
+1527823644	شکڼه	shkaNá, shukNá	female porcupine; barren woman	4	n. f. anim.																													2
+1594284811305	شکنه	shkaná	a thick, onion-based soup	4	n. f.																													2
+1527817505	شکنجه	shkanjá, shikanjá	torture	3	n. f.																													2
+1527819598	شخړه	shkhúRa	dispute, conflict, litigation; clash, battle, gang, band	4	n. f.																													2
+1527820985	شلومبه	shlombá, shloombá	ayran, skim milk, sour milk	3	n. f.																													2
+1582664494985	شماره	shmaara, shUmaará	number, count	4	n. f.																													2
 1527812133	شمېرانه	shmeraana	accounting, reckoning, calculational	0	n. f.																													
-1527815274	شنه خونه	shna khoona	greenhouse	3	n. f.																													
-1527818385	شناخته	shnáakhta	tombstone, tombstone inscription, epitaph	4	n. f.																													
-1527811885	شوبلکه	shoblaka	centipede, millipede	1	n. f.																													
-1589464565670	شوله	sholá	rice, thin, soft rice gruel/kasha (often plural شولې)	4	n. f.																													1
-1527822138	شولګره	sholgára	rice paddy, field growing rice	4	n. f.																													
-1527813099	شولۍ	sholúy	a lazy woman	2	n. f.																													
-1610448095051	شوغه	shooghá	stiff wool/hair	2	n. f.																													
-1527821474	شومه	shooma	fodder, feed, food, nourishment	2	n. f.																													
-1527821062	شومړه	shoomRa	skim milk, sour milk, ayran	3	n. f.																													
-1527813427	شومتیا	shoomtiyaa	stinginess, greediness	4	n. f.																													
-1527821289	شونډه	shóonDa	lip	4	n. f.																													
-1527817905	شونتیا	shoontiyaa	possibility, plausibility	2	n. f.																													
+1527815274	شنه خونه	shna khóona	greenhouse	3	n. f.																													2
+1527818385	شناخته	shnáakhta, shinaakhtá	tombstone, tombstone inscription, epitaph	4	n. f.																													2
+1527811885	شوبلکه	shoblaká	centipede, millipede	1	n. f.																													2
+1589464565670	شوله	sholá, shóla	rice, thin, soft rice gruel/kasha (often plural شولې)	4	n. f.																													3
+1527822138	شولګره	sholgára	rice paddy, field growing rice	4	n. f.																													2
+1527813099	شولۍ	sholúy	a lazy woman	2	n. f. anim.																													2
+1610448095051	شوغه	shooghá, shóogha	stiff wool/hair	2	n. f.																													2
+1527821474	شومه	shooma	fodder, feed, food, nourishment	2	n. f.																													2
+1527821062	شومړه	shoomRá	skim milk, sour milk, ayran	3	n. f.																													2
+1527813427	شومتیا	shoomtyáa	stinginess, greediness	4	n. f.																													2
+1527821289	شونډه	shóonDa, shwúnDa	lip	4	n. f.																													2
+1527817905	شونتیا	shoontyáa	possibility, plausibility	2	n. f.																													2
 1586596579414	شورا	shooraa	council (an institution)	4	n. f.																													
 1586596657203	شوریٰ	shooraa	council (an institution)	4	n. f.																													
-1527823549	شوړه	shoRá	plug; a mouthful, morsel (slang for bribe); sieve, strainer	3	n. f.																													1
-1527815278	شپه	shpa	night	4	n. f.																													
-1678972400632	شپني	shpanee	shepherding, the job of a shepherd		n. f.																													
-1527814852	شپېلۍ	shpelúy	whistle, whistling, flute, fife, pipe, barrel (of a gun)	4	n. f.																													1
+1527823549	شوړه	shoRá, shóRa	plug; a mouthful, morsel (slang for bribe); sieve, strainer	3	n. f.																													3
+1527815278	شپه	shpa	night	4	n. f.																													2
+1678972400632	شپني	shpanée	shepherding, the job of a shepherd		n. f.																													2
+1733387853422	شپنې	shpané	female shepherd(s) (plural or inflected)																															2
+1527814852	شپېلۍ	shpelúy	whistle, whistling, flute, fife, pipe, barrel (of a gun)	4	n. f.																													3
 1633786594534	شپږه	shpúGa	louse (usually plural سپږې - lice)	0	n. f.																													
-1662099747089	شرنګا	shrangaa	ringing, jingle	4	n. f.																													
-1670565511071	شړومبه	shRombá, shRoombá	ayran, skim milk, sour milk	3	n. f.																													
-1527819163	شتمني	shtumunee, shtamunee	wealth, riches, prosperity	3	n. f.																													
+1662099747089	شرنګا	shrangáa	ringing, jingle	4	n. f.																													2
+1670565511071	شړومبه	shRombá, shRoombá	ayran, skim milk, sour milk	3	n. f.																													2
+1527819163	شتمني	shtumunée, shtamunée	wealth, riches, prosperity	3	n. f.																													2
 1527820064	شتۍ	shtúy	green mold; chlorella (seaweed); corn cob (without kernals)	2	n. f.																													
-1527822256	شعله	shU'lá	flame, blaze, glowing light	4	n. f.																													
-1586956759191	شعبه	shUba	branch, department	4	n. f.									شعبات	shUbáat																			
-1527818772	شبهه	shUbhá	doubt, suspicion	4	n. f.																													1
-1527821568	شګه	shúga	sand, pebbles, gravel	4	n. f.																													
+1527822256	شعله	shU'lá	flame, blaze, glowing light	4	n. f.																													2
+1586956759191	شعبه	shU'bá	branch, department	4	n. f.									شعبات	shUbáat																			2
+1527818772	شبهه	shUbhá, shubhá	doubt, suspicion	4	n. f.																													3
+1527821568	شګه	shúga	sand, pebbles, gravel	4	n. f.																													2
 1527822257	شغله	shUghlá	flame, blaze, glowing light	4	n. f.																													1
-1527817190	شکرګذاري	shUkurgUzaaree	thankfulness, gratitude	4	n. f.																													
+1527817190	شکرګذاري	shUkurgUzaarée	thankfulness, gratitude	4	n. f.																													2
 1582336832724	شمه	shUmá	juice (from fruit)	1	n. f.																													
-1582336825332	شمه	shúma	tent	1	n. f.																													
-1660900997178	شمه	shúma	a black tent of goat's wool	2	n. f.																													
+1582336825332	شمه	shúma	tent	1	n. f.																													2
+1660900997178	شمه	shúma	a black tent of goat's wool	2	n. f.																													2
 1661753509641	شڼا	shuNáa	rustle, rustling, neighing, ringing, roar, whistle (شڼهار)	4	n. f.																													
-1527814530	شوده	shuwda	milk	4	n. f.																													
+1527814530	شوده	shuwdá, shodá	milk	4	n. f.																													2
 1589464545375	شوله	shwúla	knife for timming a horse's hoof, nail clipper for horses	2	n. f.																													
 1527823183	سه برګه	si barga	clover, red clover	2	n. f.																													
 1527812256	سه شنبه	si shamba	Tuesday (Farsi)	4	n. f.																													
-1527811788	صبغه	sibgha	faith, religion	2	n. f.																													
-1527820317	سجده	sijdá	bowing down to the ground, prostrating (in religion)	4	n. f.									سجود	sUjóod																			
-1527818090	سکه	siká	coin; posture, figure, shape; respected, honored	4	n. f.																													
-1527821354	سلاح	siláah	weapon, firearm	4	n. f.									اسلحه	aslahá																			
-1527815466	سلسله	silsilá	series, succession, chain, consecutive order, range	4	n. f.																													1
-1527817908	سپاره	sipaara	Juz', one of the divisions of 30 parts of the Quran	4	n. f.																													
-1595409078831	سپیاکه	sipyáaka	mung bean bread,sweet brier; fork; dung-cake	4	n. f.																													1
-1527818471	سرکه	sirká	vinegar	4	n. f.																													
-1527815293	سیالي	siyaalee	competition, rivalry	3	n. f.																													
-1527814612	سکالو	skaalo	subject, matter, conversation, theme, talking; see ښکالو	1	n. f.																													
-1527819736	سکڼۍ	skaNúy	queen bee’s cell (in a beehive); handle (of a dish)	3	n. f.																													
-1672406384728	سکړوته	skaRwáta	hot coal, ember		n. f.																													
+1527811788	صبغه	sibghá, sabghá	faith, religion	2	n. f.																													2
+1527820317	سجده	sajdá, sijdá	bowing down to the ground, prostrating (in religion)	4	n. f.									سجود	sUjóod																			2
+1527818090	سکه	siká, sikká	coin; posture, figure, shape; respected, honored	4	n. f.																													2
+1527821354	سلاح	siláah, saláah	weapon, firearm	4	n. f.									اسلحه	aslahá																			2
+1527815466	سلسله	silsilá	series, succession, chain, consecutive order, range	4	n. f.																													3
+1527817908	سپاره	sipaará	Juz', one of the divisions of 30 parts of the Quran	4	n. f.																													2
+1595409078831	سپیاکه	sipyáaka	mung bean bread,sweet brier; fork; dung-cake	4	n. f.																													3
+1527818471	سرکه	sirká	vinegar	4	n. f.																													2
+1527815293	سیالي	siyaalée	competition, rivalry	3	n. f.																													2
+1527814612	سکالو	skaaló	subject, matter, conversation, theme, talking; see ښکالو	1	n. f.																													2
+1527819736	سکڼۍ	skaNúy	queen bee’s cell (in a beehive); handle (of a dish)	3	n. f.																													2
+1672406384728	سکړوته	skaRwáta	hot coal, ember		n. f.																													2
 1610794658533	سخۍ	skhúy	female calf, heifer	4	n. f.																													
-1588075239779	سکونډاره	skoonDaara	pinch; scratch, cut	4	n. f.																													
-1527820606	سمڅه	smútsa	cave, cavern		n. f.																													
+1588075239779	سکونډاره	skoonDáara	pinch; scratch, cut	4	n. f.																													2
+1527820606	سمڅه	smútsa	cave, cavern		n. f.																													2
 1527815695	سوبه	soba	victory	1	n. f.																													
 1527814370	سوږمه	soGmá	nostril	2	n. f.																													
-1527816508	سوهاګن	sohaagun	favourite wife, young bride	4	n. f.																													
-1527817383	سوکالي	sokaalee	rest, repose, tranquility, prosperity	4	n. f.																													
-1527816461	سوله	sóla, sóola	peace, reconciliation	4	n. f.																													
-1595516510095	صومعه	somi'á, sauma'á	convent, monastary, hermit's dwelling	2	n. f.																													
-1586634626497	سونه	sóna	wild duck, mallard	2	n. f.																													
-1586618237779	سو استفاده	soo istifaada	abuse, misuse, ill use	4	n. f.																													
-1527815697	صوبه	soobá	region, area	4	n. f.																													1
-1527817498	سوکړه	sookRá	famine, starvation, serious hunger/lack of food, drought, crop failure	4	n. f.																													1
-1675137959403	سوکوهنه	sookwahúna	boxing		n. f.																													
-1527823042	سولۍ	soolúy	gallows, hanging, the stake	4	n. f.																													
+1527816508	سوهاګن	sohaagún	favourite wife, young bride	4	n. f.																													2
+1527817383	سوکالي	sokaalée	rest, repose, tranquility, prosperity	4	n. f.																													2
+1527816461	سوله	sóla, sóola	peace, reconciliation	4	n. f.																													2
+1595516510095	صومعه	somi'á, sauma'á	convent, monastary, hermit's dwelling	2	n. f.																													2
+1586634626497	سونه	sóna	wild duck, mallard	2	n. f. anim.																													
+1586618237779	سو استفاده	soo istifaadá	abuse, misuse, ill use	4	n. f.																													2
+1527815697	صوبه	soobá	region, area	4	n. f.																													3
+1527817498	سوکړه	sookRá, sókRa	famine, starvation, serious hunger/lack of food, drought, crop failure	4	n. f.																													3
+1675137959403	سوکوهنه	sookwahúna	boxing		n. f.																													2
+1527823042	سولۍ	soolúy	gallows, hanging, the stake	4	n. f.																													2
 1527816507	سوره	soora	a Sura, chapter of the Quran	4	n. f.																													
-1594373306641	سوري	soorée	large sack	4	n. f.																													
-1527819631	سوریه	sooriya	Syria	4	n. f.																													
-1527823220	سوریته	sooryatá	concubine; female slave that has borne a child from her master	2	n. f.																													
+1594373306641	سوري	soorée	large sack	4	n. f.																													2
+1527819631	سوریه	sooriyá	Syria	4	n. f.																													2
+1527823220	سوریته	sooryatá, sooreetá	concubine; female slave that has borne a child from her master	2	n. f. anim.																													2
 1610448732123	سوټه	sóoTa	animal offspring	2	n. f.																													1
 1610448778665	سوټکه	sooTáka	corn cob	2	n. f.																													
 1527818000	سویه	soyá	seedlings, sprouts	2	n. f.																													
 1527818001	سویه	sóya	doe, rabbit, hare	4	n. f.																													1
-1649701807502	سوزني	soznée	swaddling, swaddle, a band/ribbon used for tying up babies	4	n. f.																													
-1527811585	سپاخه	spaakha	a type of sewing or needlework	1	n. f.																													
-1527818375	سپانده	spáanda	wild rue, Syrian rue	3	n. f.																													
+1649701807502	سوزني	soznée, sozanée	swaddling, swaddle, a band/ribbon used for tying up babies	4	n. f.																													2
+1527811585	سپاخه	spaakhá	a type of sewing or needlework	1	n. f.																													2
+1527818375	سپانده	spáanda	wild rue, Syrian rue	3	n. f.																													2
 1527817907	سپاره	spaara	plowshare	4	n. f.																													
-1661623538015	سپارلي	spaarlée	riding (on a horse or vehicle), mounting, horesback riding	4	n. f.																													
-1586374140758	سپارښتنه	spaaruxtúna	order, commission, assignment; recommendation, asking or interceding on someone’s behalf	3	n. f.																													
-1527821046	سپاسنامه	spaasnaama	certificate of merit, appreciation letter, certification of appreciation	3	n. f.																													
-1527812406	سپما	spamaa	saving, economizing, austerity	4	n. f.																													
-1527822229	سپړنه	spaRúna	search, searching, finding, research, quest; opening, hatching, birth	3	n. f.																													
-1527817451	سپین سترګي	speen sturgee	rudeness, insolence, boldness ??	3	n. f.																													
+1661623538015	سپارلي	spaarlée	riding (on a horse or vehicle), mounting, horesback riding	4	n. f.																													2
+1586374140758	سپارښتنه	spaaruxtúna	order, commission, assignment; recommendation, asking or interceding on someone’s behalf	3	n. f.																													2
+1527821046	سپاسنامه	spaasnaamá, sipaasnaamá	certificate of merit, appreciation letter, certification of appreciation	3	n. f.																													2
+1527812406	سپما	spamáa	saving, economizing, austerity	4	n. f.																													2
+1527822229	سپړنه	spaRúna	search, searching, finding, research, quest; opening, hatching, birth	3	n. f.																													2
+1527817451	سپین سترګي	speen sturgée	rudeness, insolence, boldness ??	3	n. f.																													2
 1527814830	سپینه	speena	silver; money; fat on meat; egg white; resolution	4	n. f.																													
-1527816173	سپیني	speenee	Achilles tendon	3	n. f.																													
-1527823572	سپوږمکۍ	spoGmakúy	satellite	3	n. f.																													
-1527814788	سپوږمۍ	spoGmúy	moon	4	n. f.																													
+1527816173	سپیني	speenée	Achilles tendon	3	n. f.																													2
+1527823572	سپوږمکۍ	spoGmakúy	satellite	3	n. f.																													2
+1527814788	سپوږمۍ	spoGmúy	moon	4	n. f.																													2
 1577408787088	سپرې	spre	spray	3	n. f.																													
 1715387062699	سپرې کول	spre kawúl	to spray	3	v. stat. comp. trans.	1577408787088	spray																											1
 1715387069476	سپرې کېدل	spre kedúl	to be sprayed	3	v. stat. comp. instrans.	1577408787088	be	sprayed																										
-1632350233969	سپږه	spúGa	louse (usually plural سپږې - lice)	4	n. f.																													
-1527814371	سپږمه	spuGmá	nostril	4	n. f.																													
-1527823457	سپرغه	spúrgha	well (hole for a kahreez کارېز - underground irrigation tunnel), pit, hole, foxhole	4	n. f.																													
-1527821667	سپرغۍ	spurghúy	spark, sparkle, flicker	3	n. f.																													
-1527811678	سپښته	spuxta	ankle, pastern; ankle bone, knuckle bone; foundation, basis	4	n. f.																													
-1527815302	سپۍ	spúy	female dog	4	n. f.																													
-1578325579046	سپیازه	spyáaza	misscarriage, premature/immature birth; pulse bread	3	n. f.																													
-1527815676	سرنجه	srunja	sediment	2	n. f.																													
-1527813638	ستاینه	staayúna	praising, commendation, mention	4	n. f.																													1
-1660900918442	ستما	stamáa	shortness of breath, laboured breathing, quick breathing	4	n. f.																													
-1527816844	سترګبندي	stargbandee	juggling, sleight of hand	3	n. f.																													
-1527820824	ستوماني	stomaanée	exhaustion, tiredness, fatigue; regret, repentance; reluctance, unwillingness	4	n. f.																													1
-1527821549	ستومانتیا	stomaantiyaa	tiredness, exhaustion	4	n. f.																													
-1527815305	ستونزه	stoonza	problem, difficulty, issue	4	n. f.																													
-1527823573	ستوربېړۍ	storbeRúy	satellite	1	n. f.																													
-1648325412581	ستورپېژندنه	storpejzandúna	astronomy	2	n. f.																													
-1678446742525	ستراتیژي	straateejzée	strategy		n. f.																													
-1527811580	ستن	stun	needle, injection; pillar, mast	4	n. f.																													1
-1713878825356	ستن وهل	stún wahúl	to give a needle, inject, innoculate, vaccinate		v. dyn. comp. trans.	1527811580	inject																											1
-1713879065971	ټیکه لګول	Teeká lugawúl	to give a needle, inject, innoculate, vaccinate		v. dyn. comp. trans.	1527816001																												1
-1527815307	سترګه	stúrga	eye	4	n. f.																													1
-1527821240	ستړیا	stuRiyaa	fatigue, exhaustion	4	n. f.																													
-1617989871203	ستړتیا	stuRtyaa, stuRtiyaa	tiredness, fatigue, strain, tedious chore etc.	3	n. f.																													
+1632350233969	سپږه	spúGa	louse (usually plural سپږې - lice)	4	n. f.																													2
+1527814371	سپږمه	spuGmá	nostril	4	n. f.																													2
+1527823457	سپرغه	spúrgha, spurghá	well (hole for a kahreez کارېز - underground irrigation tunnel), pit, hole, foxhole	4	n. f.																													2
+1527821667	سپرغۍ	spurghúy	spark, sparkle, flicker	3	n. f.																													2
+1527811678	سپښته	spuxtá	ankle, pastern; ankle bone, knuckle bone; foundation, basis	4	n. f.																													2
+1527815302	سپۍ	spúy	female dog	4	n. f.																													2
+1578325579046	سپیازه	spyáaza, supyaazá	misscarriage, premature/immature birth; pulse bread	3	n. f.																													2
+1527815676	سرنجه	srunjá	sediment	2	n. f.																													2
+1527813638	ستاینه	staayúna	praising, commendation, mention	4	n. f.																													3
+1660900918442	ستما	stamáa	shortness of breath, laboured breathing, quick breathing	4	n. f.																													2
+1527816844	سترګبندي	sturgbandée	juggling, sleight of hand	3	n. f.																													2
+1527820824	ستوماني	stomaanée	exhaustion, tiredness, fatigue; regret, repentance; reluctance, unwillingness	4	n. f.																													3
+1527821549	ستومانتیا	stomaantyáa	tiredness, exhaustion	4	n. f.																													2
+1527815305	ستونزه	stóonza	problem, difficulty, issue	4	n. f.																													2
+1527823573	ستوربېړۍ	storbeRúy	satellite	1	n. f.																													2
+1648325412581	ستورپېژندنه	storpejzandúna	astronomy	2	n. f.																													2
+1678446742525	ستراتیژي	straateejzée	strategy		n. f.																													2
+1527811580	ستن	stun	needle, injection; pillar, mast	4	n. f.																													3
+1713878825356	ستن وهل	stún wahúl	to give a needle, inject, innoculate, vaccinate		v. dyn. comp. trans.	1527811580	inject																											3
+1713879065971	ټیکه لګول	Teeká lugawúl	to give a needle, inject, innoculate, vaccinate		v. dyn. comp. trans.	1527816001																												3
+1527815307	سترګه	stúrga	eye	4	n. f.																													3
+1527821240	ستړیا	stuRyáa	fatigue, exhaustion	4	n. f.																													2
+1617989871203	ستړتیا	stuRtyáa	tiredness, fatigue, strain, tedious chore etc.	3	n. f.																													2
 1527820361	سده	sUddá	hindrance, obstacle; bolt, lock (in a door); embolism, thrombosis	2	n. f.																													
-1527814372	سږمه	suGmá	nostril	3	n. f.																													
+1527814372	سږمه	suGmá	nostril	3	n. f.																													2
 1594905387399	سکته	sukáta	patience, endurance; satisfaction	4	n. f.																													
-1527823413	سخه	sukha	malice, spite, malicious joy, vindictiveness	3	n. f.																													
+1527823413	سخه	sukhá, sikhá	malice, spite, malicious joy, vindictiveness	3	n. f.																													2
 1527812058	سله	sula	brick, casting, ingot	2	n. f.																													
-1527820676	سلګۍ	sulgúy	sobbing, weeping, wheezing, hiccup, death rattle	4	n. f.																													1
-1527816466	صلح	sÚlha	peace, compromise, reconcilliaton	3	n. f.																													1
-1714728304819	صلح کول	sÚlha kawúl	to make peace, reconcile	3	v. dyn. comp. trans.	1527816466	make	peace																										1
-1527815315	سلنه	suluna	percentage, rate	3	n. f.																													
+1527820676	سلګۍ	sulgúy	sobbing, weeping, wheezing, hiccup, death rattle	4	n. f.																													3
+1527816466	صلح	sÚlha	peace, compromise, reconcilliaton	3	n. f.																													3
+1714728304819	صلح کول	sÚlha kawúl	to make peace, reconcile	3	v. dyn. comp. trans.	1527816466	make	peace																										3
+1527815315	سلنه	sulúna	percentage, rate	3	n. f.																													2
 1678361147109	سنتي	sUnnatee	circumcision ceremony		n. f.																													
 1527819267	سره	súra	manure, fertilizer	3	n. f.																													
-1527819806	صراحي	sUraahée	clay pitcher with a long neck, flask, decanter	4	n. f.																													
-1527822676	سرجه	súrja	frozen snow crust	2	n. f.																													
+1527819806	صراحي	sUraahée, suraahée	clay pitcher with a long neck, flask, decanter	4	n. f.																													2
+1527822676	سرجه	súrja, surjá	frozen snow crust	2	n. f.																													2
 1527821757	سرکۍ	surkúy	gingivitis, inflammation of the gums	1	n. f.																													
 1527823221	سریته	sUryatá	see سوريته	2	n. f.																													
 1527818999	سستي	sUstée	laziness, sluggishness, slowness, weakness, impotence, carelessness, negligence	4	n. f.																													
-1527823321	سټ سودا	suT soodáa	purchase without weighing	3	n. f.																													
+1527823321	سټ سودا	suT sodáa, siT sawdáa	purchase without weighing	3	n. f.																													2
 1527820282	سټه	suTa	root; base, basis, foundation; pillar, post, support; trunk (of a tree), log	4	n. f.																													
 1527823324	سټه	suTa	trunk (of a tree), basis, foundation, pillar, post, support	4	n. f.																													
 1527823325	سټه	suTa	massacre, carnage, slaughter	3	n. f.																													
 1611063681366	سوه	swa	hoof (of a horse)	2	n. f.																													
-1586373724280	سوځېدنه	swadzeduna	burn, burning	4	n. f.																													
+1586373724280	سوځېدنه	swadzedúna	burn, burning	4	n. f.																													2
 1527814144	سوکه	swaka	charred log	2	n. f.																													
 1527816506	سوره	swara	a daughter or girl given away in marriage as retribution, ransom, in exchange	4	n. f.																													
 1586634603690	سونه	swúna	horse fly	2	n. f.																													
@@ -6762,7 +6766,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1613563259315	ټوقه	Tóqa	joke	4	n. f.																													
 1527812312	توره	tora	detachment of warriors, small villiage, nomad’s camp; emnity	4	n. f.																													
 1527818349	توره	tóra	darkness, dark	4	n. f.																													
-1527816369	تورسرې	torsăre	widow, woman	4	n. f.																													
+1527816369	تورسرې	torsare	widow, woman	4	n. f.																													
 1527816443	توړۍ	toRúy	aunt; gay, queer, pansy, homosexual (slang)	4	n. f.																													
 1527816436	توړۍ زۍ	toRuy zúy	cousin (daughter of maternal aunt)	4	n. f.																													
 1527814801	ټوټه	ToTá	piece, scrap, fragment, part	4	n. f.																													1
@@ -6810,11 +6814,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1568411412590	څړه خشمه	tsaRá khushma	saw (tool)	1	n. f.																													
 1589906471518	څرګه	tsárga	little owl, Athene poctua	2	n. f.																													
 1675336287530	څرګندنه	tsargandúna	expression, expressing		n. f.																													
-1527817010	څرګندونه	tsărgundawúna	explanation, statement, communication, advertisement	4	n. f.																													1
+1527817010	څرګندونه	tsargundawúna	explanation, statement, communication, advertisement	4	n. f.																													1
 1588161577332	څرخي څوکۍ	tsarkhee tsokúy	wheelchair	3	n. f.																													
 1527820524	څرمن	tsarmún, tsarmán	pelt, skin, hide, leather	4	n. f.																													1
 1588161442976	څرمنه	tsarmúna	pelt, skin, hide, leather	3	n. f.																													
-1576440551847	څرمښکۍ	tsărmUxkúy	lizard	3	n. f.																													
+1576440551847	څرمښکۍ	tsarmUxkúy	lizard	3	n. f.																													
 1527821863	څرښه	tsárxa	footprint, trace, mark, clue	2	n. f.																													
 1586955651545	څټه	tsáTa	full bag, full sack, saddlebag	3	n. f.																													
 1527814826	څینځښه	tseendzuxa	frog	3	n. f.																													
@@ -11015,7 +11019,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814240	سرنوشت	sarnawísht	lot, fortune, destiny, fate	3	n. m.																													2
 1527821881	سرود	saróod, sUróod	song, melody, anthem (ملي سرود - national anthem)	3	n. m.																													2
 1527817685	سرپرست	sarparást	caretaker, guardian, custodian, trustee	4	n. m. anim. unisex																													2
-1672943437546	سرپوش	sărpósh	lid, top, cover, cap; valve (heart)		n. m.																													2
+1672943437546	سرپوش	sarpósh	lid, top, cover, cap; valve (heart)		n. m.																													2
 1527822276	سرپوښ	sarpóx	lid, top, cover, cap; valve (heart)	4	n. m.																													3
 1527820569	سراج	sarráaj, siráaj	harness maker, saddler	2	n. m. anim. unisex																													2
 1527811724	سرسر	sarsár	on the top, surface; selected; high, cold wind	4	n. m.																													2
@@ -13637,9 +13641,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811442	توانېدل	twaanedúl	become able, become strong or good enough to…	4	v. intrans.		become	able																										2
 1527813837	سوځېدل	swadzedúl	to burn	4	v. intrans.		burn,burns,burning,burnt,burned																					TRUE						3
 1527814025	ختل	khatúl	to climb, ascend, rise, go up; sprout, grow up; to fall out, to fall off, to leave/dissapear; to turn out to be ...; to give a sentence (in law)	3	v. intrans.		climb											خېژ	khejz			خوت	khot											3
-1585228551150	درتلل	dartlúl	to come (to you / second person)	3	v. intrans.		come,comes,coming,came,come											درځ	dărdz	درش	dársh	درغی	dărghay	درغلل	dárghlul	درغلی	dărghúlay		true		2	3		2
+1585228551150	درتلل	dartlúl	to come (to you / second person)	3	v. intrans.		come,comes,coming,came,come											درځ	dardz	درش	dársh	درغی	darghay	درغلل	dárghlul	درغلی	darghúlay		true		2	3		2
 1527815216	راتلل	raatlúl	to come	4	v. intrans.		come,comes,coming,came,come											راځ	raadz	راش	ráash	راغی	ráaghay	راغلل	ráaghlul	راغلی	raaghúlay		TRUE		2	3		3
-1585228579997	ورتلل	wartlúl	to come / go over to (third person or place)	4	v. intrans.		come,comes,coming,came,come											ورځ	wărdz	ورش	wársh	ورغی	wărghay	ورغلل	wárghlul	ورغلی	wărghúlay		true		2	3		2
+1585228579997	ورتلل	wartlúl	to come / go over to (third person or place)	4	v. intrans.		come,comes,coming,came,come											ورځ	wardz	ورش	wársh	ورغی	warghay	ورغلل	wárghlul	ورغلی	warghúlay		true		2	3		2
 1527813022	ټوخېدل	Tookhedúl	to cough	4	v. intrans.		cough																											3
 1527816495	تښتېدل	tuxtedúl	to run off, escape, flee	4	v. intrans.		escape																					TRUE						3
 1527821558	شړېدل	shaRedúl	to be decomposed, break down, fall apart; to be boiled soft (meat)	1	v. intrans.		fall	apart																										2
@@ -14218,7 +14222,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1617989967824	مشتقېدل	mUshtaqedúl	to be derived, created	3	v. stat. comp. intrans.	1617823714793																												2
 1527817100	مسکېدل	mUskedúl, muskedúl	to smile	3	v. stat. comp. intrans.	1527823708																												2
 1527823710	مسکی کېدل	mUskay kedúl	to smile	4	v. stat. comp. intrans.	1527823708																												3
-1592915709588	مستردېدل	mUstarădedul	to be rejected, turned down	4	v. stat. comp. intrans.	1592915611692																												
+1592915709588	مستردېدل	mUstaradedul	to be rejected, turned down	4	v. stat. comp. intrans.	1592915611692																												
 1527820641	متهمېدل	mUttahamedúl, mUthamedúl	to be accused, charged, suspected, indicted	3	v. stat. comp. intrans.	1527820639																												2
 1527818504	نافذېدل	naafizedúl	to be put into action, to be put into force or made active or influencing	2	v. stat. comp. intrans.	1527818502																												2
 1579390959262	نچوړېدل	nachoRedúl	to be squeezed, compressed, wrung out, pressed out (نچوړېدل)	4	v. stat. comp. intrans.	1579390881324																												2
@@ -14344,7 +14348,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815005	تر شا کېدل	tur shaa kedúl	to fall back, give up, turn back	4	v. stat. comp. intrans.	1527816034																												2
 1645167528986	ترخېدل	turkhedúl	to become bitter, harsh, spicy, miserable	4	v. stat. comp. intrans.	1527815366																												2
 1527817568	ترورېدل	turooredúl, trooredúl	to become confused, flustered, upset, distressed	4	v. stat. comp. intrans.	1527816401																												2
-1527818239	ترسره کېدل	tursara kedul, tărsara kedul	to be carried out, completed, finished, accomplished	4	v. stat. comp. intrans.	1527818238																												
+1527818239	ترسره کېدل	tursara kedul, tarsara kedul	to be carried out, completed, finished, accomplished	4	v. stat. comp. intrans.	1527818238																												
 1648548487316	وادېدل	waadedúl	to be married, married off	4	v. stat. comp. intrans.	1527815394																												2
 1675146238617	واکمنېدل	waakmanedúl	to come to power, to gain control, to come in authority	4	v. stat. comp. intrans.	1527816037																												2
 1592559905017	وازېدل	waazedúl	to open, become open	4	v. stat. comp. intrans.	1592559895632																												2
@@ -15081,8 +15085,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816064	زغمل	zghamúl	to endure, bear, tolerate, take on, digest	4	v. trans.		endure															زغامه	zghaamu											3
 1527817865	غځول	ghadzawúl	to extend, to stretch out, to expand	3	v. trans.		extend																											2
 1527817786	بخښل	bakhxúl	to forgive, to pardon, to give, grant	4	v. trans.		forgive,forgives,forgiving,forgave,forgiven																											3
-1527817457	درکول	darkawúl	to give (to second person - you, you pl.)	4	v. trans. irreg.		give,gives,giving,gave,given																			درکړی	dărkúRay							2
-1527813914	ورکول	warkawúl	to give (to him/her/it - towards third person)	4	v. trans.		give,gives,giving,gave,given																			ورکړی	wărkúRay							3
+1527817457	درکول	darkawúl	to give (to second person - you, you pl.)	4	v. trans. irreg.		give,gives,giving,gave,given																			درکړی	darkúRay							2
+1527813914	ورکول	warkawúl	to give (to him/her/it - towards third person)	4	v. trans.		give,gives,giving,gave,given																			ورکړی	warkúRay							3
 1527818537	ځړول	dzaRawúl	to hang, to suspend, to lower down, to let down	3	v. trans.		hang,hangs,hanging,hung,hung																											2
 1527815399	وهل	wahúl	to hit, strike	4	v. trans.		hit,hits,hitting,hit,hit															واهه	waahu											3
 1527815240	ساتل	saatúl	to keep, protect, watch over; to hold	4	v. trans.		keep,keeps,keeping,kept,kept																											3
@@ -15240,7 +15244,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820327	کړپول	kRapawúl, kaRpawúl	to chew noisily, to eat with crunching, to gnaw, to gnash teeth	2	v. trans.																													2
 1527820328	کړچول	kRuchawúl, kuRchawúl	to chew, to grind teeth, to grit teeth	3	v. trans.																													2
 1527811290	کښېنول	kxenawúl	to seat, to make or have someone sit down	4	v. trans.																								true					2
-1527811985	له لاسه ورکول	la laasa wărkawul	to lose	4																														
+1527811985	له لاسه ورکول	la laasa warkawul	to lose	4																														
 1714726876667	دلاسه ورکول	dulaasa warkawúl	to lose																															3
 1527814084	لګول	lagawúl, lugawúl	to touch, join, bind, use, take, place; to turn on	4	v. trans.																													3
 1527812868	لرل	larúl	to have, possess	4	v. trans.																	لاره	laaru											3
@@ -15829,7 +15833,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1674758199799	وانه	waanú	the perfective head verb marker وا plus the negative نه																															2
 1527816733	وفرت کول	wafrat kawúl	to abound in, to have plenty of	2																														2
 1586683422384	وربدل کول	warbadal kawúl	to change	3																														2
-1527817287	وراوږد کول	wărooGd kawul	to stretch out	4																													true	
+1527817287	وراوږد کول	warooGd kawul	to stretch out	4																													true	
 1527818304	ورپه شا کول	warpu shaa kawúl	to load (on someone’s back)	4																														2
 1527812295	ورسره	warsará	with him, with them	4																														3
 1527820851	ورټولېدل	warToledúl	to be gathered, collected, focused	3																														2
