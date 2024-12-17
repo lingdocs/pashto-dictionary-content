@@ -395,7 +395,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1678795274140	چپي	chapee	over-thrown, turned over		adj.																													
 1527816655	چریکي	chareekée	guerrilla	4	adj.																													2
 1594128590119	چرمي	charmée	leather	3	adj.																													2
-1527823013	چټ	chaT	ruined, spoiled, perished, annihilated	4	adj.																													2
+1527823013	چټ	chaT	ruined, spoiled, perished, annihilated	4	adj.																													
 1527811230	چټک	chaTák	quick, fast	4	adj.																													3
 1527814376	چټل	chaTál	filthy, foul, dirty	4	adj.																													2
 1527816595	چټي	chaTée	foolish, stupid, absurd, useless, harmful	4	adj.																													2
@@ -3959,7 +3959,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527822851	بخارۍ	bUkhaarúy	furnace, heater	4	n. f.																													2
 1527811479	بللګۍ	bulalgúy	a woman that gives birth every year; cattle that give increase each year	3	n. f.																													3
 1527821971	بن	bun	second wife of own husband	4	n. f. anim.																													2
-1527816392	بنځۍ	bundzúy	stepdaughter, daughter of one wife (under polygamy)	4	n. f. anim.																													2
+1527816392	بنځۍ	bundzúy, bUndzúy	stepdaughter, daughter of one wife (under polygamy)	4	n. f. anim.																													2
 1661756556591	بړبوکۍ	buRbookúy	whirlwind, swirl, tornado, twister, storm, sandstorm	4	n. f.																													2
 1527822647	برقعه	bUrq'á	veil, burka	4	n. f.																													3
 1715987100030	برقع	bUrq'á	veil, burka	4	n. f.																													3
@@ -5839,7 +5839,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812336	پاچایي	paachaayee	kingdom, monarchy, sultanate	4	n. f.																													
 1527812332	پاچهي	paachahée	kingdom, monarchy, sultanate, reign	0	n. f.																													2
 1527814395	پاډه	paaDá	bandage, ribbon	4	n. f.																													2
-1574786441466	پاده	paadá	herd	4	n. f.																													2
+1574786441466	پاده	paadá	herd	4	n. f.																													
 1527815143	پادشاه	paadisháah, paadsháa	king	4	n. m. anim.																													2
 1617990414673	پاغونده	paaghoondá	bunch, mass, puffs (of smoke)	3	n. f.																													3
 1527814394	پاهه	paahá	gauze, cotton padding placed under bandage	4	n. f.																													
@@ -7774,7 +7774,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813561	بهتان	bUhtáan	false accusation	4	n. m.																													2
 1527812514	بجاز	bujáaz	cloth merchant	4	n. m.																													2
 1527815620	بلغار	bulgháar	gentle breeze	3	n. m.																													2
-1527816393	بنځی	bundzáy	stepson, son of one wife (under polygamy)	4	n. m.																													2
+1527816393	بنځی	bundzáy, bUndzáy	stepson, son of one wife (under polygamy)	4	n. m.																													2
 1527812516	بنسټ	bunsúT	base, foundation	3	n. m.																													2
 1527816598	بنسټګر	bunsuTgár	founder	4	n. m.																													2
 1527811703	بنیاد	bUnyáad	foundation, basis, base	4	n. m.																													3
@@ -11931,7 +11931,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588758761746	څپر	tsapúr, tspur	threshing rake; flat crown of a mountain	4	n. m.																													2
 1588758724677	څپر	tsápur, tspur	hut, (roof) cornice		n. m.																													2
 1527822239	څپرکی	tsapúrkay	twig, sprig, shoot; chapter (of a book); heap, pile; shavings, cuttings; scale (of a fish), flake	2	n. m.																													2
-1574786610911	څړ	tsaR	grazing, pasturage; feed, fodder	4	n. m.																													2
+1574786610911	څړ	tsaR, tsuR	grazing, pasturage; feed, fodder	4	n. m.																													2
 1568411368762	څړه توب	tsaRa tób	solitude, seclusion, lonliness	1	n. m.																													2
 1568411468681	څړه وړی	tsaRa wúRay	a traveller without luggage; a traveller able to go on a footpath	1	n. m.																													2
 1527818338	څراغدان	tsaraaghdáan	light holder, lantern holder	4	n. m.																													2
@@ -13088,7 +13088,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1715425672166	مېرنی	meranáy	step-, a relative of half or non-blood	4	adj.																													3
 1527812359	حضرت	hazrát	Arabic term of respect, like sir or Mr., used for prophets etc.	4	pref. / n. m.																													2
 1527816307	باره	baará	about, concerning, regarding (په باره کې)	4	prep.																													2
-1527815200	پر	pur	on, upon	4	prep.																													2
+1527815200	پر	pur, par	on, upon	4	prep.																													2
 1527812535	دا	daa	this, that, demonstrative pronoun	4	pron.																													3
 1578084337695	دا	daa	she (near)	4	pron.				دې	de																								3
 1527813116	دغه	dágha	this, these, demonstrative pronoun, him, her it	4	pron.																													2
@@ -13429,7 +13429,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586341486758	خود داري کول	khood daaree kawul	to abstain, avoid, evade	3	v. dyn. comp. trans.	1586341361713																												2
 1527818184	خدای پاماني کول	khUdaay paamaanee kawul	to say goodbye, to say farewell	4	v. dyn. comp. trans.	1527814566																												2
 1527818982	خر وهل	khúr wahúl	to snore, to whine	4	v. dyn. comp. trans.	1527820910																												2
-1594218685475	خړ وهل	khÚR wahúl	to vomit, puke, throw up, be sick	3	v. dyn. comp. trans.	1594218664126																												2
+1594218685475	خړ وهل	khÚR wahúl, khúR wahúl	to vomit, puke, throw up, be sick	3	v. dyn. comp. trans.	1594218664126																												2
 1586340905409	خرکی وهل	khurkáy wahúl	to snore, wheeze, purr	3	v. dyn. comp. trans.	1527818983																												2
 1527811388	خواله کول	khwáala kawúl	to be open in conversation, to confide a secret to someone	3	v. dyn. comp. trans.	1527811387																												2
 1527817380	خوښي کول	khwáxee kawúl	to rejoice	4	v. dyn. comp. trans.	1527817379																												2
