@@ -1882,6 +1882,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1708738220484	پته لګېدل	pata lugedúl	to become known, get figured out, turn out																															3
 1664030195862	پټاکی	paTaakáy	drunk, intoxicated	2	adj.																													3
 1527822372	پتیر	patéer	unleavened (bread, dough)	4	adj.																													3
+1738716920194	فطیر	fatéer	unleavened (bread, dough)	4	adj.																													
 1527813815	پتلون پوش	patloon pósh	dressed in European style	3	adj.																													3
 1604511739849	پښتني	paxtanée, puxtanée	Pashtun	4	adj.																													3
 1527814249	پېچلی	pechúlay	complicated, involved, unclean, twisted, wound	4	adj.																													3
@@ -3171,6 +3172,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818118	هرځای	hárdzaay	everywhere, every place	4	adv.																													2
 1527821294	هرګز	hárgíz	never, not at all	3	adv.																													2
 1572991416788	هرو مرو	haroo maroo	definately, for sure, I'll bet, certainly	4	adv.																													2
+1738718325714	ارو مرو	aroo maroo	definately, for sure, I'll bet, certainly	4	adv.																													
 1527812670	هسې	háse	just, basically; like that, such	3	adv. / det.																													3
 1527812671	حتماً	hatmán	definitely	4	adv.																													2
 1575642923868	حتیٰ	hattáa	even, in fact	3	adv.																													2
@@ -3966,6 +3968,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1578009902092	برقه	bUrqá, burqá	veil, burka	4	n. f.																													2
 1527811794	بت پرستي	bUt parastée	idolatry, idol-worshipping	4	n. f.																													3
 1591026261598	بزه	buza, bza	she-goat	4	n. f. anim.																													2
+1738716464064	بخیلي	bakheelée	greediness, stinginess, jealousy, self-interest, miserliness		n. f.																													
 1527823619	بزه	bUzá	moth	4	n. f.																													2
 1527823384	بزدلي	bUzdilée	cowardice	4	n. f.																													3
 1584533419063	بزکشي	bUzkashée, buzkashée	buzkashi (the Afghan national sport played with horses and a dead goat)	4	n. f.																													2
@@ -4964,7 +4967,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527812764	خاوره	kháawra	ground, land, area	4	n. f.																													3
 1527820406	خایه	khaayá	testicle	3	n. f.																													2
 1527820395	خبرپاڼه	khabarpáaNa	news release, bulletin, news letter	3	n. f.																													2
-1527816236	خبرتیا	khabartyáa	knowledge	4	n. f.																													2
+1527816236	خبرتیا	khabartyáa	knowledge, advertisement, dissemination of information	4	n. f.																													2
 1527812766	خبره	khabúra	thought, speech, idea, thing, remark	4	n. f.																													3
 1527813351	خچه ګوته	khacha goota	little finger	4	n. f.																													
 1527819138	خځله	khadzúla, khadzíla	waste, trash, rubbish, garbage; poop, feces, excrement	4	n. f.																													3
@@ -6557,6 +6560,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819663	ټاپه	Taapá	stamp, seal, mark, trace design (embroidery)	4	n. f.																													3
 1715427748515	ټاپه لګول	Taapá lagawúl	to stamp	4	v. dyn. comp. trans.	1527819663	stamp																											3
 1527819272	ټاپو وزمه	Taapoo wázma	penninsula	3	n. f.																													2
+1738716754941	ټاپووزمه	Taapoowazma	penninsula	3	n. f.																													
 1527822162	طاقچه	taaqchá	shelf, niche, bay	3	n. f.																													2
 1527822438	تاقچه	taaqchá	shelf, niche (تاخچه)	3	n. f.																													2
 1527817141	تاړي	taaRée	clapping, applause, cheering	4	n. f.																													2
@@ -7355,7 +7359,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816143	اغېړ	aghéR	nausea, illness, indigestion, dyspepsia	4	n. m.																													2
 1527813418	اغېز	aghéz	influence, effect, affect, action	3	n. m.																													2
 1527820597	اغیار	aghiyáar	outsider, stranger, foreigner, enemy ??	3	n. m.																													2
-1589024428688	اغزی	aghzáy	see ازغی	4	n. m.																													
+1589024428688	اغزی	aghzáy	thorn, see ازغی	4	n. m.																													
 1527816073	اهمیت	ahmiyát, ahammiyát 	importance, significance	4	n. m.																													3
 1527821156	اهنګ	aháng	pitch, tone	4	n. m.																													2
 1527820512	عهد	ahd	promise, obligation, assurance, treaty, covenant	4	n. m.																													2
@@ -18138,7 +18142,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1715611089738	سوټ	sooT	suit		n. m.																													3
 1715611107676	سوټکیس	sooTkáys	suitcase		n. m.																													3
 1715611355052	د ګرمۍ موسم	du garmúy mosúm	summer		n. m.																													3
-1715611449193	اتوار	itwáar	Sunday (Urdu)		n. m.																													3
+1715611449193	اتوار	itwáar	Sunday		n. m.																													3
 1715611481125	تورې چشمې	tore chashmé	sunglasses																															3
 1715611696759	د نمر چشمې	du nmar chashmé	sunglasses																															2
 1715611526837	د نمر رڼا	du nmar raNáa	sunlight		n. f.																													3
@@ -18533,3 +18537,20 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1733482854465	مسیحایي	maseehhaayee	an effective treatment/medicine, a miraculous work like Jesus/Isa would do		n. f.																													
 1735582822855	حوېلۍ	hawelúy	courtyard, open yard space in a house		n. f.																													
 1735583221741	وخته	wákhta	already, earlier		adv.																													
+1738716088140	ستاج	staaj	residency (eg. practical work in hospital for doctors in hospital etc.)		n. m.																													
+1738716177126	عصابي	asaabée	nervous, mental (eg. nervous breakdown عصابي حمله), to do with nervous system		adj.																													
+1738716278244	اسفنج	isfánj	sponge		n. m.																													
+1738716284983	اسپنج	ispánj	sponge		n. m.																													
+1738716288732	سپنج	spanj	sponge		n. m.																													
+1738716520927	ایلا بیلا	eelaa beelaa	barely, just, scarcely, only, merely		adv.																													
+1738716654275	ایلا	eelaa	barely, just, scarcely, only, merely		adv.																													
+1738716657652	خړوبی	khaRobáy	waterfall		n. m.																													
+1738716954935	فسحه	fas`ha	Passover (Jewish holiday)		n. f.																													
+1738717028840	لوستونکی	lwastóonkay, lwustóonkay	reader		n. m. anim. unisex																													
+1738717118094	نامه	naamá	suffix meaning certificate (eg. طلاق نامه - certificate of divorce)																															
+1738717387098	ټوپن	Topán	universe, world		n. m.																													
+1738717499784	درملګر	darmalgár	doctor		n. m. anim. unisex																													
+1738718196726	وېښتان تراشي	wextaan tiraashée	hair-cutting, hairdressing		n. f.																													
+1738718271755	وېښتان تراشګر	wextaan tiraashgár	hairdresser, barber		n. m. anim. unisex																													
+1738718427183	غژهار	ghajzháar	static sound (radio hiss)		n. m.																													
+1738718797130	پسی	pusáy	vitiligo		n. m.																													
