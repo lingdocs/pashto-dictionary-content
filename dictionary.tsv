@@ -559,6 +559,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815079	فاري	faarée	subsidiary, sub--, secondary, minor	2	adj.																													2
 1527814523	فارغ	faarígh	free, finished from something, liberated, graduated; graduate (a person)	4	adj. / n.m. anim. unisex																													3
 1527816706	فاسد	faasíd	corrupt, immorral, polluted	2	adj.																													2
+1739878710771	فاسدول	faasidawúl	to corrupt	2	v. stat. comp. trans.	1527816706	corrupt																											
+1739878714233	فاسدېدل	faasidedúl	to be corrupted	2	v. stat. comp. intrans.	1527816706	corrupt																											
 1568411627277	فاضل	faazíl	learned, educated	2	adj.									فضلا	fUzaláa																			2
 1584518804345	فهیم	fahéem	wise, knowing, intelligent	4	adj.																													2
 1527822409	فخري	fakhrée	honorary, honourable	3	adj.																													2
@@ -2908,7 +2910,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819831	ممکن	mUmkín	possible; possibility	3	adj. / n. m.									ممکنات	mUmkináat																			3
 1527821650	منحرف	mUnharíf	deviated, distracted, diverted, mislead, bent, distorted, corrupted, unhealthy, perverted; trapezium (geom.)	4	adj. / n. m.																													3
 1661534809167	منسجم	mUnsajám	coordinate, consistent	2	adj. / n. m.																													3
-1527822227	مروج	mUrawwáj, mUrawwíj, mUrawáj	widespread, usual, common, in vogue; spreading, promoting	3	adj. / n. m.																													3
+1527822227	مروج	mUrawwáj, mUrawwíj, mUrawáj	widespread, usual, common, in vogue, current, customary; spreading, promoting	3	adj. / n. m.																													3
+1739879595996	مروجول	mUrawajawúl	to make widespread, common, customary		v. stat. comp. trans.	1527822227	make	widespread																										
+1739879598434	مروجېدل	mUrawajedúl	to become widespread, common, customary		v. stat. comp. intrans.	1527822227	become	widespread																										
 1571526777991	مشاهد	mUshaahíd	observer, observant, watcher, witness	4	adj. / n. m. anim. unisex.																													3
 1527817152	مشترک	mUshtarák	common, shared; partner, participator	4	adj. / n. m. anim. unisex									مشترکین	mUshtarakéen																			3
 1527812003	مصلح	mUslih	reconciling, peace-loving, improving; correcter, peace-maker, reformer	4	adj. / n. m. anim. unisex									مصلحین	mUslihéen																			
@@ -2951,7 +2955,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820994	وهمي	wahmée	imaginary, mock, hypothetical, concoction; paranoid, worry-wart, hypochondriac	4	adj. / n. m.																													3
 1573149703220	وسله وال	wasla wáal	armed (person, fighter)	4	adj. / n. m. anim. unisex																													2
 1527815493	وسلوال	waslawaal	armed, fighter	4	adj. / n. m. anim. unisex																													2
-1527815130	وچ	wuch, wUch	dry, land, ground, arid	4	adj. / n. m.																													3
+1527815130	وچ	wuch, wUch	dry, land, ground, arid; skinny	4	adj. / n. m.																													3
 1527821801	ښکېل	xkel	involved, implicated, caught; hobble	4	adj. / n. m.																													3
 1574808545774	ضابط	zaabít	orderly, self-controlled; leader, ruler, officer	4	adj. / n. m.																													3
 1714811695968	ظاهر	zaahír	revealed, evident, obvious, apparent; external, surface		adj. / n. m.									ظواهر	zawaahír																			3
@@ -5264,6 +5268,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820096	لوا	liwáa, lawáa	brigade, squad, troop	3	n. f.																													2
 1527818474	لمانځه	lmaandza	millwheel axle	4	n. f.																													
 1675436093800	لمانځنه	lmaandzúna	celebration		n. f.																													2
+1739878302146	نمانځنه	nmaandzúna	celebration		n. f.																													
 1527814019	لمر تندره	lmar tandra, lmar tandúra	solar eclipse; annihilation, destruciton, completion, termination	2	n. f.																													2
 1527815625	لمر څریکه	lmar tsréeka	rising of the sun, sunrise	4	n. f.																													2
 1527816250	لمسۍ	lmasúy, lamsúy	granddaughter	3	n. f. anim.																													2
@@ -6120,6 +6125,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1619278755267	ربړنه	rabaRúna	troubling, pestering	4	n. f.																													2
 1586363138557	ربیع	rabee', rabi'a	spring, spring harvest (Arabic)	2	n. f.																													2
 1527811246	رفع	ráfa	discontinuance, elimination, getting rid of	3	n. f.																													2
+1739878130323	رفع کول	rafa kawúl	to get rid of, eliminate, discontinue		v. stat. comp. trans.	1527811246	get,gets,getting,got,gotten	rid of																										
+1739878134512	رفع کېدل	rafa kedúl	to be eliminated, go away, be discontinued		v. stat. comp. intrans.	1527811246	go	away																										
 1527811582	رغا	ragháa	sewing, needlework, embroidery; medical treatment	2	n. f.																													2
 1527815217	رغاونه	raghaawúna	genesis, construction, development	3	n. f.																													2
 1527811583	رغونه	raghawúna	mending, sewing, repairing, healing, repair, construction	3	n. f.																													2
@@ -7709,7 +7716,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527821669	بڅرکی	batsúrkay	spark, speck, flicker (د واورې بڅرکي - snowflakes)	4	n. m.																													2
 1527814259	بیان	bayáan	description, statement, speaking, narration, sermon	4	n. m.									بیانات	bayaanaat																			3
 1527812487	بزار	bazáar	bazar, market	3	n. m.																													2
-1527814460	بزګر	bazgár	farmer, peasant	4	n. m.																													2
+1527814460	بزګر	bazgár	farmer, peasant	4	n. m. anim. unisex																													2
 1566648471322	بزم	bazm, bázum	celebration, banquet, feast, holiday, party, banquet	4	n. m.																													2
 1527821676	بې مغزه	be mághza, be maghzú	stupid, insubstantial, emasculated	4	n. m.																													2
 1527821961	بې نزاکت	be nizaakát	impoliteness, rudeness, lack of delicacy	2	n. m.																													2
@@ -9841,7 +9848,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1611063404297	مجمر	majmár	censer, brazier (for burning incense)	4	n. m.																													2
 1527821678	مجنون	majnóon	madman, lunatic, fool	4	n. m.																													2
 1584690268041	مجوس	majóos	magus, one of the magi	4	n. m.																													2
-1527820684	مکان	makáan	place, dwelling; toilet	4	n. m.																													2
+1527820684	مکان	makáan	place, dwelling; toilet	4	n. m.									اماکن	amaakin																			2
 1527816637	مکړک	makaRúk, makRúk	lamb collar	2	n. m.																													2
 1527817106	مکېز	makéz, makéez	smile, flirting, coquetry	2	n. m.																													2
 1527818718	مخلوق	makhlóoq	created, created being (ie. human)	4	n. m. anim. unisex									مخلوقات	makhlooqáat																			3
@@ -10634,7 +10641,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1715967407339	پرېمان	premáan	placenta	4	n. m.																													3
 1527815635	پرېواته	prewaatú	fall, drop, setting, going down	3	n. m.																													2
 1527817523	پروګرام	prográam, porgráam	program	4	n. m.																													3
-1586956836972	پروړ	proR, paróoR	straw	3	n. m.																													2
+1586956836972	پروړ	proR, paróoR	straw	3	n. m. pl.																													2
 1527821047	پروستات	prostáat	prostate	4	n. m.																													2
 1584886234677	پروټین	proTéen	protein	4	n. m.																													2
 1527820339	پړک	pRuk	a string	4	n. m.																													3
@@ -15271,8 +15278,10 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818622	لېږدول	leGdawúl	to send out, dispatch, compell to move	3	v. trans.																													2
 1527818623	لېښول	lexawúl	see لېږدول to send,	2	v. trans.																													2
 1579105247459	لغړول	lghuRawúl	to roll along, rotate, knead, dry out	4	v. trans.																													2
-1527818475	لمانځل	lmaandzúl	to celebrate (a holiday or person), to esteem, to hold in high regard	4	v. trans.																													2
-1527818476	لمنځل	lmandzúl	to celebrate (a holiday or person), to esteem, to hold in high regard	4	v. trans.																	لمانځه	lmaandzu											
+1527818475	لمانځل	lmaandzúl	to celebrate (a holiday or person), to esteem, to hold in high regard	4	v. trans.		celebrate																											2
+1739878256316	نمانځل	nmaandzúl	to celebrate (a holiday or person), to esteem, to hold in high regard	4	v. trans.		celebrate																											
+1527818476	لمنځل	lmandzúl	to celebrate (a holiday or person), to esteem, to hold in high regard	4	v. trans.		celebrate															لمانځه	lmaandzu											
+1739878279026	نمنځل	nmandzúl	to celebrate (a holiday or person), to esteem, to hold in high regard	4	v. trans.		celebrate																											
 1527815545	لوبول	lobawúl	to play (a game/sport/role), to play (an instument), beat (a drum)	4	v. trans.																													2
 1610796386886	لوبول	lobawúl	to play (game / sport), act	4	v. trans.																													2
 1579108010334	لوستل	lostul	to throw, pour, scatter, sprinkle	1	v. trans.													لون	loon															
@@ -18597,3 +18606,22 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1739796301756	تیوري	tee`orée	theory		n. f.																													
 1739796350265	ګړ	gaR	sound		n. m.																													
 1739798978750	الحاق	ilháaq	annexation, addition, adjunction, attachment, affiliation		n. m.																													
+1739877373651	د ممپلیو مربا	du mumplúyo mUrabáa	peanut butter		n. f.																													
+1739877706534	فرعون	fir'áwn	Pharaoh		n. m. anim.																													
+1739877746127	فرعوني	fir'awnée	Pharaonic; evil, brutal		adj.																													
+1739877928472	منځلاری	mandzláaray	moderate		n. m. anim. unisex / adj.																													
+1739878024063	لوی درستیز	looy drastéez	chief-of-staff																															
+1739878030479	ستر درستیز	stur drastéez	chief-of-staff																															
+1739878073391	ټولګډونی	TolguDóonay	all inclusive		adj.																													
+1739878344739	خامي	khaamée	unripeness, immaturity, lack of experience		n. f.																													
+1739879155604	ساتندوی	saatundóoy	protective		adj. / prefix.																													
+1739879192094	جېکټ	jekúT	jacket		n. m.																													
+1739879217405	ځنډمن	dzanDmán	delayed		adj.																													
+1739879220238	ځنډمند	dzanDmánd	delayed		adj.																													
+1739879397170	فقدان	fUqdáan	deficiency, lack, absence		n. m.																													
+1739879459938	خوله ور	khoola war	elequent, good talker		adj.																													
+1739880007549	سپانده	spáanda	wild rue		n. f.																													
+1739880161248	موندېدل	moondedúl	to be found		v. intrans.																													
+1739880294850	زیږوالی	zeeGwáalay	hardness, firmness, toughness		n. m.																													
+1739880297733	پوستوالی	postwáalay	softness, tenderness		n. m.																													
+1739897728969	منونکی	manóonkay	thankful, accepting		adj. / n. m. anim. unisex																													
