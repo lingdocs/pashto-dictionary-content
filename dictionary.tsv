@@ -196,6 +196,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814187	بدنام	badnáam	defamed, scandalous, having a bad name or reputation, notorious	4	adj.																													3
 1527814195	بدنامه	badnáama	defamed, scandalous, having a bad name or reputation, notorious	4	adj.																													2
 1527811241	بدتر	badtár	really bad, awful, worse	4	adj.																													3
+1740130294656	بدترول	badtarawúl	to worsen, make really bad		v. stat. comp. trans.	1527811241	worsen																											
+1740130296466	بدترېدل	badtaredúl	to be wosened, get really bad		v. stat. comp. intrans.	1527811241	be	worsened																										
 1527818795	بدوربزی	badwarbzáy, badorabzáy	unsightly, ugly, grumbler, grumpy	4	adj.																													2
 1527821305	بهادر	bahaadúr	brave, valiant, courageous	4	adj.																													3
 1619592561763	بهاند	baháand	flowing, running	3	adj.																													2
@@ -1495,7 +1497,9 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1664794704299	مندری	mUnduráy, mundráy	short, squat (adj.); scrubby, clip-eared	4	adj.																													3
 1527822186	منفک	mUnfák, munfák	separated, dismissed (from service)	4	adj.																													3
 1579043013113	منفصل	mUnfasíl, mUnfasál	seperate, divided, independant; resigned, fired (from a job)	2	adj.																													3
-1622874967937	منحل	mUnhál, mUnháll	disolved, disbanded	4	adj.																													3
+1622874967937	منحل	mUnhál, mUnháll	dissolved, disbanded	4	adj.																													3
+1740130457742	منحلول	mUnhalawúl	to dissolve, disband		v. stat. comp. trans.	1622874967937																												
+1740130460871	منحلېدل	mUnhaledúl	to be dissolved, disbanded		v. stat. comp. intrans.	1622874967937																												
 1527821983	منحصر	mUnhasír	restricted, confined, exclusive	3	adj.																													1
 1527814771	منجمد	mUnjamíd	frozen, congealed, hardened, solidified	4	adj.																													3
 1527821188	منقبض	mUnqabíz	contracted, shrunk, constipated	3	adj.																													3
@@ -3846,7 +3850,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816590	بسنه	basúna	sufficiency, to have enough or get by	3	n. f.																													2
 1594908629506	بطحه	bathá, batá	duck	0	n. f. anim.																												true	2
 1586634412756	بطه	báta, batá	duck	4	n. f.																													2
-1527822192	بټۍ	baTúy	stove, oven, furnace	4	n. f.																													2
+1527822192	بټۍ	baTúy	stove, oven, furnace; place they sell bread	4	n. f.																													2
 1566476931206	بتۍ	batúy	lamp, light	4	n. f.																													2
 1527816261	بټوه	baTwá	wallet, purse	4	n. f.																													1
 1590053924393	بورا	bawráa, boráa	moth, butterfly, bumblebee; basement, cellar	3	n. f.																													2
@@ -7850,7 +7854,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1574786151608	چندڼ	chandáN	sandlewood (چندړ)	4	n. m.																													2
 1574786136242	چندړ	chandáR	sandlewood	4	n. m.																													2
 1527822808	چنی	chanáy	basin, bowl	3	n. m.																													2
-1646131778437	چنګ	chang	paw, hand, hand with fingers spead open; cupped hand, handful, hook	4	n. m.																													2
+1646131778437	چنګ	chang, chung	paw, hand, hand with fingers spead open; cupped hand, handful, hook; jew's harp, harp, lute	4	n. m.																													2
 1527819052	چنګک	changák	hook, grappling hook; tweezer; fishing rod and hook	4	n. m.																													2
 1585476174084	چڼکاو	chaNkáaw	sprinkling, spraying	3	n. m.																													2
 1527820624	چپاو	chapáaw	raid, foray; attack, invasion; plunder; haste	4	n. m.																													2
@@ -8202,6 +8206,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819035	عیسویت	eesawiyát	Christianity, Christendom	4	n. m.																													2
 1702845385774	عیسوي	eesawée	Christian	4	n. m. anim. unisex / adj.																													3
 1594813993142	ایتلاف	eetiláaf	coalition, bloc, alliance (ائتلاف)	4	n. m.	1594814015427																												2
+1740130117491	ایتلافي	eetilaafée	coalition (adj.), allied		adj.																													
 1527814883	فال	faal	fortune telling, divination	4	n. m.																													2
 1527813776	فعالیت	faaliyát	activity	4	n. m.																													2
 1527812603	فامیل	faaméel	family	4	n. m.																													2
@@ -8711,7 +8716,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527817954	اعتبار	i'tibáar	trust, reliability, credibility	4	n. m.																													3
 1527817747	اعتدال	i'tidáal	moderation, temperance	4	n. m.																													2
 1527823388	اعتکاف	i'tikáaf	the practice of staying in a mosque (for men) or in a special place in the house (for women) and devoting oneself to prayer and worship	4	n. m.																													2
-1594814015427	ائتلاف	i'tiláaf, eetiláaf	coalition, bloc	4	n. m.																													2
+1594814015427	ائتلاف	i'tiláaf, eetiláaf	coalition, bloc, alliance	4	n. m.																													2
+1740130192851	ائتلافي	i'tilaafée, eetilaafee	coalition (adj.), allied	4	adj.																													
 1527819428	اعتقاد	i'tiqáad	faith, confidence, trust; belief	3	n. m.									اعتقادات	i'tiqaadaat																			2
 1527820880	اعتراف	i'tiráaf	confession, admission, acknowledgement	4	n. m.									اعترافات	i'tiraafaat																			2
 1527821370	اعتیاد	i'tiyáad	habit	3	n. m.																													2
@@ -10872,7 +10878,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814554	رشوت	rishwát, rushwát	bribe, bribes, bribery, corruption	4	n. m.																													3
 1707683945085	رشوت ورکول	rishwát warkawúl	to bribe, to give a bribe	4	v. dyn. comp. trans.	1527814554	bribe																											3
 1707684774922	رشوت اخیستل	rishwát akheestúl	to take a bribe	4	v. dyn. comp. trans.	1527814554	take	a bribe																										3
-1527813798	روایت	riwaayát, rawaayát	narritive, tradition, story	3	n. m.																													2
+1527813798	روایت	riwaayát, rawaayát	narrative, tradition, story	3	n. m.																													2
 1527813750	ریاست	riyaasát	presidency, state	4	n. m.																													3
 1527814745	ریاض	riyáaz	math, mathematics	3	n. m.																													2
 1527820811	رضاکار	rizaakáar	volunteer; amateur (in art); a fancier	3	n. m.																													2
@@ -11487,12 +11493,12 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527819436	تاریخپوه	taareekhpóh	historian, expert on history	4	n. m. anim. unisex																													2
 1658765180427	تارومار	taaromáar	route, military defeat	2	n. m.																													2
 1527820518	طاس	taas	bowl, deep dish; basin (geography), corolla (botany)	2	n. m.																													2
-1527814575	تاثیر	taaséer	affect, influence, impression	4	n. m.																													3
+1527814575	تاثیر	taaséer	affect, influence, impression	4	n. m.									تاثیرات	taaseeráat																			3
 1702633778263	تاثیر کول	taaséer kawúl	to affect, have influnce on, make an impression	4	v. dyn. comp. trans.	1527814575																												3
 1527820877	تاسیس	taasées	foundation, institution, organization	4	n. m.																													2
 1588159405635	تاش	taash	card game	4	n. m.																													3
 1586262310436	تاسف	taassUf, taasíf	regret, sorrow, sadness (تأسف سره وايم -- “I hate to say it”)	4	n. m.																													2
-1527817754	تاثر	taasÚr, taasír	effect, impressions, grief, sorrow	4	n. m.																													2
+1527817754	تاثر	taasÚr, taasír	effect, impressions, grief, sorrow	4	n. m.									تاثرات	taasUráat																			2
 1527821641	ټاټوبی	TaaTóbay	abode, dwelling place, home-town	4	n. m.																													2
 1573658486768	ټاټوالی	TaaTwáalay	incline, curvature, bend	2	n. m.																													2
 1527815322	تاو	taaw	heat, temperature, steam	4	n. m.																													3
@@ -11777,7 +11783,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527816220	تطبیق	tatbéeq	observation; application, use, fulfillment; adaptation, matching, adjustment, accomodation; harmony, collation	3	n. m.																													2
 1527820247	ټټو	TaTóo	pack-horse, pony, nag	4	n. m. anim.																													2
 1527814637	طواف	tawáaf	ritual procession or circling around the Kabba in the Haj in Islam	4	n. m.																													2
-1527813256	توافق	tawaafÚq	agreement, unanimity	4	n. m.																													2
+1527813256	توافق	tawaafÚq	agreement, unanimity	4	n. m.									توافقات	tawaafUqáat																			2
 1527813608	توان	tawáan	power, might, strength, ability	4	n. m.																													2
 1527816931	توازن	tawaazÚn	equilibrium, balance, stability	4	n. m.																													2
 1527816821	توکل	tawakkÚl, tawakúl	hope, expectation	4	n. m.																													2
@@ -12307,7 +12313,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820116	زنداني	zindaanée	imprisoned, prisoner	4	n. m. anim. unisex																													2
 1527815447	زراعت	ziraa'át, ziráat	agriculture, farming	3	n. m.																													3
 1527819177	زیان	ziyáan, zyaan	damage, loss, harm; detriment; miscarriage	4	n. m.																													3
-1527812258	زیارت	ziyaarát	visit to holy place or shrine, pilgrimage; visit; holy place or shrine; Thursday (Urdu);	4	n. m.																													3
+1527812258	زیارت	ziyaarát	visit to holy place or shrine, pilgrimage; visit; holy place or shrine; Thursday	4	n. m.																													3
 1527814681	زمېری	zmeray	security guard	2	n. m. anim. unisex																													
 1578319495179	زو	zo	dimintutive form of زوی (son)	4																														2
 1527817979	زول	zol, zool	yarrow, milfoil (plant)	3	n. m.																													2
@@ -14043,7 +14049,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1574785513621	اوترېدل	awtaredúl	to be frightened, alarmed, distressed	4	v. stat. comp. intrans.	1574785481606																												2
 1595256740998	عیانېدل	ayaanedúl, iyaanedúl	to appear, to make an appearance	4	v. stat. comp. intrans.	1595256707217																											TRUE	2
 1527812365	بابېدل	baabedúl	to be spread around, disseminated, to become widespread or accepted as usual	4	v. stat. comp. intrans.	1527812367																												2
-1576619767969	بادېدل	baadedúl	to be blown, to flow out	4	v. stat. comp. intrans.	1527816345																												
+1576619767969	بادېدل	baadedúl	to be blown, to flow out, splash	4	v. stat. comp. intrans.	1527816345																												
 1527821888	باطلېدل	baatiledúl	to be annulled, revoked, made invalid, made useless	4	v. stat. comp. intrans.	1527821886																												2
 1527811238	بدېدل	badedúl	to get worse, to spoil	4	v. stat. comp. intrans.	1527812511																												2
 1574869834847	بڼیا کېدل	baNyaa kedúl	to be opened slightly, to be opened just a crack, to be half-opened	2	v. stat. comp. intrans.	1574869800917																												2
@@ -18625,3 +18631,31 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1739880294850	زیږوالی	zeeGwáalay	hardness, firmness, toughness		n. m.																													
 1739880297733	پوستوالی	postwáalay	softness, tenderness		n. m.																													
 1739897728969	منونکی	manóonkay	thankful, accepting		adj. / n. m. anim. unisex																													
+1740129887626	موزه	mozá	boot		n. f.																													
+1740129932529	شګوفه	shigoofá	bud, blossom; something humorous or wonderful; white lie		n. f.																													
+1740130578902	داره یي	daara yée	wealth, riches, abundance		n. f.																													
+1740130687633	نامصون	naamas'óon	unsafe, unprotected		adj.																												TRUE	
+1740130866490	اروا ښاد	arwaa xaad	late (a term of respect and blessing used before the name of a dead person)																															
+1740131093656	سنا	sanáa	senate		n. f.																													
+1740131119761	سنا مجلس	sanáa majlís	senate		n. m.																													
+1740131179054	ځمکه اماده کول	dzmúka amaadá kawúl	to dig, cultivate																															
+1740131341305	نزاکتاً	nizaatkatán	out of politeness, by courtesy		adv.																												TRUE	
+1740131654448	استثمار	istismáar	exploitation		n. m.																													
+1740131714633	استثمارول	istismaarawúl	to exploit		v. stat. comp. trans.	1740131654448	exploit																											
+1740131721421	استثمارېدل	istismaaredúl	to be exploited		v. stat. comp. intrans.	1740131654448	be	exploited																										
+1740131860069	تبۍ	tabúy	heating plate, griddle		n. f.																													
+1740131942083	غټکی	ghuTkáy	prone to getting fat		n. m. anim. unisex																													
+1740132049909	احتیاط کار	ihtiyaat kaar	cautious, prudent		adj.																													
+1740134953588	ربع	rÚb'a	quarter		n. f.																													
+1740135041386	ژړېدل	jzaRedúl	to cry (intrans. version of ژړل)		v. intrans.																													
+1740135175625	ټولنیزه رسنۍ	Tolaneeza rasanúy	social media																															
+1740135286003	څمڅلکی	tsamtsalákay	dragonfly		n. m. anim.																													
+1740135343157	کمپلۍ	kamplúy	butterfly (also dragonfly?)		n. f. anim.																													
+1740135434397	عجول	ajóol	hasty, rushed, quick		adj.																													
+1740135462084	عجولي	ajoolée	hastiness, rush, quickness		n. f.																													
+1740135478524	عجولانه	ajoolaana	hastily, in a rush, quickly		adv.																													
+1740135517750	انسولین	insooléen	insulin																															
+1740135859305	د سیند غاړه	du seend gháaRa	riverside, riverbank		n. f.																													
+1740136099673	مئیلس	maylís	a musical program in a village / hujra		n. m.																													
+1740136150723	مصره	misrá	a line of poetry		n. f.																													
+1740136262489	ګل	gUl	Monday		n. m.																													
