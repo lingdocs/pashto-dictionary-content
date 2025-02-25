@@ -5489,7 +5489,8 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1592390379981	میراته	meeraatá	inheritance (موروث)	4	n. f.	1592390296285																												
 1566471086836	میرخانۍ	meerkhaanúy	a large turban	2	n. f.																													2
 1527822561	مېږکۍ	meGakuy	anteater	2	n. f.																													
-1527812907	مېله	melá	picnic, feast, celebration	4	n. f.																													3
+1527812907	مېله	melá	picnic, (outdoor) feast, celebration, open market	4	n. f.																													3
+1740384270453	مېله کول	melá kawúl	to picnic, have a gathering		v. dyn. comp. trans.	1527812907	picnic																											
 1527822881	مېلمه پالنه	melma paalúna	hospitality	4	n. f.																													2
 1527812910	مېلمستیا	melmastyáa	hospitality; invitation, event, party, banquet, reception	4	n. f.																													3
 1527816973	مېنه	mena	homeland, motherland, fatherland, country, region, residence, place of dwelling, encampment	4	n. f.																													
@@ -7187,7 +7188,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815163	پیشو	peeshó	cat	4	n. f. anim.																													1
 1582336959996	پېله	pelá	silkworm	2	n. f. anim.																													2
 1582335440542	سپږۍ	spuGúy	aphid, plant louse	3	n. f. anim.																													
-1527816397	ترور	tror	aunt	4	n. f. anim. fam.											تریندې	traynde																	3
+1527816397	ترور	tror	aunt (paternal - father's side)	4	n. f. anim. fam.											تریندې	traynde																	3
 1527816485	یور	yor	wife of husbands brother, wife of brother-in-law	4	n. f. anim. fam.											یوڼې	yóoNe																	2
 1527816424	بي بي	bee bée	lady, princess, elder, grandmother	4	n. f. anim. / suff.																													2
 1527813236	هلي ځلي	halee dzalee	effort, efforts, working, labouring, uneasiness, worry	4	n. f. doub.																													2
@@ -14657,7 +14658,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527818929	ادراک کول	idraak kawúl	to comprehend, understand, perceive, feel	4	v. stat. comp. trans.	1527818928																												2
 1527822459	افاده کول	ifaada kawúl	to express, communicate	3	v. stat. comp. trans.	1527822458																												2
 1610538889940	اغوا کول	ighwaa kawúl	to tempt, seduce, bribe, deceive	4	v. stat. comp. trans.	1610538741714																												2
-1584691109770	احاطه کول	ihaata kawúl	to surround, encircle, enclose	2	v. stat. comp. trans.	1584691050578																												2
+1584691109770	احاطه کول	ihaata kawúl	to surround, encircle, enclose, marinate	2	v. stat. comp. trans.	1584691050578																												2
 1577221788846	احضارول	ihzaarawúl	to train (canditates), to summon (to court), to call (into the army), to recall (a diplomat)	2	v. stat. comp. trans.	1527822478																												2
 1527812691	اجرا کول	ijraa kawúl	to do, perform, execute	4	v. stat. comp. trans.	1527815081																												2
 1577222388549	اختطاف کول	ikhtitaaf kawúl	to kidnap, abduct	4	v. stat. comp. trans.	1577222383506																												2
@@ -18659,3 +18660,23 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1740136099673	مئیلس	maylís	a musical program in a village / hujra		n. m.																													
 1740136150723	مصره	misrá	a line of poetry		n. f.																													
 1740136262489	ګل	gUl	Monday		n. m.																													
+1740383413488	دماکه	damaaká	explosion, blast (from Urdu)		n. f.																													
+1740383580072	سورنا	soornáa	oboe, wind instrument, trumpet		n. f.																													
+1740383582199	سرنی	sUrnáy	oboe, wind instrument, trumpet (سرنا)		n. m.																													
+1740383826621	اتیږه	ateeGá	octopus		n. f. anim.																													
+1740383893120	پودینه	poodeená	mint		n. f.																													
+1740383962507	فنا کېدونکی	fanaa kedóonkay	mortal, perishable (with people etc.), passing away		adj.																													
+1740383999722	نه فنا کېدونکی	na fanaa kedóonkay	immortal, imperishable (with people etc.)		adj.																													
+1740384104356	نیلوفر	neelofár	water lilly		n. m.																													
+1740384197933	اړو دوړ	aRoo doR	commotion, riot, turbulence		n. m.																													
+1740396073521	هبا	habáa	inheritance, legacy, heritage		n. f.																													
+1740396203140	پوپنا	poopanáa	destroyed, annihilated		adj.																													
+1740396225141	پوپنا کول	poopanaa kawúl	to destroy, annihilate		v. stat. comp. trans.	1740396203140	destroy																											
+1740396228300	پوپنا کېدل	poopanaa kedúl	to be destroyed, annihilated		v. stat. comp. intrans.	1740396203140	be	destroyed																										
+1740396349976	نظیر	nazéer	equal, similar, level		adj.																													
+1740396397595	بې نظیره	be nazéera	one of a kind, without equal		adj.																													
+1740396562373	امارت	amaarát	emirate, amirate											امارات	amaaráat																			
+1740396701252	شورو	shooroo	Wednesday																															
+1740396738752	نهي	nahee	prohibition, forbidding; Tuesday																															
+1740396823682	خالي	khaalée	Saturday																															
+1740396874711	ګانده	gaanda	tomorrow, future																															
