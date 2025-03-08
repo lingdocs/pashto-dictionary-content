@@ -13659,7 +13659,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1605360069366	زانګل	zaangúl	to swing, rock (back and forth)	4	v. gramm. trans.																													2
 1527811538	ننوتل	nunawatúl	to go in, to enter, to take refuge	4	v. intans.													ننوځ	nuna‍‍`óodz	ننووځ	nunawÚ`oodz			ننوتل	núnawatul								TRUE	3
 1664024945143	اورېدل	oredúl	to rain (ورېدل	4	v. intrans		rain																											
-1527822843	برېښېدل	brexedúl	to appear, seem; to shine, sparkle; to smart, have a pricking pain	4	v. intrans.		appear																					true						2
+1527822843	برېښېدل	brexedúl	to appear, seem; to shine, sparkle; to smart, have a pricking pain	4	v. intrans.‌ opt. compl.		appear																					TRUE						2
 1527813573	رسېدل	rasedúl	arrive, reach; (fig.) understand, attain to; mature, ripen	4	v. intrans.		arrive																					TRUE						3
 1577921634357	ځنډېدل	dzanDedúl	to be delayed, postponed, held back, detained	3	v. intrans.		be	delayed																										2
 1578682066756	غوړېدل	ghwaRedúl	to be spread, extended, opened, unfolded; to fall with arms flailing; to blossom, to be set with mines (military)	3	v. intrans.		be	spread																										2
@@ -13668,7 +13668,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527811516	شلېدل	shledúl	to be torn, broken, rent, broken, severed	4	v. intrans.		be	torn																				TRUE						3
 1527823019	وېرېدل	weredúl	to be afraid, scared, to fear	4	v. intrans.		be	afraid																										3
 1527813710	زېږېدل	zeGedúl	to be born, to appear, arise	4	v. intrans.		be	born																										3
-1581086654898	کېدل	kedúl	to become _____	2	v. intrans.		become													ش	sh			شول	shwul	شوی	shúway		TRUE					3
+1581086654898	کېدل	kedúl	to become _____	2	v. intrans. w compl.		become													ش	sh			شول	shwul	شوی	shúway		TRUE					3
 1527811442	توانېدل	twaanedúl	become able, become strong or good enough to…	4	v. intrans.		become	able																										2
 1527813837	سوځېدل	swadzedúl	to burn	4	v. intrans.		burn,burns,burning,burnt,burned																					TRUE						3
 1527814025	ختل	khatúl	to climb, ascend, rise, go up; sprout, grow up; to fall out, to fall off, to leave/dissapear; to turn out to be ...; to give a sentence (in law)	3	v. intrans.		climb											خېژ	khejz			خوت	khot											3
@@ -13873,7 +13873,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1604511865938	زورېدل	zawredúl	to be distressed, grieved, oppressed, bothered	4	v. intrans.																													2
 1527815957	دمېدل	damedúl	to be stewed, braised, brewed	3	v. intrans. trans.	1527815953																												2
 1527822998	جوختېدل	jokhtedúl	to be alongside, to be adjoined, to press oneself against, to be a pair, mated	4	v. intrans. trans.	1527822998																												2
-1527814077	ښکارېدل	xkaaredúl	to become clear, evident, obvious; to appear, to seem	4	v. stat. comp. intrans.	1527812778	appear																					TRUE						1
+1527814077	ښکارېدل	xkaaredúl	to become clear, evident, obvious; to appear, to seem	4	v. stat. comp. intrans. opt. compl.	1527812778	appear																					TRUE						1
 1527819292	ویښېدل	weexedúl	to awaken, become alert, wake up	4	v. stat. comp. intrans.	1527817873	awaken,awakens,awakening,awoke,awoken																											2
 1577223176187	ادا کېدل	adaa kedúl	to be set forth, given, rendered (service), performed, fulfilled, expressed, said, done	4	v. stat. comp. intrans.	1527818029	be	set forth																										2
 1585475932743	عذابېدل	azaabedúl	to be tortured, tormented, punished, bothered, pained	3	v. stat. comp. intrans.	1527813786	be	tormented																										2
@@ -14224,7 +14224,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1579114485020	محرومېدل	mahroomedúl	to be deprived	4	v. stat. comp. intrans.	1527820796																												2
 1579114598947	محو کېدل	mahw kedúl, mahwa kedúl	to be destroyed, annihilated	3	v. stat. comp. intrans.	1527817756																												2
 1527814153	مل کېدل	mal kedúl	to accomany, escort	4	v. stat. comp. intrans.	1527814151																												2
-1527812887	معلومېدل	maloomedúl	to seem, appear, become clear	4	v. stat. comp. intrans.	1527814271																												2
+1527812887	معلومېدل	maloomedúl	to seem, appear, become clear	4	v. stat. comp. intrans. opt. compl.	1527814271																												2
 1527822070	مرورېدل	marawuredúl	to take offence, to be hurt, to resent, to have a grudge, to be sad	4	v. stat. comp. intrans.	1527822066																												2
 1589883778498	مربوطېدل	marbootedúl	to be joined, attached, connected	4	v. stat. comp. intrans.	1589883748532																												2
 1527816192	مسمومېدل	masmoomedúl	to be poisoned	4	v. stat. comp. intrans.	1527816190																												2
@@ -15100,7 +15100,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527815296	شمارل	shmaarúl	to count	4	v. trans.		count																											2
 1527815273	شمېرل	shmerúl	to count	4	v. trans.		count																											3
 1527819301	غولول	ghwulawúl	to deceive, cheat, fool	3	v. trans.		deceive																											3
-1527816092	بلل	balúl	to call, invite; to consider, deem	4	v. trans.		deem											بول	bol			باله	baalu											3
+1527816092	بلل	balúl	to call, invite; to consider, deem	4	v. trans. opt. compl.		deem											بول	bol			باله	baalu											3
 1527812000	ګڼل	gaNúl, guNúl	to count, consider, reckon, suppose, assume	4	v. trans.		deem															ګاڼه	gaaNu											3
 1527813572	رسول	rasawúl	to deliver, to make arrive, provide, send, supply, bring to,	4	v. trans.		deliver																											3
 1527819378	کندل	kandúl, kindúl	to dig	4	v. trans.		dig,digs,digging,dug,dug															کانده	kaandu											2
@@ -15120,7 +15120,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527813914	ورکول	warkawúl	to give (to him/her/it - towards third person)	4	v. trans.		give,gives,giving,gave,given																			ورکړی	warkúRay							3
 1527818537	ځړول	dzaRawúl	to hang, to suspend, to lower down, to let down	3	v. trans.		hang,hangs,hanging,hung,hung																											2
 1527815399	وهل	wahúl	to hit, strike	4	v. trans.		hit,hits,hitting,hit,hit															واهه	waahu											3
-1527815240	ساتل	saatúl	to keep, protect, watch over; to hold	4	v. trans.		keep,keeps,keeping,kept,kept																											3
+1527815240	ساتل	saatúl	to keep, protect, watch over; to hold	4	v. trans. opt. compl.		keep,keeps,keeping,kept,kept																											3
 1527816494	تښتول	tuxtawúl	to drive off, steal, hijack, abduct, kidnap	4	v. trans.		kidnap,kidnaps,kidnapping,kidnapped,kidnapped																											3
 1527814862	وژل	wajzúl	to kill, slaughter	4	v. trans.		kill											وژن	wajzn			واژه	waajzu											2
 1527821498	ټکول	Takawúl	to knock, pound, crush, grind, hammer	4	v. trans.		knock																											3
@@ -15128,7 +15128,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527820150	غږول	ghuGawúl, ghaGawúl	to make a sound, pronounce, to sing, to play (an instrument), to resound; to make someone talk, to get information	4	v. trans.		make	talk																										
 1577394422280	پوهول	pohawúl	to explain, to try to make understand (emphasizing the action of explaining)	4	v. trans.		make	understand																										3
 1527816125	الوزول	alwuzawúl, aloozawúl	to make fly, to toss, to release (birds); to blow up	4	v. trans.		make,makes,making,made,made	fly																										2
-1579015359582	کول	kawúl	to make ____ ____ (as in "He's making me angry.")	4	v. trans.		make,makes,making,made,made													کړ	kR			کړل	kRul	کړی	kúRay		TRUE					3
+1579015359582	کول	kawúl	to make ____ ____ (as in "He's making me angry.")	4	v. trans. w compl.		make,makes,making,made,made													کړ	kR			کړل	kRul	کړی	kúRay		TRUE					3
 1527817622	غړول	ghaRawúl	to open or roll (the eyes)	4	v. trans.		open															غښت	ghuxt											2
 1577389204616	پرانیستل	praaneestúl	to open; to undo; to initiate	4	v. trans.		open											پرانیز	praaneez										TRUE		3	4		3
 1527813046	ځنډول	dzanDawúl	to delay, to postpone, to hold back, to detain	3	v. trans.		postpone																											2
@@ -15347,11 +15347,11 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1527814647	پرولل	prolúl	to sell, to market	4	v. trans.																													2
 1670564643525	پړکول	pRukawúl, puRkawúl	to disturb, pull away, shake, tug; to clap (لاسونه پړکول)		v. trans.																													2
 1527821664	پسولول	psolawúl	to adorn, embellish, ornament, beautify	2	v. trans.																													2
-1527814193	په دو اچول	pu daw achawul	to throw in as a bet, to wager, to give over, to throw in your chips	4	v. trans.																													2
-1527822431	په کار اچول	pu kaar achawul	to use, utilize	4	v. trans.																													
-1527820493	په کراهه اخیستل	pu kiraaha akheestúl	to rent, to hire	4	v. trans.																													2
-1527820495	په کراهه ورکول	pu kiraahá warkawúl	to rent out (to someone)	4	v. trans.																													2
-1527820494	په کرایه اخیستل	pu kiraaya akheestúl	to rent, to hire	4	v. trans.																													3
+1527814193	په دو اچول	pu daw achawul	to throw in as a bet, to wager, to give over, to throw in your chips	4																														2
+1527822431	په کار اچول	pu kaar achawul	to use, utilize	4																														
+1527820493	په کراهه اخیستل	pu kiraaha akheestúl	to rent, to hire	4																														2
+1527820495	په کراهه ورکول	pu kiraahá warkawúl	to rent out (to someone)	4																														2
+1527820494	په کرایه اخیستل	pu kiraaya akheestúl	to rent, to hire	4																														3
 1527820496	په کرایه ورکول	pu kiraaya warkawúl	to rent out (to someone)	4																														3
 1527813154	پخڼول	pukhNawul	to tickle	3	v. trans.																													
 1527820988	پخوړول	pukhoRawúl	to squeeze, compress, wring out, press out	3	v. trans.																													
