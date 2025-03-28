@@ -14370,7 +14370,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1586266563938	توقیفېدل	tawqeefedúl	to be arrested, delayed, held up	4	v. stat. comp. intrans.	1527813050																												2
 1585476316980	ټینګېدل	Teengedúl	to be hardened, fastened together, concentrated, strengthened, focussed on; to be insistent, press, be patient, resist	4	v. stat. comp. intrans.	1527811894																												2
 1527816990	ټېکېدل	Tekedúl	to settle, to take up residence	4	v. stat. comp. intrans.	1527816991																												2
-1527815343	تېرېدل	teredúl	to pass, go across, go by; to give up, to sacrifice (د خپل سر او مال نه تېرېدل - to give up one's life and fortune)	4	v. stat. comp. intrans.	1527813139																												3
+1527815343	تېرېدل	teredúl	to pass, go across, go by; to give up, to sacrifice (د خپل سر او مال نه تېرېدل - to give up one's life and fortune)	4	v. stat. comp. intrans.‌ opt. compl.	1527813139																												3
 1588973631773	تورنېدل	toranedul	to be accused	4	v. stat. comp. intrans.	1527813138																												
 1577923586052	څرګندېدل	tsargundedúl	to be made clear, revealed, disclosed, made apparent	4	v. stat. comp. intrans.	1527815370	become	clear																										2
 1605353571607	څیرېدل	tseeredúl	to be torn, split, cracked, burst, explode	4	v. stat. comp. intrans.	1527818450																												2
@@ -15255,7 +15255,7 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1588759017756	ژباړل	jzbaaRúl	to translate	3	v. trans.																													2
 1594131462786	ژدویل	jzdoyúl	to chew, masticate, think over, mull over (ژوول)	1	v. trans.	1527818852																												
 1527812719	ژغورل	jzghorúl	to rescue, save, salvage	3	v. trans.																													2
-1527821914	ژنل	jznúl	to rub, scrub, scrape, chafe, spin, wring	2	v. trans.																													2
+1527821914	ژنل	jznúl	to rub, scrub, scrape, chafe, spin, wring	2	v. trans.		rub,rubs,rubbing,rubbed																											2
 1527818852	ژوول	jzowúl	to chew, masticate, think over, mull over	3	v. trans.																													2
 1527823677	کاهل	kaahúl	to itch	2	v. trans.																	کاهه	kaahu											
 1664030595851	کاندل	kaandúl	another form of to make - کول	4	v. trans.																													2
@@ -18685,3 +18685,4 @@ ts	p	f	e	r	c	l	ec	ep	infap	infaf	infbp	infbf	noInf	app	apf	ppp	ppf	psp	psf	ssp	s
 1741155684717	چخڼی کېدل	chakhNay kedúl	to crush, trample		v. stat. comp. intrans.	1741155657390																												
 1742469067427	حقارت	haqaarát	contempt, humiliation, disdain		n. m.																													
 1742633467890	هیله مندي	heela mandée	hopefulness, optimism		n. f.																													
+1743052943055	ماهر طب	maahir-e-tib	medical expert, one skilled in medicines and treatments		n. m. anim. unisex																													
